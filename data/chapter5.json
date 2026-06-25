@@ -1,1 +1,1313 @@
-[]
+[
+  {
+    "id": 408,
+    "question": "The difference between the present value of an investment's future cash flows and its initial cost is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 409,
+    "question": "If a project is assigned a required rate of return of zero, then:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 410,
+    "question": "Which statement concerning the net present value (NPV) of an investment or a financing project is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "accepted.",
+      "E": "investment should be accepted. Answer: C Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 411,
+    "question": "All else constant, the net present value of a typical investment project increases when:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 412,
+    "question": "Proposed projects should be accepted when those projects:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 413,
+    "question": "If a project has a net present value equal to zero, then:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 414,
+    "question": "Net present value:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 415,
+    "question": "A project has an initial cost of $26,000, a discount rate of 11.7 percent, a life of 5 years, and an NPV of $11,216. Given this, you know that the project is expected to earn a return:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 416,
+    "question": "When a firm commences a positive net present value project, you know:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 417,
+    "question": "The net present value method of capital budgeting analysis does all of the following except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 418,
+    "question": "The payback method of analysis:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 419,
+    "question": "The payback method:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 420,
+    "question": "If a firm is more concerned about the quick return of its initial investment than it is about the amount of value created, then the firm is most apt to evaluate a capital project using the ________ method of analysis.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 421,
+    "question": "Payback is frequently used to analyze independent projects because:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 422,
+    "question": "One characteristic of the payback method of project analysis is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 423,
+    "question": "All else equal, the payback period for a project will decrease whenever the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 424,
+    "question": "The length of time required for an investment to generate cash flows sufficient to recover the initial cost of the investment is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 425,
+    "question": "An investment is acceptable if the payback period:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 426,
+    "question": "Which method(s) of project analysis is(are) best suited for use by a department manager who has no knowledge of time value of money but can estimate the cash flows of small projects with short lives fairly accurately?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 427,
+    "question": "The payback method:",
+    "options": {
+      "A": "payback period rule.",
+      "B": "fully depreciated.",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 428,
+    "question": "Which of the following methods of project analysis are biased towards short-term projects?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 429,
+    "question": "The length of time required for a project's discounted cash flows to equal the initial cost of the project is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 430,
+    "question": "The discounted payback period of a project will decrease whenever the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 431,
+    "question": "The discounted payback method:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 432,
+    "question": "The discounted payback rule may cause:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 433,
+    "question": "For investment projects, the internal rate of return (IRR):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 434,
+    "question": "The internal rate of return for a project will increase if:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 435,
+    "question": "You are considering an investment project with an internal rate of return of 8.7 percent, a net present value of $393, and a payback period of 2.44 years. Which one of the following is correct given this information?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 436,
+    "question": "The internal rate of return is:",
+    "options": {
+      "A": "projects.",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 437,
+    "question": "The internal rate of return tends to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 438,
+    "question": "The discount rate that makes the net present value of an investment exactly equal to zero is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 439,
+    "question": "Using the internal rate of return method, a conventional investment project should be accepted if the internal rate of return is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 440,
+    "question": "The internal rate of return for an investment project is best defined as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 441,
+    "question": "Which one of the following statements is true?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 442,
+    "question": "A financing project is acceptable if its internal rate of return is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 443,
+    "question": "The elements that cause problems with the use of the IRR in projects that are mutually exclusive are referred to as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 444,
+    "question": "Assume you use all available methods to evaluate projects. If there is a conflict in the indicated accept/reject decision between two mutually exclusive projects due to the IRR-based indicator, you should:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 445,
+    "question": "Project A is opening a bakery at 10 Center Street. Project B is opening a specialty coffee shop at the same address. Both projects have unconventional cash flows, that is, both projects have positive and negative cash flows that occur following the initial investment. When trying to decide which project to accept, given sufficient funding to accept either project, you should rely most heavily on the ________ method of analysis.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 446,
+    "question": "The possibility that more than one discount rate will make the NPV of an investment equal to zero presents the problem referred to as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 447,
+    "question": "A situation in which accepting one investment prevents the acceptance of another investment is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 448,
+    "question": "The modified internal rate of return:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Modified internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 449,
+    "question": "A mutually exclusive project is a project whose:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 450,
+    "question": "A project will have more than one IRR if, and only if, the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 451,
+    "question": "You are trying to determine whether to accept Project A or Project B. These projects are mutually exclusive. As part of your analysis, you should compute the incremental IRR by determining the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 452,
+    "question": "Comparing the NPV profile of an investment project to that of a financing project demonstrates why the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 453,
+    "question": "Blue Bird Café is considering a project with an initial cost of $46,800, and cash flows of $8,500, $25,000, $19,000, and −$4,500 for Years 1 to 4, respectively. How many internal rates of return do you expect this project to have?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 454,
+    "question": "Which one of the following is the best example of two mutually exclusive projects?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 455,
+    "question": "An investment with an initial cost of $4,000 produces cash flows of $3,400, −$500, $2,800, −$100, and $6,000 for Years 1 to 5, respectively. How many IRRs does this project have?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 456,
+    "question": "How should a profitability index of zero be interpreted?",
+    "options": {
+      "A": "cash flow).",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 457,
+    "question": "The profitability index:",
+    "options": {
+      "A": "rule.",
+      "B": "allocated.",
+      "C": "varying size.",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 458,
+    "question": "If you want to review a project from a benefit-cost perspective, you should use the ________ method of analysis.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 459,
+    "question": "The profitability index of an investment project is the ratio of the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 460,
+    "question": "An independent investment is acceptable if the profitability index (PI) of the investment is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 461,
+    "question": "No matter how many forms of investment analysis you employ:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 5.7 The Practice of Capital Budgeting Topic: Capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 462,
+    "question": "Why do managers suggest that ignoring all cash flows following the required payback period is not a major flaw of the payback method of capital budgeting analysis?",
+    "options": {
+      "A": "method in their studies.",
+      "B": "lessens the reliability of the resulting decision.",
+      "C": "override the payback rule.",
+      "D": "them has no consequence.",
+      "E": "accept/reject decision. Answer: C Difficulty: 1 Easy Section: 5.7 The Practice of Capital Budgeting Topic: Payback Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 463,
+    "question": "Graham and Harvey (2001) found that ________ were the two most popular capital budgeting methods.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 5.7 The Practice of Capital Budgeting Topic: Capital budgeting Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 464,
+    "question": "What is the net present value of a project with an initial cost of $36,900 and cash inflows of $13,400, $21,600, and $10,000 for Years 1 to 3, respectively? The discount rate is 13 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: NPV = −$36,900 + $13,400/1.13 + $21,600/1.132 + $10,000/1.133 NPV = −$1,195.12 Difficulty: 2 Medium Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$36,900 + $13,400/1.13 + $21,600/1.132 + $10,000/1.133",
+    "chapter": 5
+  },
+  {
+    "id": 465,
+    "question": "What is the net present value of a project that has an initial cash outflow of $7,670 and cash inflows of $1,280 in Year 1, $6,980 in Year 3, and $2,750 in Year 4? The discount rate is 12.5 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: NPV = −$7,670 + $1,280/1.125 + $6,980/1.1253 + $2,750/1.1254 NPV = $86.87 Difficulty: 2 Medium Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "NPV = −$7,670 + $1,280/1.125 + $6,980/1.1253 + $2,750/1.1254",
+    "chapter": 5
+  },
+  {
+    "id": 466,
+    "question": "A project costing $6,200 initially should produce cash inflows of $2,860 a year for three years. After the three years, the project will be shut down and will be sold at the end of Year 4 for an estimated net cash amount of $3,300. What is the net present value of this project if the required rate of return is 11.3 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: NPV = −$6,200 + $2,860[(1 - 1/1.1133)/.113] + $3,300/1.1134 NPV = $2,903.19 Difficulty: 2 Medium Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$6,200 + $2,860[(1 - 1/1.1133)/.113] + $3,300/1.1134",
+    "chapter": 5
+  },
+  {
+    "id": 467,
+    "question": "Wilson's Market is considering two mutually exclusive projects that will not be repeated. The required rate of return is 13.9 percent for Project A and 12.5 percent for Project B. Project A has an initial cost of $54,500, and should produce cash inflows of $16,400, $28,900, and $31,700 for Years 1 to 3, respectively. Project B has an initial cost of $69,400, and should produce cash inflows of $0, $48,300, and $42,100, for Years 1 to 3, respectively. Which project, or projects, if either, should be accepted and why?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: NPVA = −$54,500 + $16,400/1.139 + $28,900/1.1392 + $31,700/1.1393 NPVA= $3,628.27 NPVB = −$69,400 + $48,300/1.1252 + $42,100/1.1253 NPVB = −$1,668.86 Difficulty: 2 Medium Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "NPVA = −$54,500 + $16,400/1.139 + $28,900/1.1392 + $31,700/1.1393",
+    "chapter": 5
+  },
+  {
+    "id": 468,
+    "question": "You are considering two independent projects that have differing requirements. Project A has a required return of 12 percent compared to Project B's required return of 13.5 percent. Project A costs $75,000 and has cash flows of $21,000, $49,000, and $12,000 for Years 1 to 3, respectively. Project B has an initial cost of $70,000 and cash flows of $15,000, $18,000, and $41,000 for Years 1 to 3, respectively. Based on the NPV, you should:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPVA = −$75,000 + $21,000/1.12 + $49,000/1.122 + $12,000/1.123 NPVA = −$8,646.14 NPVB = −$70,000 + $15,000/1.135 + $18,000/1.1352 + $41,000/1.1353 NPVB = −$14,770.25 Difficulty: 2 Medium Section: 5.1 Why Use Net Present Value? Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "NPVA = −$75,000 + $21,000/1.12 + $49,000/1.122 + $12,000/1.123",
+    "chapter": 5
+  },
+  {
+    "id": 469,
+    "question": "A food cart costs $4,500 and is expected to return $1,750 a year for three years and then be worthless. What is the payback period for this cart?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: PB = $4,500/$1,750 PB = 2.57 years Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "PB = $4,500/$1,750",
+    "chapter": 5
+  },
+  {
+    "id": 470,
+    "question": "You are considering a project with an initial cost of $4,300. What is the payback period for this project if the cash inflows are $550, $970, $2,600, and $500 a year for Years 1 to 4, respectively?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PB = 3 + ($4,300 − 550 − 970 − 2,600)/$500 PB = 3.36 years Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "PB = 3 + ($4,300 − 550 − 970 − 2,600)/$500",
+    "chapter": 5
+  },
+  {
+    "id": 471,
+    "question": "A project has an initial cost of $2,250. The cash inflows are $0, $500, $900, and $700 for Years 1 to 4, respectively. What is the payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Total cash inflows = $500 + 900 + 700 Total cash inflows = $2,100 The project never pays back. Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Total cash inflows = $500 + 900 + 700",
+    "chapter": 5
+  },
+  {
+    "id": 472,
+    "question": "Jack is considering adding toys to his general store. He estimates the cost of toy inventory will be $4,200. The remodeling and shelving costs are estimated at $1,500. Toy sales are expected to produce net annual cash inflows of $1,200, $1,500, $1,600, and $1,750 over the next four years, respectively. Should Jack add toys to his merchandise if he requires a three-year payback period? Why or why not?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PB = ([$4,200 + 1,500) − $1,200 − 1,500 − 1,600]/$1,750 PB = 3.80 years Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "PB = ([$4,200 + 1,500) − $1,200 − 1,500 − 1,600]/$1,750",
+    "chapter": 5
+  },
+  {
+    "id": 473,
+    "question": "Consider an investment with an initial cost of $20,000 that expected to last for 5 years. The expected cash flows in Years 1 and 2 are $5,000 each, in Years 3 and 4 are $5,500 each, and the Year 5 cash flow is $1,000. Assume each annual cash flow is spread evenly over its respective year. What is the payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: PB = 3 + ($20,000 − 5,000 − 5,000 − 5,500)/$5,500 PB = 3.82 years Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "PB = 3 + ($20,000 − 5,000 − 5,000 − 5,500)/$5,500",
+    "chapter": 5
+  },
+  {
+    "id": 474,
+    "question": "A project costing $218,000 has equal annual cash inflows over its 7-year life. If the discounted payback period is seven years and the discount rate is zero percent, what is the amount of the cash flow in each of the seven years?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "flows totals $218,000.",
+      "D": "",
+      "E": "Answer: A Explanation: C = $218,000/7 C = $31,142.86 Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "C = $218,000/7",
+    "chapter": 5
+  },
+  {
+    "id": 475,
+    "question": "A project has an initial cost of $10,600 and produces cash inflows of $3,700, $4,900, and $2,500 for Years 1 to 3, respectively. What is the discounted payback period if the required rate of return is 7.5 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PV = $3,700/1.075 + $4,900/1.0752 + $2,500/1.0753 PV = $9,694.39 The project will never pay back on a discounted basis. Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "PV = $3,700/1.075 + $4,900/1.0752 + $2,500/1.0753",
+    "chapter": 5
+  },
+  {
+    "id": 476,
+    "question": "An investment project has an initial cost of $260 and cash flows $75, $105, $100, and $50 for Years 1 to 4, respectively. The cost of capital is 12 percent. What is the discounted payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Total discounted cash inflows = $75/1.12 + $105/1.122 + $100/1.123 + $50/1.124 Total discounted cash inflows = $253.62 The project never pays back on a discounted basis. Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Total discounted cash inflows = $75/1.12 + $105/1.122 + $100/1.123 + $50/1.124",
+    "chapter": 5
+  },
+  {
+    "id": 477,
+    "question": "An investment project has an initial cost of $382 and cash flows $105, $130, $150, and $150 for Years 1 to 4, respectively. The cost of capital is 9 percent. What is the discounted payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: DPB = 3 + ($382 - $105/1.09 + $130/1.092 + $150/1.093)/($150/1.094) DPB = 3.57 years Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "DPB = 3 + ($382 - $105/1.09 + $130/1.092 + $150/1.093)/($150/1.094)",
+    "chapter": 5
+  },
+  {
+    "id": 478,
+    "question": "Homer is considering a project with cash inflows of $950 a year for Years 1 to 4, respectively. The project has a required discount rate of 11 percent and an initial cost of $2,100. What is the discounted payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: DPB = 2 + ($2,100 − $950/1.11 − $950/1.112)/($950/1.113) DPB = 2.68 years Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "DPB = 2 + ($2,100 − $950/1.11 − $950/1.112)/($950/1.113)",
+    "chapter": 5
+  },
+  {
+    "id": 479,
+    "question": "Leslie is charged with determining which small projects should be funded. Along with this assignment, she has been granted the use of $15,000 for a maximum of two years on a discounted basis. She is considering three projects. Project A costs $7,500 and has cash flows of $4,000 a year for Years 1 to 3. Project B costs $8,000 and has cash flows of $3,000, $4,000, and $3,000 for Years 1 to 3, respectively. Project C costs $2,000 and has a cash inflow of $2,500 in Year 2. What decisions should she make regarding these projects if she assigns them a mandatory discount rate of 8.5 percent? Explain why.",
+    "options": {
+      "A": "financing",
+      "B": "payback that is less than two years",
+      "C": "periods that fit within the $15,000 allocation",
+      "D": "",
+      "E": "Answer: B Explanation: DPBA = 2 + ($7,500 − $4,000/1.085 − $4,000/1.0852)/($4,000/1.0853) DPBA = 2.13 years DPBB = 2 + ($8,000 − $3,000/1.085 − $4,000/1.0852)/($3,000/1.0853) DPBB = 2.78 years DPBC = 1 + $2,000/($2,500/1.0852) DPBC = 1.94 years Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "DPBA = 2 + ($7,500 − $4,000/1.085 − $4,000/1.0852)/($4,000/1.0853)",
+    "chapter": 5
+  },
+  {
+    "id": 480,
+    "question": "An investment with an initial cost of $15,000 produces cash flows of $5,000 annually for 5 years. At a discount rate of 10 percent, what is the discounted payback period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: DPB = 3 + ($15,000 − $5,000/1.10 − $5,000/1.102 − $5,000/1.103)/($5,000/1.104) DPB = 3.75 years Difficulty: 2 Medium Section: 5.3 The Discounted Payback Period Method Topic: Discounted payback Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "DPB = 3 + ($15,000 − $5,000/1.10 − $5,000/1.102 −",
+    "chapter": 5
+  },
+  {
+    "id": 481,
+    "question": "An investment cost $10,000 with expected cash flows of $3,000 a year for 5 years. At what discount rate will the project's IRR equal its discount rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: 0 = −$10,000 + $3,000{[1 − 1/(1 + IRR)5]/IRR} IRR = 15.24% Difficulty: 2 Medium Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "0 = −$10,000 + $3,000{[1 − 1/(1 + IRR)5]/IRR}",
+    "chapter": 5
+  },
+  {
+    "id": 482,
+    "question": "An investment costing $25 returns $27.50 at the end of one year with no risk. Given this, you know that the NPV:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: 0 = −$25 + $27.50/(1 + IRR) IRR = 10% The NPV will equal zero when the discount rate equals the IRR of 10 percent. Difficulty: 2 Medium Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "0 = −$25 + $27.50/(1 + IRR)",
+    "chapter": 5
+  },
+  {
+    "id": 483,
+    "question": "Lucie is reviewing a project with an initial cost of $38,700 and cash inflows of $9,800, $16,400, and $21,700 for Years 1 to 3, respectively. Should the project be accepted if it has been assigned a required return of 9.75 percent? Why or why not?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: 0 = −$38,700 + $9,800/(1 + IRR) + $16,400/(1 + IRR)2 + $21,700/(1 + IRR)3 IRR = 10.09% Excess return = 10.09% − 9.75 Excess return = .34% Difficulty: 2 Medium Section: 5.4 The Internal Rate of Return Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "0 = −$38,700 + $9,800/(1 + IRR) + $16,400/(1 + IRR)2 + $21,700/(1 + IRR)3",
+    "chapter": 5
+  },
+  {
+    "id": 484,
+    "question": "Sun Lee's is considering two mutually exclusive projects that have been assigned the same discount rate of 10.5 percent. Project A has an initial cost of $54,500, and should produce cash inflows of $16,400, $28,900, and $31,700 for Years 1 to 3, respectively. Project B has an initial cost of $79,400, and should produce cash inflows of $0, $48,300, and $42,100, for Years 1 to 3, respectively. What is the incremental IRR?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: 0 = [−$79,400 − (−$54,500)] + ($0 − 16,400)/(1 + IRR) + ($48,300 − 28,900)/(1 + IRR)2 + ($42,100 − 31,700)/(1 + IRR)3 IRR = −15.40% Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "0 = [−$79,400 − (−$54,500)] + ($0 − 16,400)/(1 + IRR) + ($48,300 − 28,900)/(1 +",
+    "chapter": 5
+  },
+  {
+    "id": 485,
+    "question": "Project A costs $84,500 and has cash flows of $32,300, $36,400, and $30,000 for Years 1 to 3, respectively. Project B has an initial cost of $79,000 and has cash flows of $30,000, $36,000, and $29,000 for Years 1 to 3, respectively. What is the incremental IRR of these two mutually exclusive projects?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: 0 = [−$84,500 − (−$79,000)] + ($32,300 − 30,000)/(1 + IRR) + ($36,400 − 36,000)/(1 + IRR)2 + ($30,000 − 29,000)/(1 + IRR3) IRR = −20.37% Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "0 = [−$84,500 − (−$79,000)] + ($32,300 − 30,000)/(1 + IRR) + ($36,400 −",
+    "chapter": 5
+  },
+  {
+    "id": 486,
+    "question": "Project A has an initial cost of $75,000 and annual cash flows of $33,000 for three years. Project B costs $60,000 and has cash flows of $25,000, $30,000, and $25,000 for Years 1 to 3, respectively. Projects A and B are mutually exclusive. The incremental IRR is ________ and if the required rate is higher than the crossover rate then Project ________ should be accepted.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: 0 = [−$75,000 − (−$60,000)] + ($33,000 − 25,000)/(1 + IRR) + ($33,000 − 30,000)/(1 + IRR)2 + ($33,000 − 25,000)/(1 + IRR)3 IRR = 12.89% Using a discount rate of 15 percent: NPVA = −$75,000 + $33,000{1 − [1/(1 + .15)3]}/.15 NPVA = $346.43 NPVB = −$60,000 + $25,000/1.15 + $30,000/1.152 + $25,000/1.153 NPVB = $861.35 Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive projects Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "0 = [−$75,000 − (−$60,000)] + ($33,000 − 25,000)/(1 + IRR) + ($33,000 −",
+    "chapter": 5
+  },
+  {
+    "id": 487,
+    "question": "Bernstein's proposed project has an initial cost of $128,600 and cash flows of $64,500, $98,300, and −$15,500 for Years 1 to 3 respectively. If all negative cash flows are moved to Time 0 at a discount rate of 10 percent, what is the modified internal rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: 0 = [−$128,600 + (−$15,500/1.103)] + $64,500/(1 + IRR) + $98,300/(1 + IRR)2 IRR = 9.82% Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Modified internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "0 = [−$128,600 + (−$15,500/1.103)] + $64,500/(1 + IRR) + $98,300/(1 + IRR)2",
+    "chapter": 5
+  },
+  {
+    "id": 488,
+    "question": "You are considering two independent projects with the same discount rate of 11 percent. Project A costs $284,700 and has cash flows of $75,900, $106,400, and $159,800 for Years 1 to 3, respectively. Project B costs $115,000, and has a cash flow of $50,000 a year for Years 1 to 3. You have sufficient funds to finance any decision you make. Which project or projects, if either, should you accept and why?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPVA = −$284,700 + $75,900/1.11 + $106,400/1.112 + $159,800/1.113 NPVA= −$13,120.61 NPVB = −$115,000 + $50,000[(1 − 1/1.113)/.11] NPVB = $7,185.74 0A = −$284,700 + $75,900/(1 + IRR) + $106,400/(1 + IRR)2 + $159,800/(1 + IRR)3 IRRA = 8.63% 0B = −$115,000 + $50,000{[1 − 1/(1 + IRR)3]/IRR} IRRB = 14.56% Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "NPVA = −$284,700 + $75,900/1.11 + $106,400/1.112 + $159,800/1.113",
+    "chapter": 5
+  },
+  {
+    "id": 489,
+    "question": "A financing project has an initial cash inflow of $42,000 and cash flows of −$15,600, −$22,200, and −$18,000 for Years 1 to 3, respectively. The required rate of return is 13 percent. What is the internal rate of return? Should the project be accepted?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: 0 = $42,000 − $15,600/(1 + IRR) − $22,200/(1 + IRR)2 − $18,000/(1 + IRR)3 IRR = 15.26% Since this is a financing project, an IRR greater than the required rate indicates rejection. Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "0 = $42,000 − $15,600/(1 + IRR) − $22,200/(1 + IRR)2 − $18,000/(1 + IRR)3",
+    "chapter": 5
+  },
+  {
+    "id": 490,
+    "question": "Down Under Stores is considering an investment with an initial cost of $236,000. In Year 4, the project will require an additional investment and finally, the project will be shut down in Year 7. The annual cash flows for Years 1 to 7, respectively, are projected as $64,000, $87,000, $91,000, −$48,000, $122,000, $154,000, and −$30,000. If all negative cash flows are moved to Time 0 using a discount rate of 13 percent, what is the project's modified IRR?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: 0 = [(−$236,000 + (−$48,000/1.134) + (−$30,000/1.137)] + $64,000/(1 + IRR) + $87,000/(1 + IRR)2 + $91,000/(1 + IRR)3 + $122,000/(1 + IRR)5 + $154,000/(1 + IRR)6 IRR = 18.54% Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Modified internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "0 = [(−$236,000 + (−$48,000/1.134) + (−$30,000/1.137)] + $64,000/(1 + IRR) +",
+    "chapter": 5
+  },
+  {
+    "id": 491,
+    "question": "Project X has an initial cost of $20,000 and a cash inflow of $25,000 in Year 3. Project Y costs $40,700 and has cash flows of $12,000, $25,000, and $10,000 in Years 1 to 3, respectively. The discount rate is 6 percent and the projects are mutually exclusive. Based on the individual project's IRRs you should accept Project ________; based on NPV you should accept Project ________; the final decision should be to accept Project ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: 0X = −$20,000 + $25,000/(1 + IRR)3 IRR = 7.72% NPVx = −$20,000 + $25,000/1.063 NPVx = $990.48 0Y = −$40,700 + $12,000/(1 + IRR) + $25,000/(1 + IRR)2 + $10,000/(1 + IRR)3 IRR = 7.70% NPVY = −$40,700 + $12,000/1.06 + $25,000/1.062 + $10,000/1.063 NPVY = $1,266.86 Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "0X = −$20,000 + $25,000/(1 + IRR)3",
+    "chapter": 5
+  },
+  {
+    "id": 492,
+    "question": "Two mutually exclusive projects have 3-year lives and a required rate of return of 10.5 percent. Project A costs $75,000 and has cash flows of $18,500, $42,900, and $28,600 for Years 1 to 3, respectively. Project B costs $72,000 and has cash flows of $22,000, $38,000, and $26,500 for Years 1 to 3, respectively. Using the IRR, which project, or projects, if either, should be accepted?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: 0 = −$75,000 + $18,500/(1 + IRR) + $42,900/(1 + IRR)2 + $28,600/(1 + IRR)3 IRR = 9.12% 0 = −$72,000 + $22,000/(1 + IRR) + $38,000/(1 + IRR)2 + $26,500/(1 + IRR)3 IRR = 9.48% Both projects should be rejected because their IRR's are less than the required rate of return. Thus, both projects also have negative NPVs. There is no reason to do incremental analysis as neither project is acceptable. Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Mutually exclusive Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "0 = −$75,000 + $18,500/(1 + IRR) + $42,900/(1 + IRR)2 + $28,600/(1 + IRR)3",
+    "chapter": 5
+  },
+  {
+    "id": 493,
+    "question": "Flo's Flowers has a proposed project with an initial cost of $40,000 and cash flows of $8,500, $15,600, and $22,700 for Years 1 to 3, respectively. Based on the profitability index rule, should the project be accepted if the discount rate is 9.5 percent? Why or why not?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PI = ($8,500/1.095 + $15,600/1.0952 + $22,700/1.0953)/$40,000 PI = .95 Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Apply AACSB: Analytical Thinking Accessibility: Keyboard Navigation 39 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "PI = ($8,500/1.095 + $15,600/1.0952 + $22,700/1.0953)/$40,000",
+    "chapter": 5
+  },
+  {
+    "id": 494,
+    "question": "Anne is considering two independent projects with 2-year lives. Both projects have been assigned a discount rate of 13 percent. She has sufficient funds to finance one or both projects. Project A costs $38,500 and has cash flows of $19,400 and $28,700 for Years 1 and 2, respectively. Project B costs $41,000, and has cash flows of $25,000 and $22,000 for Years 1 and 2, respectively. Which project, or projects, if either, should you accept based on the profitability index method and what is the correct reason for that decision?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: PIA = ($19,400/1.13 + $28,700/1.132)/$38,500 PIA = 1.03 PIB = ($25,000/1.13 + $22,000/1.132)/$41,000 PIB= .96 Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "PIA = ($19,400/1.13 + $28,700/1.132)/$38,500",
+    "chapter": 5
+  },
+  {
+    "id": 495,
+    "question": "Roy's Welding projects cash flows of $13,500, $20,400, and $32,900 for Years 1 to 3 for a project with an initial cost of $45,000. What is the profitability index given an assigned discount rate of 15 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: PI = ($13,500/1.15 + $20,400/1.152 + $32,900/1.153)/$45,000 PI = 1.08 Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 40 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "PI = ($13,500/1.15 + $20,400/1.152 + $32,900/1.153)/$45,000",
+    "chapter": 5
+  },
+  {
+    "id": 496,
+    "question": "Ted, a project manager, wants to invest in a project with an initial cost of $58,500 and cash flows of $32,400 and $38,500 in Years 1 and 2. Rosita, his boss, requires a discount rate of 10 percent and also a return of $1.10 in today's dollars for every $1 invested. Will Ted get his project approved? Why or why not?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: NPV = −$58,500 + $32,400/1.10 + $38,500/1.102 NPV = $2,772.73 PI = ($32,400/1.10 + $38,500/1.102)/$58,500 PI = 1.05 While the project has a positive NPV at discount rate of 10 percent, the PI indicates the project will only return $1.05 for every $1 invested at that discount rate. Thus, Ted will not get his project approved. Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 41 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "NPV = −$58,500 + $32,400/1.10 + $38,500/1.102",
+    "chapter": 5
+  },
+  {
+    "id": 497,
+    "question": "Juan is considering two independent projects. Project A costs $74,600 and has projected cash flows of $18,700, $46,300, and $12,200 for Years 1 to 3, respectively. Project B costs $70,000 and has cash flows of $10,600, $15,800, and $67,900 for Years 1 to 3, respectively. Juan assigns a discount rate of 10 percent to Project A and 12 percent to Project B. Which project or projects, if either, should he accept based on the profitability index rule?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PIA = ($18,700/1.10 + $46,300/1.102 + $12,200/1.103)/$74,600 PIA = .86 PIB = ($10,600/1.12 + $15,800/1.122 + $67,900/1.123)/$70,000 PIB = 1.01 Accept Project B and reject Project A because only B has a PI greater than 1. Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "PIA = ($18,700/1.10 + $46,300/1.102 + $12,200/1.103)/$74,600",
+    "chapter": 5
+  },
+  {
+    "id": 498,
+    "question": "A proposed project costs $300 and has cash flows of $80, $200, $75, and $90 for Years 1 to 4, respectively. Because of its high risk, the project has been assigned a discount rate of 16 percent. In dollars, how much will this project return in today's dollars for every $1 invested?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: PI = ($80/1.16 + $200/1.162 + $75/1.163 + $90/1.164)/$300 PI = 1.05 For every $1 invested, the project will return $1.05 in today's dollars. Difficulty: 2 Medium Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 42 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "PI = ($80/1.16 + $200/1.162 + $75/1.163 + $90/1.164)/$300",
+    "chapter": 5
+  },
+  {
+    "id": 499,
+    "question": "Ginny is considering an investment costing $55,000 that has cash flows of $35,000 in Year 2, $36,000 in Year 3, and −$5,000 in Year 4. She requires a rate of return of 8 percent and has a required discounted payback period of three years. Should this project be accepted? Why?",
+    "options": {
+      "A": "produces a positive NPV.",
+      "B": "desirable.",
+      "C": "can pay back on a discounted basis within three years.",
+      "D": "",
+      "E": "Answer: E Explanation: NPV = −$55,000 + $35,000/1.082 + $36,000/1.083 + (−$5,000/1.084) NPV = −$90.33 The project should be rejected based on NPV. IRR = 0 = −$55,000 + $35,000/(1 + IRR)2 + $36,000/(1 + IRR)3 + (−$5,000)/(1 + IRR)4 IRR = 7.93% The project should be rejected based on IRR. DPB = 2 + [($55,000 − $35,000/1.082)/($36,000/1.083)] DPB = 2.87 years At first glance, the project appears to be acceptable based on the discounted payback method. However, if you consider all of the cash flows, the project never pays back on a discounted basis. Total discounted cash flows = $35,000/1.082 + $36,000/1.083 + (−$5,000/1.084) Total discounted cash flows = $54,909.67 Difficulty: 2 Medium Section: 5.7 The Practice of Capital Budgeting Topic: Capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 43 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "NPV = −$55,000 + $35,000/1.082 + $36,000/1.083 + (−$5,000/1.084)",
+    "chapter": 5
+  },
+  {
+    "id": 500,
+    "question": "A proposed new venture will cost $175,000 and should produce annual cash flows of $48,500, $85,000, $40,000, and $40,000 for Years 1 to 4, respectively. The required payback period is 3 years and the discounted payback period is 3.5 years. The required rate of return is 9 percent. Which methods indicate project acceptance and which indicate project rejection?",
+    "options": {
+      "A": "Reject: discounted payback",
+      "B": "Reject: payback, discounted payback",
+      "C": "Reject: NPV, IRR, discounted payback",
+      "D": "",
+      "E": "Reject: PI, payback, discounted payback Answer: B Explanation: NPV = −$175,000 + $48,500/1.09 + $85,000/1.092 + $40,000/1.093 + $40,000/1.094 NPV = $262.56 NPV indicates acceptance because it is a positive value. 0 = −$175,000 + $48,500/(1 + IRR) + $85,000/(1 + IRR)2 + $40,000/(1 + IRR)3 + $40,000/(1 + IRR)4 IRR = 9.07% IRR indicates acceptance because it exceeds the required rate of return. PI = [$48,500/1.09 + $85,000/1.092 + $40,000/1.093 + $40,000/1.094]/$175,000 PI = 1.002 PI indicates acceptance because its value is greater than 1.0. PB = 3 + ($175,000 − 48,500 − 85,000 − 40,000)/$40,000 PB = 3.04 years Payback indicates rejection because its value is greater than the required period of time. DPB = 3 + [$175,000 − ($48,500/1.09 + $85,000/1.092 + $40,000/1.093)]/($40,000/1.094) DPB = 3.99 years Discounted payback indicates rejection because its value is greater than the required period of time. Difficulty: 2 Medium Section: 5.7 The Practice of Capital Budgeting Topic: Capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 44 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "NPV = −$175,000 + $48,500/1.09 + $85,000/1.092 + $40,000/1.093 +",
+    "chapter": 5
+  },
+  {
+    "id": 501,
+    "question": "Given the goal of maximization of firm value and shareholder wealth, we have stressed the importance of net present value (NPV). And yet, some financial decision-makers continue to use less desirable measures such as the payback method. Why do you think this is the case? Answer: This is an open-ended question which allows the creative student to speculate on the reasons why other methods of analysis might be more expedient or applicable in various situations. For example, firms may rely on the IRR because it is easier to explain to board members than NPV and produces the same results as NPV as long as the projects are independent, similar in size, and the cash flows are conventional. For small projects of short duration, payback is often sufficient as it allows lower-level managers to develop management skills and also allows decisions to be made quickly while keeping the evaluation costs below the level of potential benefits that might be realized. Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 502,
+    "question": "List and briefly discuss the advantages and disadvantages of the internal rate of return (IRR). Answer: The advantages of IRR are its close relationship with NPV and the ease with which it is understood and communicated. The primary disadvantages are that there may be multiple solutions and IRR may lead to a ranking conflict in evaluating mutually exclusive investments of differing sizes. Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 503,
+    "question": "The IRR rule is said to be a special case of the NPV rule. Explain why this is so and why IRR has some limitations NPV does not. Answer: At some rate, R, NPV = $0; by definition, when NPV = $0, R = IRR. Problems occur with IRR when mutually exclusive projects of varying size are encountered. Also, projects with unconventional cash flows present unique challenges due to the occurrence of multiple changes in cash flow direction which create multiple IRRs. The IRR accept/reject rule also has to be reversed for financing projects which have a positive initial cash flow. Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 45 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 504,
+    "question": "Explain the differences and similarities between net present value (NPV) and the profitability index (PI). Answer: The NPV and PI are closely related as both use the present value of all cash flows subsequent to the initial cash flow in their computations and both lead to the same accept/reject decision for independent projects. The main difference between the two is that the PI may be useful in determining which project(s) to accept if funds are limited; however, the PI may lead to incorrect decisions when considering mutually exclusive investments of differing sizes. Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 505,
+    "question": "Most financial experts will agree that net present value is the best capital budgeting method. However, even NPV can be unreliable when projecting project results. Explain why this is so. Answer: Given all of its benefits, NPV is still only as reliable as the accuracy of its inputs allows. If the cash flows and assigned discount rate are unrealistic, or turn out to be inaccurate, then the NPV results will likewise be inaccurate. As always, analysis output is always reliant upon the assumptions and values underlying the calculations and the absence of unforeseen future events. Difficulty: 2 Medium Section: 5.7 The Practice of Capital Budgeting Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  }
+]

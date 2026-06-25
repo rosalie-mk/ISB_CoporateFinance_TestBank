@@ -1,1 +1,1015 @@
-[]
+[
+  {
+    "id": 1317,
+    "question": "The firm's capital structure refers to the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 16.1 The Capital Structure Question and the Pie Theory Topic: Capital structure Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1318,
+    "question": "A general rule for managers to follow is to set the firm's capital structure such that the firm's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.2 Maximizing Firm Value versus Maximizing Stockholder Interests Topic: Capital structure and firm valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1319,
+    "question": "A manager should attempt to maximize the value of the firm by changing the capital structure if and only if the value of the firm increases:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.2 Maximizing Firm Value versus Maximizing Stockholder Interests Topic: Capital structure and firm valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1320,
+    "question": "A firm should always select the capital structure which:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.2 Maximizing Firm Value versus Maximizing Stockholder Interests Topic: Capital structure and firm valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1321,
+    "question": "Bryan invested in Bryco stock when the firm was financed solely with equity. The firm now has a debt-equity ratio of .3. To maintain the same level of leverage he originally had, Bryan needs to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Homemade leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1322,
+    "question": "In the absence of taxes, the capital structure chosen by a firm doesn't really matter because of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 16
+  },
+  {
+    "id": 1323,
+    "question": "MM Proposition I with no tax supports the argument that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "of the increased probability of financial distress.",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1324,
+    "question": "The proposition that the value of a levered firm is equal to the value of an unlevered firm is known as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1325,
+    "question": "The concept of homemade leverage is most associated with:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1326,
+    "question": "A levered firm is a company that has:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1327,
+    "question": "The effects of financial leverage depend on the operating earnings of the company. Based on this relationship, assume you graph the EPS and EBI for a firm, while ignoring taxes. Which one of these statements correctly states a relationship illustrated by the graph?",
+    "options": {
+      "A": "",
+      "B": "than levered structures do.",
+      "C": "levered structures for every dollar increase in EBI.",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Financial and operating leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1328,
+    "question": "MM Proposition I without taxes proposes that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1329,
+    "question": "A key underlying assumption of MM Proposition I without taxes is that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1330,
+    "question": "In an EPS-EBI graphical relationship, the slope of the debt ray is steeper than the equity ray. The debt ray has a lower intercept because:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Financial and operating leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1331,
+    "question": "When comparing levered versus unlevered capital structures, leverage works to increase EPS for high levels of EBIT because interest payments on the debt:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Financial and operating leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1332,
+    "question": "The increase in risk to shareholders when financial leverage is introduced is best evidenced by:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Financial and operating leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1333,
+    "question": "The use of personal borrowing to change the overall amount of financial leverage to which an individual is exposed is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: Homemade leverage Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1334,
+    "question": "The proposition that the value of the firm is independent of its capital structure is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1335,
+    "question": "The unlevered cost of capital is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1336,
+    "question": "According to MM Proposition II with no taxes, the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1337,
+    "question": "MM Proposition II with no taxes supports the argument that a firm's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 16
+  },
+  {
+    "id": 1338,
+    "question": "The tax savings of the firm derived from the deductibility of interest expense is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1339,
+    "question": "The reason that MM Proposition I without taxes does not hold in the presence of corporate taxation is because:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1340,
+    "question": "MM Proposition I with taxes supports the theory that:",
+    "options": {
+      "A": "firm's value.",
+      "B": "",
+      "C": "interest tax shield.",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1341,
+    "question": "MM Proposition I with taxes states that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1342,
+    "question": "MM Proposition I with taxes is based on the concept that the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1343,
+    "question": "MM Proposition II with taxes:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "firm.",
+      "D": "",
+      "E": "firm. Answer: B Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1344,
+    "question": "MM Proposition II is the proposition that:",
+    "options": {
+      "A": "",
+      "B": "tax rate.",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1345,
+    "question": "The tax shield on debt has no value for a firm when:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1346,
+    "question": "The tax shield on debt is one reason why:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1347,
+    "question": "CT Stores has debt with a book value of $325,000 and a market value of $319,000. The firm's equity has a book value of $526,000 and a market value of $684,000. The tax rate is 21 percent and the cost of capital is 11.2 percent. What is the market value of this firm based on MM Proposition I without taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: V ≡ $319,000 + 684,000 V ≡ $1,003,000 Difficulty: 2 Medium Section: 16.1 The Capital Structure Question and the Pie Theory Topic: M and M Proposition I without taxes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "V ≡ $319,000 + 684,000",
+    "chapter": 16
+  },
+  {
+    "id": 1348,
+    "question": "Thompson & Thomson is an all-equity firm that has 280,000 shares of stock outstanding. The company is in the process of borrowing $2.4 million at 5.5 percent interest to repurchase 75,000 shares of the outstanding stock. What is the value of this firm if you ignore taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Firm value = ($2,400,000/75,000)(280,000) Firm value = $8,960,000 Difficulty: 2 Medium Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Firm value = ($2,400,000/75,000)(280,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1349,
+    "question": "Uptown Interior Designs is an all-equity firm that has 40,000 shares of stock outstanding. The company has decided to borrow $74,000 to buy out the 2,100 shares of a deceased stockholder. What is the total value of this firm if you ignore taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Firm value = ($74,000/2,100)(40,000) Firm value = $1,409,524 Difficulty: 2 Medium Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Firm value = ($74,000/2,100)(40,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1350,
+    "question": "You own 25 percent of Unique Vacations, Inc. You have decided to retire and want to sell your shares in this closely held, all-equity firm. The other shareholders have agreed to have the firm borrow $1.5 million to purchase your 1,000 shares of stock. What is the total value of this firm if you ignore taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Firm value = $1.5 million/.25 Firm value = $6.0 million Difficulty: 2 Medium Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Firm value = $1.5 million/.25",
+    "chapter": 16
+  },
+  {
+    "id": 1351,
+    "question": "Assume an unlevered firm has total assets of $6,000, earnings before interest and taxes of $600, and 500 shares of stock outstanding. Further assume the firm decides to change 40 percent of its capital structure to debt with an interest rate of 8 percent. Ignore taxes. What will be the amount of the change in the earnings per share as a result of this change in the capital structure?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: EPSUnlevered = $600/500 EPSUnlevered = $1.20 EPSLevered = [$600 − .08(.4)($6,000)]/[500(1 − .4)] EPSLevered = $1.36 ΔEPS = $1.36 − 1.20 ΔEPS = $.16 Difficulty: 2 Medium Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "EPSUnlevered = $600/500",
+    "chapter": 16
+  },
+  {
+    "id": 1352,
+    "question": "Assume an initial scenario where a levered firm has total assets of $8,000, earnings before interest and taxes of $600, 400 shares of stock outstanding, a debt-equity ratio of .25, and a cost of debt of 7 percent. Now assume a second scenario where the firm changes to an all-equity structure by issuing new shares to pay off debt while a shareholder holding 10 percent of the stock borrows funds at 7 percent and uses homemade leverage to offset the firm's change in capital structure. Ignore taxes. What are the net earnings for this shareholder under the initial scenario? Under the second scenario?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: For the firm: EPSLevered = [$600 − .07(.25/1.25)($8,000)]/400 EPSLevered = $1.22 Price per share = 1/1.25($8,000)/400 Price per share = $16 New shares issued = .25/1.25($8,000)/$16 New shares issued = 100 EPSUnlevered = $600/(400 + 100) EPSUnlevered = $1.20 For the shareholder: Net earningsInitial scenario = $1.22(.1)(400) Net earningsInitial scenario = $48.80 For the second scenario: Initial shareholder equity = .1(400)($16) Initial shareholder equity = $640 Shareholder debt = .25($640) Shareholder debt = $160 Net earningsSecond scenario = [.1(400) + $160/$16)]($1.20) − .07($160) Net earningsSecond scenario = $48.80 Difficulty: 2 Medium Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "For the firm:",
+    "chapter": 16
+  },
+  {
+    "id": 1353,
+    "question": "A firm has a debt-equity ratio of .64, a pretax cost of debt of 8.5 percent, and a required return on assets of 12.6 percent. What is the cost of equity if you ignore taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: RS = .126 + .64(.126 − .085) RS = .1522, or 15.22% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "RS = .126 + .64(.126 − .085)",
+    "chapter": 16
+  },
+  {
+    "id": 1354,
+    "question": "Bigelow has a levered cost of equity of 14.29 percent and a pretax cost of debt of 7.23 percent. The required return on the assets is 11 percent. What is the firm's debt-equity ratio based on MM Proposition II with no taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: RS = .1429 = .11 + B/S(.11 − .0723) B/S = .87 Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "RS = .1429 = .11 + B/S(.11 − .0723)",
+    "chapter": 16
+  },
+  {
+    "id": 1355,
+    "question": "The Backwoods Lumber Co. has a debt-equity ratio of .68. The firm's required return on assets is 11.7 percent and its levered cost of equity is 15.54 percent. What is the pretax cost of debt based on MM Proposition II with no taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: RS = .1554 = .117 + .68(.117 − RB) RB = .0605, or 6.05% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "RS = .1554 = .117 + .68(.117 − RB)",
+    "chapter": 16
+  },
+  {
+    "id": 1356,
+    "question": "A firm has zero debt in its capital structure and has an overall cost of capital of 10 percent. The firm is considering a new capital structure with 60 percent debt at an interest rate of 8 percent. Assuming there are no taxes or other imperfections, what would be the cost of equity with the new capital structure?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Rs = .10 + .60/.40(.10 − .08) Rs = .13, or 13% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Rs = .10 + .60/.40(.10 − .08)",
+    "chapter": 16
+  },
+  {
+    "id": 1357,
+    "question": "A firm has a debt-equity ratio of .48. Its cost of debt is 7 percent and its WACC is 10.8 percent. What is its cost of equity if there are no taxes or other imperfections?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: .108 = (.48/1.48)(.07) + (1/1.48)RS RS = .1262, or 12.62% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": ".108 = (.48/1.48)(.07) + (1/1.48)RS",
+    "chapter": 16
+  },
+  {
+    "id": 1358,
+    "question": "A firm has a debt-equity ratio of 1, a cost of equity of 16 percent, and a cost of debt of 8 percent. If there are no taxes or other imperfections, what is its unlevered cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: .16 = r0 + 1(r0 − .08) r0 = .12, or 12% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": ".16 = r0 + 1(r0 − .08)",
+    "chapter": 16
+  },
+  {
+    "id": 1359,
+    "question": "A firm has a debt-equity ratio of .55 with a cost of debt of 6.7 percent. If it had no debt, its cost of equity would be 14.5 percent. What is its levered cost of equity assuming there are no taxes or other imperfections?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Rs = .145 + .55(.145 − .067) Rs = .1879, or 18.79% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Rs = .145 + .55(.145 − .067)",
+    "chapter": 16
+  },
+  {
+    "id": 1360,
+    "question": "If a firm is unlevered and has a cost of equity capital of 13.7 percent, what would be the cost of equity if its debt-equity ratio was revised to .4? The expected cost of debt is 7.4 percent and there are no taxes.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Rs = .137 + .4(.137 − .074) Rs = .1622, or 16.22% Difficulty: 2 Medium Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Rs = .137 + .4(.137 − .074)",
+    "chapter": 16
+  },
+  {
+    "id": 1361,
+    "question": "Reena Industries has $138,000 of debt outstanding that is selling at par and has a coupon rate of 7 percent. If the tax rate is 21 percent, what is the present value of the tax shield on debt?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: PVTax shield = .21($138,000) PVTax shield = $28,980 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "PVTax shield = .21($138,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1362,
+    "question": "A firm has debt of $7,000, equity of $12,000, a cost of debt of 7 percent, a cost of equity of 14 percent, and a tax rate of 21 percent. What is the firm's weighted average cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: RWACC = [$12,000/($7,000 + 12,000)(.14)] + [$7,000/($7,000 + 12,000)](.07)(1 − .21) RWACC = .1088, or 10.88% Difficulty: 2 Medium Section: 16.5 Taxes Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "RWACC = [$12,000/($7,000 + 12,000)(.14)] + [$7,000/($7,000 + 12,000)](.07)(1",
+    "chapter": 16
+  },
+  {
+    "id": 1363,
+    "question": "The Winter Wear Company has expected earnings before interest and taxes of $3,800, an unlevered cost of capital of 15.4 percent and a tax rate of 22 percent. The company also has $2,600 of debt with a coupon rate of 5.7 percent. The debt is selling at par value. What is the value of this firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: VL = [$3,800(1 − .22)]/.154 + .22($2,600) VL = $19,819 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "VL = [$3,800(1 − .22)]/.154 + .22($2,600)",
+    "chapter": 16
+  },
+  {
+    "id": 1364,
+    "question": "The Dance Studio is currently an all-equity firm that has 22,000 shares of stock outstanding with a market price of $27 a share. The current cost of equity is 12 percent and the tax rate is 23 percent. The firm is considering adding $225,000 of debt with a coupon rate of 6.25 percent to its capital structure. The debt will sell at par. What will be the levered value of the equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: VL = 22,000($27) + .23($225,000) VL = $645,750 VE = $645,750 − 225,000 VE = $420,750 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "VL = 22,000($27) + .23($225,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1365,
+    "question": "The Montana Hills Co. has expected earnings before interest and taxes of $17,100, an unlevered cost of capital of 12.4 percent, and debt with both a book and face value of $25,000. The debt has an annual 6.2 percent coupon. If the tax rate is 21 percent, what is the value of the firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: VL = [$17,100(1 − .21)]/.124 + .21($25,000) VL = $114,194 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "VL = [$17,100(1 − .21)]/.124 + .21($25,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1366,
+    "question": "Joe's Leisure Time Sports is an unlevered firm with an aftertax net income of $78,400. The unlevered cost of capital is 11.4 percent and the tax rate is 23 percent. What is the value of this firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: VU = $78,400/.114 VU = $687,719 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "VU = $78,400/.114",
+    "chapter": 16
+  },
+  {
+    "id": 1367,
+    "question": "An unlevered firm has a cost of capital of 13.6 percent and earnings before interest and taxes of $138,000. A levered firm with the same operations and assets has both a book value and a face value of debt of $520,000 with an annual coupon of 7 percent. The applicable tax rate is 21 percent. What is the value of the levered firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: VL = [$138,000(1 − .21)/.136] + .21($520,000) VL = $910,818 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "VL = [$138,000(1 − .21)/.136] + .21($520,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1368,
+    "question": "The Spartan Co. has an unlevered cost of capital of 11.6 percent, a cost of debt of 7.9 percent, and a tax rate of 23 percent. What is the target debt-equity ratio if the targeted levered cost of equity is 12.6 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: .126 = .116 + B/S(.116 − .079)(1 − .23) B/S = .35 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": ".126 = .116 + B/S(.116 − .079)(1 − .23)",
+    "chapter": 16
+  },
+  {
+    "id": 1369,
+    "question": "Salmon Inc. has debt with both a face and a market value of $227,000. This debt has a coupon rate of 7 percent and pays interest annually. The expected earnings before interest and taxes is $87,200, the tax rate is 21 percent, and the unlevered cost of capital is 12 percent. What is the firm's cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: VL = [$87,200(1 − .21)/.12] + .21($227,000) VL = $621,736.67 VS = $621,736.67 − 227,000 VS = $394,736.67 Rs = .12 + ($227,000/$394,736.67)(1 − .21)(.12 − .07) Rs = .1427, or 14.27% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "VL = [$87,200(1 − .21)/.12] + .21($227,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1370,
+    "question": "Anderson's Furniture Outlet has an unlevered cost of capital of 10.3 percent, a tax rate of 21 percent, and expected earnings before interest and taxes of $1,900. The company has $4,000 in bonds outstanding that have an annual coupon of 7 percent. If the bonds are selling at par, what is the cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: VL = [$1,900(1 − .21)/.103] + .21($4,000) VL = $15,412.82 VS = $15,412.82 − 4,000 VS = 11,412.82 RS = .103 + [($4,000/$11,412.82)(1 − .21)(.103 − .07)] RS = .1121, or 11.21% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "VL = [$1,900(1 − .21)/.103] + .21($4,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1371,
+    "question": "Aspen's Distributors has a levered cost of equity of 13.84 percent and an unlevered cost of capital of 12.5 percent. The company has $5,000 in debt that is selling at par. The levered value of the firm is $14,600 and the tax rate is 25 percent. What is the pretax cost of debt?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: VE = $14,600 − 5,000 VE = $9,600 .1384 = .125 + ($5,000/$9,600)(1 − .25)(.125 − RB) RB = .0907, or 9.07% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "VE = $14,600 − 5,000",
+    "chapter": 16
+  },
+  {
+    "id": 1372,
+    "question": "Rosita's has a cost of equity of 13.76 percent and a pretax cost of debt of 8.5 percent. The debt-equity ratio is .60 and the tax rate is 21 percent. What is Rosita's unlevered cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .1376 = RU + .60(1 − .21)(RU − .085) RU = .1207, or 12.07% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".1376 = RU + .60(1 − .21)(RU − .085)",
+    "chapter": 16
+  },
+  {
+    "id": 1373,
+    "question": "An all-equity firm has a cost of capital of 12.8 percent and a tax rate of 23 percent. At the firm's target debt-equity ratio, the pretax cost of debt is 7.35 percent and the cost of equity is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1374,
+    "question": "07 percent. What is the target debt-equity ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: .1507 = .128 + B/S(1 − .23)(.128 − .0735) B/S = .54 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": ".1507 = .128 + B/S(1 − .23)(.128 − .0735)",
+    "chapter": 16
+  },
+  {
+    "id": 1375,
+    "question": "Wild Flowers Express has a debt-equity ratio of .60. The pretax cost of debt is 9 percent while the unlevered cost of capital is 14 percent. What is the cost of equity if the tax rate is 23 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: RS = .14 + .60(1 − .23)(.14 − .09) RS = .1631, or 16.31% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "RS = .14 + .60(1 − .23)(.14 − .09)",
+    "chapter": 16
+  },
+  {
+    "id": 1376,
+    "question": "Your firm has a bond issue with a face value of $250,000 outstanding. These bonds have a coupon rate of 7 percent, pay interest semiannually, and have a current market price equal to 103 percent of face value. What is the amount of the annual tax shield on debt given a tax rate of 21 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Annual tax shield on debt = $250,000(.07)(.21) Annual tax shield on debt = $3,675 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Annual tax shield on debt = $250,000(.07)(.21)",
+    "chapter": 16
+  },
+  {
+    "id": 1377,
+    "question": "Jasmine's Boutique has 2,000 bonds outstanding with a face value of $1,000 each, a market value of $1,060 each, and a coupon rate of 9 percent. The interest is paid semiannually. What is the amount of the annual tax shield on debt if the tax rate is 23 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Annual interest tax shield = 2,000($1,000)(.09)(.23) Annual interest tax shield = $41,400 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Annual interest tax shield = 2,000($1,000)(.09)(.23)",
+    "chapter": 16
+  },
+  {
+    "id": 1378,
+    "question": "Juanita's Steak House has $12,000 of debt outstanding that is selling at 101.2 percent of par and has a coupon rate of 8 percent and a current yield of 7.91 percent. The tax rate is 21 percent. What is the present value of the tax shield on debt?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: PVTax shield = .21($12,000) PVTax shield = $2,520 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "PVTax shield = .21($12,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1379,
+    "question": "A firm has debt of $5,000, equity of $16,000, a cost of debt of 8 percent, a cost of equity of 12 percent, and a tax rate of 21 percent. What is the firm's weighted average cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: RWACC = [$16,000/($5,000 + 16,000)](.12) + [$5,000/($5,000 + 16,000)](.08)(1 − .21) RWACC = .1065, or 10.65% Difficulty: 2 Medium Section: 16.5 Taxes Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "RWACC = [$16,000/($5,000 + 16,000)](.12) + [$5,000/($5,000 + 16,000)](.08)(1",
+    "chapter": 16
+  },
+  {
+    "id": 1380,
+    "question": "A firm has zero debt and an overall cost of capital of 13.8 percent. The firm is considering a new capital structure with 40 percent debt. The interest rate on the debt would be 7.2 percent and the corporate tax rate is 21 percent. What would be the cost of equity with the new capital structure?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Rs = .138 + (.4/.6)(1 − .21)(.138 − .072) Rs = .1728, or 17.28% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Rs = .138 + (.4/.6)(1 − .21)(.138 − .072)",
+    "chapter": 16
+  },
+  {
+    "id": 1381,
+    "question": "A firm has a debt-equity ratio of .64, a cost of equity of 13.04 percent, and a cost of debt of 8 percent. Assume the corporate tax rate is 25 percent. What would be the cost of equity if the firm were all-equity financed?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .1304 = R0 + .64(1 − .25)(R0 − .08) R0 = .1141, or 11.41% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".1304 = R0 + .64(1 − .25)(R0 − .08)",
+    "chapter": 16
+  },
+  {
+    "id": 1382,
+    "question": "A firm has an equity multiplier of 1.57, an unlevered cost of equity of 14 percent, a levered cost of equity of 15.6 percent, and a tax rate of 21 percent. What is the cost of debt?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: B/S = 1.57 − 1 B/S = .57 .156 = .14 + .57(1 −.21)(.14 − RB) RB = .1045, or 10.45% Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "B/S = 1.57 − 1",
+    "chapter": 16
+  },
+  {
+    "id": 1383,
+    "question": "Lyme Home has 5,000 bonds outstanding with a face value of $1,000 each and a coupon rate of 7.65 percent. Interest is paid semiannually. What is the amount of the annual tax shield on debt if the tax rate is 23 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Annual interest tax shield = 5,000($1,000)(.0765)(.23) Annual interest tax shield = $87,975 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Annual interest tax shield = 5,000($1,000)(.0765)(.23)",
+    "chapter": 16
+  },
+  {
+    "id": 1384,
+    "question": "Alexandria's Dance Studio is currently an all-equity firm with earnings before interest and taxes of $338,000 and a cost of equity of 14.2 percent. Assume the tax rate is 22 percent. The firm is considering adding $400,000 of debt with a coupon rate of 7 percent to its capital structure. The debt will be sold at par value. What is the levered value of the equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: VL = {[$338,000(1 − .22)]/.142} + .22($400,000) VL = $1,944,620 VE = $1,944,620 − 400,000 VE = $1,544,620 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "VL = {[$338,000(1 − .22)]/.142} + .22($400,000)",
+    "chapter": 16
+  },
+  {
+    "id": 1385,
+    "question": "Boutelle Homes has an all-equity value of $648,200, a cost of equity of 11.7 percent, and a tax rate of 35 percent. Assume the firm's capital structure changes to 30 percent debt followed by a lowering of the tax rate to 21 percent. What will be the change in the levered value of the firm due to the reduction in the tax rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: ΔV = .21(.3)($648,200) − .35(.3)($648,200) ΔV = −$27,224 Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "ΔV = .21(.3)($648,200) − .35(.3)($648,200)",
+    "chapter": 16
+  },
+  {
+    "id": 1386,
+    "question": "Explain homemade leverage and why it matters. Answer: Homemade leverage is the ability of investors to alter their own financial leverage to achieve a desired capital structure no matter what a firm's capital structure might be. If investors can, at their discretion, use homemade leverage to create additional leverage or to undo any existing leverage of the firm then the actual capital structure decision of the firm itself becomes irrelevant. Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1387,
+    "question": "Explain why the weighted average cost of capital is invariant to the firm's debt-equity ratio in the absence of corporate taxes. Answer: In a world without taxes, the cost of equity increases as the debt-equity ratio increases. This increase in equity cost is just sufficient to offset the increased risk, allowing WACC to remain constant. This is MM Proposition II with no corporate taxes. Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1388,
+    "question": "Discuss MM Propositions I and II in a world without taxes. List the basic assumptions, results, and intuition of the model. Answer: MM I and II without taxes: Assumptions: ∙ No taxes ∙ No transaction costs ∙ Individuals and corporations borrow at same rate Results: ∙ Proposition I: VL = VU ∙ Proposition II: RS = R0 + B/S(R0 − RB) Intuition: ∙ Proposition I: Through homemade leverage individuals can either duplicate or undo the effects of corporate leverage. ∙ Proposition II: The cost of equity rises with leverage because the risk to equity rises with leverage. Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1389,
+    "question": "In each of the theories of capital structure, the cost of equity rises as the amount of debt increases. So why don't financial managers use as little debt as possible to keep the cost of equity down? After all, isn't the goal of the firm to maximize share value and doesn't a lower discount rate applied to the firm's cash flows increase the present value of those cash flows? Answer: This question requires students to differentiate between the cost of equity and the WACC. The firm trades off higher equity costs for a lower WACC via both the lower pretax cost of debt and the tax shield on debt. Thus, even though the cost of equity rises, the overall cost of capital (which is used as the discount rate when computing the PV of the firm's cash flows) declines and thus the value of the firm rises. Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1390,
+    "question": "Based on MM Propositions, with and without taxes, how much time should a financial manager spend analyzing the capital structure of his firm? Answer: Under either MM scenario, the financial manager should invest no time in analyzing the firm's capital structure. With no taxes, capital structure is irrelevant. With taxes, MM says a firm will maximize its value by using 100 percent debt. In both cases, the manager has nothing to decide. Difficulty: 3 Hard Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Evaluate AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1391,
+    "question": "Discuss MM Propositions I and II in a world with taxes. List the basic assumptions, results, and intuition of the model. Answer: MM Proposition I and II with taxes: Assumptions: ∙ Corporations are taxed at the rate tC, on earnings after interest. ∙ No transaction costs ∙ Individuals and corporations borrow at same rate. Results: ∙ Proposition I: VL = VU + tCB ∙ Proposition II: RS = R0 + B/S(1 − tC)(R0 − RB) Intuition: ∙ Proposition I: Because corporations can deduct interest payments but not dividend payments, corporate leverage lowers tax payments, thereby increasing firm value. ∙ Proposition II: The cost of equity rises with leverage because the risk to equity rises with leverage. Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  }
+]

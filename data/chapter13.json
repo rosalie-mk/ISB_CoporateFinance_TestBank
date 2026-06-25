@@ -1,1 +1,979 @@
-[]
+[
+  {
+    "id": 1128,
+    "question": "The cost of capital used to compute the present value of a project should be the rate that can be earned on:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 13.1 The Cost of Capital Topic: Cost of capital - general Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 13
+  },
+  {
+    "id": 1129,
+    "question": "If the CAPM is used to estimate the cost of equity capital, the expected excess market return is equal to the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Capital asset pricing model Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1130,
+    "question": "The issuance of stock to fund a project tends to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 13
+  },
+  {
+    "id": 1131,
+    "question": "A project with the same level of risk as an all-equity firm should be accepted if the project's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Project analysis and evaluation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1132,
+    "question": "Which one of these statements is correct concerning the CAPM?",
+    "options": {
+      "A": "proposed project.",
+      "B": "the next 5-year period.",
+      "C": "",
+      "D": "risk-free rate of return.",
+      "E": "rate computed using the CAPM. Answer: C Difficulty: 1 Easy Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Capital asset pricing model Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 13
+  },
+  {
+    "id": 1133,
+    "question": "When estimating the cost of equity using the DDM, the factor that is the most apt to add error to this estimate is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Dividend discount model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1134,
+    "question": "Which one of these statements related to beta is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.3 Estimation of Beta Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1135,
+    "question": "The beta of a security is calculated as: (________ of a security's return with the return on the market portfolio/________).",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.3 Estimation of Beta Topic: Beta Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1136,
+    "question": "Assume you plot the monthly returns for a stock and also for the S&P 500. Using regression analysis, the straight line through these points that is developed by the analysis is referred to as the ________ which has a slope of ________ and an intercept of ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.3 Estimation of Beta Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1137,
+    "question": "Companies will generally have a ________ beta if their:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1138,
+    "question": "If a firm increases its use of both operating and financial leverage, then you should expect the firm's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "leverage.",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1139,
+    "question": "The beta of debt is commonly considered to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1140,
+    "question": "Comparing two otherwise equivalent firms, the beta of the common stock of the levered firm is ________ the beta of the common stock of the unlevered firm.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1141,
+    "question": "The beta of a firm is more likely to be high under which two conditions?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1142,
+    "question": "A firm with cyclical earnings is characterized by:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1143,
+    "question": "A firm with high operating leverage has:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 13
+  },
+  {
+    "id": 1144,
+    "question": "Assume LK Metals is similar to its industry with one exception; it has low fixed costs relative to all other firms in that industry. Given this, you should expect LK Metals to have:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1145,
+    "question": "The use of leverage:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1146,
+    "question": "An industry is likely to have a low beta if the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1147,
+    "question": "For a levered firm the equity beta is ________ the asset beta.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1148,
+    "question": "The CAPM has an advantage over DDM because the CAPM:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.5 The Dividend Discount Model Approach Topic: Cost of equity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1149,
+    "question": "Which one of these is a correct means of calculating an expected rate of growth?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 13.5 The Dividend Discount Model Approach Topic: Growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 13
+  },
+  {
+    "id": 1150,
+    "question": "Lesco's is evaluating a project that has a different level of risk than the overall firm. This project should be evaluated:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 13
+  },
+  {
+    "id": 1151,
+    "question": "The discount rate applied to an individual project should be based on the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1152,
+    "question": "If a firm applies its overall firm's beta to projects with varying levels of risk, the firm will tend to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 13
+  },
+  {
+    "id": 1153,
+    "question": "JR's is preparing to start a new project in an industry that differs significantly from its current operations. JR's has searched and found the beta of a firm that is a good fit as a pure play for this new project. Given this good fit, why might JR's assign a higher beta to the project than the beta of the pure play?",
+    "options": {
+      "A": "betas.",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "cost. Answer: D Difficulty: 1 Easy Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1154,
+    "question": "The cost of preferred stock:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.7 Cost of Fixed Income Securities Topic: Cost of preferred stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1155,
+    "question": "Lewis Bros. currently has outstanding debt but has decided to issue additional debt for expansion purposes. The pretax cost of the new debt is best estimated at the ________ of the currently outstanding debt.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.7 Cost of Fixed Income Securities Topic: Cost of debt Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1156,
+    "question": "As of 2018, U.S. tax law limits the tax deduction for interest payments to 30 percent of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.7 Cost of Fixed Income Securities Topic: Cost of debt Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1157,
+    "question": "When computing WACC, you should use the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1158,
+    "question": "When computing the weighted average cost of capital, which of these are adjusted for taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 13
+  },
+  {
+    "id": 1159,
+    "question": "All else held constant, which one of these is most apt to increase the WACC of a levered firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1160,
+    "question": "The weighted average cost of capital for a firm is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.9 Valuation with WACC Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1161,
+    "question": "A firm's WACC can be correctly used to discount the expected cash flows of a new project when that project will:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.9 Valuation with WACC Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1162,
+    "question": "When valuing a firm financed with debt and equity, the individual cash flows should be discounted using:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 13
+  },
+  {
+    "id": 1163,
+    "question": "The terminal value of a firm is also commonly referred to as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 13
+  },
+  {
+    "id": 1164,
+    "question": "A firm's net cash flow is calculated as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1165,
+    "question": "Assume a levered firm plans to raise new capital to finance a project. To properly account for the flotation costs, the firm should:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 13.11 Flotation Costs and the Weighted Average Cost of Capital Topic: Flotation costs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 13
+  },
+  {
+    "id": 1166,
+    "question": "When calculating the weighted average flotation cost, the weights should be based on the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 13.11 Flotation Costs and the Weighted Average Cost of Capital Topic: Flotation costs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 13
+  },
+  {
+    "id": 1167,
+    "question": "The flotation cost of internal equity is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 13.11 Flotation Costs and the Weighted Average Cost of Capital Topic: Flotation costs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 13
+  },
+  {
+    "id": 1168,
+    "question": "Consolidated Transfer is an all-equity financed firm. The beta is .75, the market risk premium is 7.78 percent, and the risk-free rate is 3.84 percent. What is the expected rate of return on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: RS = .0384 + .75(.0778) RS = .0968, or 9.68% Difficulty: 2 Medium Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Cost of equity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "RS = .0384 + .75(.0778)",
+    "chapter": 13
+  },
+  {
+    "id": 1169,
+    "question": "What is the cost of equity for a firm that has a beta of 1.2 if the risk-free rate of return is 2.9 percent and the expected market return is 11.4 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: RS = .029 + 1.2(.114 − .029) RS = .131, or 13.1% Difficulty: 2 Medium Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Cost of equity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "RS = .029 + 1.2(.114 − .029)",
+    "chapter": 13
+  },
+  {
+    "id": 1170,
+    "question": "Albert's recently paid its annual dividend of $1.98 per share. At that time, the firm announced that all future dividends will be increased by 2.2 percent annually. What is the firm's cost of equity if the stock is currently selling for $28.40 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Rs = [$1.98(1.022)]/$28.40 + .022 Rs = .0933, or 9.33% Difficulty: 2 Medium Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Cost of equity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Rs = [$1.98(1.022)]/$28.40 + .022",
+    "chapter": 13
+  },
+  {
+    "id": 1171,
+    "question": "Winslow and Sons is expected to pay an annual dividend of $1.35 per share one year from now with future increases of 2.5 percent annually. The stock currently sells for $14.70 a share. What is the cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Rs = $1.35/$14.70 + .025 Rs = .1168, or 11.68% Difficulty: 2 Medium Section: 13.2 Estimating the Cost of Equity Capital with the CAPM Topic: Cost of equity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Rs = $1.35/$14.70 + .025",
+    "chapter": 13
+  },
+  {
+    "id": 1172,
+    "question": "The cost of equity for RJ Corporation is 8.4 percent and the debt-equity ratio is .6. The expected return on the market is 10.4 percent and the risk-free rate is 3.8 percent. Using the common assumption for the debt beta, what is the asset beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .084 = .038 + βEquity(.104 − .038) βEquity = .697 βAsset = (1/1.6)(.697) βAsset = .44 Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".084 = .038 + βEquity(.104 − .038)",
+    "chapter": 13
+  },
+  {
+    "id": 1173,
+    "question": "Barges has an asset beta of .57, the risk-free rate is 4.3 percent, and the market risk premium is 7.7 percent. What is the equity beta if the firm has a debt-equity ratio of .56?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: βEquity = .57/(1/1.56) βEquity = .89 Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "βEquity = .57/(1/1.56)",
+    "chapter": 13
+  },
+  {
+    "id": 1174,
+    "question": "HNT is an all-equity firm with a beta of .88. What will the firm's equity beta be if the firm switches to a debt-equity ratio of .35?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: βEquity = .88/(1/1.35) βEquity = 1.19 Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "βEquity = .88/(1/1.35)",
+    "chapter": 13
+  },
+  {
+    "id": 1175,
+    "question": "A firm has an equity beta of 1.2, the risk-free rate is 3.4 percent, the market return is 15.7 percent, and the pretax cost of debt is 9.4 percent. The debt-equity ratio is .47. If you apply the common beta assumptions, what is the firm's asset beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: βAsset = (1/1.47)(1.2) βAsset = .82 Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "βAsset = (1/1.47)(1.2)",
+    "chapter": 13
+  },
+  {
+    "id": 1176,
+    "question": "BG's cost of equity is 9.4 percent, the expected return on the market is 13.6 percent, and the risk-free rate is 3.8 percent. What is the firm's debt-equity ratio if its asset beta is .36? Assume there is no preferred stock.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .094 = .038 + βEquity(.136 − .038) βEquity = .5714 .36 = [S/(B + S)](.5714) [S/(B + S)] = .63 (B + S)/S = 1/.63 B/S + 1 = 1.59 B/S = .59 Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".094 = .038 + βEquity(.136 − .038)",
+    "chapter": 13
+  },
+  {
+    "id": 1177,
+    "question": "LR Engines stock is selling for $42.39 a share, has an ROE of 14.3 percent, and a dividend payout ratio of 35 percent. The next expected dividend is $1.62 a share. What is the cost of equity for this firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: RS = $1.62/$42.39 + (1 − .35)(.143) RS = .1312, or 13.12% Difficulty: 2 Medium Section: 13.5 The Dividend Discount Model Approach Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "RS = $1.62/$42.39 + (1 − .35)(.143)",
+    "chapter": 13
+  },
+  {
+    "id": 1178,
+    "question": "Clancy's just paid its annual dividend of $1.48 per share. Analysts expect the stock price to increase by 2.1 percent annually and value the stock at $14.65 per share currently. What is the cost of equity for this firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: RS = [$1.48(1.021)]/$14.65 + .021 RS = .1241, or 12.41% Difficulty: 2 Medium Section: 13.5 The Dividend Discount Model Approach Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "RS = [$1.48(1.021)]/$14.65 + .021",
+    "chapter": 13
+  },
+  {
+    "id": 1179,
+    "question": "Southern Imports is an all-equity firm with a beta of 1.32. The firm is considering a new project that entails less risk than its current operations and thus management feels that the firm's beta should be lowered by .18 when assigning a discount rate to this project. The market rate of return is 9.4 percent and the risk-free rate is 2.8 percent. What discount rate should be assigned to this project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: RProject = .028 + (1.32 − .18)(.094 − .028) RProject = .1032, or 10.32% Difficulty: 2 Medium Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "RProject = .028 + (1.32 − .18)(.094 − .028)",
+    "chapter": 13
+  },
+  {
+    "id": 1180,
+    "question": "APL has an overall cost of capital of 11.6 percent and a beta of 1.31. The firm is contemplating a new project that is unrelated to the firm's current operations. SKL is a firm that operates similarly to the new project and SKL has a cost of capital of 10.7 percent. APL knows that it will be less efficient than SKL and thus feels that an adjustment of +1 percent should be added to the project's discount rate to allow for this inefficiency. What discount rate should be assigned to the new project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: The pure play approach applies, so: RProject = .107 + .01 RProject = .117, or 11.7% Difficulty: 2 Medium Section: 13.6 Cost of Capital for Divisions and Projects Topic: Divisional and project costs of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "The pure play approach applies, so:",
+    "chapter": 13
+  },
+  {
+    "id": 1181,
+    "question": "The Shoe Box pays an annual dividend of $3.80 on its preferred stock. What is the cost of preferred if the stock currently sells for $42.70 a share and the tax rate is 21 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: RP = $3.80/$42.70 RP = .0890, or 8.90% Difficulty: 2 Medium Section: 13.7 Cost of Fixed Income Securities Topic: Cost of preferred stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "RP = $3.80/$42.70",
+    "chapter": 13
+  },
+  {
+    "id": 1182,
+    "question": "Ladder Works has debt outstanding with a coupon rate of 6 percent and a yield to maturity of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 13
+  },
+  {
+    "id": 1183,
+    "question": "8 percent. What is the aftertax cost of debt if the tax rate is 21 percent? Assume all interest is tax deductible.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: RD = .068(1 − .21) RD = .0537, or 5.37% Difficulty: 2 Medium Section: 13.7 Cost of Fixed Income Securities Topic: Cost of debt Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "RD = .068(1 − .21)",
+    "chapter": 13
+  },
+  {
+    "id": 1184,
+    "question": "High Road Tours has an aftertax cost of debt of 5.1 percent at its current tax rate of 34 percent. What will its aftertax cost of debt be if the tax rate drops to 21 percent? Assume all interest is tax deductible.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: RD = [.051/(1 − .34)](1 − .21) RD = .0610, or 6.10% Difficulty: 2 Medium Section: 13.7 Cost of Fixed Income Securities Topic: Cost of debt Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "RD = [.051/(1 − .34)](1 − .21)",
+    "chapter": 13
+  },
+  {
+    "id": 1185,
+    "question": "Jack's Construction Co. has 80 bonds outstanding that are selling at their par value of $1,000 each. Bonds with similar characteristics are yielding a pretax 8.6 percent. The firm also has 4,000 shares of common stock outstanding. The stock has a beta of 1.1 and sells for $40 a share. The U.S. T-bill is yielding 4 percent, the market risk premium is 8 percent, and the firm's tax rate is 21 percent. What is the firm's weighted average cost of capital assuming its earnings are sufficient to classify all interest as a tax-deductible expense?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Re = .04 + 1.1(.08) Re = .128 Debt = 80($1,000) Debt = $80,000 Common stock = 4,000($40) Common stock = $160,000 Total debt and equity = $80,000 + 160,000 Total debt and equity = $240,000 WACC = ($160,000/$240,000)(.128) + ($80,000/$240,000)(.086)(1 − .21) WACC = .1080, or 10.80% Difficulty: 2 Medium Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Re = .04 + 1.1(.08)",
+    "chapter": 13
+  },
+  {
+    "id": 1186,
+    "question": "Peter's Audio has a yield to maturity on its debt of 7.8 percent, a cost of equity of 12.4 percent, and a cost of preferred stock of 8 percent. The firm has 105 shares of common stock outstanding at a market price of $22 a share. There are 25 shares of preferred stock outstanding at a market price of $45 a share. The bond issue has a total face value of $1,500 and sells at 98 percent of face value. If the tax rate is 21 percent, what is the weighted average cost of capital assuming all interest is tax deductible?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Debt = $1,500(.98) Debt = $1,470 Preferred stock = 25($45) Preferred stock = $1,125 Common stock = 105($22) Common stock = $2,310 Total debt and equity = $1,470 + 1,125 + 2,310 Total debt and equity = $4,905 WACC = ($2,310/$4,905)(.124) + ($1,125/$4,905)(.08) + [($1,470/$4,905)(.078)(1 − .21) WACC = .0952, or 9.52% Difficulty: 2 Medium Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Debt = $1,500(.98)",
+    "chapter": 13
+  },
+  {
+    "id": 1187,
+    "question": "Phil's Carvings wants to have a weighted average cost of capital of 9.5 percent. The firm has an aftertax cost of debt of 6.5 percent and a cost of equity of 12.75 percent. What debt-equity ratio is needed for the firm to achieve its targeted weighted average cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: .095 = .1275We + (1 − We)(.065) We = .48 D/E = (1 − .48)/.48 D/E = 1.08 Difficulty: 2 Medium Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": ".095 = .1275We + (1 − We)(.065)",
+    "chapter": 13
+  },
+  {
+    "id": 1188,
+    "question": "Sound Systems has 200 shares of common stock outstanding at a market price of $37 a share. The firm recently paid an annual dividend in the amount of $1.20 per share and has a dividend growth rate of 4 percent. The firm also has 5 bonds outstanding with a face value of $1,000 per bond that are selling at 99 percent of par. The bonds have a coupon rate of 6 percent and a yield to maturity of 6.7 percent. All interest is tax deductible. If the tax rate is 21 percent, what is the weighted average cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Debt = 5($1,000)(.99) Debt = $4,950 Common stock = 200($37) Common stock = $7,400 Total debt and equity = $4,950 + $7,400 Total debt and equity = $12,350 Re = $1.20(1.04)/$37 + .04 Re = .07373, or 7.373% WACC = ($7,400/$12,350)(.07373) + ($4,950/$12,350)(.067)(1 − .21)] WACC = .0654, or 6.54% Difficulty: 2 Medium Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Debt = 5($1,000)(.99)",
+    "chapter": 13
+  },
+  {
+    "id": 1189,
+    "question": "Suppose Simmons' common stock has a beta of 1.37, the risk-free rate is 3.4 percent, and the market risk premium is 8.2 percent. The yield to maturity on the firm's bonds is 7.6 percent and the debt-equity ratio is .45. What is the WACC if the tax rate is 23 percent and all interest is tax deductible?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Rs = .034 + 1.37(.082) Rs = .14634, or 14.634% WACC = (1/1.45)(.14634) + (.45/1.45)(.076)(1 − .23) WACC = .1191, or 11.91% Difficulty: 2 Medium Section: 13.8 The Weighted Average Cost of Capital Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Rs = .034 + 1.37(.082)",
+    "chapter": 13
+  },
+  {
+    "id": 1190,
+    "question": "Tin Roof's net cash flows for the next three years are projected at $72,000, $78,000, and $84,000, respectively. After that, the cash flows are expected to increase by 3.2 percent annually. The aftertax cost of debt is 6.2 percent and the cost of equity is 11.4 percent. What is the value of the firm if it is financed with 40 percent debt and 60 percent equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: WACC = .60(.114) + .40(.062) WACC = .0932, or 9.32% PV0 = $72,000/1.0932 + $78,000/1.09322 + $84,000/1.09323 + [$84,000(1.032)]/(.0932 − .032)]/1.09323 PV0 = $1,279,623 Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "WACC = .60(.114) + .40(.062)",
+    "chapter": 13
+  },
+  {
+    "id": 1191,
+    "question": "The expected net cash flows of Advantage Leasing for the next three years are $42,000, $49,000, and $64,000, respectively. After three years, the growth rate of these cash flows will be a constant 2 percent annually. The WACC is 8 percent. What is the present value of the terminal value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: PVTerminal value = [$64,000(1.02)/(.08 − .02)]/1.083 PVTerminal value = $863,689 Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "PVTerminal value = [$64,000(1.02)/(.08 − .02)]/1.083",
+    "chapter": 13
+  },
+  {
+    "id": 1192,
+    "question": "Norris Co. has developed an improved version of its most popular product. To get this improvement to the market will cost $48 million but the project will return an additional $13.5 million for 5 years in net cash flows. The firm's debt-equity ratio is .25, the cost of equity is 13 percent, the pretax cost of debt is 9 percent, and the tax rate is 21 percent. All interest is tax deductible. What is the net present value of this proposed project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: WACC = (1/1.25)(.13) + (.25/1.25)(.09)(1 − .21) WACC = .11822 NPV = −$48,000,000 + $13,500,000[(1 − 1/1.118225)/.11822] NPV = $879,838 Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Project analysis and evaluation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "WACC = (1/1.25)(.13) + (.25/1.25)(.09)(1 − .21)",
+    "chapter": 13
+  },
+  {
+    "id": 1193,
+    "question": "Hu's has 25,000 shares of common stock outstanding with a beta of 1.4, a market price of $32 a share, and a dividend yield of 5.7 percent. Dividends increase by 4.2 percent annually. The firm also has $450,000 of debt outstanding that is selling at 102 percent of par that has a yield to maturity of 6.8 percent. The tax rate is 21 percent and all interest is tax deductible. The firm is considering a project that has the same risk level as the firm's current operations, an initial cost of $328,000 and cash inflows of $52,500, $155,000, and $225,000 for Years 1 to 3, respectively. What is the NPV of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Common stock = 25,000($32) Common stock = $800,000 Debt = $450,000(1.02) Debt = $459,000 Total debt and equity = $800,000 + 459,000 Total debt and equity = $1,259,000 Rs = .057 + .042 Rs = .099, or 9.9% WACC = ($800,000/$1,259,000)(.099) + ($459,000/$1,259,000)(.068)(1 − .21) WACC = .0825, or 8.25% NPV = −$328,000 + $52,500/1.0825 + $155,000/1.08252 + $225,000/1.08253 NPV = $30,157 Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Project analysis and evaluation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Common stock = 25,000($32)",
+    "chapter": 13
+  },
+  {
+    "id": 1194,
+    "question": "ABC is considering acquiring XYZ and has compiled this information on XYZ: Year 1 2 3 EBIT $ 318,000 $ 364,000 $ 392,000 Capital spending 46,500 28,000 36,200 Increases in net working capital 5,500 6,500 1,200 Depreciation 34,000 32,100 28,700 The applicable tax rate is 21 percent and the terminal value of XYZ as of Year 3 is $2.5 million. What is the NPV of this acquisition if the discount rate is 7.1 percent and the acquisition cost is $2.25 million?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: CF1 = $318,000(1 − .21) + 34,000 − 46,500 − 5,500 CF1= $233,220 CF2 = $364,000(1 − .21) + 32,100 − 28,000 − 6,500 CF2 = $285,160 CF3 = $392,000(1 − .21) + 28,700 − 36,200 − 1,200 CF3 = $300,980 NPV = −$2,250,000 + $233,220/1.071 + $285,160/1.0712 + ($300,980 + 2,500,000)/1.0713 NPV = $496,399 Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Firm valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "CF1 = $318,000(1 − .21) + 34,000 − 46,500 − 5,500",
+    "chapter": 13
+  },
+  {
+    "id": 1195,
+    "question": "The Upper Tier has a current debt-equity ratio of .52 and a target debt-equity ratio of .45. The cost of floating equity is 9.5 percent and the flotation cost of debt is 6.6 percent. What should the firm use as their weighted average flotation cost?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: ƒ = (1/1.45)(.095) + (.45/1.45)(.066) ƒ = .0860, or 8.60% Difficulty: 2 Medium Section: 13.11 Flotation Costs and the Weighted Average Cost of Capital Topic: Flotation costs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "ƒ = (1/1.45)(.095) + (.45/1.45)(.066)",
+    "chapter": 13
+  },
+  {
+    "id": 1196,
+    "question": "Downtown Stores can issue equity at a flotation cost of 8.76 percent and debt at 5.93 percent. The firm currently has a debt-equity ratio of .37 but prefers a ratio of .35. What should this firm use as their weighted average flotation cost?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: ƒ = (1/1.35)(.0876) + (.35/1.35)(.0593) ƒ = .0803 or 8.03% Difficulty: 2 Medium Section: 13.11 Flotation Costs and the Weighted Average Cost of Capital Topic: Flotation costs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "ƒ = (1/1.35)(.0876) + (.35/1.35)(.0593)",
+    "chapter": 13
+  },
+  {
+    "id": 1197,
+    "question": "Explain a) the factors that determine a security's beta and b) how asset beta relates to equity beta. Answer: ∙ The key factors affecting a security's beta are the cyclicality of revenues, operating leverage, and financial leverage. ∙ The asset beta equals the equity beta for an all-equity firm. The equity beta is greater than the asset beta for a levered firm. Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 13
+  },
+  {
+    "id": 1198,
+    "question": "The Neptune Company offers network communications systems to computer users. The company is planning a major investment expansion but is unsure of the cost of equity capital as it has no publicly-traded equity. Your assignment is to determine an appropriate equity cost. List and explain the steps you will need to take to complete this assignment. Answer: Step 1: Collect estimates of equity betas for firms in the same business as Neptune. Step 2: Collect market values and debt-equity ratios for each business in Step 1. Step 3: De-lever the individual equity betas and estimate an average asset beta for the group. Step 4: Re-lever the average asset beta using Neptune's target debt-equity ratio to determine Neptune's equity beta. Step 5: Determine the risk-free rate and the market risk premium. Step 6: Calculate the estimated cost of equity capital using Neptune's estimated equity beta. Difficulty: 2 Medium Section: 13.4 Determinants of Beta Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 13
+  },
+  {
+    "id": 1199,
+    "question": "World Corporation has traditionally employed a firm-wide discount rate for capital budgeting purposes. However, its two divisions, publishing and entertainment, have different degrees of risk given by βP = 1.1, βE = 1.8, while the beta for the overall firm is 1.3. The publishing division has proposed three projects with these internal rates of return: P1 = 13.2 percent; P2 = 12.4 percent; and P3 = 9.8 percent. The entertainment division has presented their three projects: E1 = 16.4 percent; E2 = 17.8 percent; and E3 = 14.7 percent. The risk-free rate is 4 percent and the market risk premium is 8 percent. Identify which projects will be accepted if the firm applies its overall beta to all projects. Then identify which projects will be accepted if the division betas are properly applied. Answer: RF = .04 + 1.3(.08) RF = .144, or 14.4% RP = .04 + 1.1(.08) RP = .128, or 12.8% RE = .04 + 1.8(.08) RE = .184. or 18.4% Based on the firm's beta, the firm will accept projects E1, E2, and E3. Based on the division's betas, the firm will only accept project P1. Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Project analysis and evaluation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 13
+  },
+  {
+    "id": 1200,
+    "question": "On-line Text Co. has four new text publishing products that it is considering. The projects are of equal risk with a beta of 1.6. The risk-free rate is 4.2 percent and the market rate is expected to be 12.3 percent. The projects and their expected internal rates of return are: W = 14.4 percent; X = 18 percent, Y = 16.4 percent; and Z = 17.2 percent. Which projects should be accepted? Justify your acceptance decision. Answer: Rs = .042 + 1.6(.123 − .042) Rs = .1716, or 17.16% Accept projects X and Z because their IRR's exceed the required return of 17.16 percent, which is computed using the appropriate beta of 1.6. Difficulty: 2 Medium Section: 13.9 Valuation with WACC Topic: Project analysis and evaluation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 13
+  }
+]

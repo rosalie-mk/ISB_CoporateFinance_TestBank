@@ -1,1 +1,848 @@
-[]
+[
+  {
+    "id": 1896,
+    "question": "A warrant bestows on its owner the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "time.",
+      "D": "",
+      "E": "of time. Answer: B Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1897,
+    "question": "Warrants are most often issued in combination with new:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 24
+  },
+  {
+    "id": 1898,
+    "question": "The lower limit of a warrant's value is defined as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1899,
+    "question": "The upper limit of a warrant's value is best defined as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1900,
+    "question": "Which one of the following is least apt to affect the value of a warrant?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 24
+  },
+  {
+    "id": 1901,
+    "question": "Bright View Windows issued warrants with an exercise price of $17. Bright View's common stock currently sells for $16 per share. The warrants are:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1902,
+    "question": "Which one of these features applies to call options but not to warrants?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 24
+  },
+  {
+    "id": 1903,
+    "question": "Which one of the following occurs whenever a warrant is exercised?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1904,
+    "question": "Warrants generally:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 24
+  },
+  {
+    "id": 1905,
+    "question": "Concerning warrants and call options, which one of the following statements generally is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 24
+  },
+  {
+    "id": 1906,
+    "question": "Which one of the following would harm the financial position of a warrant holder?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1907,
+    "question": "The gain from exercising a warrant is ________ the gain from exercising a comparable call option.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1908,
+    "question": "The exercise of warrants creates new shares which:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1909,
+    "question": "The gain on a call is computed as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1910,
+    "question": "The gain on a warrant is computed as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1911,
+    "question": "The gain on a warrant compared to the gain on a similar call is expressed as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1912,
+    "question": "If a corporate security can be exchanged for a fixed number of shares of stock, the security is said to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1913,
+    "question": "A convertible preferred stock is similar to a convertible bond except that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1914,
+    "question": "The holder of a $1,000 face value bond has the right to exchange the bond any time prior to maturity for shares of stock priced at $50 per share. The $50 is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1915,
+    "question": "Concerning convertible bonds, which one of these statements is false?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "otherwise identical convertible bond.",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1916,
+    "question": "A convertible bond has an option value equal to the market value of the convertible bond minus the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 24
+  },
+  {
+    "id": 1917,
+    "question": "A firm has experienced a significant increase in its share value. In retrospect, which one of the following securities would generally have provided the most benefit to the firm assuming the securities had been issued prior to the change in share value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.6 Reasons for Issuing Warrants and Convertibles Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1918,
+    "question": "A firm has experienced a significant decrease in its share value. In retrospect, which one of the following securities would generally have provided the most benefit to the firm assuming the securities had been issued prior to the change in share value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 24.6 Reasons for Issuing Warrants and Convertibles Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 24
+  },
+  {
+    "id": 1919,
+    "question": "A convertible bond:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "in the future.",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1920,
+    "question": "Convertible bonds:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 24
+  },
+  {
+    "id": 1921,
+    "question": "Assume a firm issues convertible bonds at a time when the risk of the firm is difficult to properly assess. If the firm is subsequently determined to have low risk, then the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1922,
+    "question": "Issuing convertible bonds or bonds with warrants is useful for a company of unknown risk because:",
+    "options": {
+      "A": "",
+      "B": "be high.",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1923,
+    "question": "Transfer or expropriation of wealth from bondholders to stockholders is less likely to occur when:",
+    "options": {
+      "A": "subordinated bondholders.",
+      "B": "",
+      "C": "undertaken.",
+      "D": "debt is issued.",
+      "E": "shareholders. Answer: B Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1924,
+    "question": "Assuming market efficiency, which one of these is the least sensible explanation of why convertibles and warrants are issued?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 24
+  },
+  {
+    "id": 1925,
+    "question": "From the bondholder's point of view, the optimum time to convert a convertible bond is when the bond's conversion value is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 24.8 Conversion Policy Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 24
+  },
+  {
+    "id": 1926,
+    "question": "Based on empirical studies, firms tend to call convertible bonds when the conversion value is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 24.8 Conversion Policy Topic: Convertible securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1927,
+    "question": "Modern Windows issued warrants for one share per warrant with an exercise price of $21. On May 1, the common stock is selling for $23 a share. The lower and upper limits on the warrant value on this date are:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Lower limit = MAX[0,(Stock price − Exercise price)] Lower limit = MAX[0,($23 − 21)] Lower limit = $2 Upper limit = Stock price Upper limit = $23 Difficulty: 2 Medium Section: 24.1 Warrants Topic: Warrants Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Lower limit = MAX[0,(Stock price − Exercise price)]",
+    "chapter": 24
+  },
+  {
+    "id": 1928,
+    "question": "Outer Wear has 12,000 shares of stock outstanding. Each share has a .5 warrant attached. These warrants expire today. The market value of the firm's assets net of its debt is $192,000. One new share can be obtained for one warrant plus $18. Assuming all else held constant, what would you expect the market price per share to be tomorrow morning when the stock market opens?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Market value per share = Total value/Number of shares Market value per share = $192,000/12,000 Market value per share = $16 Since the exercise price exceeds the market price, the warrants will not be exercised. Difficulty: 2 Medium Section: 24.1 Warrants Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Market value per share = Total value/Number of shares",
+    "chapter": 24
+  },
+  {
+    "id": 1929,
+    "question": "Westover Industries has 600,000 shares outstanding with a market value of $27 a share. Each share has a .2 warrant attached. One warrant plus $25 can be exchanged for one new share of stock. What will be the value of the firm if all the warrants are exercised? Assume all else held constant.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Firm value = Original value + Exercise premium Firm value = 600,000($27) + 600,000/5($25) Firm value = $19,200,000, or $19.2 million Difficulty: 2 Medium Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Firm value = Original value + Exercise premium",
+    "chapter": 24
+  },
+  {
+    "id": 1930,
+    "question": "Westover Industries has 60,000 shares outstanding. Each share has one-third of a warrant attached. One warrant plus $25 can be exchanged for one new share of stock. The stock is currently selling for $27 per share. All else held constant, what will the stock price be if all the warrants are exercised?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Price = Total value/Total shares Price = [60,000($27) + 60,000/3($25)]/(60,000 + 60,000/3) Price = $26.50 Difficulty: 2 Medium Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Price = Total value/Total shares",
+    "chapter": 24
+  },
+  {
+    "id": 1931,
+    "question": "The Gallery has 150,000 shares and 150,000 warrants outstanding. One new share can be purchased for every 10 warrants plus $25 per new share. The stock is currently selling for $28 per share. If all the warrants are exercised immediately, what would be the adjusted market price of the stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Market price = Total value/Total shares Market price = [150,000($28) + (150,000/10)($25)]/[150,000 + (150,000/10)] Market price = $27.73 Difficulty: 2 Medium Section: 24.2 The Difference between Warrants and Call Options Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Market price = Total value/Total shares",
+    "chapter": 24
+  },
+  {
+    "id": 1932,
+    "question": "Eastern Shore Merchants has 75,000 shares and 50,000 warrants currently outstanding. A warrant holder can purchase one new share of stock in exchange for four warrants plus $20. The stock is currently selling for $20.60 per share. What would be the gain per new share from exercising the warrants, assuming all warrants are exercised?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Gain per share = (New total value/New total shares) − Exercise price Gain per share = {[75,000($20.60) + (50,000/4)($20)]/[75,000 + 50,000/4)]} − $20 Gain per share = $20.51 − 20 Gain per share = $.51 Difficulty: 2 Medium Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Gain per share = (New total value/New total shares) − Exercise price",
+    "chapter": 24
+  },
+  {
+    "id": 1933,
+    "question": "A firm has 600 shares of stock and 100 warrants outstanding. Assume the warrants are all exercised. The market value of the firm's assets is $25,000 and the market value of its debt is $8,000. Each warrant grants its owner the right to buy one new share at $27.50. What is the gain on one warrant?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Gain = [$25,000 − 8,000 + $27.50(100)/(600 + 100)] − $27.50 Gain = $.71 Difficulty: 2 Medium Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Gain = [$25,000 − 8,000 + $27.50(100)/(600 + 100)] − $27.50",
+    "chapter": 24
+  },
+  {
+    "id": 1934,
+    "question": "Kida Consultants has 100,000 shares of stock outstanding. The firm's value net of debt is $2 million. Kida has 1,000 warrants outstanding with an exercise price of $18, where each warrant entitles the holder to purchase one share of stock. Calculate the gain from exercising a single warrant.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Gain = {[($2,000,000 + 1,000($18)]/(100,000 + 1,000)} − $18 Gain = $1.98 Difficulty: 2 Medium Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Gain = {[($2,000,000 + 1,000($18)]/(100,000 + 1,000)} − $18",
+    "chapter": 24
+  },
+  {
+    "id": 1935,
+    "question": "Lefty Consultants currently has 300,000 shares of common outstanding. Firm value net of debt is $3,450,000. The firm has warrants outstanding with an exercise price of $10. How many warrants must the firm have issued if the gain from exercising a single warrant is $1.25? Assume each warrant entitles its owner to one new share.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: $1.25 = {[$3,450,000 + Nw($10)]/(300,000 + Nw)} − $10 Number of warrants = 60,000 Difficulty: 2 Medium Section: 24.3 Warrant Pricing and the Black-Scholes Model Topic: Warrants Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "$1.25 = {[$3,450,000 + Nw($10)]/(300,000 + Nw)} − $10",
+    "chapter": 24
+  },
+  {
+    "id": 1936,
+    "question": "The holders of Xenron Corporation's bonds with a face value of $1,000 can exchange each of those bonds for 35 shares of stock. The stock is selling for $22 a share. What is the conversion price?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Conversion price = $1,000/35 Conversion price = $28.57 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Conversion price = $1,000/35",
+    "chapter": 24
+  },
+  {
+    "id": 1937,
+    "question": "Diamond Drill has 150,000 shares of stock outstanding at a market price of $46 a share. The holder of a $1,000 face value bond can exchange the bond at any time for 25 shares of stock. What is the conversion price?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Conversion price = $1,000/25 Conversion price = $40 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Conversion price = $1,000/25",
+    "chapter": 24
+  },
+  {
+    "id": 1938,
+    "question": "A bond with a face value of $1,000 can be exchanged for 35 shares of stock with a current market price of $22 per share. What would the conversion ratio and conversion price be if the bond's issuer declared a stock split of 3-for-1?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: New conversion ratio = 35(3) New conversion ratio = 105 New conversion price = $1,000/105 New conversion price = $9.52 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "New conversion ratio = 35(3)",
+    "chapter": 24
+  },
+  {
+    "id": 1939,
+    "question": "A bond with a face value of $1,000 can be converted into 33 shares of stock. What is the conversion value if the stock is selling for $29.80 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Conversion value = $29.80(33) Conversion value = $983.40 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Conversion value = $29.80(33)",
+    "chapter": 24
+  },
+  {
+    "id": 1940,
+    "question": "The holders of Mikayla Corporation's bond with a face value of $1,000 can exchange that bond for 30 shares of stock. What is the conversion price if the stock is selling for $28.20 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Conversion price = Face value/Conversion ratio Conversion price = $1,000/30 Conversion price = $33.33 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Conversion price = Face value/Conversion ratio",
+    "chapter": 24
+  },
+  {
+    "id": 1941,
+    "question": "The holders of Mikayla Corporation's bonds with a face value of $1,000 each can exchange a bond for 20 shares of stock. The stock is selling for $49.40 a share. What is the conversion premium?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Conversion premium= [($1,000/20)/$49.40] − 1 Conversion premium = .0121, or 1.21% Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Conversion premium= [($1,000/20)/$49.40] − 1",
+    "chapter": 24
+  },
+  {
+    "id": 1942,
+    "question": "Assume a bond had a conversion price of $40 and a conversion ratio of 25. What would be the conversion ratio and conversion price if the bond issuer declared a stock split of 4-for-1?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: New conversion ratio = 25(4/1) New conversion ratio = 100 New conversion price = [$40(25)]/100 New conversion price = $10 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "New conversion ratio = 25(4/1)",
+    "chapter": 24
+  },
+  {
+    "id": 1943,
+    "question": "A convertible bond is selling for $800, matures in 10 years, has a face value of $1,000, and a coupon rate of 10 percent. Similar nonconvertible bonds are priced to yield 14 percent. The conversion price is $32. The stock currently sells for $31.30 a share. What is the conversion premium?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Conversion premium = $32/$31.30 − 1 Conversion premium = .0224, or 2.24% Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Conversion premium = $32/$31.30 − 1",
+    "chapter": 24
+  },
+  {
+    "id": 1944,
+    "question": "SBX bonds have a face value of $1,000 and can be exchanged for 20 shares of stock. Assume SBX declares a 3-for-1 stock split. What conversion price will be needed following the stock split for the conversion value and the straight bond value to be equal assuming the bond continually sells at par?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Conversion value = Straight bond value = Par value Conversion value = $1,000 Conversion price = Conversion value/Number of shares Conversion price = $1,000/[20(3/1)] Conversion price = $16.67 Difficulty: 2 Medium Section: 24.4 Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Conversion value = Straight bond value = Par value",
+    "chapter": 24
+  },
+  {
+    "id": 1945,
+    "question": "A convertible bond is selling for $967, matures in 15 years, has a $1,000 face value, pays interest semiannually, and has a coupon rate of 8 percent. Similar non-convertible bonds are priced to yield 4.25 percent per six months. The conversion ratio is 20. The stock currently sells for $47.50 a share. Calculate the convertible bond's option value.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Straight bond value = [.08($1,000)/2]PVIFA4.25%, 30 + $1,000/1.042530 Straight bond value = $958.05 Conversion value = 20($47.50) Conversion value = $950 Bond value = MAX[Straight bond value, Conversion value] + Option value Option value = Bond value – MAX[Straight bond value, Conversion value] Option value = $967 − MAX[$958.05, 950] Option value = $8.95 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Straight bond value = [.08($1,000)/2]PVIFA4.25%, 30 + $1,000/1.042530",
+    "chapter": 24
+  },
+  {
+    "id": 1946,
+    "question": "A convertible bond is selling for $1,222.70. It has 10 years to maturity, a $1,000 face value, a coupon rate of 10 percent, and semiannual interest payments. Similar non-convertible bonds are priced to yield 4 percent per six months. The conversion ratio is 40. The stock currently sells for $30.13 a share. Calculate the convertible bond's option value.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Straight bond value = [.10($1,000)/2]PVIFA4%, 20 + $1,000/1.0420 Straight bond value = $1,135.90 Conversion value = 40($30.13) Conversion value = $1,205.20 Bond value = MAX[Straight bond value, Conversion value] + Option value Option value = Bond value – MAX[Straight bond value, Conversion value] Option value = $1,222.70 – MAX[$1,135.90, 1,205.20] Option value = $17.50 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Straight bond value = [.10($1,000)/2]PVIFA4%, 20 + $1,000/1.0420",
+    "chapter": 24
+  },
+  {
+    "id": 1947,
+    "question": "A convertible bond is valued at $1,062, has a conversion ratio of 25, and an option premium of $3. What is the conversion value if the straight bond value is equal to the bond's par value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Bond value = MAX[Straight bond value, Conversion value] + Option premium $1,062 = MAX[$1,000, Conversion value] + $3 Conversion value = $1,059 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Bond value = MAX[Straight bond value, Conversion value] + Option premium",
+    "chapter": 24
+  },
+  {
+    "id": 1948,
+    "question": "Cooper Industries has 400,000 shares of stock outstanding with a market price of $32 a share. The firm also has 10,000 bonds outstanding with a face value of $1,000 and a conversion price of $40. The bonds mature tomorrow. You currently own 25,000 shares of this stock and no bonds. What percent ownership in the firm should you expect to have after tomorrow?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: The bonds will be submitted for redemption and not converted because the conversion price exceeds the stock price. Ownership % = 25,000/400,000 Ownership % = .0625, or 6.25% Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "The bonds will be submitted for redemption and not converted because the",
+    "chapter": 24
+  },
+  {
+    "id": 1949,
+    "question": "Assume Jamestown Markets has 500 shares of stock and 100 bonds outstanding. The bonds have a face value of $1,000, are convertible into 5 shares of newly issued common stock, and mature today. What is the value of this firm to its shareholders if the total value of the firm is $184,500? What if the value is $225,000?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: If the bonds are converted, the bondholders' ownership position will be: Bondholders' ownership % = [100(5)]/[500 + 100(5)] Bondholders' ownership % = .50, or 50% At a firm value of $184,500, the bonds will not be converted and the shareholders' value will be: Shareholders' value = $184,500 − 100($1,000) Shareholders' value = $84,500 At a firm value of $225,000, the bonds will be converted and the shareholders' value will be: Shareholders' value = .50($225,000) Shareholders' value = $112,500 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "If the bonds are converted, the bondholders' ownership position will be:",
+    "chapter": 24
+  },
+  {
+    "id": 1950,
+    "question": "A bond with a face value of $5,000 can be exchanged for 70 shares of stock. The bond has a coupon rate of 6.5 percent which equals the market rate of interest. Assume the option premium is $50. What is the market value of the bond if the stock is selling for $68.90 a share and the bond matures in exactly one year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Conversion value = $68.90(70) Conversion value = $4,823.00 Market value = MAX[$5,000, $4,823.00] + $50 Market value = $5,050.00 Since the bond's coupon rate is equal to the market rate of interest, the bond's straight value will equal the face value. Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Conversion value = $68.90(70)",
+    "chapter": 24
+  },
+  {
+    "id": 1951,
+    "question": "Aztec's convertible bonds each have a face value of $1,000 and a market value of $1,041.25. Each bond can be exchanged 25 shares of stock. The stock is selling for $41.54 a share. The straight bond value is $1,010. What is the option value per bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: $1,041.25 = MAX[$1,010, 25($41.54)] + Option value Option value = $2.75 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "$1,041.25 = MAX[$1,010, 25($41.54)] + Option value",
+    "chapter": 24
+  },
+  {
+    "id": 1952,
+    "question": "A convertible bond matures in 15 years, pays annual coupons, and has a coupon rate of 8 percent. The face value is $1,000 and the conversion ratio is 40. The stock currently sells for $22.80 a share. Similar nonconvertible bonds are priced to yield 9 percent. What is the minimal value of the convertible bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Straight bond value = .08($1,000)PVIFA9%,15 + $1,000/1.0915 Straight bond value = $919.39 Conversion value = 40($22.80) Conversion value = $912.00 Assuming there is no option premium: Bond value = MAX[Straight bond value, Conversion value] Bond value = MAX[$919.39, 912.00] Bond value = $919.39 Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Straight bond value = .08($1,000)PVIFA9%,15 + $1,000/1.0915",
+    "chapter": 24
+  },
+  {
+    "id": 1953,
+    "question": "Looper Industries bonds have a face value of $1,000 and can be exchanged for 30 shares of stock. The stock is selling for $35 a share. Looper has an outstanding call option on the bonds at $1,040. If the bonds are called, the holders must either convert or surrender their bonds. What should be the current market value of one of these bonds if the option premium per bond is $15? Assume the bond coupon rate equals the market rate of interest at time of call.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Bond value = MAX(Conversion value, Call value] + Option premium Bond value = MAX[(30($35), $1,040] + $15 Bond value = $1,065 Difficulty: 2 Medium Section: 24.8 Conversion Policy Topic: Convertible securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Bond value = MAX(Conversion value, Call value] + Option premium",
+    "chapter": 24
+  },
+  {
+    "id": 1954,
+    "question": "Identify five factors that help determine the value of a warrant above its lower limit. Answer: ∙ Variance of the underlying security's returns ∙ Time to expiration ∙ Risk-free rate of interest ∙ Underlying stock price ∙ Exercise price Difficulty: 1 Easy Section: 24.1 Warrants Topic: Warrants Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 24
+  },
+  {
+    "id": 1955,
+    "question": "Explain how a noncallable convertible bond's value is determined. Answer: A convertible bond has two underlying values. The first is the bond's value as a straight bond that pays periodic interest payments and repays the principal on the maturity date. The second value is the value obtained if the bond is converted into shares of stock. The convertible bond's market value will be the higher of these two values plus any option premium bestowed by the market. Difficulty: 2 Medium Section: 24.5 The Value of Convertible Bonds Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 24
+  },
+  {
+    "id": 1956,
+    "question": "Explain why there is neither a \"Free Lunch\" nor an \"Expensive Lunch\" when convertible bonds are issued. Answer: Convertible bonds are not cheaper or more expensive in an efficient market. When you compare convertible bonds with straight bonds and common stock, you will find that no single alternative will dominate convertibles in both up and down markets. Difficulty: 2 Medium Section: 24.6 Reasons for Issuing Warrants and Convertibles Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "C",
+    "chapter": 24
+  },
+  {
+    "id": 1957,
+    "question": "Why are warrants and convertibles issued? Answer: Warrants and convertibles are issued to add flexibility to the financial structure of the firm, to help match cash flows, to protect against misjudging a firm's risk level, and also to help reduce agency costs. Finally, the use of convertibles as backdoor equity is a popular theory. Difficulty: 2 Medium Section: 24.7 Why Are Warrants and Convertibles Issued? Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 24
+  },
+  {
+    "id": 1958,
+    "question": "Discuss the factors that management must consider before calling a convertible bond. Answer: When a firm calls a bond it generally does so by offering a call premium. So, first of all, firms would not want to do this if the call price is going to exceed the convertible's market value. The minimum market value of a convertible bond is the maximum of the bond's straight bond price and its conversion value. The straight bond price is affected by market interest rates and the conversion value is affected by stock market prices, both of which fluctuate throughout every trading day. Since bondholders generally have 30 days to decide whether to convert a bond or surrender it at the call price, managers must forecast market movements for at least that long prior to making a call offer. Difficulty: 2 Medium Section: 24.8 Conversion Policy Topic: Convertible securities Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 24
+  }
+]

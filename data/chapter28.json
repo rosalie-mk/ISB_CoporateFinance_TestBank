@@ -1,1 +1,877 @@
-[]
+[
+  {
+    "id": 2215,
+    "question": "Selling goods and services on credit is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.1 Credit and Receivables Topic: Credit policy Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2216,
+    "question": "When credit is granted by one firm to another firm this gives rise to a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 28.1 Credit and Receivables Topic: Credit policy Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2217,
+    "question": "The average collection period measures the average:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.1 Credit and Receivables Topic: Credit policy Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2218,
+    "question": "The three components of credit policy are:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.1 Credit and Receivables Topic: Credit policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2219,
+    "question": "Credit analysis is best described as the process of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.1 Credit and Receivables Topic: Credit policy analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2220,
+    "question": "Seasonal dating is used to promote sales during the off-season. This process involves:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2221,
+    "question": "Credit terms of 1/5, net 15 should be interpreted as granting:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2222,
+    "question": "The credit period begins on the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2223,
+    "question": "On September 1, a firm grants credit with terms of 2/10 net 30. The creditor:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "10 percent if payment is made after October 1.",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2224,
+    "question": "The length of the credit period offered by a firm is influenced by all of the following except the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2225,
+    "question": "Seasonal dating of accounts receivable:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "season. Answer: C Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2226,
+    "question": "Which one of the following statements is false as it relates to considerations firms use when establishing a credit policy?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "receive longer credit periods.",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2227,
+    "question": "The upper limit to the credit period is best expressed as the length of the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2228,
+    "question": "Cash discounts:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2229,
+    "question": "With an open account the formal instrument of credit is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit instruments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2230,
+    "question": "Which one of these statements is true regarding promissory notes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit instruments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2231,
+    "question": "A commercial draft typically:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit instruments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2232,
+    "question": "Which one of the following statements is false?",
+    "options": {
+      "A": "goods are delivered.",
+      "B": "note.",
+      "C": "",
+      "D": "",
+      "E": "to pay. Answer: B Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit instruments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2233,
+    "question": "One characteristic of a conditional sales contract is that the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit instruments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2234,
+    "question": "The net credit period for a company with terms of 2/10, net 45 is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2235,
+    "question": "The decision to grant credit should consider all the following except the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2236,
+    "question": "When analyzing the NPV of a decision to switch from a cash-only sales policy to a credit policy with an early payment discount, the firm is least apt to consider the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2237,
+    "question": "When analyzing the decision to change the cash discount policy, the firm should select the policy that has the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2238,
+    "question": "Assume you graph the costs of granting credit against the amount of credit extended. The optimal credit amount is then determined by the point which:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.4 Optimal Credit Policy Topic: Optimal credit policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2239,
+    "question": "Determining the optimal credit policy is based on a trade-off between the carrying costs of granting credit and the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.4 Optimal Credit Policy Topic: Optimal credit policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2240,
+    "question": "One key reason for establishing a captive finance company is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.4 Optimal Credit Policy Topic: Credit management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2241,
+    "question": "All the following can provide credit information about a customer except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.5 Credit Analysis Topic: Credit analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2242,
+    "question": "Since the credit decision usually includes riskier customers, the decision should adjust for this by:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.5 Credit Analysis Topic: Credit analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2243,
+    "question": "All the following are one of the \"Five C's of Credit\" except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.5 Credit Analysis Topic: Credit analysis Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2244,
+    "question": "Which one of the following statements is false?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.6 Collection Policy Topic: Collection policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2245,
+    "question": "To collect on the accounts receivable due to the firm, a firm can do all the following except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 28.6 Collection Policy Topic: Collection policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 28
+  },
+  {
+    "id": 2246,
+    "question": "Windshield glass purchased by an automaker and sitting on a shelf ready for use is classified as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.7 Inventory Management Topic: Inventory types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2247,
+    "question": "Which one of these statements is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.7 Inventory Management Topic: Inventory types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2248,
+    "question": "All of these are carrying costs of inventory except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 28.7 Inventory Management Topic: Inventory costs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2249,
+    "question": "The basic assumption of the ABC approach to inventory management is that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: ABC inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 28
+  },
+  {
+    "id": 2250,
+    "question": "At the optimal inventory level, the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 28
+  },
+  {
+    "id": 2251,
+    "question": "The EOQ model considers all the following except the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2252,
+    "question": "The EOQ model assumes inventory:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2253,
+    "question": "The minimum level of inventory that a firm wants to keep on hand at all times is referred to as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2254,
+    "question": "The total restocking cost is calculated as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 28
+  },
+  {
+    "id": 2255,
+    "question": "The reorder point considers all the following except the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2256,
+    "question": "The first step in materials requirements planning is establishing the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Derived-demand inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2257,
+    "question": "For a JIT inventory system to be efficient, the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 28.8 Inventory Management Techniques Topic: Derived-demand inventory management Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 28
+  },
+  {
+    "id": 2258,
+    "question": "Crocket Motors has an account receivable balance of $682,400 and the average collection period is 38 days. What are the firm's credit sales per day?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Daily credit sales = Accounts receivable/Average collection period Daily credit sales = $682,400/38 Daily credit sales = $17,957.89 Difficulty: 2 Medium Section: 28.1 Credit and Receivables Topic: Accounts receivable Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Daily credit sales = Accounts receivable/Average collection period",
+    "chapter": 28
+  },
+  {
+    "id": 2259,
+    "question": "Delta Distributors has accounts receivable of $2,750,000 and average daily credit sales of $118,280. The firm offers credit terms of 2/10, net 30. On average, what is the firm's accounts receivable period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Accounts receivable period = Accounts receivable/Average daily sales Accounts receivable period = $2,750,000/$118,280 Accounts receivable period = 23.25 days Difficulty: 2 Medium Section: 28.1 Credit and Receivables Topic: Accounts receivable Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Accounts receivable period = Accounts receivable/Average daily sales",
+    "chapter": 28
+  },
+  {
+    "id": 2260,
+    "question": "If 34 percent of customers pay on Day 10 and the remainder pay in an average of 28 days, what is the average collection period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: ACP = .34(10) + .66(28) ACP = 21.88 days Difficulty: 2 Medium Section: 28.2 Terms of the Sale Topic: Accounts receivable Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "ACP = .34(10) + .66(28)",
+    "chapter": 28
+  },
+  {
+    "id": 2261,
+    "question": "Lemoyne mailed an invoice today in the amount of $1,268 with terms of 2/7 net 30. What is the cost of credit to the customer if they pay on the last day of the credit period? Assume a 365- day year.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Rate for 23 days = .02($1,268)/[(1 − .02)($1,268)] Rate for 23 days = .020408 EAR = 1.020408(365/23) − 1 EAR = .3780, or 37.80% Difficulty: 2 Medium Section: 28.2 Terms of the Sale Topic: Costs of credit Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Rate for 23 days = .02($1,268)/[(1 − .02)($1,268)]",
+    "chapter": 28
+  },
+  {
+    "id": 2262,
+    "question": "Jaxon Markets currently has credit terms of net 30, an average collection period of 29 days, and average receivables of $211,410. The firm estimates that if it offered terms of 2/10, net 30 that 45 percent of its customers would pay on Day 10 with the remainder paying on average in 32 days. How much cash could the company free up from its accounts receivables if it switched its credit policy?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Average daily sales = Accounts receivable/Average collection period Average daily sales = $211,410/29 Average daily sales = $7,290. New average collection period = .45(10) + .55(32) New average collection period = 22.10 days New accounts receivable = Average daily sales (Average collection period) New accounts receivable = $7,290(22.10) New accounts receivable = $161,109 Cash freed up = Old accounts receivable − New accounts receivable Cash freed up = $211,410 − 161,109 Cash freed up = $50,301 Difficulty: 2 Medium Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Average daily sales = Accounts receivable/Average collection period",
+    "chapter": 28
+  },
+  {
+    "id": 2263,
+    "question": "Yesterday, Smiley Company sold $22,500 of merchandise on credit. The invoice was sent today with the terms, 3/10 net 40. This customer normally pays on the net date. What is the effective rate of interest the customer is paying by not taking the discount? Assume a 365-day year.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Rate for 30 days = .03($22,500)/[(1 − .03)($22,500)] Rate for 30 days = .030928 EAR = 1.030928(365/30) − 1 EAR = .4486, or 44.86% Difficulty: 2 Medium Section: 28.2 Terms of the Sale Topic: Costs of credit Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Rate for 30 days = .03($22,500)/[(1 − .03)($22,500)]",
+    "chapter": 28
+  },
+  {
+    "id": 2264,
+    "question": "Edgeworth Co. has an all-cash policy and sells 50 units per month at $920 a unit. The variable cost is $700 a unit. Should the firm grant 30 days of credit, it expects its sales would rise to 60 units without changes to price or costs per unit. The monthly required return is .75 percent. What is the NPV of switching to a credit policy?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPV of switching = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R NPV of switching = −[$920(50) + $700(60 − 50)] + [($920 − 700)(60 − 50)]/.0075 NPV of switching = $240,333 Difficulty: 2 Medium Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "NPV of switching = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R",
+    "chapter": 28
+  },
+  {
+    "id": 2265,
+    "question": "Assume Atlantic Fish sells 3,200 pounds of fish per month at a price of $2.90 a pound. The variable cost per pound is $2.22. Currently, the firm has a cash-only sales policy. The firm is considering changing to a net 30 credit policy. The monthly required return is 1.2 percent. What does the new level of sales need to be to break even on the switch?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R 0 = −[$2.90(3,200) + $2.22(Q' − Q)] + [($2.90 − 2.22)(Q' − Q)]/.012 Q' − Q = 170.44 pounds Q' = Q + (Q' − Q) Q' = 3,200 + 170.44 Q' = 3,370.44 Difficulty: 2 Medium Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "NPV = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R",
+    "chapter": 28
+  },
+  {
+    "id": 2266,
+    "question": "Lewis Companies sells 2,600 units a month for cash at a price of $299 a unit and a variable cost of $187 a unit. The firm estimates it can increase its sales by 200 units a month if it switches to a net 30 credit policy while keeping its price and costs at their current levels. If the monthly cost of capital is .85 percent, what is the NPV of switching?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPV = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R NPV = −[$299(2,600) + $187(200)] + [($299 − 187)(200)]/.0085 NPV = $1,820,494 Difficulty: 2 Medium Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "NPV = −[PQ + v(Q' − Q)] + [(P − v)(Q' − Q)]/R",
+    "chapter": 28
+  },
+  {
+    "id": 2267,
+    "question": "Underwood United has been approached by a new customer who has asked the firm to extend credit for 30 days on a one-time purchase of $499. The firm's required return on receivables is 1.8 percent per month and the variable cost of the desired item is $327. What is the NPV of granting credit if the firm estimates the probability of default is 15 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −v + (1 − π)P/(1 + R) NPV = −$327 + (1 − .15)$499/1.018 NPV = $89.65 Difficulty: 2 Medium Section: 28.5 Credit Analysis Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "NPV = −v + (1 − π)P/(1 + R)",
+    "chapter": 28
+  },
+  {
+    "id": 2268,
+    "question": "Alexander Moore & Co. is willing to offer credit on a one-time purchase provided the NPV of the transaction is at least $50 at a required monthly return of 2 percent. Assume a potential sale has a sales price of $248 and a variable cost of $164. What is the maximum probability of default that will result in an acceptable offer?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −v + (1 − π)P/(1 + R) $50 = −$164 + (1 − π)$248/1.02 π = .1198, or 11.98% Difficulty: 2 Medium Section: 28.5 Credit Analysis Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "NPV = −v + (1 − π)P/(1 + R)",
+    "chapter": 28
+  },
+  {
+    "id": 2269,
+    "question": "A&M Hardware assumes new customers will default 8 percent of the time but if they don't default, they will become repeat customers who always pay their bills. Assume the average sale is $383 with a variable cost of $260, and a monthly required return of 1.65 percent. What is the NPV of extending credit for one month to a new customer?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −v + (1 − π)(P − v)/R NPV = −$260 + (1 − .08)($383 − 260)/.0165 NPV = $6,598.18 Difficulty: 2 Medium Section: 28.5 Credit Analysis Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "NPV = −v + (1 − π)(P − v)/R",
+    "chapter": 28
+  },
+  {
+    "id": 2270,
+    "question": "Neilson's is a new firm that sells a product with a variable cost of $62 a unit. The firm has a monthly required return of 1.8 percent. The firm wants to offer all new customers 30 days of credit and expects that if it does so, that 12 percent will default on payment while the others become repeat customers. What is the minimum price the firm could charge to break-even on an NPV basis?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −v + (1 − π)(P − v)/R 0 = −$62 + (1 − .12)(P − $62)/.018 P = $63.27 Difficulty: 2 Medium Section: 28.5 Credit Analysis Topic: Credit policy analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "NPV = −v + (1 − π)(P − v)/R",
+    "chapter": 28
+  },
+  {
+    "id": 2271,
+    "question": "Sisler's sells 382,000 units a year and orders 10,000 units at a time. The cost of placing an order is $24.90. What is the firm's annual total restocking cost?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Total restocking cost = Fixed cost per order (Number of orders) Total restocking cost = $24.90(382,000/10,000) Total restocking cost = $951.18 Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Total restocking cost = Fixed cost per order (Number of orders)",
+    "chapter": 28
+  },
+  {
+    "id": 2272,
+    "question": "Jensen's Boat Works total costs of holding inventory is $8,400 when its order sizes are optimized. If the firm places 46 orders a year, what is the fixed cost per order?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: At the optimal order size, carrying costs equal restocking costs. Thus, restocking costs equal 50 percent of the total costs of holding inventory. Total restocking cost = .50(Total costs) = Fixed cost per order (Number of orders) Fixed cost per order = .50($8,400)/46 Fixed cost per order = $91.30 Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "At the optimal order size, carrying costs equal restocking costs. Thus, restocking",
+    "chapter": 28
+  },
+  {
+    "id": 2273,
+    "question": "Fried Onions has total annual sales of 438,000 units, a carrying cost per unit of $2.67 per year, and restocking costs of $48 per order. What is the EOQ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Q* = (2TF/CC).5 Q* = [2(438,000)($48)/$2.67].5 Q* = 3,968 units Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Q* = (2TF/CC).5",
+    "chapter": 28
+  },
+  {
+    "id": 2274,
+    "question": "Baked Potatoes has total annual sales of 846,000 units, a carrying cost per unit of $1.64 per year, and restocking costs of $31 per order. Each inventory item has an average cost of $2.39. What is the average dollar value of the firm's inventory if it always orders the most economical quantity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Q* = (2TF/CC).5 Q* = [2(846,000)($31)/$1.64].5 Q* = 5,655 units Average inventory value = (Q*/2)(Cost per unit) Average inventory value = (5,655/2)($2.39) Average inventory value = $6,758 Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: Economic order quantity (EOQ) model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Q* = (2TF/CC).5",
+    "chapter": 28
+  },
+  {
+    "id": 2275,
+    "question": "Identify several factors that affect the length of the credit period and provide an explanation of each. Answer: The length of the credit period is affected by: ∙ Perishability and collateral value: The credit period should be less than the life of the item being financed. For example, if bananas have a shelf life of one-week then the credit period should probably be one week or less. ∙ Consumer demand: The credit period should be inversely related to consumer demand. In other words, the higher the demand, the shorter the credit period. ∙ Cost, profitability, and standardization: The greater the standardization and the lower the cost, generally the shorter the credit period. ∙ Credit risk: As with any risk, the less exposure to it the better. Thus, the higher the risk, the shorter the credit period. ∙ Size of the account: The larger the account size the longer the credit period that may be granted, especially if an account represents a significant portion of a firm's sales. ∙ Competition: In a competitive market, credit periods may be extended as a means of gaining sales. ∙ Customer type: The type of customer and their operating cycle will influence the credit period. Some sellers are willing to finance a buyer's inventory period and maybe even its accounts receivable period, but not beyond. Difficulty: 2 Medium Section: 28.2 Terms of the Sale Topic: Credit terms Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  },
+  {
+    "id": 2276,
+    "question": "Green Garden is a cash-only company. The company is considering switching to a 30-day credit policy with no discounts. What factors should the firm consider before making the switch? Answer: The firm should consider the price it can charge for credit sales, any anticipated changes in sales quantity, and the delay of one-month in collections. There is also no guarantee that payment will ever be received. The firm must also consider their product costs which will still be incurred prior to sale. With the delay in collections and potential need for additional inventory the firm must consider its financing costs as its cash cycle will increase. Difficulty: 2 Medium Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  },
+  {
+    "id": 2277,
+    "question": "Uptown Markets recently did an analysis of its credit policy and considered several different options. Once the analysis was completed and reviewed, the firm adopted the most optimal policy. The president then stated: \"Now, that's done. So we don't ever have to go through that process again.\" Do you agree? Justify your answer. Answer: You should not agree. The optimal credit policy and the NPV of any policy are based on variables such as carrying and opportunity costs that can, and do, change over time. Therefore, credit policy analysis should be considered an on-going process rather than a one-time event. Difficulty: 2 Medium Section: 28.3 Analyzing Credit Policy Topic: Credit policy analysis Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  },
+  {
+    "id": 2278,
+    "question": "There are generally considered to be five key factors that should be evaluated when trying to determine if a customer will pay. Write five questions that a credit manager should answer when reviewing a credit application that would address these factors. Answer: Here is one set of sample questions: ∙ Character: Is the customer willing to pay his/her bills? ∙ Capacity: Does the customer have sufficient cash flow to be able to pay his/her bills? ∙ Capital: Does the customer have sufficient financial assets to support this debt? ∙ Collateral: Does the customer have assets, either the item being purchased, or other items, of sufficient value that could be sold to repay this debt? ∙ Conditions: Is the economic and business outlook for the customer's business favorable for the repayment of the customer's debts? Difficulty: 2 Medium Section: 28.5 Credit Analysis Topic: Credit policy analysis Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  },
+  {
+    "id": 2279,
+    "question": "Explain how inventory is managed under an ABC inventory system. Answer: With an ABC system the items that represent the largest percentage of inventory value are classified as \"A\" items. Because of their cost, these items are monitored closely and purchased primarily as needed, with minimal, if any, units kept as extra stock. Items of low value are classified as \"C\" items. These tend to be basic commodity items that are bought in bulk and kept on hand at all times. \"B\" items fall between these two extremes and are managed accordingly. Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: ABC inventory management Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  },
+  {
+    "id": 2280,
+    "question": "Explain the purpose of a safety stock and how this relates to reorder points. Answer: Safety stock is the term used for the minimum level of inventory that a firm keeps on hand. This stock is available to the firm should an inventory order be delayed or an unexpected increase in production arise. Reorder points are set at a level such that the ordered inventory should arrive just as the inventory is reduced to its safety stock level. Thus, by determining when inventory will fall to the safety stock level and then backing out the order delivery time, the reorder points can be identified. Difficulty: 2 Medium Section: 28.8 Inventory Management Techniques Topic: Inventory management Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 28
+  }
+]

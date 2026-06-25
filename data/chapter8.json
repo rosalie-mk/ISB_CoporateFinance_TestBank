@@ -1,1 +1,1219 @@
-[]
+[
+  {
+    "id": 702,
+    "question": "A bond that makes no coupon payments and is initially priced at a deep discount is called a ________ bond.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 703,
+    "question": "The stated interest payment, in dollars, made on a bond each period is called the bond's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond coupons Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 704,
+    "question": "The principal amount of a bond that is repaid at the end of the loan term is called the bond's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 705,
+    "question": "The specified date on which the principal amount of a bond is repaid is called the bond's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Time to maturity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 8
+  },
+  {
+    "id": 706,
+    "question": "The rate of return required by investors in the market for owning a bond is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond coupons Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 707,
+    "question": "The annual interest paid by a bond divided by the bond's face value is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond coupons Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 708,
+    "question": "A bond with a face value of $1,000 that sells for $1,000 in the market is called a ________ bond.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 709,
+    "question": "A bond with a face value of $1,000 that sells for less than $1,000 in the market is called a ________ bond.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 710,
+    "question": "A bond with a coupon rate of 6 percent that pays interest semiannually and is priced at par will have a market price of ________ and interest payments in the amount of ________ each.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond coupons Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 711,
+    "question": "All else constant, a bond will sell at ________ when the yield to maturity is ________ the coupon rate.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 712,
+    "question": "All else constant, a coupon bond that is selling at a premium, must have:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 713,
+    "question": "The market price of a bond increases when the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 8
+  },
+  {
+    "id": 714,
+    "question": "Aspens is preparing a bond offering with a coupon rate of 5.5 percent. The bonds will be repaid in 10 years. The company plans to issue the bonds at par value and pay interest annually. Which one of the following statements is correct? Assume a face value of $1,000.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 715,
+    "question": "A par value bond offers a coupon rate of 7 percent with semiannual interest payments. The effective annual rate provided by these bonds must be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 716,
+    "question": "Rosina purchased one 15-year bond at par value when it was initially issued. This bond has a coupon rate of 7 percent and matures 13 years from now. If the current market rate for this type and quality of bond is 7.5 percent, then Rosina should expect:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 8
+  },
+  {
+    "id": 717,
+    "question": "Interest rate risk ________ as the time to maturity decreases and ________ as the coupon rate decreases.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 718,
+    "question": "A zero coupon bond:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 719,
+    "question": "Which one of these bonds is the most interest-rate sensitive?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 720,
+    "question": "The yield to maturity:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 721,
+    "question": "If a bond's yield to maturity is less than its coupon rate, the bond will sell at a ________, and increases in market interest rates will:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 8
+  },
+  {
+    "id": 722,
+    "question": "The longest term bonds ever issued had an initial maturity date of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Time to maturity Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 723,
+    "question": "All else held constant, interest rate risk will increase when the time to maturity:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 724,
+    "question": "Which one of these combinations of bond ratings represents a crossover situation?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond ratings and credit risk Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 725,
+    "question": "The interest paid on any municipal bond is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond features Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 726,
+    "question": "The interest rate for a tax-exempt bond that equates to the rate paid on a taxable bond is computed as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond yields and returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 727,
+    "question": "Bond dealers report all of their trading information using the system known as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond market reporting Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 728,
+    "question": "Most of the trading in bonds is conducted:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 729,
+    "question": "Which entity provides a daily snapshot of bond prices for the most active issues?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond market reporting Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 730,
+    "question": "The dirty price of a bond is defined as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 731,
+    "question": "A newspaper listing of bond prices has an \"Asked yield\" column. This yield is based on the asked price and represents the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 732,
+    "question": "A bond is listed in a newspaper at a bid of 105.4844. This quote should be interpreted to mean:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 733,
+    "question": "The total price you pay to purchase a premium bond is referred to as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 734,
+    "question": "The profit that is earned on a bond trade by a bond dealer is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 735,
+    "question": "The Fisher formula is expressed as ________ where R is the nominal rate, r is the real rate, and h is the inflation rate.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 736,
+    "question": "An increase in the rate of inflation will:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Nominal and real returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 737,
+    "question": "If you want to increase your purchasing power by investing in a bond, then:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Nominal and real returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 738,
+    "question": "The promised coupon payments on a US TIPS bond are specified in:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Nominal and real returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 739,
+    "question": "The monthly returns on US Treasury bills over the past 50 years have:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Nominal and real returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 740,
+    "question": "The relationship between nominal rates, real rates, and inflation is known as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Remember AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 741,
+    "question": "The relationship between nominal interest rates on default-free, pure discount securities and the time to maturity is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 2 Medium Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Remember AACSB: Knowledge Application Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 8
+  },
+  {
+    "id": 742,
+    "question": "The ________ premium is that portion of a nominal interest rate or bond yield that represents compensation for expected future loss in purchasing power.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Remember AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 743,
+    "question": "The ________ premium is that portion of the bond yield that represents compensation for potential difficulties that might be encountered should the bond holder wish to sell the bond prior to maturity.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Remember AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 744,
+    "question": "The term structure of interest rates reflects the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 8
+  },
+  {
+    "id": 745,
+    "question": "An upward-sloping term structure of interest rates indicates that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 746,
+    "question": "The term structure of interest rates:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "yields. Answer: E Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 747,
+    "question": "The term structure of interest rates:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 8
+  },
+  {
+    "id": 748,
+    "question": "Which of these is included in the return on a municipal bond but excluded from the return on a US Treasury bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Understand AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 749,
+    "question": "Consider a bond with a coupon rate of 8 percent that pays semiannual interest and matures in eight years. The market rate of return on bonds of this risk is currently 11 percent. What is the current value of a $1,000 face value bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Bond value = [.08($1,000)/2]{[1 − 1/(1 + .11/2)8(2)]/(.11/2)} + $1,000/(1 + .11/2)8(2) Bond value = $843.07 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Bond value = [.08($1,000)/2]{[1 − 1/(1 + .11/2)8(2)]/(.11/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 750,
+    "question": "What is the value of a 20-year, zero-coupon bond with a face value of $1,000 when the market required rate of return is 9.6 percent, compounded semiannually?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Bond value = $1,000/[1 + (.096/2)]20(2) Bond value = $153.30 Difficulty: 1 Easy Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Bond value = $1,000/[1 + (.096/2)]20(2)",
+    "chapter": 8
+  },
+  {
+    "id": 751,
+    "question": "The bonds issued by Manson and Son bear a coupon of 6 percent, payable semiannually. The bond matures in 15 years and has a $1,000 face value. Currently, the bond sells at par. What is the yield to maturity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Since the bond is selling at par, the yield to maturity will equal the coupon rate of 6 percent. Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Since the bond is selling at par, the yield to maturity will equal the coupon rate of",
+    "chapter": 8
+  },
+  {
+    "id": 752,
+    "question": "A corporate bond has a coupon of 7.5 percent and pays interest annually. The face value is $1,000 and the current market price is $1,108.15. The bond matures in 14 years. What is the yield to maturity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: $1,108.15 = [.075($1,000)]{[1 − 1/(1 + YTM)14]/YTM} + $1,000/(1 + YTM)14 YTM = 6.31% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "$1,108.15 = [.075($1,000)]{[1 − 1/(1 + YTM)14]/YTM} + $1,000/(1 + YTM)14",
+    "chapter": 8
+  },
+  {
+    "id": 753,
+    "question": "Otto Enterprises has a bond issue outstanding with a coupon of 8 percent that matures in 15 years. The bond is currently priced at $923.60 and has a par value of $1,000. Interest is paid semiannually. What is the yield to maturity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: $923.60 = (.08/2)($1,000){[1 - 1/(1 + YTM/2)15(2)]/(YTM/2)} + $1,000/(1 + YTM/2)15(2) YTM = 8.93% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "$923.60 = (.08/2)($1,000){[1 - 1/(1 + YTM/2)15(2)]/(YTM/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 754,
+    "question": "Chocolate and More offers a bond with a coupon rate of 6 percent, semiannual payments, and a yield to maturity of 7.73 percent. The bonds mature in 9 years. What is the market price of a $1,000 face value bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Bond price = (.06/2)($1,000){[1 − 1/(1 + .0773/2)9(2)]/(.0773/2)} + $1,000/(1 + .0773/2)9(2) Bond price = $889.29 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Bond price = (.06/2)($1,000){[1 − 1/(1 + .0773/2)9(2)]/(.0773/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 755,
+    "question": "Westover's has an outstanding bond with a coupon rate of 5.5 percent that matures in 12 years. The bond pays interest semiannually. What is the market price of one $1,000 face value bond if the yield to maturity is 7.13 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Bond price = (.055/2)($1,000){[1 − 1/(1 + .0713/2)12(2)]/(.0713/2)} + $1,000/(1 + .0713/2)12(2) Bond price = $870.01 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Bond price = (.055/2)($1,000){[1 − 1/(1 + .0713/2)12(2)]/(.0713/2)} + $1,000/(1",
+    "chapter": 8
+  },
+  {
+    "id": 756,
+    "question": "Guggenheim offers a bond with annual payments and a coupon rate of 5 percent. The yield to maturity is 5.62 percent and the maturity date is 9 years away. What is the market price of one $1,000 face value bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Bond price = .05($1,000)[(1 − 1/1.05629)/.0562] + $1,000/1.05629 Bond price = $957.12 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Bond price = .05($1,000)[(1 − 1/1.05629)/.0562] + $1,000/1.05629",
+    "chapter": 8
+  },
+  {
+    "id": 757,
+    "question": "The Lo Sun Corporation offers a bond with a current market price of $1,029.75, a coupon rate of 8 percent, and a yield to maturity of 7.52 percent. The face value is $1,000. Interest is paid semiannually. How many years is it until this bond matures?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: $1,029.75 = (.08/2)($1,000){[1 − 1/(1 + .0752/2)t(2)]/(.0752/2)} + $1,000/(1 + .0752/2)t(2) t = 17 semiannual periods, or 8.5 years Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Time to maturity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "$1,029.75 = (.08/2)($1,000){[1 − 1/(1 + .0752/2)t(2)]/(.0752/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 758,
+    "question": "Moon Lite Cafe has a semiannual, 5 percent coupon bond with a current market price of $988.52. The bond has a par value of $1,000 and a yield to maturity of 5.68 percent. How many years is it until this bond matures?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: $988.52 = (.05/2)($1,000){[1 − 1/(1 + .0568/2)t(2)]/(.0568/2)} + $1,000/(1 + .0568/2)t(2) t = 3.6 semiannual periods, or 1.8 years Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Time to maturity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "$988.52 = (.05/2)($1,000){[1 − 1/(1 + .0568/2)t(2)]/(.0568/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 759,
+    "question": "A firm offers a zero coupon bond with a face value of $1,000 that matures in 10 years. What is the current market price if the yield to maturity is 7.6 percent, given semiannual compounding?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Price = $1,000/(1 + .076/2)10(2) Price = $474.30 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Price = $1,000/(1 + .076/2)10(2)",
+    "chapter": 8
+  },
+  {
+    "id": 760,
+    "question": "TJ's offers a $1,000 face value, zero coupon bond with a yield to maturity of 11.3 percent, given annual compounding. The bond matures in 16 years. What is the current price?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Price = $1,000/1.11316 Price = $180.33 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Price = $1,000/1.11316",
+    "chapter": 8
+  },
+  {
+    "id": 761,
+    "question": "The zero coupon bonds of Mark Enterprises have a market price of $394.47, a face value of $1,000, and a yield to maturity of 6.87 percent based on semiannual compounding. How many years is it until this bond matures?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: $394.47 = $1,000/(1 + .0687/2)t(2) t = 13.77 years Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Time to maturity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "$394.47 = $1,000/(1 + .0687/2)t(2)",
+    "chapter": 8
+  },
+  {
+    "id": 762,
+    "question": "A $1,000 face value coupon bond will pay 5 percent interest annually for 12 years. What is the percentage change in the price of this bond if the market yield rises to 6 percent from the current level of 5.5 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Price5.5% = .05($1,000)[(1 − 1/1.05512)/.055] + $1,000/1.05512 Price5.5% = $956.91 Price6% = .05($1,000)[(1 − 1/1.0612)/.06] + $1,000/1.0612 Price6% = $916.16 %Δ in price = ($916.16 − 956.91)/$956.91 %Δ in price = −.0426, or − 4.26% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Price5.5% = .05($1,000)[(1 − 1/1.05512)/.055] + $1,000/1.05512",
+    "chapter": 8
+  },
+  {
+    "id": 763,
+    "question": "Mason's has 5-year, 8 percent annual coupon bonds outstanding with a par value of $1,000. Dixon's has 10-year, 8 percent annual coupon bonds outstanding with a par value of $1,000. Both bonds currently have a yield to maturity of 8 percent. Which one of the following statements is correct if the market rate decreases to 7 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Both bonds are currently priced at $1,000 because the yield to maturity equals the bond's coupon rate. PriceMason's = .08($1,000)[(1 − 1/1.075)/.07] + $1,000/1.075 PriceMason's = $1,041.00 PriceDixon's = .08($1,000)[(1 − 1/1.0710)/.07] + $1,000/1.0710 PriceDixon's = $1,070.24 %Δ in priceMason's = ($1,041.00 − 1,000)/$1,000 %Δ in priceMason's = .0410, or 4.10% %Δ in priceDixon's = ($1,070.24 − 1,000)/$1,000 %Δ in priceDixon's = .0702, or 7.02% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Both bonds are currently priced at $1,000 because the yield to maturity equals the",
+    "chapter": 8
+  },
+  {
+    "id": 764,
+    "question": "A zero coupon bond with a face value of $1,000 is issued with an initial price of $430.84 based on semiannual compounding. The bond matures in 20 years. What is the implicit interest, in dollars, for the first year of the bond's life?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: $430.84 = $1,000/(1 + r/2)20(2) r = .042547, or 4.2547% Price = $1,000/(1 + .042547/2)19(2) Price = $449.37 Implicit interestYear 1 = $449.37 − 430.84 Implicit interestYear 1 = $18.53 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Accrued and implicit interest Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "$430.84 = $1,000/(1 + r/2)20(2)",
+    "chapter": 8
+  },
+  {
+    "id": 765,
+    "question": "Allison's wants to raise $12.4 million to expand its business. To accomplish this, it plans to sell 25-year, $1,000 face value, zero-coupon bonds. The bonds will be priced to yield 6.5 percent, with semiannual compounding. What is the minimum number of bonds the firm must sell to raise the $12.4 million it needs?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Number of bonds = $12,400,000/[$1,000/(1 + .065/2)25(2)] Number of bonds = 61,366 bonds Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Number of bonds = $12,400,000/[$1,000/(1 + .065/2)25(2)]",
+    "chapter": 8
+  },
+  {
+    "id": 766,
+    "question": "Jackson's has $1,000 face value, zero-coupon bonds outstanding that mature in 13.5 years. What is the current value of one of these bonds if the market rate of interest is 7.6 percent? Assume semiannual compounding.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Price = $1,000/(1 + .076/2)13.5(2) Price = $365.32 Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Price = $1,000/(1 + .076/2)13.5(2)",
+    "chapter": 8
+  },
+  {
+    "id": 767,
+    "question": "A corporate bond with a face value of $1,000 matures in 4 years and has a coupon rate of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 768,
+    "question": "25 percent. The current price of the bond is $932 and interest is paid semiannually. What is the yield to maturity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: $932 = (.0625/2)($1,000){[1 − 1/(1 + YTM/2)4(2)]/(YTM/2)} + $1,000/(1 + YTM/2)4(2) YTM = .0828, or 8.28% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "$932 = (.0625/2)($1,000){[1 − 1/(1 + YTM/2)4(2)]/(YTM/2)} + $1,000/(1 +",
+    "chapter": 8
+  },
+  {
+    "id": 769,
+    "question": "A bond has a coupon rate of 8.2 percent, a $1,000 par value, matures in 11.5 years, has a yield to maturity of 7.67 percent, and pays interest annually. What is the current yield?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Price = .082($1,000)[(1 − 1/1.076711.5)/.0767] + $1,000/1.076711.5 Price = $1,039.56 Current yield = [.082($1,000)]/$1,039.56 Current yield = .0789, or 7.89% Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Bond yields and returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Price = .082($1,000)[(1 − 1/1.076711.5)/.0767] + $1,000/1.076711.5",
+    "chapter": 8
+  },
+  {
+    "id": 770,
+    "question": "Suzette owns a corporate bond with a yield to maturity of 7.45 percent. She is in the 12 percent tax bracket. What is her equivalent rate of return on a municipal bond? Ignore state taxes.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: T* = .0745(1 − .12) T* = .0656, or 6.56% Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond yields and returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "T* = .0745(1 − .12)",
+    "chapter": 8
+  },
+  {
+    "id": 771,
+    "question": "Currently, you own a municipal bond with a yield to maturity of 4.86 percent. If you are in the 24 percent tax bracket, what is your equivalent corporate tax rate? Ignore state taxes.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: T* = .0486/(1 − .24) T* = .0639, or 6.39% Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond yields and returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "T* = .0486/(1 − .24)",
+    "chapter": 8
+  },
+  {
+    "id": 772,
+    "question": "A corporate bond has a coupon rate of 6 percent, a $1,000 face value, and matures two years from today. The corporation is in a serious financial situation and has announced that no future annual interest payments will be paid and that only 50 percent of the face value will be repaid but that payment will be delayed by one year. What is the current value of this bond to a bondholder with a required rate of return of 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Bond value0 = [.5($1,000)]/1.143 Bond value0 = $337.49 Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Bond value0 = [.5($1,000)]/1.143",
+    "chapter": 8
+  },
+  {
+    "id": 773,
+    "question": "A corporate bond has a coupon rate of 5.5 percent, a $1,000 face value, and matures three years from today. The corporation is in a serious financial situation and has announced that no future annual interest payments will be paid and that the probability the entire face value will be repaid is only 75 percent. If the entire face value cannot be paid, then 60 percent of the face value will be repaid. All payments will be made three years from now. What is the current value of this bond at a discount rate of 15 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Bond value0 = {(.75($1,000) + .25[.60($1,000)]}/1.153 Bond value0 = $591.76 Difficulty: 1 Easy Section: 8.2 Government and Corporate Bonds Topic: Bond valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Bond value0 = {(.75($1,000) + .25[.60($1,000)]}/1.153",
+    "chapter": 8
+  },
+  {
+    "id": 774,
+    "question": "Aivree is buying a $1,000 face value bond at a quoted price of 99.486. The bond carries a coupon rate of 5.6 percent, with interest paid semiannually. The next interest payment is four months from today. What is the clean price of this bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Clean price = 99.486%($1,000) Clean price = $994.86 Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Clean price = 99.486%($1,000)",
+    "chapter": 8
+  },
+  {
+    "id": 775,
+    "question": "Nathan is buying a $1,000 face value bond at a quoted price of 101.364. The bond carries a coupon rate of 7.75 percent, with interest paid semiannually. The next interest payment is two months from today. What is the dirty price of this bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Dirty price = 101.364%($1,000) + .0775($1,000)(4/12) Dirty price = $1,039.47 Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Dirty price = 101.364%($1,000) + .0775($1,000)(4/12)",
+    "chapter": 8
+  },
+  {
+    "id": 776,
+    "question": "Casey just purchased a $1,000 face value bond at an invoice price of $1,288.16. The bond has a coupon rate of 6.2 percent, semiannual interest payments, and the next interest payment occurs one month from today. Of the amount paid for the bond, what was the dollar amount of the accrued interest?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Accrued interest = .062($1,000)(5/12) Accrued interest = $25.83 Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Accrued and implicit interest Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Accrued interest = .062($1,000)(5/12)",
+    "chapter": 8
+  },
+  {
+    "id": 777,
+    "question": "A corporate bond is currently quoted at 101.633. What is the market price of a bond with a $1,000 face value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Market price = 101.633%($1,000) Market price = $1,016.33 Difficulty: 1 Easy Section: 8.3 Bond Markets Topic: Bond quotes and trading Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Market price = 101.633%($1,000)",
+    "chapter": 8
+  },
+  {
+    "id": 778,
+    "question": "The 5-year bond of XYZ Corp. has a bid quote of 131.2891 and an asked quote of 131.3047. Assume you purchase one of these bonds with a face value of $5,000 and a coupon rate of 7.4 percent, paid semiannually. The next interest payment will be paid two months from today. What will be your invoice price for this purchase?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Invoice price = 131.347%($5,000) + (.074/2)(4/6)($5,000) Invoice price = $6,690.68 Difficulty: 1 Easy Section: 8.3 Bond price and quotes Topic: Bond price and quotes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Invoice price = 131.347%($5,000) + (.074/2)(4/6)($5,000)",
+    "chapter": 8
+  },
+  {
+    "id": 779,
+    "question": "Last year, a bond yielded a nominal return of 7.37 percent while inflation averaged 3.26 percent. What was the real rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: r = 1.0737/1.0326 − 1 r = .0398, or 3.98% Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "r = 1.0737/1.0326 − 1",
+    "chapter": 8
+  },
+  {
+    "id": 780,
+    "question": "A $1,000 par value bond carries a coupon rate of 6.5 percent and has a yield to maturity of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 781,
+    "question": "29 percent. The inflation rate is 3.13 percent. What is the bond's real rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: r = 1.0729/1.0313 − 1 r = .0403, or 4.03% Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "r = 1.0729/1.0313 − 1",
+    "chapter": 8
+  },
+  {
+    "id": 782,
+    "question": "If a bond provides a real rate of return of 2.89 percent at a time when inflation is 3.21 percent, what is the nominal rate of return on the bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: R = 1.0289/1.0321 − 1 R = .0619, or 6.19% Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "R = 1.0289/1.0321 − 1",
+    "chapter": 8
+  },
+  {
+    "id": 783,
+    "question": "The nominal rate of return on a bond is 7.28 percent while the real rate is 3.09 percent. What is the rate of inflation?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: h = 1.0728/1.0309 − 1 h = .0406, or 4.06% Difficulty: 1 Easy Section: 8.4 Inflation and Interest Rates Topic: Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "h = 1.0728/1.0309 − 1",
+    "chapter": 8
+  },
+  {
+    "id": 784,
+    "question": "Stu wants to earn a real return of 3.4 percent on any bond he acquires. The inflation rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 785,
+    "question": "8 percent. He has determined that a particular bond he is considering should have an interest rate risk premium of .27 percent, a liquidity premium of .08 percent, and a taxability premium of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 786,
+    "question": "69 percent. What nominal rate of return is Stu demanding from this particular bond?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Nominal return = [(1.034)(1.028) − 1] + .0027 + .0008 + .0169 Nominal return = .0834, or 8.34% Difficulty: 1 Easy Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Nominal return = [(1.034)(1.028) − 1] + .0027 + .0008 + .0169",
+    "chapter": 8
+  },
+  {
+    "id": 787,
+    "question": "Define what is meant by interest rate risk. Also, assume the manager of a $100 million portfolio of corporate bonds predicts interest rates will rise in the near future. What adjustments should be made to the portfolio assuming the market has not already adjusted for this prediction? Answer: Interest rates and bond prices have an inverse relationship. It is this effect on bond prices caused by changes in market interest rates that is referred to as interest rate risk. All else the same, if interest rates are expected to rise, bond prices should be expected to decline. Since short-term, high-coupon bonds are less sensitive to interest rate risk, the portfolio should be moved into these types of securities to limit the downside risk. Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Evaluate AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 788,
+    "question": "Interest rate risk is often explained by using the concept of a teeter-totter. Explain interest rate risk and how it is related to the movements of a teeter-totter. Answer: Interest rates sit on one end of the teeter-totter while bond prices sit on the other end. As interest rates move up, bond prices move down as seen by the movements of a teeter-totter. Likewise, as interest rates move down, bond prices move up. In addition, short-term bonds are located a short distance from the fulcrum while long-term bonds are situated towards the end of the teeter-totter, illustrating that long-term bonds move further in reaction to a change in interest rates than do short-term bonds. Difficulty: 2 Medium Section: 8.1 Bonds and Bond Valuation Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 789,
+    "question": "Why do corporations issue 100-year bonds, knowing that interest rate risk is highest for very long-term bonds? How does the interest rate risk affect the issuer? Answer: Essentially, the issuer takes the opposite side of the interest rate risk position. By issuing long-term bonds, the corporation is essentially betting that rates won't fall significantly. If rates do decline, the corporation will incur a loss due to borrowing at rates higher than the future market rates. On the other hand, if rates rise, the corporation benefits by having locked in its borrowing rate for up to 100 years. In addition, these bonds are a source of long-term financing where the interest is tax deductible. If the firm should issue stocks, the dividends would not be tax deductible. Difficulty: 2 Medium Section: 8.5 Determinants of Bond Yields Topic: Interest rate risk Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "E",
+    "chapter": 8
+  },
+  {
+    "id": 790,
+    "question": "Normally, the Treasury yield curve is upward-sloping. Explain the conditions required for a downward-sloping yield curve to exist. Answer: A downward-sloping yield curve exists when the expected inflation premium is declining over time. The decline in the inflation premium must be significant enough to overcome the interest rate risk premium, which increases with time. Difficulty: 2 Medium Section: 8.5 Determinants of Bond Yields Topic: Term structure of interest rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 8
+  },
+  {
+    "id": 791,
+    "question": "Explain liquidity risk, default risk, and taxability risk. How does each of these risks affect the yield of a bond? Answer: Liquidity problems exist in thinly traded bonds making some bonds difficult to sell at their actual value. The greater this difficulty, the higher the liquidity risk, and the higher the premium demanded. Default risk is the likelihood the issuer will default on its bond obligations. The higher this probability, the higher the default risk, and the higher the premium demanded. Taxability risk reflects the fact that some bonds have their interest taxed at the federal, state, and local levels, while others are taxed by only some, or none, of these governmental levels. The more taxes that are applied to a bond's interest payments, the higher the premium demanded. Difficulty: 2 Medium Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  },
+  {
+    "id": 792,
+    "question": "Should investors be indifferent between two bonds which have equal market yields to maturity as long as the bonds have the same bond rating? Can you think of any real-world factors which might make a given investor prefer one of these bonds over the other? Answer: The question only states the bonds have the same market yield to maturity and bond rating. The market yield is comprised of several factors which may be valued differently by different investors. One key difference is the taxability premium that each investor applies to a bond. Since investors face different tax situations and tax rates, this premium can vary. Also, an investor who plans on holding a bond until maturity will not place as much emphasis on the liquidity premium as will an investor who plans to sell prior to maturity. Individual investors may also differ in their outlook for inflation, causing each to assign a different inflation premium to the same bond. Likewise, individual investors may have differing opinions on a bond's rating as they may view the probability of default differently. Any one of these differences may cause an investor to assign a discount rate to the bond that varies from that assigned by the overall market. This can cause investors to have differing preferences on which bonds they prefer as each bond's value depends on the discount rate used to value the bond's cash flows. Difficulty: 2 Medium Section: 8.5 Determinants of Bond Yields Topic: Bond yields and returns Bloom's: Evaluate AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 8
+  }
+]

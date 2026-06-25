@@ -1,1 +1,720 @@
-[]
+[
+  {
+    "id": 1676,
+    "question": "In a direct lease arrangement, the owner of the asset is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Leasing Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1677,
+    "question": "Which one of these characteristics does not apply to a financial lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1678,
+    "question": "If Alby's leases equipment directly from the equipment's manufacturer the lease must be a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1679,
+    "question": "An operating lease generally:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1680,
+    "question": "If the lessor borrows the majority of the purchase price of a leased asset, the lease is called a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1681,
+    "question": "A financial lease has which one of the following characteristics?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1682,
+    "question": "A leveraged lease typically involves a nonrecourse loan which means that in the case of default the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1683,
+    "question": "The city of Plainview sold its maintenance facility in an all-cash transaction and used the proceeds to improve the city's financial position. The city then leased the building from the new owner on a non-cancellable basis. The city will be responsible for the maintenance and upkeep of the facility. These transactions illustrate:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.1 Types of Leases Topic: Types of leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1684,
+    "question": "For accounting purposes, which one of the following conditions would automatically cause a lease to be classified as a capital lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "lease inception.",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1685,
+    "question": "Reed Machinery just signed a capital lease agreement with a present value of $260,000. How would this lease first appear on Reed Machinery's balance sheet?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1686,
+    "question": "As of 2018, FAS 13, Accounting for Leases requires:",
+    "options": {
+      "A": "",
+      "B": "statements.",
+      "C": "recorded elsewhere in the financial statements.",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1687,
+    "question": "When a lease must be recorded on the balance to meet FAS 13, the asset amount is set equal to the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1688,
+    "question": "FAS 13 sets forth four criteria for determining whether or not a lease must be classified as a capital lease. How many of these criteria must be met for capital lease classification?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1689,
+    "question": "As of 2019, operating leases:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1690,
+    "question": "Fresh Fish has assets valued at $1.2 million and liabilities of $.98 million. The firm wants to obtain new equipment via a capital lease. The equipment costs $200,000 and the present value of the lease payments is $175,000. With the lease, the firm's balance sheet will show assets of ________ and liabilities of ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1691,
+    "question": "Sizzler's is considering either purchasing or leasing an asset that costs $28,000, has a life of 6 years, and a zero salvage value. The firm has a tax rate of 21 percent and a borrowing rate of 7 percent. The firm can lease the asset for five years with lease payments of $4,500 payable the first of each year. This lease would be classified as a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Accounting for leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1692,
+    "question": "Benji's is considering leasing a machine effective June 2019 for a period of four years with monthly payments of $680. The present value of the lease will be $27,325 and the tax rate will be 21 percent. If the lease is classified as an operating lease, what amount, if any, should appear in the asset section of the balance sheet on the effective date of the lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.2 Accounting and Leasing Topic: Types of leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1693,
+    "question": "If a lease term is 35 years the IRS will classify the lease as a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.3 Taxes, the IRS, and Leases Topic: Taxes and leases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1694,
+    "question": "To meet IRS guidelines for leasing, the lease should:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.3 Taxes, the IRS, and Leases Topic: Taxes and leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1695,
+    "question": "One key reason why the IRS is concerned about the structure of lease contracts is because:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.3 Taxes, the IRS, and Leases Topic: Taxes and leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1696,
+    "question": "A lease with which one of these characteristics would not be qualified by the IRS?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.3 Taxes, the IRS, and Leases Topic: Taxes and leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1697,
+    "question": "Which one of these can be ignored when valuing a purchase versus a lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1698,
+    "question": "When computing the incremental cash flows from leasing relative to purchasing, the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1699,
+    "question": "Assume the net present value of a lease relative to a purchase is $150. This indicates that the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.04 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1700,
+    "question": "In the presence of corporate taxes, riskless cash flows should be discounted at the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 21.5 A Detour for Discounting and Debt Capacity with Corporate Taxes Topic: Lease versus buy decision Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1701,
+    "question": "The appropriate discount rate that a lessee should use to value a financial lease is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.6 NPV Analysis of the Lease-versus-Buy Decision Topic: Lease versus buy decision Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1702,
+    "question": "Which one of these statements is false?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.7 Debt Displacement and Lease Valuation Topic: Advantages and disadvantages of leasing Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1703,
+    "question": "Why must some debt be eliminated when a firm enters a lease agreement?",
+    "options": {
+      "A": "",
+      "B": "payments.",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.7 Debt Displacement and Lease Valuation Topic: Advantages and disadvantages of leasing Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1704,
+    "question": "In which one of these cases would both the lessor and the lessee be indifferent to the lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 21.8 Does Leasing Ever Pay? The Base Case Topic: Lease versus buy decision Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1705,
+    "question": "Assume that both the lessor and the lessee have the same interest and tax rates and there are no transaction costs. Given this, the best lease agreement results in:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 21.8 Does Leasing Ever Pay? The Base Case Topic: Lease versus buy decision Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1706,
+    "question": "The lease payment that the lessee sets as its bound is known as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.9 Reasons for Leasing Topic: Leasing cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1707,
+    "question": "Which one of the following is probably the best reason for leasing instead of buying?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 21.9 Reasons for Leasing Topic: Leasing Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1708,
+    "question": "Which of these are offered as key considerations in the lease versus purchase decision according to the research findings of Smith and Wakeman?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 21.10 Some Unanswered Questions Topic: Lease versus buy decision Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1709,
+    "question": "Artisan's is considering leasing a new computer. The lease terms include five annual payments of $1,500 with the first payment occurring when the lease is signed. The computer would cost $7,200 to buy and would be depreciated straightline to a zero salvage value over 5 years. The actual salvage value is negligible because of technological obsolescence. The firm can borrow at a rate of 8 percent and has a tax rate of 21 percent. What is the cash flow from leasing relative to purchasing in Year 3?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: CF4 = −$1,500(1 − .21) − ($7,200/5)(.21) CF4 = −$1,487.40 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "CF4 = −$1,500(1 − .21) − ($7,200/5)(.21)",
+    "chapter": 21
+  },
+  {
+    "id": 1710,
+    "question": "Artisan's is considering leasing a new computer. The lease terms include five annual payments of $1,650 with the first payment occurring at the lease signing. The computer would cost $8,500 to buy and would be depreciated straightline to a zero salvage value over 5 years. The firm can borrow at a rate of 7.5 percent and has a tax rate of 21 percent. What is the cash flow from leasing relative to purchasing in Year 0?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: CF0 = $8,500 − $1,650(1 − .21) CF0 = $7,196.50 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "CF0 = $8,500 − $1,650(1 − .21)",
+    "chapter": 21
+  },
+  {
+    "id": 1711,
+    "question": "A lease with a term of 6 years calls for annual payments of $2,100. The leased asset would cost $9,200 to buy and would be depreciated straightline to a zero salvage value over the 6 years. The actual salvage value is negligible. The firm can borrow at a rate of 8 percent. What is the NPV of the lease relative to the purchase if the lessee's tax rate is 21 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: NPV = $9,200 + {−$2,100(1 − .21) − [($9,200/6)(.21)]}(PVIFA8%(1 − .21),6) NPV = −$444.04 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "NPV = $9,200 + {−$2,100(1 − .21) − [($9,200/6)(.21)]}(PVIFA8%(1 − .21),6)",
+    "chapter": 21
+  },
+  {
+    "id": 1712,
+    "question": "Hi-Tek Industries is considering a lease with four annual payments of $4,000 each. The firm can borrow at a rate of 6.7 percent and has a tax rate of 21 percent. The leased asset would cost $15,000 to purchase, have a tax life of 4 years, and would be depreciated on a straightline basis to zero. What would be the incremental cash flow in Year 4 from leasing instead of purchasing if the purchased asset had a pretax salvage value of $500?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: CF4 = −$4,000(1 − .21) − [($15,000/4)(.21)] − $500(1 − .21) CF4 = −$4,342.50 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "CF4 = −$4,000(1 − .21) − [($15,000/4)(.21)] − $500(1 − .21)",
+    "chapter": 21
+  },
+  {
+    "id": 1713,
+    "question": "A new robotic welder can be leased for 3 years with annual payments of $225,000 with the first payment occurring at lease inception. The system would cost $850,000 to buy and would be depreciated straightline to a zero salvage value over five years. The actual salvage value is expected to be $65,000 at the end of the five years. The firm can borrow at 8 percent and has a tax rate of 21 percent. What is the Year 0 incremental cash flow from leasing instead of buying?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: CF0 = $850,000 − $225,000(1 − .21) CF0 = $672,250 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "CF0 = $850,000 − $225,000(1 − .21)",
+    "chapter": 21
+  },
+  {
+    "id": 1714,
+    "question": "A lease has a term of 5 years with annual payments of $6,400. The asset would cost $45,000 to buy and would be depreciated straightline to a zero salvage value over 5 years. The actual salvage value is zero. If the firm has a tax rate of 21 percent, what is the incremental cash flow in Year 5 of leasing rather than purchasing?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: CF5 = −$6,400(1 − .21) − ($45,000/5)(.21) CF5 = −$6,946 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "CF5 = −$6,400(1 − .21) − ($45,000/5)(.21)",
+    "chapter": 21
+  },
+  {
+    "id": 1715,
+    "question": "A lease has a term of 3 years and annual payments of $25,000. The leased asset would cost $74,000 to buy and would be depreciated straightline to a zero salvage value over 3 years. The actual salvage value is negligible. The lessee can borrow at a rate of 12 percent and has a tax rate of 21 percent. What is the incremental cash flow of purchasing instead of leasing for Year 3 from the lessee's perspective?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: CF3 = $25,000(1 − .21) + ($74,000/3)(.21) CF3 = $24,930 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "CF3 = $25,000(1 − .21) + ($74,000/3)(.21)",
+    "chapter": 21
+  },
+  {
+    "id": 1716,
+    "question": "A lessor can borrow at a rate of 7 percent and has a tax rate of 21 percent. The lessee can borrow at a rate of 8 percent and has a tax rate of 21 percent. Assume an asset costs $138,000 and can be leased in exchange for two annual payments of $70,000 with the first payment due at the time of signing. What is the incremental cash flow at Time 0 for the lessee for a purchase instead of a lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: CF0 = −$138,000 + $70,000(1 − .21) CF0 = −$82,700 Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "CF0 = −$138,000 + $70,000(1 − .21)",
+    "chapter": 21
+  },
+  {
+    "id": 1717,
+    "question": "The Button Company is considering the purchase of a new machine for $30,000 that has a life of 5 years and would be depreciated on a straightline basis to a zero salvage value over its life. The machine is expected to save the firm $12,500 per year in operating costs. There is no actual salvage value. Alternatively, the firm can lease the machine for $7,300 annually for 5 years, with the first payment due at the end of the first year. The firm's tax rate is 21 percent and its cost of debt is 10 percent. What is the net advantage to leasing for the lessee?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NAL = NPV = $30,000 − [$7,300(1 − .21) + ($30,000/5)(.21)](PVIFA.10(1 − .21),5) NAL = $1,869.12 Difficulty: 2 Medium Section: 21.6 NPV Analysis of the Lease-versus-Buy Decision Topic: Lease versus buy decision Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "NAL = NPV = $30,000 − [$7,300(1 − .21) + ($30,000/5)(.21)](PVIFA.10(1 −",
+    "chapter": 21
+  },
+  {
+    "id": 1718,
+    "question": "A new robotic welder can be leased for 5 years with annual payments of $300,000 with the first payment occurring at lease inception. The system would cost $1,050,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and has a tax rate of 23 percent. What discount rate should be used for valuing the lease?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Discount rate = .08(1 − .23) Discount rate = .0616, or 6.16% Difficulty: 2 Medium Section: 21.6 NPV Analysis of the Lease-versus-Buy Decision Topic: Lease versus buy decision Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Discount rate = .08(1 − .23)",
+    "chapter": 21
+  },
+  {
+    "id": 1719,
+    "question": "A machine that costs $280,000 would be depreciated using the straightline method by a leasing firm over a period of 3 years. Both the book value and the market value would be zero at the end of the 3 years. Both the lessor and the lessee have a tax rate of 21 percent. What is the NPV of the lease relative to the purchase to the lessor if the applicable pretax cost of borrowing is 7 percent and the lease payments are set at $102,100 annually for 3 years?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: NPVLessor = −$280,000 + [($280,000/3)(.21) + $102,100(1 − .21)]PVIFA.07(1 − .21),3 NPVLessor = −$9,658.92 Difficulty: 2 Medium Section: 21.06 NPV Analysis of the Lease-versus-Buy Decision Topic: Lease versus buy decision Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "NPVLessor = −$280,000 + [($280,000/3)(.21) + $102,100(1 − .21)]PVIFA.07(1 −",
+    "chapter": 21
+  },
+  {
+    "id": 1720,
+    "question": "A lease has five annual payments of $115,000. The leased asset would cost $500,000 to buy, would be depreciated straightline to a zero salvage value over 5 years, and has an actual salvage value of zero. The firm can borrow at 8 percent on a pretax basis and has a tax rate of 23 percent. What is the net advantage of leasing?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = $500,000 − {$115,000(1 − .23) + [($500,000/5)(.23)]}[PVIFA.08(1 − .23),5] NPV = $32,149.05 Difficulty: 2 Medium Section: 21.7 Debt Displacement and Lease Valuation Topic: Leasing cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "NPV = $500,000 − {$115,000(1 − .23) + [($500,000/5)(.23)]}[PVIFA.08(1 −",
+    "chapter": 21
+  },
+  {
+    "id": 1721,
+    "question": "All-Tek is considering leasing some new equipment for 5 years with annual payments of $27,500. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and does not expect to owe any taxes for the next several years. What is the maximum lease payment All- Tek would be willing to pay?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: LMAX = $115,000/PVIFA8%,5 LMAX = $28,802.49 Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Lease payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "LMAX = $115,000/PVIFA8%,5",
+    "chapter": 21
+  },
+  {
+    "id": 1722,
+    "question": "HiTek is considering leasing some new equipment for 5 years with annual payments of $27,500. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and has a tax rate of 21 percent. What is the maximum lease payment HiTek would be willing to pay?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: LMAX = $115,000/PVIFA8%(1 − .21),5 LMAX = $27,538.67 Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Lease payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "LMAX = $115,000/PVIFA8%(1 − .21),5",
+    "chapter": 21
+  },
+  {
+    "id": 1723,
+    "question": "Al-Tek is considering leasing some new equipment for 5 years with annual payments. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The applicable pretax borrowing rate is 8 percent. The lessee does not expect to owe taxes for several years. The lessor's tax rate is 21 percent. What is the minimum lease payment that will be acceptable to both parties?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: 0 = −$115,000 + [($115,000/5)(.21) + LMin(1 − .21)]PVIFA.08(1 − .21),5 LMIN = $28,745.16 Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Lease payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "0 = −$115,000 + [($115,000/5)(.21) + LMin(1 − .21)]PVIFA.08(1 − .21),5",
+    "chapter": 21
+  },
+  {
+    "id": 1724,
+    "question": "Nu-Tek is considering leasing some equipment for 4 years with equal annual lease payments. The equipment would cost $74,000 to buy and would be depreciated straightline over 4 years to a zero salvage value. The actual salvage value is zero. The applicable pretax borrowing rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1725,
+    "question": "3 percent. The lessee does not expect to owe taxes for several years while the lessor's tax rate is 21 percent. What is the minimum lease payment that will be acceptable to both parties?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: 0 = −$74,000 + [($74,000/4)(.21) + LMin(1 − .21)]PVIFA.073(1 − .21),4 LMIN = $21,970.82 Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Lease payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "0 = −$74,000 + [($74,000/4)(.21) + LMin(1 − .21)]PVIFA.073(1 − .21),4",
+    "chapter": 21
+  },
+  {
+    "id": 1726,
+    "question": "Blasco's wishes to obtain new assets that will reduce their operating costs by $3,800 a year on an aftertax basis. These assets can be either purchased or leased. Explain why these cost savings are omitted from the lease versus purchase analysis. Answer: The operating cost savings will be realized by the firm regardless of the method used to obtain the assets. Thus, there is no incremental difference between the cash flows of the purchase and the cash flows of the lease in relation to operating costs. Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1727,
+    "question": "Discuss some of the pros and cons of leasing. Answer: Leasing may be viewed as a less than optimal source of financing, however, there are good reasons to lease. They include, but are not limited to, the fact that taxes may be reduced by leasing, the lease contract may reduce certain types of uncertainty, and the transaction costs of leasing can be lower than the costs of buying. Some potential shortcomings of leasing include the accounting methods used for leases, debt displacement, and restrictions placed on the lease terms. Lessees must also be concerned with the IRS's opinion of any lease agreement. Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Advantages and disadvantages of leasing Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1728,
+    "question": "Explain the characteristics of both operating and financial leases. Answer: Operating leases usually have these characteristics: ∙ Lease is not fully amortized ∙ Lessor responsible for maintenance and insurance ∙ Lessee has right to cancel prior to expiration Financial leases usually have these characteristics: ∙ Lessee responsible for maintenance and insurance ∙ Lease is fully amortized ∙ Lessee has right to renew at expiration ∙ Lease cannot be cancelled Difficulty: 1 Easy Section: 21.9 Reasons for Leasing Topic: Capital and operating leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1729,
+    "question": "Explain the term \"bargain purchase price option\" and identify at least one application of that term. Answer: \"Bargain purchase price option\" is the term applied to the situation that occurs at the end of a lease when the lessee can purchase the leased asset at a price that is less than the fair market value. When the lessee is granted this option, the IRS will classify the lease as a capital lease. Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Capital and operating leases Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  }
+]

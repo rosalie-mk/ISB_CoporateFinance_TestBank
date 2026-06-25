@@ -1,1 +1,1197 @@
-[]
+[
+  {
+    "id": 793,
+    "question": "Which one of these applies to the dividend growth model of stock valuation?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 9
+  },
+  {
+    "id": 794,
+    "question": "If a stock pays a constant annual dividend then the stock can be valued using the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 9
+  },
+  {
+    "id": 795,
+    "question": "In the formula, P3 = Dx/(R − g), the dividend is for period:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 796,
+    "question": "The differential growth model of stock valuation:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 797,
+    "question": "The constant dividend growth model:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 798,
+    "question": "The underlying assumption of the dividend growth model is that a stock is worth:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "required rate of return.",
+      "E": "Answer: B Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 9
+  },
+  {
+    "id": 799,
+    "question": "Assume you are using the dividend growth model to value stocks. If you expect the market rate of return to increase across the board on all equity securities, then you should also expect the:",
+    "options": {
+      "A": "",
+      "B": "in the market rate.",
+      "C": "",
+      "D": "maintain a constant price.",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 800,
+    "question": "Latcher's is a relatively new firm that is still in a period of rapid development. The company plans on retaining all of its earnings for the next six years. Seven years from now, the company projects paying an annual dividend of $.25 a share and then increasing that amount by 3 percent annually thereafter. To value this stock as of today, you would most likely determine the value of the stock ________ years from today before determining today's value.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 801,
+    "question": "Phillips Co. currently pays no dividend. The company is anticipating dividends of $.02, $.05, $.10, $.20, and $.30 over the next 5 years, respectively. After that, the company anticipates increasing the dividend by 3.5 percent annually. One common step in computing the value of this stock today is to compute the value of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 802,
+    "question": "Next year's annual dividend divided by the current stock price is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock dividends and yields Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 803,
+    "question": "The rate at which a stock's price is expected to appreciate (or depreciate) is called the ________ yield.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock dividends and yields Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 804,
+    "question": "For a firm with a constant payout ratio, the dividend growth rate can be estimated as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 9
+  },
+  {
+    "id": 805,
+    "question": "The total return on a stock is equal to the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 806,
+    "question": "A stock's PE ratio is primarily affected by which three factors?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 9
+  },
+  {
+    "id": 807,
+    "question": "Which one of these factors generally has the greatest impact on a firm's PE ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 808,
+    "question": "The closing price of a stock is quoted at 32.08, with a PE of 21 and a net change of .36. Based on this information, which one of the following statements is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 809,
+    "question": "A forward PE is generally based on the projected:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 810,
+    "question": "A stock that is considered to be low risk is most apt to have:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 811,
+    "question": "Enterprise value equals the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 9
+  },
+  {
+    "id": 812,
+    "question": "One advantage of the EV/EBITDA ratio over the PE ratio is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 9
+  },
+  {
+    "id": 813,
+    "question": "What amount of a firm's cash should be included in the enterprise value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 9
+  },
+  {
+    "id": 814,
+    "question": "The free cash flow model is most helpful for firms:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.4 Valuing Stocks Using Free Cash Flows Topic: Free cash flow models and valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 815,
+    "question": "If the issuer of a stock receives the proceeds from a sale of that issuer's stock, then the sale:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Primary and secondary markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 816,
+    "question": "Which one of these statements is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock exchanges and markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 817,
+    "question": "Supplemental liquidity providers (SLPs):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock exchanges and markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 818,
+    "question": "A stop order to sell at $46 will be executed:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock exchanges and markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 9
+  },
+  {
+    "id": 819,
+    "question": "A limit order to buy:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock trading and strategies Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 820,
+    "question": "A day order to sell at a limit of $32 will be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock trading and strategies Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 9
+  },
+  {
+    "id": 821,
+    "question": "NASDAQ:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock exchanges and markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 822,
+    "question": "You recently contacted a brokerage firm and purchased 100 shares of stock. The brokerage firm acquired the shares for you by making a deal with a floor broker who represented one of the stock issuer's shareholders. Given this, you know your purchase:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Primary and secondary markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 9
+  },
+  {
+    "id": 823,
+    "question": "Inside quotes on a stock are:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 9.5 The Stock Markets Topic: Stock market prices and reporting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 9
+  },
+  {
+    "id": 824,
+    "question": "Rosita's announced that its next annual dividend will be $1.65 a share and all future dividends will increase by 2.5 percent annually. What is the maximum amount you should pay to purchase a share of this stock if you require a rate of return of 12 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: P0 = $1.65/(.12 − .025) P0 = $17.37 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "P0 = $1.65/(.12 − .025)",
+    "chapter": 9
+  },
+  {
+    "id": 825,
+    "question": "How much are you willing to pay for one share of stock if the company just paid an annual dividend of $1.03, the dividends increase by 3 percent annually, and you require a rate of return of 15 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: P0 = [$1.03(1.03)]/(.15 − .03) P0 = $8.84 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "P0 = [$1.03(1.03)]/(.15 − .03)",
+    "chapter": 9
+  },
+  {
+    "id": 826,
+    "question": "Upland Motors recently paid a per share dividend of $1.48. Dividends are expected to increase by 2.5 percent annually. What is one share of this stock worth today if the appropriate discount rate is 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: P0 = [$1.48(1.025)]/(.14 − .025) P0 = $13.19 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "P0 = [$1.48(1.025)]/(.14 − .025)",
+    "chapter": 9
+  },
+  {
+    "id": 827,
+    "question": "MJ Enterprises stock traditionally provides an average rate of return of 11.6 percent. The firm's next annual dividend is projected at $2.40 with future increases of 3 percent per year. What price should you pay for this stock if you are satisfied with the firm's average rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = $2.40/(.116 − .03) P0 = $27.91 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "P0 = $2.40/(.116 − .03)",
+    "chapter": 9
+  },
+  {
+    "id": 828,
+    "question": "Unique Stores common stock pays a constant annual dividend of $1.75 a share. What is the value of this stock at a discount rate of 13.25 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = $1.75/.1325 P0 = $13.21 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "P0 = $1.75/.1325",
+    "chapter": 9
+  },
+  {
+    "id": 829,
+    "question": "Martin's Yachts is expected to pay annual dividends of $1.40, $1.75, and $2.00 a share over the next three years, respectively. After that, the dividend is expected to remain constant. What is the current value per share at a discount rate of 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $1.40/1.14 + $1.75/1.142 + ($2.00/.14)/1.142 P0 = $13.57 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P0 = $1.40/1.14 + $1.75/1.142 + ($2.00/.14)/1.142",
+    "chapter": 9
+  },
+  {
+    "id": 830,
+    "question": "Weisbro and Sons common stock sells for $21 a share and pays an annual dividend that increases by 5 percent each year. The rate of return on this stock is 9 percent. What is the amount of the last dividend paid?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: $21 = D0(1.05)/(.09 − .05) D0 = $.80 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "$21 = D0(1.05)/(.09 − .05)",
+    "chapter": 9
+  },
+  {
+    "id": 831,
+    "question": "The common stock of Energy Saver pays an annual dividend that is expected to increase by 4 percent annually. The stock commands a market rate of return of 12 percent and sells for $58.25 a share. What is the expected amount of the next dividend to be paid?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: $58.25 = D1/(.12 − .04) D1 = $4.66 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "$58.25 = D1/(.12 − .04)",
+    "chapter": 9
+  },
+  {
+    "id": 832,
+    "question": "The Reading Co. has adopted a policy of increasing the annual dividend on its common stock at a constant rate of 3 percent annually. The last dividend it paid (T = 0) was $.90 a share. What will be the company's dividend six years from now?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: D6 = $.90(1.036) D6 = $1.07 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "D6 = $.90(1.036)",
+    "chapter": 9
+  },
+  {
+    "id": 833,
+    "question": "You have decided to purchase shares of GHC but need an expected 12 percent rate of return to compensate for the perceived risk of such ownership. What is the maximum price you should pay per share if the company pays a constant $2.70 annual dividend per share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P = $2.70/.12 P = $22.50 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Apply AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P = $2.70/.12",
+    "chapter": 9
+  },
+  {
+    "id": 834,
+    "question": "T&P common stock sells for $23.43 a share at a market rate of return of 11.65 percent. The company just paid its annual dividend of $1.20. What is the dividend growth rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: $23.43 = [$1.20(1 + g)]/(.1165 − g) g = .0621, or 6.21% Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "$23.43 = [$1.20(1 + g)]/(.1165 − g)",
+    "chapter": 9
+  },
+  {
+    "id": 835,
+    "question": "S&P Enterprises will pay an annual dividend of $2.08 a share on its common stock next year. The firm just paid a dividend of $2.00 a share and adheres to a constant rate of growth dividend policy. What will one share of S&P common stock be worth ten years from now if the applicable discount rate is 8 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: g = ($2.08 − 2.00)/$2.00 g = .04 P10 = [$2.08(1.0410)]/(.08 − .04) P10 = $76.97 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "g = ($2.08 − 2.00)/$2.00",
+    "chapter": 9
+  },
+  {
+    "id": 836,
+    "question": "The Merriweather Co. just announced that it will pay a dividend next year of $1.60. The company will then increase its dividend by 10 percent per year for two years after which it will maintain a constant 2 percent dividend growth rate. What is one share worth today at a required rate of return of 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $1.60/1.14 + [$1.60(1.10)]/1.142 + [$1.60(1.102)]/1.143 + {[$1.60(1.102)(1.02)]/(.14 − .02)}/1.143 P0 = $15.17 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "P0 = $1.60/1.14 + [$1.60(1.10)]/1.142 + [$1.60(1.102)]/1.143 +",
+    "chapter": 9
+  },
+  {
+    "id": 837,
+    "question": "The Bell Weather Co. is a new firm in a rapidly growing industry. The company is planning on increasing its annual dividend by 20 percent next year and then decreasing the growth rate to a constant 5 percent per year. The company just paid its annual dividend in the amount of $1 per share. What is the current value of a share if the required rate of return is 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = [$1(1.20)]/1.14 + {[($1(1.20)(1.05)]/(.14 − .05)}/1.14 P0 = $13.33 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Supernormal growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "P0 = [$1(1.20)]/1.14 + {[($1(1.20)(1.05)]/(.14 − .05)}/1.14",
+    "chapter": 9
+  },
+  {
+    "id": 838,
+    "question": "New Corp. just paid a per share annual dividend of $1.50. The company is planning on paying $1.62, $1.68, $1.75, and $1.80 a share over the next four years, respectively. After that the dividend will be a constant $2.00 per share per year. What is the market price of this stock if the market rate of return is 15 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = $1.62/1.15 + $1.68/1.152 + $1.75/1.153 + $1.80/1.154 + ($2.00/.15)/1.154 P0 = $12.48 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "P0 = $1.62/1.15 + $1.68/1.152 + $1.75/1.153 + $1.80/1.154 + ($2.00/.15)/1.154",
+    "chapter": 9
+  },
+  {
+    "id": 839,
+    "question": "Alpha Industries is going to pay annual dividends of $.35, $.50, and $.80 a share over the next three years, respectively. After that, the dividend will be $1.25 per share indefinitely. What is this stock worth today at a discount rate of 13.45 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: P0 = $.35/1.1345 + $.50/1.13452 + $.80/1.13453 + ($1.25/.1345)/1.13453 P0 = $7.61 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "P0 = $.35/1.1345 + $.50/1.13452 + $.80/1.13453 + ($1.25/.1345)/1.13453",
+    "chapter": 9
+  },
+  {
+    "id": 840,
+    "question": "City Movers announced its next annual dividend will be $.40 a share. The following dividends will be $.60, and $.75 a share annually for the following two years, respectively. After that, dividends are projected to increase by 3.5 percent per year. How much is one share of this stock worth at a rate of return of 12 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = $.40/1.12 + $.60/1.122 + $.75/1.123 + {[$.75(1.035)]/(.12 − .035)}/1.123 P0 = $7.87 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "P0 = $.40/1.12 + $.60/1.122 + $.75/1.123 + {[$.75(1.035)]/(.12 − .035)}/1.123",
+    "chapter": 9
+  },
+  {
+    "id": 841,
+    "question": "DC Motors recently paid $1.10 as its annual dividend. Future dividends are projected at $1.06, $1.02, and $1.00 over the next three years, respectively. After that, the dividend is expected to decrease by 2 percent annually. What is one share of this stock worth at a rate of return of 17 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $1.06/1.17 + $1.02/1.172 + $1.00/1.173 + ({$1.00[1 + (−.02)]}/(.17 − (−.02))/1.173 P0 = $5.50 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P0 = $1.06/1.17 + $1.02/1.172 + $1.00/1.173 + ({$1.00[1 + (−.02)]}/(.17 −",
+    "chapter": 9
+  },
+  {
+    "id": 842,
+    "question": "Ancient Industries just paid a dividend of $1.03 a share. The company announced today that it expects to pay $.90 a share next year and a final liquidating dividend of $18.44 in two years. What is one share of this stock worth today if the required rate of return is 16 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $.90/1.16 + $18.44/1.162 P0 = $14.48 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "P0 = $.90/1.16 + $18.44/1.162",
+    "chapter": 9
+  },
+  {
+    "id": 843,
+    "question": "A company plans to pay an annual dividend of $.30 a share for two years commencing two years from today. After that time, a constant $1 a share annual dividend is planned indefinitely. Given a required return of 14 percent, what is the current value of this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $.30/1.142 + $.30/1.143 + ($1/.14)/1.143 P0 = $5.25 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P0 = $.30/1.142 + $.30/1.143 + ($1/.14)/1.143",
+    "chapter": 9
+  },
+  {
+    "id": 844,
+    "question": "The Elder Co. is in downsizing mode. The company paid an annual dividend of $2.50 last year. The company has announced plans to lower the dividend by $.50 a year. Once the dividend amount becomes zero, the company will cease all dividends permanently. The required rate of return is 14.5 percent. What is one share of this stock worth?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: P0 = $2.00/1.145 + $1.50/1.1452 + $1.00/1.1453 + $.50/1.1454 P0 = $3.85 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "P0 = $2.00/1.145 + $1.50/1.1452 + $1.00/1.1453 + $.50/1.1454",
+    "chapter": 9
+  },
+  {
+    "id": 845,
+    "question": "M&D Enterprises paid its first annual dividend yesterday in the amount of $.28 a share. The company plans to double each annual dividend payment for the next three years. After that time, it plans to pay a constant $2.25 per share indefinitely. What is one share of this stock worth today if the market rate of return on similar securities is 11.5 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Dividends for the next three years are $.56, $1.12, and $2.24. P0 = $.56/1.115 + $1.12/1.1152 + $2.24/1.1153 + ($2.25/.115)/1.1153 P0 = $17.13 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Dividends for the next three years are $.56, $1.12, and $2.24.",
+    "chapter": 9
+  },
+  {
+    "id": 846,
+    "question": "BC 'n D just paid its annual dividend of $.60 a share. The projected dividends for the next five years are $.30, $.50, $.75, $1.00, and $1.20, respectively. After that time, the dividends will be held constant at $1.40 per share. What is this stock worth today at a discount rate of 14 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: P0 = $.30/1.14 + $.50/1.142 + $.75/1.143 + $1.00/1.144 + $1.20/1.145 + ($1.40/.14)/1.145 P0 = $7.56 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Nonconstant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "P0 = $.30/1.14 + $.50/1.142 + $.75/1.143 + $1.00/1.144 + $1.20/1.145 +",
+    "chapter": 9
+  },
+  {
+    "id": 847,
+    "question": "JK Inc. is a very cyclical type of business which is reflected in its dividend policy. The firm pays a dividend of $2.00 a share every other year with the last payment having just been paid. Five years from now, the company is repurchasing all of the outstanding shares at a price of $50 a share. What is the current value of one share at a discount rate of 12 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $2/1.122 + $2/1.124 + $50/1.125 P0 = $31.24 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P0 = $2/1.122 + $2/1.124 + $50/1.125",
+    "chapter": 9
+  },
+  {
+    "id": 848,
+    "question": "Yesterday, Railway Tours paid its annual dividend of $1.20 per share. The company has been reducing the dividends by 10 percent each year. What is the value of this stock at a discount rate of 13 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: P0 = {$1.20[1 + (−.10)]}/[.13 − (−.10)] P0 = $4.70 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "P0 = {$1.20[1 + (−.10)]}/[.13 − (−.10)]",
+    "chapter": 9
+  },
+  {
+    "id": 849,
+    "question": "Nu-Tech is expecting a period of intense growth and has decided to reduce its annual dividend by 10 percent a year for the next two years. After that, it will maintain a constant dividend of $.70 a share. The company just paid $1.80 per share. What is the value of this stock if the required rate of return is 13 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = {$1.80[1 + (−.10)]}/1.13 + {$1.80[1 + (−.10)]2}/1.132 + ($.70/.13)/1.132 P0 = $6.79 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P0 = {$1.80[1 + (−.10)]}/1.13 + {$1.80[1 + (−.10)]2}/1.132 + ($.70/.13)/1.132",
+    "chapter": 9
+  },
+  {
+    "id": 850,
+    "question": "What would be the maximum an investor should pay for the common stock of a firm that has no growth opportunities but pays a dividend of $1.36 per year? The required rate of return is 12.5 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P0 = $1.36/.125 P0 = $10.88 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "P0 = $1.36/.125",
+    "chapter": 9
+  },
+  {
+    "id": 851,
+    "question": "The Felix Corp. will pay an annual dividend of $1.00 next year. The dividend will increase by 12 percent a year for the following two years before growing at 4 percent indefinitely thereafter. If the required rate of return is 10 percent, what is the stock's current value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P0 = $1.00/1.10 + $1.12/1.102 + $1.122/1.103 + {[$1.122(1.04)]/(.10 − .04)}/1.103 P0 = $19.11 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Supernormal growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "P0 = $1.00/1.10 + $1.12/1.102 + $1.122/1.103 + {[$1.122(1.04)]/(.10 −",
+    "chapter": 9
+  },
+  {
+    "id": 852,
+    "question": "A company just paid an annual dividend of $.40 a share and plans to increase the dividend by 7 percent a year for the next 6 years and then increase it by 4 percent annually thereafter. What is the value of this stock at the end of Year 6 if the discount rate is 11 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P6 = [$.40(1.076)(1.04)]/(.11 − .04) P6 = $8.92 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Supernormal growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "P6 = [$.40(1.076)(1.04)]/(.11 − .04)",
+    "chapter": 9
+  },
+  {
+    "id": 853,
+    "question": "Wilbert's Clothing Stores just paid an annual dividend of $1.20 and increases its dividend by",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 9
+  },
+  {
+    "id": 854,
+    "question": "5 percent annually. You would like to purchase 100 shares of stock in this firm but realize that you will not have the funds to do so for another three years. If you desire a rate of return of 10 percent, how much should you expect to pay for 100 shares when you can afford to buy this stock? Ignore trading costs.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: P3 = [$1.20(1.0254)]/(.10 − .025) P3 = $17.66 Purchase cost = 100($17.66) Purchase cost = $1,766 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "P3 = [$1.20(1.0254)]/(.10 − .025)",
+    "chapter": 9
+  },
+  {
+    "id": 855,
+    "question": "Uptown Clothing just paid $1.50 as its annual dividend and increases its dividend by 2.5 percent each year. What will Uptown's stock price be in ten years at a discount rate of 12.25 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: P10 = [$1.50(1.02511)]/(.1225 − .025) P10 = $20.19 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "P10 = [$1.50(1.02511)]/(.1225 − .025)",
+    "chapter": 9
+  },
+  {
+    "id": 856,
+    "question": "Merriweather's has a policy of increasing its annual dividend by 1.75 percent each year. How much will one share be worth five years from now if the required rate of return is 15 percent and the next dividend will be $3.40?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: P5 = [$3.40(1.01755)]/(.15 − .0175) P5 = $27.99 Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Constant-growth stock Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "P5 = [$3.40(1.01755)]/(.15 − .0175)",
+    "chapter": 9
+  },
+  {
+    "id": 857,
+    "question": "A stock pays a constant annual dividend and sells for $31.11 a share. If the dividend yield of this stock is 9 percent, what is the dividend amount?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: .09 = D/$31.11 D = $2.80 Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": ".09 = D/$31.11",
+    "chapter": 9
+  },
+  {
+    "id": 858,
+    "question": "The common stock of Fine China sells for $38.42 a share. The stock is expected to pay an annual dividend of $1.80 next year and increase that amount by 4 percent annually thereafter. What is the market rate of return on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: R = $1.80/$38.42 + .04 R = .0869, or 8.69% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "R = $1.80/$38.42 + .04",
+    "chapter": 9
+  },
+  {
+    "id": 859,
+    "question": "Logistics just paid an annual dividend of $2.20 and announced that all future dividends would be $2.25 a share indefinitely. What is your required rate of return if you are willing to pay $15.25 a share for this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: R = $2.25/$15.25 R = .1475, or 14.75% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "R = $2.25/$15.25",
+    "chapter": 9
+  },
+  {
+    "id": 860,
+    "question": "Martha's recently paid an annual dividend of $3.60 on its common stock. This dividend increases by 2.5 percent per year. What is the market rate of return if the stock is selling for $32.65 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: R = [$3.60(1.025)]/$32.65 + .025 R = .1380, or 13.80% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "R = [$3.60(1.025)]/$32.65 + .025",
+    "chapter": 9
+  },
+  {
+    "id": 861,
+    "question": "Bikes and More just announced its next annual dividend will be $2.42 a share and all future dividends will increase by 2.5 percent annually. What is the market rate of return if this stock is currently selling for $22 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: R = $2.42/$22 + .025 R = .1350, or 13.50% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "R = $2.42/$22 + .025",
+    "chapter": 9
+  },
+  {
+    "id": 862,
+    "question": "Shares of the Samson Co. offer an expected total return of 12 percent. The dividend is increasing at a constant 3.25 percent per year. What is the value of the next dividend if the stock is selling at $28 a share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .12 = D1/$28 + .0325 D1 = $2.45 Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".12 = D1/$28 + .0325",
+    "chapter": 9
+  },
+  {
+    "id": 863,
+    "question": "A stock had a total return of 9.62 percent last year. The dividend amount was $.70 a share which equated to a dividend yield of 2.39 percent. What is the dividend growth rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: g = .0962 − .0239 g = .0723, or 7.23% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "g = .0962 − .0239",
+    "chapter": 9
+  },
+  {
+    "id": 864,
+    "question": "Lory Company had net earnings of $127,000 this past year of which $46,200 was paid out in dividends. The company's equity was $1,587,500. Lory has 200,000 shares outstanding with a current market price of $11.63 per share. Both the number of shares and the dividend payout ratio are constant. What is the required rate of return if the growth rate is 5.6 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: R = [($46,200/200,000)(1.056)]/$11.63 + .056 R = .0770, or 7.70% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Required return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "R = [($46,200/200,000)(1.056)]/$11.63 + .056",
+    "chapter": 9
+  },
+  {
+    "id": 865,
+    "question": "Engine Builders stock sells for $24.20 a share. The firm just paid an annual dividend of $2 per share and has a long-established record of increasing its dividend by a constant 2.5 percent annually. What is the market rate of return on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: R = [$2(1.025)]/$24.20 + .025 R = .1097, or 10.97% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Required return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "R = [$2(1.025)]/$24.20 + .025",
+    "chapter": 9
+  },
+  {
+    "id": 866,
+    "question": "Dexter's has a fixed dividend payout ratio of 40 percent, current net income of $5,200, total assets of $56,400, and total equity of $21,600. Given this information, what estimate would you use as the dividend growth rate if the last dividend paid was $.464 per share?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: g = (1 − .40)($5,200/$21,600) g = .1444, or 14.44% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Growth rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "g = (1 − .40)($5,200/$21,600)",
+    "chapter": 9
+  },
+  {
+    "id": 867,
+    "question": "The dividend yield on Alpha's common stock is 5.2 percent. The company just paid a $2.10 dividend. The rumour is that the dividend will be $2.30 next year. The dividend growth rate is expected to remain constant at the current level. What is the required rate of return on Alpha's stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: R = .052 + ($2.30 − 2.10)/$2.10 R = .1472, or 14.72% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Required return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "R = .052 + ($2.30 − 2.10)/$2.10",
+    "chapter": 9
+  },
+  {
+    "id": 868,
+    "question": "Lester's has a return on equity of 11.6 percent, a profit margin of 6.2 percent, and a payout ratio of 35 percent. What is the firm's growth rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: g = .116(1 − .35) g = .0754, or 7.54% Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Growth rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "g = .116(1 − .35)",
+    "chapter": 9
+  },
+  {
+    "id": 869,
+    "question": "Rudy's stock is currently valued at $28.40 a share. The firm had earnings per share of $1.86 last year and projects earnings of $2.09 a share for next year. What is the trailing twelve month price-earnings ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: PETTM = $28.40/$1.86 PETTM = 15.27 Difficulty: 2 Medium Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "PETTM = $28.40/$1.86",
+    "chapter": 9
+  },
+  {
+    "id": 870,
+    "question": "L&R's stock is currently valued at $32.70 a share. The firm had earnings per share of $1.88 last year and projects earnings of $2.10 a share for next year. What is the forward price-earnings ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: PEForward = $32.70/$2.10 PEForward = 15.57 Difficulty: 2 Medium Section: 9.3 Comparables Topic: Price-earnings ratio Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "PEForward = $32.70/$2.10",
+    "chapter": 9
+  },
+  {
+    "id": 871,
+    "question": "Russell's has annual revenue of $387,000 with costs of $216,400. Depreciation is $48,900 and the tax rate is 21 percent. The firm has debt outstanding with a market value of $182,000 along with 9,500 shares of stock that is selling at $67 a share. The firm has $48,000 of cash of which $29,500 is needed to run the business. What is the firm's EV/EBITDA ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: EV/EBITDA = [$182,000 + 9,500($67) − ($48,000 − 29,500)]/($387,000 − 216,400) EV/EBITDA = 4.69 Difficulty: 2 Medium Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "EV/EBITDA = [$182,000 + 9,500($67) − ($48,000 − 29,500)]/($387,000 −",
+    "chapter": 9
+  },
+  {
+    "id": 872,
+    "question": "Kurt's Interiors has annual revenue of $506,000 with costs of $369,400. Depreciation is $64,900 and the tax rate is 21 percent. The firm has debt outstanding with a market value of $240,000 along with 7,500 shares of stock that is valued at $87 a share. The firm has $51,200 of cash, all of which is needed to run the business. What is the firm's EV/EBITDA ratio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: EV/EBITDA = [$240,000 + 7,500($87) − ($51,200 − 51,200)/($506,000 − 369,400) EV/EBITDA = 6.53 Difficulty: 2 Medium Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "EV/EBITDA = [$240,000 + 7,500($87) − ($51,200 − 51,200)/($506,000 −",
+    "chapter": 9
+  },
+  {
+    "id": 873,
+    "question": "Jaxon's has total revenue of $418,300, earnings before interest and taxes of $102,600, depreciation of $59,200, and a tax rate of 21 percent. The firm is all-equity financed with 15,000 shares outstanding at a book value of $38.03 a share and a price-to-book ratio of 3.2. What is the firm's EV/EBITDA ratio if the firm has excess cash of $49,300?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: EV/EBITDA = [15,000($38.03)(3.2) − $49,300]/($102,600 + 59,200) EV/EBITDA = 10.98 Difficulty: 2 Medium Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "EV/EBITDA = [15,000($38.03)(3.2) − $49,300]/($102,600 + 59,200)",
+    "chapter": 9
+  },
+  {
+    "id": 874,
+    "question": "Allison's is expected to have annual free cash flow of $62,000, $65,400, and $68,900 for the next three years, respectively. After that, the free cash flow is expected to increase at a constant rate of 2 percent per year. At a discount rate of 14.5 percent, what is the present value of this firm?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: PV = $62,000/1.145 + $65,400/1.1452 + $68,900/1.1453 + [$68,900(1.02)/(.145 − .02)]/1.1453 PV = $524,467 Difficulty: 2 Medium Section: 9.4 Valuing Stocks Using Free Cash Flows Topic: Free cash flow models and valuations Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "PV = $62,000/1.145 + $65,400/1.1452 + $68,900/1.1453 + [$68,900(1.02)/(.145 −",
+    "chapter": 9
+  },
+  {
+    "id": 875,
+    "question": "Danielsen's has 15,000 shares of stock outstanding and projected annual free cash flows of $48,200, $57,900, $71,300, and $72,500 for the next four years, respectively. After that, the cash flows are expected to increase at a constant annual rate of 1.6 percent. What is the current value per share of stock at a discount rate of 15.4 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: P0 = {$48,200/1.154 + $57,900/1.1542 + $71,300/1.1543 + $72,500/1.1544 + [$72,500(1.016)/(.154 − .016)]/1.1544}/15,000 P0 = $31.57 Difficulty: 2 Medium Section: 9.4 Valuing Stocks Using Free Cash Flows Topic: Free cash flow models and valuations Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "P0 = {$48,200/1.154 + $57,900/1.1542 + $71,300/1.1543 + $72,500/1.1544 +",
+    "chapter": 9
+  },
+  {
+    "id": 876,
+    "question": "A number of publicly traded firms pay no dividends yet investors are willing to buy shares in these firms. How is this possible? Does this violate our basic principle of stock valuation? Explain. Answer: Our basic principle of stock valuation is that the value of a share of stock is simply equal to the present value of all the expected future cash flows from the stock. According to the dividend growth model, an asset that has no expected cash flows has a value of zero, so if investors are willing to purchase shares of stock in firms that pay no dividends, they evidently expect that the firms will begin paying dividends at some point in the future. If no dividends are ever expected, investors are most likely expecting the firm will be sold in the future and a cash flow will occur at that time. Difficulty: 2 Medium Section: 9.1 The Present Value of Common Stocks Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 9
+  },
+  {
+    "id": 877,
+    "question": "What are the components of the required rate of return on a share of stock? Briefly explain each component. Answer: The two components are dividend yield, which measures the annual percentage income return on a stock from its dividend payments, and the capital gains yield, which is the annual percentage of price appreciation or depreciation. Difficulty: 1 Easy Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 9
+  },
+  {
+    "id": 878,
+    "question": "Explain whether it is easier to find the required return on a publicly traded stock or a publicly traded bond, and explain why. Answer: Bonds, unlike stocks, have a final maturity date and promised payments at fixed periods of time. Thus, once an appropriate discount rate is established, valuing a bond is relatively simple. For stocks, the only valuation model we have up to this point in the text is the dividend growth model which requires estimation of a dividend growth rate and also requires that certain conditions be met before the dividend growth model can be applied. Normally, all of the information required to find the yield on a publicly traded bond is publicly available while only the price and the most current dividend are available for stocks. Difficulty: 2 Medium Section: 9.2 Estimates of Parameters in the Dividend Discount Model Topic: Stock returns and yields Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 39 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "B",
+    "chapter": 9
+  },
+  {
+    "id": 879,
+    "question": "What is the difference between the EV/EBITDA ratio and the PE ratio? Answer: The PE ratio is an all-equity ratio whereby the numerator is the price per share of stock and the denominator is the earnings per share of stock. The enterprise value includes both debt and equity components for a total firm valuation. In the enterprise value to EBITDA ratio, the numerator is the market value of the firm's equity plus the market value of the firm's debt minus excess cash. The denominator, EBITDA, is the earnings before interest, taxes, depreciation, and amortization. Using EV/EBITDA allows the analyst to account for total firm value, taking into account both debt and equity, thereby adjusting for leverage when comparing firms in the same industry. Difficulty: 2 Medium Section: 9.3 Comparables Topic: Enterprise value and ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 9
+  },
+  {
+    "id": 880,
+    "question": "Explain the differences between a market order, a limit order, and a stop order. Answer: A market order will be executed immediately at the best price available, which is unknown before order execution. A limit order will be executed only at the limit price, or better, but whether or not the order will be executed is unknown. A stop order will convert to a market order once the market price hits the stop order price. Difficulty: 2 Medium Section: 9.5 The Stock Markets Topic: Stock trading and strategies Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 9
+  }
+]

@@ -1,1 +1,1081 @@
-[]
+[
+  {
+    "id": 881,
+    "question": "Alpha Industries stock sold for $39 a share at the beginning of the year. During the year, the company paid a dividend of $3 a share and then ended the year with a stock price of $37. The change in the stock price is best described as a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.1 Returns Topic: Total return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 882,
+    "question": "The capital gains yield plus the dividend yield on a security is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.1 Returns Topic: Total return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 883,
+    "question": "A portfolio of small-company common stocks, as used in this course, is best described as the stocks of the firms which:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.2 Holding Period Returns Topic: Asset classes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 884,
+    "question": "Based on the period of 1926 through 2017, ________ have tended to outperform other securities over the long-term.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.2 Holding Period Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 885,
+    "question": "Based on the period of 1926 through 2017, U.S. Treasury bills have produced annual rates of return that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.2 Holding Period Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 886,
+    "question": "Another term that refers to the average rate of return is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.3 Return Statistics Topic: Portfolio return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 887,
+    "question": "Which one of the following types of securities has tended to produce the lowest real rate of return for the period 1926 through 2017?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 888,
+    "question": "On average, for the period 1926 through 2017:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "government bonds.",
+      "E": "stocks. Answer: D Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 889,
+    "question": "Over the period of 1926 through 2017, the annual rate of return on ________ has been more volatile than the annual rate of return on ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 890,
+    "question": "Which one of the following is a correct ranking of securities based on their volatility over the period of 1926 to 2017? Rank from highest to lowest volatility.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 891,
+    "question": "Over the period of 1926 to 2017, small-company stocks had an average return of ________ percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 892,
+    "question": "Over the period of 1926 to 2017, the average rate of inflation was ________ percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 893,
+    "question": "The average annual return on long-term corporate bonds for the period of 1926 to 2017 was ________ percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 894,
+    "question": "The average annual return on small-company stocks was about ________ percentage points greater than the average annual return on large-company stocks over the period of 1926 to 2017.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 10
+  },
+  {
+    "id": 895,
+    "question": "The average excess return on U.S. Treasury bills over the period of 1926 to 2017 was ________ percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk premium Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 896,
+    "question": "The excess return is computed by ________ the average return for the investment.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk premium Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 897,
+    "question": "Which one of the following is a correct statement concerning the excess return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk premium Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 898,
+    "question": "Which one of the following statements concerning the standard deviation is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Standard deviation and variance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 10
+  },
+  {
+    "id": 899,
+    "question": "The standard deviation of small-company stocks:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Standard deviation and variance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 900,
+    "question": "Capital market history shows us that a correct ordering of the average return by asset classes, from lowest to highest, is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "small-company stock. Answer: D Difficulty: 1 Easy Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 901,
+    "question": "The average squared difference between the actual return and the average return is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 10
+  },
+  {
+    "id": 902,
+    "question": "The standard deviation for a set of stock returns can be calculated as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 10
+  },
+  {
+    "id": 903,
+    "question": "A symmetric, bell-shaped frequency distribution that is completely defined by its mean and standard deviation is the ________ distribution.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 904,
+    "question": "The variance of returns is computed by dividing the sum of the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 905,
+    "question": "The Sharpe ratio is computed as the average:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.5 Risk Statistics Topic: Risk and return relationship Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 906,
+    "question": "The average compound return earned per year over a multi-year period is called the ________ average return.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 10
+  },
+  {
+    "id": 907,
+    "question": "The return earned in an average year over a multi-year period is called the ________ average return.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 908,
+    "question": "Of these countries, which one has the highest historical equity risk premium for the period 1900-2010?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 10.7 The U.S. Equity Risk Premium: Historical and International Perspectives Topic: International investing - risks, returns, and benefits Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 10
+  },
+  {
+    "id": 909,
+    "question": "Which country has the highest Sharpe ratio based on historical equity risk premiums and standard deviations of returns for the period 1900-2010?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 10.7 The U.S. Equity Risk Premium: Historical and International Perspectives Topic: International investing - risks, returns, and benefits Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 10
+  },
+  {
+    "id": 910,
+    "question": "In estimating the future equity risk premium, it is important to include assumptions about the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.7 The U.S. Equity Risk Premium: Historical and International Perspectives Topic: International investing - risks, returns, and benefits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 911,
+    "question": "From November 2007 through January 2009, the S&P 500 Index lost approximately what percent of its value?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.8 2008: A Year of Financial Crisis Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 912,
+    "question": "In 2008, which country experienced a decline in its stock market value in excess of 90 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 10.8 2008: A Year of Financial Crisis Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 10
+  },
+  {
+    "id": 913,
+    "question": "In 2008, which asset class had the highest rate of return in the U.S.?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 10.8 2008: A Year of Financial Crisis Topic: Historical performance Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 10
+  },
+  {
+    "id": 914,
+    "question": "One year ago, you purchased a stock at a price of $32.50. The stock pays quarterly dividends of $.40 per share. Today, the stock is worth $34.60 per share. What is the total dollar return per share to date from this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Total dollar return = $34.60 − 32.50 + $.40(4) Total dollar return = $3.70 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Total dollar return = $34.60 − 32.50 + $.40(4)",
+    "chapter": 10
+  },
+  {
+    "id": 915,
+    "question": "Six months ago, you purchased 100 shares of stock in ABC Co. at a price of $43.89 a share. ABC stock pays a quarterly dividend of $.10 a share. Today, you sold all your shares for $45.13 per share. What is the total amount of your capital gains on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Gain = ($45.13 − 43.89)(100) Gain = $124 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Gain = ($45.13 − 43.89)(100)",
+    "chapter": 10
+  },
+  {
+    "id": 916,
+    "question": "A year ago, you purchased 300 shares of New Tech stock at a price of $49.03 per share. The stock pays an annual dividend of $.10 per share. Today, you sold all your shares for $58.14 per share. What is your total dollar return on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Total dollar return = ($58.14 − 49.03 + .10)(300) Total dollar return = $2,763 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Total dollar return = ($58.14 − 49.03 + .10)(300)",
+    "chapter": 10
+  },
+  {
+    "id": 917,
+    "question": "You purchased 300 shares of stock at a price of $21.72 per share. Over the last year, you have received total dividend income of $210. What is the dividend yield?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Dividend yield = ($210/300)/$21.72 Dividend yield = .0322, or 3.22% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Dividend yield = ($210/300)/$21.72",
+    "chapter": 10
+  },
+  {
+    "id": 918,
+    "question": "Winslow, Inc., stock is currently selling for $40 a share. The stock has a dividend yield of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 919,
+    "question": "8 percent. How much dividend income will you receive per year if you purchase 600 shares of this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Div = $40(.038)(600) Div = $912 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Div = $40(.038)(600)",
+    "chapter": 10
+  },
+  {
+    "id": 920,
+    "question": "One year ago, you purchased a stock at a price of $32 a share. Today, you sold the stock and realized a total return of 14.62 percent. Your capital gain was $3.48 a share. What was your dividend yield on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Dividend yield = .1462 − ($3.48/$32) Dividend yield = .0375, or 3.75% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Dividend yield = .1462 − ($3.48/$32)",
+    "chapter": 10
+  },
+  {
+    "id": 921,
+    "question": "You just sold 700 shares of Alcove stock at a price of $34.08 a share. Last year you paid $39.20 a share to buy this stock. You received dividends totalling $1.04 per share. What is your total capital gain on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: g = ($34.08 − $39.20)(700) g = −$3,584 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "g = ($34.08 − $39.20)(700)",
+    "chapter": 10
+  },
+  {
+    "id": 922,
+    "question": "You purchased 300 shares of Deltona stock for $43.90 a share. You have received a total of $630 in dividends and $14,620 in proceeds from selling the shares. What is your capital gains yield on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: g = [$14,620 − (300)($43.90)]/[300($43.90)] g = .1101, or 11.01% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "g = [$14,620 − (300)($43.90)]/[300($43.90)]",
+    "chapter": 10
+  },
+  {
+    "id": 923,
+    "question": "Today, you sold 300 shares of SLG stock and realized a total return of 12.5 percent. You purchased the shares one year ago at a price of $27.43 a share. You have received a total of $192 in dividends. What is your capital gains yield on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: g = .125 − [($192/300)/$27.43] g = .1017, or 10.17% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "g = .125 − [($192/300)/$27.43]",
+    "chapter": 10
+  },
+  {
+    "id": 924,
+    "question": "Six months ago, you purchased 1,200 shares of ABC stock for $21.20 a share and have received total dividend payments of $.60 a share. Today, you sold all your shares for $22.20 a share. What is your total dollar return on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Total dollar return = ($22.20 − 21.20 + .60)(1,200) Total dollar return = $1,920 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Total dollar return = ($22.20 − 21.20 + .60)(1,200)",
+    "chapter": 10
+  },
+  {
+    "id": 925,
+    "question": "Eight months ago, you purchased 400 shares of Winston stock at a price of $46.40 a share. The company pays quarterly dividends of $1.05 a share. Today, you sold all your shares for $48.30 a share. What is your total percentage return on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: R = [$48.30 − 46.40 + $1.05(2)]/$46.40 R = .0862, or 8.62% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "R = [$48.30 − 46.40 + $1.05(2)]/$46.40",
+    "chapter": 10
+  },
+  {
+    "id": 926,
+    "question": "You bought 360 shares of stock at a total cost of $7,754.40. You received a total of $403.20 in dividends and sold your shares for $19.98 a share. What was your total rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: R = [360($19.98) − $7,754.40 + 403.20]/$7,754.40 R = −.0204, or −2.04% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "R = [360($19.98) − $7,754.40 + 403.20]/$7,754.40",
+    "chapter": 10
+  },
+  {
+    "id": 927,
+    "question": "You bought 600 shares of stock at $24.20 each. At the end of the year, you received a total of $720 in dividends, and your stock was worth a total of $15,678. What was your total dollar capital gain and total dollar return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Gain = $15,678 − 600($24.20) Gain = $1,158 Total dollar return = $1,158 + 720 Total dollar return = $1,878 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Gain = $15,678 − 600($24.20)",
+    "chapter": 10
+  },
+  {
+    "id": 928,
+    "question": "BCD shares are currently selling for $27.38 each. You bought 200 shares one year ago at $26.59 and received dividend payments of $1.27 per share. What was your percentage capital gain for the year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: g = ($27.38 − 26.59)/$26.59 g = .0297, or 2.97% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "g = ($27.38 − 26.59)/$26.59",
+    "chapter": 10
+  },
+  {
+    "id": 929,
+    "question": "One year ago, you purchased 300 shares of IXC stock at a price of $22.05 per share, received $460 in dividends over the year, and today sold all your shares for $29.32 per share. What was your dividend yield?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Dividend yield = ($460/300)/$22.05 Dividend yield = .0695, or 6.95% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Dividend yield = ($460/300)/$22.05",
+    "chapter": 10
+  },
+  {
+    "id": 930,
+    "question": "You purchased 300 shares of stock at a price of $37.23 per share. Over the last year, you have received total dividend income of $351. What is the capital gains yield if your total return is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 931,
+    "question": "47 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: g = .1147 − [($351/300)/$37.23] g = .0833, or 8.33% Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "g = .1147 − [($351/300)/$37.23]",
+    "chapter": 10
+  },
+  {
+    "id": 932,
+    "question": "Winslow, Inc., stock is currently selling for $59.48 a share. The stock has an expected growth rate of 4.22 percent and an expected total return for the next year of 9.87 percent. How much dividend income should you expect to receive next year if you purchase 800 shares of this stock today?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Div = (.0987 − .0422)($59.48)(800) Div = $2,688.50 Difficulty: 2 Medium Section: 10.1 Returns Topic: Dollar and percentage returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Div = (.0987 − .0422)($59.48)(800)",
+    "chapter": 10
+  },
+  {
+    "id": 933,
+    "question": "A stock had annual returns of 7.63 percent, 9.28 percent, −3.11 percent, and 15.09 percent for the past four years, respectively. What is the real arithmetic average rate of return for this period if inflation averaged 2.3 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: R = [.0763 + .0928 + (−.0311) + .1509]/4 R = .0722, or 7.22% r = 1.0722/1.023 − 1 r = .0481, or 4.81% Difficulty: 2 Medium Section: 10.1 Returns Topic: Nominal and real returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "R = [.0763 + .0928 + (−.0311) + .1509]/4",
+    "chapter": 10
+  },
+  {
+    "id": 934,
+    "question": "Three years ago, you purchased a stock at a price of $33.48. The stock paid annual dividends of $.60 per share. Today, the stock is worth $35.20 per share. What is your holding period return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: R3 = [$35.20 − 33.48 + 3($.60)]/$33.48 R3 = .1051, or 10.51% Difficulty: 2 Medium Section: 10.2 Holding Period Returns Topic: Annual, holding period, and effective rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "R3 = [$35.20 − 33.48 + 3($.60)]/$33.48",
+    "chapter": 10
+  },
+  {
+    "id": 935,
+    "question": "Two years ago, you purchased 100 shares of stock in ABC at a price of $43.26 a share. The stock pays an annual dividend of $.10 a share. Today, you sold all your shares for $46.71 per share. What is your holding period return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: R2 = [$46.71 − 43.26 + 2($.10)]/$43.26 R2 = .0844, or 8.44% Difficulty: 2 Medium Section: 10.2 Holding Period Returns Topic: Annual, holding period, and effective rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "R2 = [$46.71 − 43.26 + 2($.10)]/$43.26",
+    "chapter": 10
+  },
+  {
+    "id": 936,
+    "question": "Soo Lee owns a stock that has had annual returns of 11.6 percent, 9.3 percent, −22.8 percent, and 34.6 percent over the last four-year period. What is his arithmetic mean return on this investment?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Mean = [.116 + .093 + (−.228) + .346]/4 Mean = .0818, or 8.18% Difficulty: 2 Medium Section: 10.3 Return Statistics Topic: Arithmetic and geometric returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Mean = [.116 + .093 + (−.228) + .346]/4",
+    "chapter": 10
+  },
+  {
+    "id": 937,
+    "question": "Assume that over the last several decades, the total annual returns on large-company common stocks averaged 12.1 percent, small-company stocks averaged 16.5 percent, long-term government bonds averaged 6 percent, and U.S. T-bills averaged 3.4 percent. What was the average excess return earned by long-term government bonds, and small-company stocks respectively?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Excess returnLong-term bonds = 6% − 3.4 Excess returnLong-term bonds = 2.6% Excess returnSmall-company stocks = 16.5% – 3.4 Excess returnSmall-company stocks = 13.1% Difficulty: 2 Medium Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk premium Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Excess returnLong-term bonds = 6% − 3.4",
+    "chapter": 10
+  },
+  {
+    "id": 938,
+    "question": "You invested in long-term corporate bonds and earned 6.8 percent. During that same time period, large-company stocks returned 12.6 percent, long-term government bonds returned 6.4 percent, U.S. Treasury bills returned 4.2 percent, and inflation averaged 3.8 percent. What excess return did you earn?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Excess return = 6.8% − 4.2 Excess return = 2.6% Difficulty: 2 Medium Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk premium Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Excess return = 6.8% − 4.2",
+    "chapter": 10
+  },
+  {
+    "id": 939,
+    "question": "You have a sampling of returns for the Malta Stock Fund. The returns are 7.25 percent, 5.63 percent, 12.56 percent, and 1.08 percent. What is the mean and variance of this sampling?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Average return = (.0725 + .0563 + .1256 + .0108)/4 Average return = .0663, or 6.63% Var = [(.0725 − .0663)2 + (.0563 − .0663)2 + (.1256 − .0663)2 + (.0108 − .0663)2]/(4 − 1) Var = .00225 Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Average return = (.0725 + .0563 + .1256 + .0108)/4",
+    "chapter": 10
+  },
+  {
+    "id": 940,
+    "question": "A stock had returns of 9 percent, −6 percent, 4 percent, and 16 percent over the past four years. What is the standard deviation of these returns?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Average return = [.09 + (−.06) + .04 + .16]/4 Average return = .0575 SD = {[(.09 − .0575)2 + (−.06 − .0575)2 + (.04 − .0575)2 + (.16 − .0575)2]/(4 − 1)}.5 SD = .0925, or 9.25% Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Average return = [.09 + (−.06) + .04 + .16]/4",
+    "chapter": 10
+  },
+  {
+    "id": 941,
+    "question": "A stock has an expected rate of return of 8.3 percent and a standard deviation of 6.4 percent. Which one of the following best describes the probability that this stock will lose more than 4.50 percent in any one given year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Lower bound95% = .083 − 2(.064) Lower bound95% = −.0450, or −4.50% The probability of losing more than 4.50 percent in any one year is less than 2.5 percent. Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Lower bound95% = .083 − 2(.064)",
+    "chapter": 10
+  },
+  {
+    "id": 942,
+    "question": "A stock had annual returns of 3 percent, 18 percent, and −24 percent over a three-year period. Based on this information, what is the 68 percent probability range for any one given year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Average return = [.03 + .18 + (−.24)]/3 Average return = − .01, or −1% σ = {[.03 − (−.01)]2 + [.18 − (−.01)]2 + [(−.24) − (−.01)]2}/(3 − 1)).5 σ = .2128, or 21.28% Range68% = −.01 ± 1(.2128 Range68% = −.2228 to .2028, or −22.28 to 20.28% Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Average return = [.03 + .18 + (−.24)]/3",
+    "chapter": 10
+  },
+  {
+    "id": 943,
+    "question": "A stock had annual returns of 8 percent, 14 percent, and 2 percent for the past three years. Based on these returns, what is the probability that this stock will return more than 26 percent in any one given year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Average return = (.08 + .14 + .02)/3 Average return = .08, or 8% SD = {[(.08 − .08)2 + (.14 − .08)2 + (.02 − .08)2]/(3 − 1)}.5 SD = .06, or 6% Upper bound99% = .08 + 3(.06) Upper bound99% = .26, or 26% There is a .5 percent probability the stock will return more than 26 percent in any one given year. Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Average return = (.08 + .14 + .02)/3",
+    "chapter": 10
+  },
+  {
+    "id": 944,
+    "question": "A stock had returns of 16 percent, 4 percent, −22 percent, 15 percent, and −2 percent for the past five years. What is the variance of these returns?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Average return = [.16 + .04 + (−.22) + .15 + (−.02)]/5 Average return = .022, or 2.20% Var = [(.16 − .022)2 + (.04 − .022)2 + (−.22 − .022)2 + (.15 − .022)2 + (−.02 − .022)2]/(5 − 1) Var = .02402 Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Average return = [.16 + .04 + (−.22) + .15 + (−.02)]/5",
+    "chapter": 10
+  },
+  {
+    "id": 945,
+    "question": "A stock had returns of 8 percent, 39 percent, 11 percent, and −24 percent for the past four years. Which one of the following best describes the probability that this stock will not lose more than 43 percent in any one given year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Average return = [.08 + .39 + .11 + (−.24)]/4 Average return = .085, or 8.5% SD = {[(.08 − .085)2 + (.39 − .085)2 + (.11 − .085)2 + (−.24 − .085)2]/(4 −1)}.5 SD = .2577, or 25.77% Lower bound95% = .085 − 2(.2577) Lower bound95% = −.4305, or −43.05% Probability of not losing more than 43 percent in any given year is approximately 97.5 percent. Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Average return = [.08 + .39 + .11 + (−.24)]/4",
+    "chapter": 10
+  },
+  {
+    "id": 946,
+    "question": "Over the past four years, a stock produced returns of 14 percent, 22 percent, 6 percent, and −19 percent. What is the approximate probability that an investor in this stock will not lose more than 30 percent nor earn more than 41 percent in any one given year?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Average return = [.14 + .22 + .06 + (–.19)]/4 Average return = .0575, or 5.75% SD = {[(.14 − .0575)2 + (.22 − .0575)2 + (.06 − .0575)2 + (−.19 − .0575)2]/(4 − 1)}.5 SD = .1775, or 17.75% Range95% = .0575 ± 2(.1775) Range95% = −.30 to .41, or −30 to 41% Probability of not losing more than 30 percent nor earning more than 41 percent in any given year is approximately 95 percent. Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Average return = [.14 + .22 + .06 + (–.19)]/4",
+    "chapter": 10
+  },
+  {
+    "id": 947,
+    "question": "The returns on a portfolio over the last five years were −5.2 percent, 21.6 percent, 4.5 percent, 11.7 percent, and 5.9 percent. What is the standard deviation of these returns?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Average return = (−.052 + .216 + .045 + .117 + .059)/5 Average return = .077, or 7.7% SD = {[(−.052 − .077)2 + (.216 − .077)2 + (.045 − .077)2 + (.117 − .077)2 + (.059 − .077)2]/(5 −"
+    },
+    "answer": "C",
+    "explanation": "Average return = (−.052 + .216 + .045 + .117 + .059)/5",
+    "chapter": 10
+  },
+  {
+    "id": 948,
+    "question": "}.5 SD = .0986, or 9.86% Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Standard deviation and variance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 949,
+    "question": "Suppose you own a risky asset with an expected return of 12.6 percent and a standard deviation of 18.2 percent. If the returns are normally distributed, the most accurate probability that the stock will return more than 50 percent in any one given year is best described as less than:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Upper end95% = .126 + 2(.182) Upper end95% = .49, or 49% The probability of a return of 50 percent or more in any one year is less than 2.5 percent. Difficulty: 2 Medium Section: 10.5 Risk Statistics Topic: Normal probability distribution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Upper end95% = .126 + 2(.182)",
+    "chapter": 10
+  },
+  {
+    "id": 950,
+    "question": "The return pattern on your favorite stock has been 5.39 percent, 8.26 percent, −12.04 percent, and 14.27 percent over the last four years. What are the average arithmetic and geometric rates of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: AverageArithmetic = [.0539 + .0826 + (−.1204) + .1427]/4 AverageArithmetic = .0397 or 3.97% AverageGeometric = [1.0539(1.0826)(.8796)(1.1427)].25 − 1 AverageGeometric = .0348, or 3.48% Difficulty: 2 Medium Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "AverageArithmetic = [.0539 + .0826 + (−.1204) + .1427]/4",
+    "chapter": 10
+  },
+  {
+    "id": 951,
+    "question": "What are the arithmetic and geometric average returns (Answer in that order.) for a stock with annual returns of 4 percent, 9 percent, −6 percent, and 18 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: AverageArithmetic = [.04 + .09 + (–.06) + .18]/4 AverageArithmetic = .0625, or 6.25% AverageGeometric = [1.04(1.09)(.94)(1.18)].25 – 1 AverageGeometric = .0589, or 5.89% Difficulty: 2 Medium Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "AverageArithmetic = [.04 + .09 + (–.06) + .18]/4",
+    "chapter": 10
+  },
+  {
+    "id": 952,
+    "question": "What are the arithmetic and geometric (Answer in that order.) average returns for a stock with annual returns of 9.4 percent, 8.2 percent, −7.3 percent, 4.1 percent, and 9.5 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: AverageArithmetic = (.094 + .082 + (−.073) + .041 + .095)/5 AverageArithmetic = .0478, or 4.78% AverageGeometric = [1.094(1.082)(.927)(1.041)(1.095)].20 − 1 AverageGeometric = .0458, or 4.58% Difficulty: 2 Medium Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "AverageArithmetic = (.094 + .082 + (−.073) + .041 + .095)/5",
+    "chapter": 10
+  },
+  {
+    "id": 953,
+    "question": "A stock had returns of 12 percent, 6 percent, 13 percent, −11 percent, and −2 percent over the past five years. What is the geometric average return for this time period?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: AverageGeometric = [1.12(1.06)(1.13)(.89)(.98)].20 − 1 AverageGeometric = .0319, or 3.19% Difficulty: 2 Medium Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "AverageGeometric = [1.12(1.06)(1.13)(.89)(.98)].20 − 1",
+    "chapter": 10
+  },
+  {
+    "id": 954,
+    "question": "A stock was priced at $23.08, $24.15, $23.99, and $24.26 at end of Years 1 to 4, respectively. The annual dividend is constant at $.20 a share. What is the geometric average return on this stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: ReturnYear 2 = ($24.15 – 23.08 + .20)/$23.08 = .055026 ReturnYear 3 = ($23.99 – 24.15 + .20)/$24.15 = .001656 ReturnYear 4 = ($24.26 – 23.99 + .20)/$23.99 = .019591 AverageGeometric = [1.055026(1.001656)(1.019591)]1/3 – 1 AverageGeometric = .0252, or 2.52% Difficulty: 2 Medium Section: 10.6 More on Average Returns Topic: Arithmetic and geometric returns Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "ReturnYear 2 = ($24.15 – 23.08 + .20)/$23.08 = .055026",
+    "chapter": 10
+  },
+  {
+    "id": 955,
+    "question": "Assume a stock had an historical equity risk premium of 5.49 percent and a standard deviation of 11.46 percent over the past two decades. What is the 95.4 percent range for the equity risk premium?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Range95.4% = .0549 ± 2(.1146/20.5) Range95.4% = .0036 to .1062, or –.36% to 10.62% Difficulty: 2 Medium Section: 10.7 The U.S. Equity Risk Premium: Historical and International Perspectives Topic: Risk premium Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Range95.4% = .0549 ± 2(.1146/20.5)",
+    "chapter": 10
+  },
+  {
+    "id": 956,
+    "question": "Assume you are comparing two stocks that are identical in every way except that one stock pays dividends and the other does not. How would you expect this difference to affect the annual performance of the dividend-paying stock as compared to the non-dividend-paying stock? Answer: The presence of dividends increases a positive total rate of return and decreases a negative rate of return (causing the return to be less negative, zero, or even positive). In other words, the dividend yield increases the total return. Difficulty: 2 Medium Section: 10.1 Returns Topic: Total return Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 957,
+    "question": "What does the historical record reveal about the relationship between the returns on U.S. Treasury bills and the rate of inflation as measured by the consumer price index? Is this relationship what investors would tend to expect? Why or why not? Answer: Historically, the relationship between U.S. Treasury bills and the inflation rate is a mixed bag. In other words, sometimes T-bills outperform inflation and other times T-bills underperform inflation. Investors would tend to expect to earn a positive real rate of return, but in many years, this does not occur causing investors to lose purchasing power on their T-bill investments. Difficulty: 2 Medium Section: 10.2 Holding Period Returns Topic: Historical performance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 958,
+    "question": "Based on historical market performance, what can we conclude about the relationship between return and risk? Answer: Historical performance clearly illustrates that returns and risks are directly related over the long-term. The greater the risk, the greater the expected return. For any one period, however, the actual return may vary significantly from the expected return - that's the risk. Difficulty: 2 Medium Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 959,
+    "question": "What are the lessons learned from capital market history? What evidence is there to suggest these lessons are correct? Answer: First, there is a reward for bearing risk, and second, the greater the risk, the greater the reward. As evidence, the students should provide a brief discussion of the historical rates of return and standard deviation of returns of the various asset classes discussed in the text. Difficulty: 2 Medium Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Historical performance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  },
+  {
+    "id": 960,
+    "question": "Suppose you have $30,000 invested in the stock market and your banker comes to you and tries to get you to move that money into the bank's certificates of deposit (CDs). He explains that the CDs are 100 percent government insured and that you are taking unnecessary risks by being in the stock market. How would you respond? Answer: The usual response is that bank CDs typically will offer a very low rate of return because of their low level of risk. Even if students do not know the relationship between yields on CDs and historical returns on stocks, they should recognize that because of the risk differences the CDs must have a lower expected return. So, if the investor in the question is willing to trade off some safety in order to have the chance to earn larger returns, the stock market is the correct investment. Difficulty: 2 Medium Section: 10.4 Average Stock Returns and Risk-Free Returns Topic: Risk and return relationship Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 10
+  }
+]

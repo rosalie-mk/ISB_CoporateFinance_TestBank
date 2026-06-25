@@ -1,1 +1,741 @@
-[]
+[
+  {
+    "id": 1454,
+    "question": "The acronym APV stands for:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 18
+  },
+  {
+    "id": 1455,
+    "question": "If you discount a project's expected future unlevered aftertax cash flows by the ________ and then subtract the initial investment you will calculate the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 18
+  },
+  {
+    "id": 1456,
+    "question": "A capital budgeting project is usually evaluated on its own merits. That is, capital budgeting decisions are treated separately from capital structure decisions. In reality, these decisions may be highly interwoven. This interweaving is most apt to result in:",
+    "options": {
+      "A": "debt will always create negative net present values.",
+      "B": "",
+      "C": "best type of capital to raise before valuing a project.",
+      "D": "adds enough positive leverage tax shield value to create a positive NPV.",
+      "E": "overridden by capital structure decisions. Answer: D Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 18
+  },
+  {
+    "id": 1457,
+    "question": "The APV method is comprised of the all-equity NPV of a project plus the NPV of financing effects. The four financing side effects are:",
+    "options": {
+      "A": "of debt financing.",
+      "B": "subsidies to debt financing.",
+      "C": "debt financing.",
+      "D": "issuing new securities.",
+      "E": "issuing new securities. Answer: B Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1458,
+    "question": "To calculate the adjusted present value, you should:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1459,
+    "question": "Subsidized financing ________ the APV ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1460,
+    "question": "The flow-to-equity (FTE) approach in capital budgeting is defined as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "equity.",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.2 Flow to Equity Approach Topic: Flow to equity method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1461,
+    "question": "In calculating NPV using the flow-to-equity approach the discount rate is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.2 Flow to Equity Approach Topic: Flow to equity method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1462,
+    "question": "The flow-to-equity approach to capital budgeting involves all the following except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.2 Flow to Equity Approach Topic: Flow to equity method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1463,
+    "question": "The term (RBB) represents the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 18.2 Flow to Equity Approach Topic: Flow to equity method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 18
+  },
+  {
+    "id": 1464,
+    "question": "Given the all-equity cost of capital, the cost of levered equity can be computed as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.2 Flow to Equity Approach Topic: Cost of equity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1465,
+    "question": "The weighted average cost of capital is determined by ________ the weighted average cost of equity.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.3 Weighted Average Cost of Capital Method Topic: Weighted average cost of capital Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1466,
+    "question": "The appropriate cost of debt to the firm is the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.3 Weighted Average Cost of Capital Method Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1467,
+    "question": "Which method(s) is(are) most applicable if a project's debt level is known over the life of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1468,
+    "question": "The adjusted present value method (APV), the flow to equity (FTE) method, and the weighted average cost of capital (WACC) method produce equivalent results, but each can have difficulties making computation impossible at times. Given this, which one of these is a correct statement?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "life. Answer: E Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 18
+  },
+  {
+    "id": 1469,
+    "question": "The WACC approach to valuation is not as useful as the APV approach in leveraged buyouts because:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Weighted average cost of capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1470,
+    "question": "When the debt-equity ratio changes over time, the best method(s) to use when evaluating a project is(are):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 18
+  },
+  {
+    "id": 1471,
+    "question": "Which of these methods discount levered cash flows?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Flow to equity method Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1472,
+    "question": "The APV method is least useful in which one of these situations?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Adjusted present value method; Flow to equity method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1473,
+    "question": "The cost of equity should be lowest when the debt-to-equity ratio is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 18
+  },
+  {
+    "id": 1474,
+    "question": "Which one of these statements is correct?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 18
+  },
+  {
+    "id": 1475,
+    "question": "The cost of equity for an all-equity firm is designated as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 18
+  },
+  {
+    "id": 1476,
+    "question": "Flotation costs:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 18.6 APV Example Topic: Flotation costs Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 18
+  },
+  {
+    "id": 1477,
+    "question": "A firm currently has debt outstanding with a coupon rate of 7 percent. The firm is obtaining subsidized financing for a new project at a rate of 5.5 percent. The current market rate is 6.8 percent and the firm's tax rate is 21 percent. What discount rate should be used to compute the NPV of the loan?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.6 APV Example Topic: Adjusted present value method Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1478,
+    "question": "The beta of debt is commonly assumed to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 18.7 Beta and Leverage Topic: Beta and leverage Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 18
+  },
+  {
+    "id": 1479,
+    "question": "In order to value a project which is not scale enhancing you typically need to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "diversify the firm's operations.",
+      "E": "rate. Answer: A Difficulty: 1 Easy Section: 18.7 Beta and Leverage Topic: Cost of capital - general Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 18
+  },
+  {
+    "id": 1480,
+    "question": "Simpson Enterprises is considering a new project with revenue of $325,000 for the indefinite future. Cash costs are 63 percent of the revenue. The initial cost of the investment is $425,000. The tax rate is 21 percent and the unlevered cost of equity is 17 percent. What is the net present value of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: UCF = $325,000(1 − .63)(1 − .21) UCF = $94,997.50 NPV = ($94,997.50/.17) − $425,000 NPV = $133,809 Difficulty: 2 Medium Section: 18.1 Adjusted Present Value Approach Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "UCF = $325,000(1 − .63)(1 − .21)",
+    "chapter": 18
+  },
+  {
+    "id": 1481,
+    "question": "Joshua Industries is considering a new project with revenue of $478,000 for the indefinite future. Cash costs are 68 percent of the revenue. The initial cost of the investment is $685,000. The tax rate is 21 percent and the unlevered cost of equity is 14.2 percent. The firm is financing $200,000 of the project cost with debt. What is the adjusted present value of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: UCF = $478,000(1 − .68)(1 − .21) UCF = $120,838.40 NPV = ($120,838.40/.142) − $685,000 NPV = $165,974.65 APV = $165,974.65 + .21($200,000) APV = $207,975 Difficulty: 2 Medium Section: 18.1 Adjusted Present Value Approach Topic: Adjusted present value method Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "UCF = $478,000(1 − .68)(1 − .21)",
+    "chapter": 18
+  },
+  {
+    "id": 1482,
+    "question": "Hilltop Paving has a levered equity cost of capital of 14.92 percent. The debt-to-value ratio is .4, the assumed tax rate is 23 percent, and the pretax cost of debt is 7.2 percent. What is the estimated unlevered cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: .1492 = R0 + (.4/.6)(1 − .23)(R0 − .072) R0 = .1230, or 12.30% Difficulty: 2 Medium Section: 18.2 Flow to Equity Approach Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": ".1492 = R0 + (.4/.6)(1 − .23)(R0 − .072)",
+    "chapter": 18
+  },
+  {
+    "id": 1483,
+    "question": "Jelco has a target debt-to-value ratio of .55. The pretax cost of debt is 8.6 percent, the assumed tax rate is 24 percent, and the unlevered cost of equity 13.4 percent. What is the target cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: RS = .134 + (.55/.45)(1 − .24)(.134 − .086) RS = .1786, or 17.86% Difficulty: 2 Medium Section: 18.2 Flow to Equity Approach Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "RS = .134 + (.55/.45)(1 − .24)(.134 − .086)",
+    "chapter": 18
+  },
+  {
+    "id": 1484,
+    "question": "Vargo's has a target debt-to-value ratio of .6. The pretax cost of debt is 8.4 percent, the tax rate is 21 percent, and the unlevered cost of equity 13.2 percent. A project the firm is considering has a cash flow to the levered equityholders of $48,700 and an initial unborrowed cost of $216,000. What is the NPV of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: RS = .132 + (.6/.4)(1 − .21)(.132 − .084) RS = .1889, or 18.89% NPV = $48,700/.1889 − $216,000 NPV = $41,836 Difficulty: 2 Medium Section: 18.2 Flow to Equity Approach Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "RS = .132 + (.6/.4)(1 − .21)(.132 − .084)",
+    "chapter": 18
+  },
+  {
+    "id": 1485,
+    "question": "Jensen's has a total value of $548,000 and debt valued at $262,000. What is the weighted average cost of capital if the aftertax cost of debt is 7.2 percent and the cost of equity is 12.6 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: WACC = [($548,000 − 262,000)/$548,000](.126) + ($262,000/$548,000)(.072) WACC = .1002, or 10.02% Difficulty: 2 Medium Section: 18.3 Weighted Average Cost of Capital Method Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "WACC = [($548,000 − 262,000)/$548,000](.126) + ($262,000/$548,000)(.072)",
+    "chapter": 18
+  },
+  {
+    "id": 1486,
+    "question": "Filter Corp. maintains a debt-equity ratio of .45. The cost of equity is 14.7 percent, the pretax cost of debt is 8.1 percent, and the tax rate is assumed to be 23 percent. What is the weighted average cost of capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: WACC = (1/1.45)(.147) + (.45/1.45)(.081)(1 − .23) WACC = .1207, or 12.07% Difficulty: 2 Medium Section: 18.3 Weighted Average Cost of Capital Method Topic: Weighted average cost of capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "WACC = (1/1.45)(.147) + (.45/1.45)(.081)(1 − .23)",
+    "chapter": 18
+  },
+  {
+    "id": 1487,
+    "question": "Webster Corp. is planning to build a new shipping depot. The initial cost of the investment is $1.18 million. Efficiencies from the new depot are expected to reduce aftertax annual costs by $105,000 forever. The corporation has a total value of $62.4 million and has outstanding debt of $38.7 million. What is the NPV of the project if the firm has an aftertax cost of debt of 5.8 percent and a cost equity of 12.6 percent?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: NPV = ($105,000/{[$62.4 − 38.7)/62.4](.126) + ($38.7/$62.4)(.058)}) − $1,180,000 NPV = $72,581 Difficulty: 2 Medium Section: 18.3 Weighted Average Cost of Capital Method Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "NPV = ($105,000/{[$62.4 − 38.7)/62.4](.126) + ($38.7/$62.4)(.058)}) −",
+    "chapter": 18
+  },
+  {
+    "id": 1488,
+    "question": "A project has an initial cost of $480,000, projected revenue of $311,500, cash costs of $214,650, an unlimited life, a tax rate of 21 percent, and a weighted average cost of capital of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 18
+  },
+  {
+    "id": 1489,
+    "question": "8 percent. What is the net present value of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: UCF = ($311,500 − 214,650)(1 − .21) UCF = $76,511.50 NPV = $76,511.50/.138 − $480,000 NPV = $74,431 Difficulty: 2 Medium Section: 18.3 Weighted Average Cost of Capital Method Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "UCF = ($311,500 − 214,650)(1 − .21)",
+    "chapter": 18
+  },
+  {
+    "id": 1490,
+    "question": "NDS Industries is evaluating a project with an initial investment at Time 0 of $640,000. The present value of the levered cash flows is $729,400 and the net present value of the project is $157,000. Using the flow-to-equity method of valuation determine the amount borrowed.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: $157,000 = $729,400 − ($640,000 − Amount borrowed) Amount borrowed = $67,600 Difficulty: 2 Medium Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Flow to equity method Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "$157,000 = $729,400 − ($640,000 − Amount borrowed)",
+    "chapter": 18
+  },
+  {
+    "id": 1491,
+    "question": "Blue Water Boats is considering a new project with perpetual revenue of $435,000, cash costs of $310,000, and a tax rate of 21 percent. The firm plans to issue $250,000 of debt at an interest rate of 7.3 percent to help finance the initial project cost of $475,000. The levered discount rate is 16.7 percent. What is the net present value of this project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: LCF = [$435,000 − 310,000 − .073($250,000)](1 − .21) LCF = $84,332.50 NPV = $84,332.50/.167 − ($475,000 − 250,000) NPV = $279,985 Difficulty: 2 Medium Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Flow to equity method Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "LCF = [$435,000 − 310,000 − .073($250,000)](1 − .21)",
+    "chapter": 18
+  },
+  {
+    "id": 1492,
+    "question": "Beau Markets has a beta of 1.12, a cost of debt of 8.6 percent, and a debt-to-value ratio of .6. The current risk-free rate is 3.22 percent and the market rate of return is 14.47 percent. What is the company's cost of equity capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: RS = .0322 + 1.12(.1447 − .0322) RS = .1582, or 15.82% Difficulty: 2 Medium Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "RS = .0322 + 1.12(.1447 − .0322)",
+    "chapter": 18
+  },
+  {
+    "id": 1493,
+    "question": "Alabaster Incorporated wants to be levered at a debt-to-value ratio of .6. The cost of debt is 9 percent, the tax rate is 21 percent, and the cost of equity for an all-equity firm is 12 percent. What will be the firm's cost of equity?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Rs = .12 + (.6/.4)(1 − .21)(.12 − .09) Rs = .1556, or 15.56% Difficulty: 2 Medium Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Rs = .12 + (.6/.4)(1 − .21)(.12 − .09)",
+    "chapter": 18
+  },
+  {
+    "id": 1494,
+    "question": "Winston's has a beta of 1.08 and a cost of debt of 8 percent. The current risk-free rate is 3.2 percent and the market rate of return is 11.47 percent. What is the company's cost of equity capital?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Rs = .032 + 1.08(.1147 − .032) Rs = .1213, or 12.13% Difficulty: 2 Medium Section: 18.5 Valuation When the Discount Rate Must Be Estimated Topic: Cost of equity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Rs = .032 + 1.08(.1147 − .032)",
+    "chapter": 18
+  },
+  {
+    "id": 1495,
+    "question": "TTC is planning to raise $3.25 million for three years at an interest rate of 7.35 percent to finance their expansion. The Alban County Board of Commissioners has just offered the firm the $3.25 million they need at 5.25 percent if the firm builds in Alban County, pays the interest annually, and repays the principal at the end of three years. What is the net present value of the loan to TTC if the firm's tax rate is 21 percent and it accepts the county's offer?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPVLoan = $3,250,000 − [.0525($3,250,000)(1 − .21)](PVIFA7.35%,3) − $3,250,000/1.07353 NPVLoan = $271,405 Difficulty: 2 Medium Section: 18.6 APV Example Topic: Debt financing Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "NPVLoan = $3,250,000 − [.0525($3,250,000)(1 − .21)](PVIFA7.35%,3) −",
+    "chapter": 18
+  },
+  {
+    "id": 1496,
+    "question": "BT Corporation has decided to build a new facility for its R&D department. The cost of the facility is estimated at $125 million. The firm plans to finance this project using its traditional debt-equity ratio of .65. The issue cost of equity is 6.1 percent and the issue cost of debt is 1.8 percent. What is the amount of the total flotation cost?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Total flotation cost = ($125,000,000/{1 − [(.65/1.65)(.018) + (1/1.65)(.061)]}) − $125,000,000 Total flotation cost = $5,761,428 Difficulty: 2 Medium Section: 18.6 APV Example Topic: Flotation costs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Total flotation cost = ($125,000,000/{1 − [(.65/1.65)(.018) + (1/1.65)(.061)]}) −",
+    "chapter": 18
+  },
+  {
+    "id": 1497,
+    "question": "A project has an unlevered NPV of $1.5 million. To finance the project, debt is being issued with associated flotation costs of $60,000. The flotation costs can be amortized over the project's 5-year life. The debt of $10 million is being issued at the market interest rate of 10 percent paid annually, with principal repaid in a lump sum at the end of the fifth year. If the firm's tax rate is 21 percent, calculate the project's APV.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPV of all-equity financed project = $1.5 million PVFlotation costs including expensing = −$60,000 + ($60,000/5)(.21)(PVIFA10%, 5) PVFlotation costs including expensing = −$50,447.22 NPVLoan = $10,000,000 − [.10($10,000,000)(1 − .21)](PVIFA10%, 5) − $10,000,000/1.105 NPVLoan = $796,065.22 APV = $1,500,000 + 796,065.22 − 50,447.22 APV = $2,245,618 Difficulty: 2 Medium Section: 18.6 APV Example Topic: Adjusted present value method Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "NPV of all-equity financed project = $1.5 million",
+    "chapter": 18
+  },
+  {
+    "id": 1498,
+    "question": "Kelly Industries is given the opportunity to raise $5 million in debt for four years through a local government subsidized program. While Kelly would normally be required to pay 12 percent on its debt issues, the Hampton County program sets the rate at 9 percent. What is the NPV of this subsidized loan? Ignore taxes.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: NPVLoan = $5,000,000 − .09($5,000,000)(PVIFA12%,4) − $5,000,000/1.124 NPVLoan = $455,602 Difficulty: 2 Medium Section: 18.6 APV Example Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "NPVLoan = $5,000,000 − .09($5,000,000)(PVIFA12%,4) − $5,000,000/1.124",
+    "chapter": 18
+  },
+  {
+    "id": 1499,
+    "question": "A global conglomerate has a debt beta of zero. If the cost of equity is 12.23 percent, and the risk-free rate is 4.36 percent, what is the firm's pretax cost of debt?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Since debt is riskless, the cost of debt must equal the risk-free rate of 4.36 percent. Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Cost of debt Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Since debt is riskless, the cost of debt must equal the risk-free rate of 4.36 percent.",
+    "chapter": 18
+  },
+  {
+    "id": 1500,
+    "question": "Alpha Company has riskless debt, a debt-equity ratio of .46, a tax rate of 21 percent, and an unlevered firm beta of 1.23. What is the equity beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: βEquity = [1 + (1 − .21)(.46)](1.23) βEquity = 1.68 Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "βEquity = [1 + (1 − .21)(.46)](1.23)",
+    "chapter": 18
+  },
+  {
+    "id": 1501,
+    "question": "Kelso's is valued at $5.8 million, has riskless debt of $2.3 million outstanding, and has an equity beta of 1.81. What is the asset beta if there are no taxes?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: 1.81 = βAsset{1 + [$2.3/($5.8 − 2.3)]} βAsset = 1.09 Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "1.81 = βAsset{1 + [$2.3/($5.8 − 2.3)]}",
+    "chapter": 18
+  },
+  {
+    "id": 1502,
+    "question": "The Boat Company has a capital structure of 30 percent riskless debt and 70 percent equity. The assumed tax rate is 23 percent. If the asset beta is .9, what is the equity beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: βEquity = (1 + {[(1 − .23)(.3)]/.7})(.9) βEquity = 1.20 Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "βEquity = (1 + {[(1 − .23)(.3)]/.7})(.9)",
+    "chapter": 18
+  },
+  {
+    "id": 1503,
+    "question": "Banisters is valued at $8.6 million and has debt of $2.1 million outstanding. The unlevered firm beta is 1.72, and the tax rate is 21 percent. What is the levered equity beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: βEquity = {1 + [(1 − .21)($2.1)]/($8.6 − 2.1)}(1.72) βEquity = 2.16 Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Beta and leverage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "βEquity = {1 + [(1 − .21)($2.1)]/($8.6 − 2.1)}(1.72)",
+    "chapter": 18
+  },
+  {
+    "id": 1504,
+    "question": "Webster's latest project has an initial cost of $1.23 million and unlevered perpetual cash flows of $238,000. The firm has a debt-equity ratio of .42, a pretax cost of debt of 7.6 percent, a cost of equity of 13.3 percent, and a tax rate of 21 percent. What is the NPV of the project?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: WACC = (.42/1.42)(.076)(1 − .21) + (1/1.42)(.133) WACC = .1114, or 11.14% NPV = $238,000/.1114 − $1,230,000 NPV = $906,056 Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "WACC = (.42/1.42)(.076)(1 − .21) + (1/1.42)(.133)",
+    "chapter": 18
+  },
+  {
+    "id": 1505,
+    "question": "Explain why the flow to equity approach uses levered, not unlevered, cash flows. Answer: The flow to equity approach discounts the cash flows from a project that flow to the equityholders. Unlevered cash flows ignore interest expense while levered cash flows reflect the reduction in cash flow resulting from the aftertax interest expense. Thus, the levered cash flows are the flows that apply to the equityholders. Difficulty: 2 Medium Section: 18.2 Flow to Equity Approach Topic: Flow to equity method Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 18
+  },
+  {
+    "id": 1506,
+    "question": "Discuss the adjusted present value, the flow to equity, and the weighted average cost of capital methods of capital budgeting with leverage and the guidelines for using each method. Answer: The adjusted present value is defined as the value of the project to the unlevered firm plus the net present value of financing side effects. There are four side effects: the tax subsidy of debt, the costs of issuing new securities, the costs of financial distress, and subsidies to debt financing. The flow to equity approach is an alternative to adjusted present value. It is the discounted cash flow from a project to the equityholders of the levered firm at the cost of equity. Finally, the weighted average cost of capital approach considers the firm that is financed with both debt and equity and allocates the costs proportionally for each capital component. Essentially, the manager should use the WACC or FTE if the firm's target debt-to-value ratio applies to the project over its life. Alternatively, one should use APV if the project's level of debt is known over the life of the project. Difficulty: 2 Medium Section: 18.4 A Comparison of the APV, FTE, and WACC Approaches Topic: Project analysis and evaluation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 18
+  },
+  {
+    "id": 1507,
+    "question": "Explain how flotation costs affect the analysis of a levered project. Answer: Flotation costs increase the amount of the funds initially required at Time 0 and the amount of debt principal that must be repaid. These costs are amortized on a straight-line basis over the life of the loan and are tax deductible thereby creating a tax shield. Difficulty: 2 Medium Section: 18.6 APV Example Topic: Flotation costs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 18
+  },
+  {
+    "id": 1508,
+    "question": "Assume a project is non-scale enhancing. Describe the basic steps required to determine the net present value of the project. Answer: The five basic steps are: ∙ Calculate the average unlevered beta in the project's industry. ∙ Calculate the levered beta for the project. ∙ Calculate the cost of levered equity for the project. ∙ Calculate the project's WACC. ∙ Calculate the project's NPV. Difficulty: 2 Medium Section: 18.7 Beta and Leverage Topic: Project analysis and evaluation Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 18
+  }
+]

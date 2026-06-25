@@ -1,1 +1,1243 @@
-[]
+[
+  {
+    "id": 2415,
+    "question": "A security issued in the United States that represents shares of a foreign stock and allows that stock to be traded in the United States is called a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.1 Terminology Topic: Global securities Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2416,
+    "question": "The implicit exchange rate between two currencies when both are quoted in some third currency is called a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.1 Terminology Topic: Exchange rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2417,
+    "question": "Money deposited in a financial center outside the country whose currency is involved is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.1 Terminology Topic: Global markets Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2418,
+    "question": "The rate most international banks charge one another for overnight Eurodollar loans is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.1 Terminology Topic: Global markets Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2419,
+    "question": "The cross rate is:",
+    "options": {
+      "A": "",
+      "B": "currency.",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.1 Terminology Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2420,
+    "question": "A major network for foreign transactions is operated by a Belgian non-profit cooperative known as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Foreign exchange markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2421,
+    "question": "Triangle arbitrage can occur when the ________ rate between two currencies is not ________ to the ratio of the two direct rates.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Triangle arbitrage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2422,
+    "question": "When the Canadian dollar is quoted as $.87, this quote is a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2423,
+    "question": "When the Mexican peso is quoted as Ps13.93, this quote is a(n):",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2424,
+    "question": "What kind of trade involves agreeing today on an exchange rate for settlement in 90 days?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2425,
+    "question": "The foreign exchange market is where:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Foreign exchange markets Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2426,
+    "question": "The price of one country's currency expressed in terms of another country's currency is called the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2427,
+    "question": "An agreement to trade currencies based on the exchange rate set today for settlement within two business days is called a(n) ________ trade.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2428,
+    "question": "Currencies that are exchanged today without any prior arrangement are exchanged at the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2429,
+    "question": "An agreement to exchange currencies at some point in the future using an exchange rate agreed upon today is called a ________ trade.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2430,
+    "question": "Which one of these statements is true?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Foreign exchange markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2431,
+    "question": "Triangle arbitrage:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Triangle arbitrage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2432,
+    "question": "Assume the euro is selling in the spot market for $1.22. Simultaneously, in the 3-month forward market the euro is selling for $1.24. Which one of these statements correctly describes this situation?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2433,
+    "question": "Suppose the spot exchange rate is $1 = £.7304 and the 1-month forward rate is $1 = £.7303. Given this, you know the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2434,
+    "question": "Which one of following statements is false?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Foreign exchange markets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2435,
+    "question": "Suppose the one-year forward rate is £.6390. Given no arbitrage opportunities, this implies that traders expect the spot rate to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2436,
+    "question": "If a foreign currency is selling at a discount relative to the dollar then the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2437,
+    "question": "Spot trades must be settled:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2438,
+    "question": "Which one of these statements is correct assuming exchange rates are quoted as units of foreign currency per dollar?",
+    "options": {
+      "A": "",
+      "B": "depreciate relative to the Canadian dollar.",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Exchange rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2439,
+    "question": "The idea that a specific hamburger should cost the same regardless of where purchased or the currency used to pay for the purchase is referred to as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2440,
+    "question": "\"The change in exchange rates is determined by the difference in the inflation rates of the two countries.\" This statement expresses the concept of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2441,
+    "question": "For absolute purchasing power parity to hold:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2442,
+    "question": "The symbol \"S0\" represents the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Spot and forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2443,
+    "question": "Absolute purchasing power parity is most apt to exist for:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Exchange rates; Covered interest arbitrage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2444,
+    "question": "The forward rate is most apt to equal the spot rate when:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2445,
+    "question": "Which concept states that real rates are equal across countries?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2446,
+    "question": "The symbol \"RFC\" represents the foreign country's:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Covered interest arbitrage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2447,
+    "question": "Covered interest arbitrage involves:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Covered interest arbitrage Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2448,
+    "question": "________ holds because of the possibility of covered interest arbitrage.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2449,
+    "question": "The condition stating that the interest rate differential between two countries is approximately equal to the percentage forward premium or discount is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2450,
+    "question": "The condition stating that the current forward rate is an unbiased predictor of the future spot exchange rate is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Unbiased forward rates Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2451,
+    "question": "The condition stating that the expected percentage change in the exchange rate is equal to the difference in interest rates between the countries is called:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Uncovered interest parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2452,
+    "question": "Interest rate parity:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2453,
+    "question": "The unbiased forward rate is a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Unbiased forward rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2454,
+    "question": "The international Fisher effect says that ________ rates are equal across countries.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2455,
+    "question": "The home currency approach:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "that NPV into U.S. dollars.",
+      "D": "foreign currency.",
+      "E": "compute the NPV of foreign cash flows in U.S. dollars. Answer: B Difficulty: 1 Easy Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2456,
+    "question": "The home currency approach:",
+    "options": {
+      "A": "approach.",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2457,
+    "question": "The foreign currency approach to capital budgeting analysis:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2458,
+    "question": "Remitting funds to a parent firm from a foreign subsidiary is referred to as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2459,
+    "question": "All the following, except one, tend to hinder funds from foreign subsidiaries being remitted to their home country parent firm. Which one of these is the exception?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2460,
+    "question": "An international firm which imports raw materials can reduce its ________ exposure to ________ rate risk by entering into a forward contract.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 31.6 Exchange Rate Risk Topic: Exchange rate risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 31
+  },
+  {
+    "id": 2461,
+    "question": "The changes in the relative economic conditions between countries are referred to as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.6 Exchange Rate Risk Topic: Exchange rate risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2462,
+    "question": "Which one of these statements is correct?",
+    "options": {
+      "A": "rate risk.",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "rate risk. Answer: A Difficulty: 1 Easy Section: 31.6 Exchange Rate Risk Topic: Exchange rate risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2463,
+    "question": "Financial Accounting Standards Board Statement No. 52 requires that most assets and liabilities be translated at the current exchange rate. Translation gains and losses are recorded:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 31.6 Exchange Rate Risk Topic: International corporate finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2464,
+    "question": "A foreign subsidiary can remit funds to the parent firm in the all the following ways except by means of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 31.6 Exchange Rate Risk Topic: International corporate finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2465,
+    "question": "All the following are political risks associated with international investing except:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.7 Political Risk Topic: Political risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2466,
+    "question": "Monies earned by foreign subsidiaries that have not yet been taxed under U.S. law can be used to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 31.7 Political Risk Topic: Political risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 31
+  },
+  {
+    "id": 2467,
+    "question": "The Tax Cut and Jobs Act of 2017 allows untaxed foreign profits held as cash or as securities to be:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 31.7 Political Risk Topic: Political risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 31
+  },
+  {
+    "id": 2468,
+    "question": "How many euros can you get for $2,500 if the USD equivalent is 1.2195?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Number of euros = $2,500(€1/$1.2195) Number of euros = €2,050.02 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Number of euros = $2,500(€1/$1.2195)",
+    "chapter": 31
+  },
+  {
+    "id": 2469,
+    "question": "Lisa is planning a trip to Australia where a hotel will cost A$165 per night for seven nights. She expects to spend another A$2,200 for meals, tours, souvenirs, and so forth. How much will this trip cost her in U.S. dollars if the USD equivalent is .7752?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Cost of trip = [A$165(7) + 2,200]($.7752/A$1) Cost of trip = $2,600.80 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Cost of trip = [A$165(7) + 2,200]($.7752/A$1)",
+    "chapter": 31
+  },
+  {
+    "id": 2470,
+    "question": "You want to import $56,000 worth of rugs from India. How many rupees will you need to pay for this purchase if one rupee is worth $.01606?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Purchase cost = $56,000(Rs1/$.01606) Purchase cost = Rs3,486,924 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Purchase cost = $56,000(Rs1/$.01606)",
+    "chapter": 31
+  },
+  {
+    "id": 2471,
+    "question": "Assume $1 will buy Can$1.2803 while $1.2195 will buy €1. What is the Can$/€ exchange rate?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Setting the algebra up so the $ signs cancel out: Can$/€: (Can$1.2803/$1)($1.2195/€1) Can$/€: Can$1.5613 = 1€ Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Setting the algebra up so the $ signs cancel out:",
+    "chapter": 31
+  },
+  {
+    "id": 2472,
+    "question": "Assume that ¥106.83 equals $1. Also assume that SKr8.2941 equals $1. How many Japanese yen can you acquire in exchange for 5,000 Swedish krona?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Number of yen = SKr5,000(¥106.83/SKr8.2941) Number of yen = ¥64,401.20 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Number of yen = SKr5,000(¥106.83/SKr8.2941)",
+    "chapter": 31
+  },
+  {
+    "id": 2473,
+    "question": "You just returned from some extensive traveling. You started your trip with $10,000 in your pocket. You spent 1.32 million pesos in Chile where Ps1 = $.001642. You spent Ps36,000 in Uruguay where Ps1 = $.03526. Then on the way home, you spent Ps29,000 in Mexico where $1 = Ps18.8709. How many dollars did you have left by the time you returned to the U.S.?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Funds remaining = $10,000 − Ps1,320,000($.001642/Ps1) − Ps36,000($.03526/Ps1) − Ps29,000($1/Ps18.8709) Funds remaining = $5,026.44 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "Funds remaining = $10,000 − Ps1,320,000($.001642/Ps1) −",
+    "chapter": 31
+  },
+  {
+    "id": 2474,
+    "question": "Assume the official USD equivalent of one Canadian dollar is .7813 and the USD equivalent of the U.K. pound is 1.3699. Further assume you have 100 pounds and have been offered Can$180 for them. If you use triangle arbitrage and the entire £100, you can earn a profit of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Profit = [£100(Can$180/£100)($.7813/Can$1)(£1/$1.3699)] − £100 Profit = £2.66 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Triangle arbitrage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "Profit = [£100(Can$180/£100)($.7813/Can$1)(£1/$1.3699)] − £100",
+    "chapter": 31
+  },
+  {
+    "id": 2475,
+    "question": "Angie has been offered Can$1.75 for £1. How much profit can she earn on a triangle arbitrage if the official rate is $1 = Can$1.2834 and the USD equivalent of £1 is $1.3699? Assume she currently has $100 in cash.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Profit = [$100(Can$1.2834/$1)(£1/Can$1.75)($1.3699/£1)] − $100 Profit = $.46 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Triangle arbitrage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Profit = [$100(Can$1.2834/$1)(£1/Can$1.75)($1.3699/£1)] − $100",
+    "chapter": 31
+  },
+  {
+    "id": 2476,
+    "question": "Assume you can exchange $1 for £.7347 today. Assume that last week, £1 was worth $1.3613. If you had converted £100 into dollars last week and then exchanged your dollars back into pounds today, you would now have a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Profit = [£100($1.3613/£1)(£.7347/$1)] − £100 Profit = £.015 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "Profit = [£100($1.3613/£1)(£.7347/$1)] − £100",
+    "chapter": 31
+  },
+  {
+    "id": 2477,
+    "question": "Assume today you can exchange $100 for either Can$128 or Ps1,892. Also assume that last year, $100 was worth Can$126 or Ps1,847. Which one of the following statements is correct given this information?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: Current value in Ps of $100 exchanged to Can$ last year = $100(Can$126/$100)($100/Can$128)(Ps1,892/$100) Current value in Ps of $100 exchanged to Can$ last year = Ps1,862.44 Current value in dollars of $100 exchanged to Ps last year = $100(Ps1,847/$100)($100/Ps1,892) Current value in dollars of $100 exchanged to Ps last year = $97.62 Current value in dollars of $100 exchanged to Can$ last year = $100(Can$126/$100)($100/Can$128) Current value in dollars of $100 exchanged to Can$ last year = $98.44 Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Exchange rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "explanation": "Current value in Ps of $100 exchanged to Can$ last year =",
+    "chapter": 31
+  },
+  {
+    "id": 2478,
+    "question": "The camera you want to buy costs $399 in the U.S. If absolute purchasing power parity exists, the identical camera will cost ________ in Australia if the exchange rate is A$1 = $.7752.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Cost in Australia = $399(A$1/$.7752) Cost in Australia = A$514.71 Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Cost in Australia = $399(A$1/$.7752)",
+    "chapter": 31
+  },
+  {
+    "id": 2479,
+    "question": "A new sweater costs SF67 in Switzerland. Assume SF1 = $1.0563 and €1 = $1.2195. How much will the identical sweater cost in euros if absolute purchasing power parity exists?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Cost in euros = SF67($1.0563/SF1)(€1/$1.2195) Cost in euros = €58.03 Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "Cost in euros = SF67($1.0563/SF1)(€1/$1.2195)",
+    "chapter": 31
+  },
+  {
+    "id": 2480,
+    "question": "Assume $1 = ¥106.83 = £.7309. If a TV in London costs £430, what will that identical TV cost in Tokyo if absolute purchasing power parity exists?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Cost in yen = £430($1/£.7309)(¥106.83/$1) Cost in yen = ¥62,849.77 Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "Cost in yen = £430($1/£.7309)(¥106.83/$1)",
+    "chapter": 31
+  },
+  {
+    "id": 2481,
+    "question": "Assume the spot market exchange rate for $1 is currently A$1.2902. Also assume the expected inflation rate is 3.3 percent in Australia compared to the U.S. rate of 2.8 percent. What is the expected exchange rate one year from now if relative purchasing power parity exists?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: E(S1) = A$1.2902[1 + (.033 − .028)]1 E(S1) = A$1.2967 Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "E(S1) = A$1.2902[1 + (.033 − .028)]1",
+    "chapter": 31
+  },
+  {
+    "id": 2482,
+    "question": "Assume the spot rate of $1 is £.7347. Also assume the expected inflation rate in the U.K. is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  },
+  {
+    "id": 2483,
+    "question": "1 percent while the U.S. inflation rate is 3.6 percent. What is the expected exchange rate three years from now if relative purchasing power parity exists?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: E(S3) = £.7347[1 + (.021 − .036)]3 E(S3) = £.7021 Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "E(S3) = £.7347[1 + (.021 − .036)]3",
+    "chapter": 31
+  },
+  {
+    "id": 2484,
+    "question": "Assume the current spot rate is Can$1.2803 and the one-year forward rate is Can$1.2745. Also assume the nominal risk-free rate in Canada is 4.8 percent while it is 4.2 percent in the U.S. Using covered interest arbitrage, you can earn a profit of ________ for every $1 invested over the next year.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Arbitrage profit = [($1)(C$1.2803/$1)(1.048)($1/C$1.2745)] − $1(1.042) Arbitrage profit = $.0108 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Covered interest arbitrage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Arbitrage profit = [($1)(C$1.2803/$1)(1.048)($1/C$1.2745)] − $1(1.042)",
+    "chapter": 31
+  },
+  {
+    "id": 2485,
+    "question": "Assume the current spot rate is Can$1.2811 and the one-year forward rate is Can$1.2767. Also assume the nominal risk-free rate in Canada is 3.2 percent while the U.S. rate is 3.5 percent. Using covered interest arbitrage you can earn an extra profit of ________ for every $1 invested over the next year.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: Arbitrage profit = [($1)(Can$1.2811/$1)(1.032)($1/Can$1.2767)] − $1(1.035) Arbitrage profit = $.0006 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Covered interest arbitrage Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "Arbitrage profit = [($1)(Can$1.2811/$1)(1.032)($1/Can$1.2767)] − $1(1.035)",
+    "chapter": 31
+  },
+  {
+    "id": 2486,
+    "question": "Assume the spot rate for the Japanese yen currently is ¥106.83 per dollar while the one-year forward rate is ¥107.20. Also assume a risk-free asset in Japan is currently earning 4.6 percent. If interest rate parity holds, approximately what rate can you earn on a one-year risk-free U.S. security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: (¥107.20/¥106.83) = [1.046/(1 + RUS)] RUS = .0424, or 4.24% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "(¥107.20/¥106.83) = [1.046/(1 + RUS)]",
+    "chapter": 31
+  },
+  {
+    "id": 2487,
+    "question": "Assume the spot rate for the British pound currently is £.7287 per dollar and the one-year forward rate is £.7304. A risk-free asset in the U.S. is currently earning 3 percent. If interest rate parity holds, approximately what rate can you earn on a one-year risk-free British security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: (£.7304/£.7287) = (1 + RFc)/1.03 RFC = .0324, or 3.24% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "(£.7304/£.7287) = (1 + RFc)/1.03",
+    "chapter": 31
+  },
+  {
+    "id": 2488,
+    "question": "Assume a risk-free asset in the U.S. is currently yielding 2.7 percent while a Canadian risk- free asset is yielding 2.8 percent and the current spot rate is Can$1.2849 = $1. What is the approximate 6-month forward rate if interest rate parity holds?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: ƒ.5 = Can$1.2849[1 + (.028 −.027)].5 ƒ.5 = Can$1.2855 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "ƒ.5 = Can$1.2849[1 + (.028 −.027)].5",
+    "chapter": 31
+  },
+  {
+    "id": 2489,
+    "question": "Suppose the spot rate on the Indian rupee is Rs65.2203, the risk-free nominal rate in the U.S. is 4.6 percent, and the Indian risk-free nominal rate is 6.2 percent. Which one of the following one-year forward rates best establishes the approximate interest rate parity condition?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: ƒ1 ≅ Rs65.2203[1 + (.062 − .046)]1 ƒ1 ≅ Rs66.2638 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "ƒ1 ≅ Rs65.2203[1 + (.062 − .046)]1",
+    "chapter": 31
+  },
+  {
+    "id": 2490,
+    "question": "Suppose the spot rate on the Canadian dollar is C$1.2797. Also assume the risk-free nominal rate in the U.S. is 3.8 percent while it is only 3.3 percent in Canada. Which one of the following three-year forward rates best establishes the approximate interest rate parity condition?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: ƒ3 ≅ C$1.2797[1 + (.033 − .038)]3 ƒ3 ≅ C$1.2606 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "ƒ3 ≅ C$1.2797[1 + (.033 − .038)]3",
+    "chapter": 31
+  },
+  {
+    "id": 2491,
+    "question": "You are considering a project in Norway with an initial cost of NKr135,000. The project is expected to return a one-time payment of NKr200,000 at the end of Year 5. Assume the risk-free rate of return is 2.6 percent in the U.S. and 3.1 percent in Norway. Assume the inflation rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  },
+  {
+    "id": 2492,
+    "question": "6 percent in the U.S. and 2.3 percent in Norway. Lastly, assume the current exchange rate is $1 = NKr7.9271. Approximately how much will the payment at the end of 5 Years be worth in U.S. dollars?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: E(S5) = (NKr7.9271/$1)[1 + (.031 − .026)]5 E(S5) = NKr8.1273 Payment value = NKr200,000($1/NKr8.1273) Payment value = $24,609 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "E(S5) = (NKr7.9271/$1)[1 + (.031 − .026)]5",
+    "chapter": 31
+  },
+  {
+    "id": 2493,
+    "question": "You are expecting a payment of Can$138,000 two years from now. Assume the risk-free rate of return is 2.7 percent in Canada and 3.1 percent in the U.S. Also assume the current exchange rate is Can$1.2903 = $1. Approximately how much will the payment two years from now be worth in U.S. dollars?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: E(S2) = Can$1.2903[1 + (.027 − .031)]2 E(S2) = Can$1.2800 Payment value = Can$138,000($1/Can$1.2800) Payment value = $107,813 Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: Interest rate parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "E(S2) = Can$1.2903[1 + (.027 − .031)]2",
+    "chapter": 31
+  },
+  {
+    "id": 2494,
+    "question": "Assume the current spot rate for the Norwegian krone is $1 = NKr7.9323, the expected inflation rate in Norway is 2.1 percent and 1.2 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 3.7 percent. What nominal risk-free rate of return should you expect on a Norwegian security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .037 − .012 = RFC − .021 RFC = .046, or 4.6% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".037 − .012 = RFC − .021",
+    "chapter": 31
+  },
+  {
+    "id": 2495,
+    "question": "Assume the current spot rate for the Norwegian krone is $1 = NKr7.93, the expected inflation rate in Norway is 2.4 percent while it is 2.6 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 4.5 percent. What real rate of return should you expect on a risk-free Norwegian security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: Real rate = .045 − .026 Real rate = .019, or 1.9% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "Real rate = .045 − .026",
+    "chapter": 31
+  },
+  {
+    "id": 2496,
+    "question": "Assume the expected inflation rate in Finland is 2 percent while it is 4 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 4.5 percent. What nominal rate of return should you expect on a risk-free Finnish security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: .045 − .04 = RFC − .02 RFC = .025, or 2.5% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": ".045 − .04 = RFC − .02",
+    "chapter": 31
+  },
+  {
+    "id": 2497,
+    "question": "Assume the expected inflation rate in Switzerland is 2.2 percent while it is 1.6 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 3.7 percent. What real rate of return should you expect on a risk-free Swiss security?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: Real rate = .037 − .016 Real rate = .021, or 2.1% Difficulty: 2 Medium Section: 31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic: International Fisher effect Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "Real rate = .037 − .016",
+    "chapter": 31
+  },
+  {
+    "id": 2498,
+    "question": "A Canadian project has an initial cost of Can$1.8 million and is expected to produce cash inflows of Can$710,000 a year for 3 years after which time it will be worthless. Assume the expected inflation rate in Canada is 4 percent while it is only 3 percent in the U.S. The applicable interest rate in Canada is 8 percent. Assume the current spot rate is C$1 = $.78. What is the net present value of this project in Canadian dollars using the foreign currency approach?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: NPV = −Can$1.8m + Can$710,000(PVIFA8%,3) NPV = Can$29,738.86 Difficulty: 2 Medium Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "explanation": "NPV = −Can$1.8m + Can$710,000(PVIFA8%,3)",
+    "chapter": 31
+  },
+  {
+    "id": 2499,
+    "question": "Global Markets wants to invest in a riskless project in Sweden. The project has an initial cost of SKr2.3 million and is expected to produce cash inflows of SKr850,000 a year for 3 years. The project will be worthless after the first 3 years. Assume the expected inflation rate in Sweden is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  },
+  {
+    "id": 2500,
+    "question": "6 percent while it is 3.2 percent in the U.S. Also assume a risk-free security is paying 5.9 percent in the U.S. and the current spot rate is $1 = SKr8.31. What is the net present value of this project in Swedish krona using the foreign currency approach? Assume the international Fisher effect applies.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .059 − .032 = RFC − .026 RFC = .053 NPV = –SKr2.3m + SKr850,000(PVIFA5.3%, 3) NPV = SKr1,809.85 Difficulty: 2 Medium Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": ".059 − .032 = RFC − .026",
+    "chapter": 31
+  },
+  {
+    "id": 2501,
+    "question": "A project has an initial cost of £1.2 million and expected cash inflows of £400,000, £500,000, and £600,000 for Years 1 to 3, respectively. Assume the current spot rate is £.73 and the nominal risk-free returns are 4 percent in the U.K. and 3 percent in the U.S. If uncovered interest rate parity exists, what is the net present value of this project in U.S. dollars using the home currency approach? Assume the project's U.S. discount rate is 12 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: E(S1) = £.73[1 + (.04 − .03)]1 = £.7373 E(S2) = £.73[1 + (.04 − .03)]2 = £.744673 E(S3) = £.73[1 + (.04 − .03)]3 = £.752120 CF0 = −£1,200,000($1/£.73) = −$1,643,835.62 CO1 = £400,000($1/£.7373) = $542,520.01 CO2 = £500,000($1/£.744673) = $671,435.65 CO3 = £600,000($1/£.752120) = $797,745.04 NPV = −$1,643,835.62 + ($542,520.01/1.12) + ($671,435.65/1.122) + ($797,745.04/1.123) NPV = −$56,359 Difficulty: 2 Medium Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "E(S1) = £.73[1 + (.04 − .03)]1 = £.7373",
+    "chapter": 31
+  },
+  {
+    "id": 2502,
+    "question": "A project has an initial cost of £80,000 and is expected to return £10,000 the first year, £40,000 the second year, and £50,000 the third and final year. Assume the current spot rate is £.75. Also assume the nominal risk-free return is 3 percent in the U.K. and 5 percent in the U.S. The return relevant to the project is 7.8 percent in the U.K. and 8.1 percent in the U.S. Assume uncovered interest rate parity exists. What is the net present value of this project in U.S. dollars using the home currency approach?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Explanation: E(S1) = £.75[1 + (.03 − .05)]1 = £.7350 E(S2) = £.75[1 + (.03 − .05)]2 = £.7203 E(S3) = £.75[1 + (.03 − .05)]3 = £.705894 CF0 = −£80,000($1/£.75) = −$106,666.67 CO1 = £10,000($1/£.7350) = $13,605.44 CO2 = £40,000($1/£.7203) = $55,532.42 CO3 = £50,000($1/£.705894) = $70,832.16 NPV = −$106,666.67 + ($13,605.44/1.081) + ($55,532.42/1.0812) + ($70,832.16/1.0813) NPV = $9,514 Difficulty: 2 Medium Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "explanation": "E(S1) = £.75[1 + (.03 − .05)]1 = £.7350",
+    "chapter": 31
+  },
+  {
+    "id": 2503,
+    "question": "Explain the difference between a spot trade and a forward trade as they relate to currencies. Answer: A spot trade is an agreement made today to exchange currencies today at the current, or spot, exchange rate. A forward trade is an agreement today to exchange currencies on some future date at a price (forward rate) agreed upon today. Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Spot and forward rates Bloom's: Apply AACSB: Reflective Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 31
+  },
+  {
+    "id": 2504,
+    "question": "What is triangle arbitrage? Answer: Triangle arbitrage is the ability to earn a risk-free profit when the cross-rate between two currencies, let's say A and B, differs from the rate implied by exchanging currency A into a third currency, C, and then exchanging currency C into currency B. This occurs when the exchange markets are out-of-equilibrium or varying markets exist based upon official and non- official exchange rates. Difficulty: 2 Medium Section: 31.2 Foreign Exchange Markets and Exchange Rates Topic: Triangle arbitrage Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  },
+  {
+    "id": 2505,
+    "question": "How well do you think relative purchasing power parity and uncovered interest parity behave? That is, do you think it's possible to forecast the expected future spot exchange rate accurately? What complications might you run into? Answer: Each of the variables in these equations must be estimated so it is unlikely, even unrealistic, to expect them to hold with any high degree of accuracy. In addition, most countries manage the value of their currencies to some extent which adds a significant amount of noise to the exchange rate process. In addition, when it comes to purchasing power parity it is difficult to identify identical goods with equal demands based on geographic differences in products, customs, and preferences. Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "E",
+    "chapter": 31
+  },
+  {
+    "id": 2506,
+    "question": "What is required for absolute purchasing power parity to hold? Do you think absolute PPP would hold in the case where a shoe retailer in the U.S. sits directly across the border from a shoe retailer in Canada? How about Houston, Texas, and London, England? Answer: The requirements for absolute PPP to hold are zero trading costs, lack of trade barriers, and identical goods. Absolute PPP would likely hold to some degree for U.S. and Canadian firms sitting on the border directly across from one another, especially with the reduction of trading costs brought about by NAFTA. However, absolute PPP most likely does not hold for the Houston and London firms because of the significant transportation and search costs between these two disparate locations. Difficulty: 2 Medium Section: 31.3 Purchasing Power Parity Topic: Purchasing power parity Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  },
+  {
+    "id": 2507,
+    "question": "Describe the foreign currency and home currency approaches to capital budgeting. Which is better? Which approach would you recommend a U.S. firm use? Justify your answer. Answer: In the home currency approach, you must forecast both the foreign cash flows and the future expected exchange rates, convert the foreign currency cash flows into dollars, and discount those dollar cash flows at the cost of capital for dollar-denominated investments. In the foreign currency approach, you forecast the foreign cash flows, determine the discount rate appropriate for cash flows denominated in the foreign currency and discount those cash flows to the present. You then convert the NPV to dollars using the current exchange rate. If done properly, both approaches give identical results. However, the foreign currency approach is computationally somewhat more straightforward. Difficulty: 2 Medium Section: 31.5 International Capital Budgeting Topic: International capital budgeting Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 31
+  }
+]

@@ -3,121 +3,118 @@ import json
 from pathlib import Path
 
 
-def parse(full_text_path):
-    text = Path(full_text_path).read_text(encoding='utf-8')
-    lines = text.splitlines()
+def split_into_chapters(text):
+    # Find chapter headers and split into blocks
+    chap_re = re.compile(r'(?m)^Chapter\s+(\d+)\b')
+    matches = list(chap_re.finditer(text))
+    chapters = {}
+    for idx, m in enumerate(matches):
+        ch_num = int(m.group(1))
+        start = m.end()
+        end = matches[idx+1].start() if idx+1 < len(matches) else len(text)
+        block = text[start:end].strip()
+        chapters[ch_num] = block
+    return chapters
 
-    chapter_re = re.compile(r'Chapter\s+(\d+)')
-    qstart_re = re.compile(r'^(\d+)\)\s*(.*)')
-    option_re = re.compile(r'^([A-E])\)\s*(.*)')
-    answer_re = re.compile(r'^Answer:\s*(.*)')
-    explanation_re = re.compile(r'^Explanation:\s*(.*)')
+
+def parse_questions_from_chapter(block_text, start_id=1):
+    # Find question start positions like '1)' or '1.' at line starts
+    qstart_re = re.compile(r'(?m)^\s*(\d+)[\)\.]')
+    option_re = re.compile(r'(?m)^\s*([A-E])\)\s*(.*)')
+    answer_re = re.compile(r'(?mi)^\s*Answer:\s*([A-E])')
+    explanation_re = re.compile(r'(?mi)^\s*Explanation:\s*(.*)')
+
+    starts = list(qstart_re.finditer(block_text))
+    questions = []
+    qid = start_id
+    for idx, m in enumerate(starts):
+        qnum = m.group(1)
+        qstart = m.end()
+        qend = starts[idx+1].start() if idx+1 < len(starts) else len(block_text)
+        qblock = block_text[qstart:qend].strip()
+
+        # Extract options A-E by searching option markers inside qblock
+        opts = {'A':'','B':'','C':'','D':'','E':''}
+        opt_matches = list(option_re.finditer(qblock))
+        if opt_matches:
+            for j, om in enumerate(opt_matches):
+                key = om.group(1)
+                val_start = om.end()
+                val_end = opt_matches[j+1].start() if j+1 < len(opt_matches) else len(qblock)
+                val = qblock[val_start:val_end].strip()
+                # Clean trailing newlines and section labels
+                val = re.sub(r'\s+', ' ', val).strip()
+                opts[key] = val
+            # Question text is the part of qblock before first option
+            qtext = qblock[:opt_matches[0].start()].strip()
+        else:
+            # No options found — treat entire block as question text
+            qtext = qblock
+
+        # Extract answer
+        am = answer_re.search(qblock)
+        answer = am.group(1).upper() if am else ''
+
+        # Extract explanation if present
+        em = explanation_re.search(qblock)
+        explanation = em.group(1).strip() if em else ''
+
+        question_obj = {
+            'id': qid,
+            'question': re.sub(r'\s+', ' ', qtext).strip(),
+            'options': opts,
+            'answer': answer,
+        }
+        if explanation:
+            question_obj['explanation'] = re.sub(r'\s+', ' ', explanation).strip()
+
+        questions.append(question_obj)
+        qid += 1
+
+    return questions
+
+
+def parse(full_text_path):
+    p = Path(full_text_path)
+    if not p.exists():
+        print('Input file not found:', full_text_path)
+        return
+    text = p.read_text(encoding='utf-8')
 
     data_dir = Path('data')
     data_dir.mkdir(exist_ok=True)
 
-    chapters = {}
+    chapters = split_into_chapters(text)
+
     all_questions = []
-    current_chapter = None
+    next_id = 1
+    counts = {}
 
-    i = 0
-    qid = 1
-    while i < len(lines):
-        line = lines[i].strip()
-        # Detect chapter header
-        m = chapter_re.search(line)
-        if m:
-            current_chapter = int(m.group(1))
-            if current_chapter not in chapters:
-                chapters[current_chapter] = []
-            i += 1
-            continue
-
-        m = qstart_re.match(line)
-        if m and current_chapter is not None:
-            # parse question
-            num = m.group(1)
-            qtext = m.group(2).strip()
-            # collect following lines until option A)
-            i += 1
-            while i < len(lines) and not option_re.match(lines[i].strip()):
-                qline = lines[i].rstrip()
-                if qline.strip() == '':
-                    i += 1
-                    continue
-                qtext += ' ' + qline.strip()
-                i += 1
-
-            options = {k: '' for k in list('ABCDE')}
-            # parse options
-            while i < len(lines):
-                lm = option_re.match(lines[i].strip())
-                if not lm:
-                    break
-                key = lm.group(1)
-                val = lm.group(2).strip()
-                # options are single-line in these files; if following lines are indented, append
-                i += 1
-                while i < len(lines) and lines[i].startswith('    '):
-                    val += ' ' + lines[i].strip()
-                    i += 1
-                options[key] = val
-
-            # parse Answer and optional Explanation
-            answer = ''
-            explanation = ''
-            # skip blank lines
-            while i < len(lines) and lines[i].strip() == '':
-                i += 1
-            if i < len(lines) and answer_re.match(lines[i].strip()):
-                am = answer_re.match(lines[i].strip())
-                answer = am.group(1).strip()
-                i += 1
-                # collect Explanation if present
-                while i < len(lines) and lines[i].strip() == '':
-                    i += 1
-                if i < len(lines) and explanation_re.match(lines[i].strip()):
-                    em = explanation_re.match(lines[i].strip())
-                    explanation = em.group(1).strip()
-                    i += 1
-                    # gather following explanation lines until blank line
-                    while i < len(lines) and lines[i].strip() != '':
-                        explanation += ' ' + lines[i].strip()
-                        i += 1
-
-            qobj = {
-                'id': qid,
-                'chapter': current_chapter,
-                'question': qtext.strip(),
-                'options': {
-                    'A': options.get('A','').strip(),
-                    'B': options.get('B','').strip(),
-                    'C': options.get('C','').strip(),
-                    'D': options.get('D','').strip(),
-                    'E': options.get('E','').strip(),
-                },
-                'answer': answer.strip(),
-            }
-            if explanation:
-                qobj['explanation'] = explanation.strip()
-
-            chapters.setdefault(current_chapter, []).append(qobj)
-            all_questions.append(qobj)
-            qid += 1
-            continue
-
-        i += 1
-
-    # write per-chapter json files for chapters 1..31
     for ch in range(1, 32):
-        arr = chapters.get(ch, [])
-        fname = data_dir / f'chapter{ch}.json'
-        fname.write_text(json.dumps(arr, indent=2, ensure_ascii=False))
+        block = chapters.get(ch, '')
+        if not block:
+            qlist = []
+        else:
+            qlist = parse_questions_from_chapter(block, start_id=next_id)
+        # Annotate chapter field on each question and update id tracking
+        for q in qlist:
+            q['chapter'] = ch
+        if qlist:
+            next_id = qlist[-1]['id'] + 1
 
-    # allQuestions
+        counts[ch] = len(qlist)
+        all_questions.extend(qlist)
+        (data_dir / f'chapter{ch}.json').write_text(json.dumps(qlist, indent=2, ensure_ascii=False))
+
     (data_dir / 'allQuestions.json').write_text(json.dumps(all_questions, indent=2, ensure_ascii=False))
 
-    print(f'Wrote {len(all_questions)} questions to {data_dir}/allQuestions.json and chapter files.')
+    total = len(all_questions)
+    print('Per-chapter counts:')
+    for ch in range(1, 32):
+        print(f'Chapter {ch}: {counts.get(ch,0)}')
+    print('Total questions:', total)
+
+    return counts, total
 
 
 if __name__ == '__main__':

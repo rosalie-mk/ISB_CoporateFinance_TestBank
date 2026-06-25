@@ -1,1 +1,729 @@
-[]
+[
+  {
+    "id": 1073,
+    "question": "In the equation R = E(R) + U, the three symbols, from left to right, stand for:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Total return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1074,
+    "question": "The unexpected return on a security is made up of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Total return Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1075,
+    "question": "The stock of a silver mining company most likely has a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1076,
+    "question": "As used in the market model, the symbol \"ε\" represents:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1077,
+    "question": "The symbol \"FI\" is best defined as the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1078,
+    "question": "If an announcement by a firm causes the price of that firm's stock to suddenly change, that price change will most likely be driven by:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1079,
+    "question": "Company A is a medical research company that develops and tests new drugs. Company B is in the news industry and publishes multiple newspapers. If Company A discovers a new product and its stock rises in value by 5 percent as a result, this will most likely have ________ effect on Company B's stock price because the discovery would be classified as ________ risk.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Systematic and unsystematic risk Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1080,
+    "question": "If a security has a GNP beta of 1.5, then the security's total rate of return will:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "GNP.",
+      "D": "of 1.5.",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1081,
+    "question": "If the expected rate of GNP growth was 3 percent and the actual rate was .2 percent higher than the expectation, the total return on a stock would change by ________ based on a multifactor model.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1082,
+    "question": "A three-factor model would most likely include factors such as:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1083,
+    "question": "A beta coefficient reflects the response of a security's return to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1084,
+    "question": "Based on a multifactor model, systematic risk arises from:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1085,
+    "question": "In a portfolio of risky assets, the portfolio's response to any factor, Fi, can be determined by:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "portfolio. Answer: A Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1086,
+    "question": "Based on a multifactor model, the concept of portfolio diversification is to minimize which one of the following?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1087,
+    "question": "A security held in a large, well-diversified portfolio that has a beta of zero in a one-factor model will have an actual return:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Diversification concepts and measures Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1088,
+    "question": "Assume a security has no unsystematic risk. Given this, the excess return on that security will be the highest if the factor, F, ________ and the beta for that factor is ________.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Beta Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1089,
+    "question": "Which type of risk is unaffected by portfolio diversification?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Diversification concepts and measures Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1090,
+    "question": "If a large number of diverse securities are added to a portfolio comprised of three stocks, then the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.2 Portfolios and Factor Models Topic: Diversification concepts and measures Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1091,
+    "question": "Which one of the following statements is true?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Diversification concepts and measures Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1092,
+    "question": "If an investor plans to add a stock to a well-diversified portfolio, the investor should first consider the ________ risks of that additional stock.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Diversification concepts and measures Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1093,
+    "question": "Consider the security market line (SML) under the one-factor model. Assume Point C lies on the SML but an investor would prefer a point that also lies on the SML but is lower and to the left of Point C. How can this investor obtain that point for their portfolio?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "risk-free assets Answer: E Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Security market line Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 12
+  },
+  {
+    "id": 1094,
+    "question": "The slope of the security market line represents the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Security market line Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 12
+  },
+  {
+    "id": 1095,
+    "question": "The single-factor model generally uses ________ as the single factor.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1096,
+    "question": "Assuming the single-factor model applies, the factor beta for the market portfolio is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1097,
+    "question": "Assume the single-factor model is applied to a security that has a negative factor beta. The security will:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Factor models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 12
+  },
+  {
+    "id": 1098,
+    "question": "Estimating the rate of return for any portfolio lying on the security market line requires which of the following?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Security market line Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "E",
+    "chapter": 12
+  },
+  {
+    "id": 1099,
+    "question": "The acronym APT stands for:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1100,
+    "question": "A factor, as used in APT, is a variable that:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1101,
+    "question": "A criticism of the CAPM is that it:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Capital asset pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1102,
+    "question": "The general purpose of identifying multiple factors in the APT model is to:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "beta, to a level equal to that of the overall market.",
+      "D": "unrelated to the unsystematic risk of any other security.",
+      "E": "Answer: D Difficulty: 1 Easy Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "chapter": 12
+  },
+  {
+    "id": 1103,
+    "question": "If you were to consider the CAPM as a one-factor model, then the factor would be the:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Capital asset pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1104,
+    "question": "Which one of the following statements is true?",
+    "options": {
+      "A": "",
+      "B": "assets.",
+      "C": "",
+      "D": "does APT.",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Arbitrage pricing theory Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1105,
+    "question": "Parametric or empirical models rely:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Empirical models Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "chapter": 12
+  },
+  {
+    "id": 1106,
+    "question": "When using the empirical approach, rather than a risk-based model, to compute an expected rate of return on a security, the beta values are replaced with:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Empirical models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1107,
+    "question": "A growth-stock portfolio is probably best characterized as having a:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Empirical models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1108,
+    "question": "When selecting a benchmark, it is important to match the security or portfolio that will be evaluated to securities:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: E Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Empirical models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "E",
+    "chapter": 12
+  },
+  {
+    "id": 1109,
+    "question": "The Fama-French three-factor model seems to support the notion that higher returns can best be earned over time on:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Difficulty: 1 Easy Section: 12.5 Empirical Approaches to Asset Pricing Topic: Empirical models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1110,
+    "question": "The systematic response coefficient for productivity, βp, would produce an unexpected change in any security return of (βP × ________) if the expected rate of productivity was 1.5 percent and the actual rate was 2.25 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: ΔR = βPFP = βP(2.25% − 1.5) ΔR = βP(.75%) Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "A",
+    "explanation": "ΔR = βPFP = βP(2.25% − 1.5)",
+    "chapter": 12
+  },
+  {
+    "id": 1111,
+    "question": "Alpha stock has an expected return of 8.2 percent and betas of: βGNP = 1.23; βI = .97; and βEx = 1.08. This expectation is based on a three-factor model with expected values of: GNP growth of −1 percent; inflation of 2.4 percent; and export growth of 3.5 percent. However, actual growth in these factors turns out to be .55 percent, 1.8 percent, and 2.6 percent, respectively. Assuming there was no unexpected news related specifically to the stock, what was the stock's total rate of return?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: E(R) = .082 + 1.23[.0055 − (−.01)] + .97(.018 − .024) + 1.08(.026 − .035) + 0 E(R) = .0855, or 8.55% Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "E(R) = .082 + 1.23[.0055 − (−.01)] + .97(.018 − .024) + 1.08(.026 − .035) + 0",
+    "chapter": 12
+  },
+  {
+    "id": 1112,
+    "question": "Overton Markets stock has an expected return of 7.8 percent and betas of: βGNP = 1.06; βI =",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 12
+  },
+  {
+    "id": 1113,
+    "question": "01; and βEx = .52. This expectation is based on a three-factor model with expected values of: GNP growth of 2.6 percent; inflation of 3.1 percent; and export growth of 1.4 percent. However, actual growth in these factors turns out to be 3.1 percent, 2.6 percent, and .2 percent, respectively. Calculate the stock's total return if the company unexpectedly announces that an important patent filing has been granted sooner than expected and will earn the company 5 percent more in return, (i.e. from 10 percent up to 15 percent).",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: E(R) = .078 + 1.06(.031 − .026) + 1.01(.026 − .031) + .52(.002 − .014) + .05 E(R) = .1220, or 12.20% Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "E(R) = .078 + 1.06(.031 − .026) + 1.01(.026 − .031) + .52(.002 − .014) + .05",
+    "chapter": 12
+  },
+  {
+    "id": 1114,
+    "question": "Outdoor Products stock has an expected return of 12.6 percent and betas of: βGNP = 1.52; βI = 1.06; and βEx = 1.28. This expectation is based on a three-factor model with expected values of: GNP growth of 3.2 percent; inflation of 2.9 percent; and export growth of 2.2 percent. However, actual growth in these factors turns out to be 3.6 percent, 3.2 percent, and 2.5 percent, respectively. Calculate the stock's total return if the company unexpectedly announces they had an industrial accident and the operating facilities will close down temporarily which will reduce the return by 7 percent (from 10 percent down to 3 percent).",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: E(R) = .126 + 1.52(.036 − .032) + 1.06(.032 − .029) + 1.28(.025 − .022) − .07 E(R) = .0691, or 6.91% Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": "E(R) = .126 + 1.52(.036 − .032) + 1.06(.032 − .029) + 1.28(.025 − .022) − .07",
+    "chapter": 12
+  },
+  {
+    "id": 1115,
+    "question": "Suppose you identified three important systematic risk factors given by exports, inflation, and industrial production. At the beginning of the year, a firm's stock return is estimated at 9.6 percent and the growth in the three factors is estimated at −1 percent, 2.5 percent, and 3.5 percent, respectively. The factor betas are: βEX = 1.8, βI = .7, and βIP = 1. What would be the stock's total return if the actual growth in each of the factors was equal to the expected growth and no unexpected company news occurred?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: E(R) = 9.6%, which is the expected return on the stock Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "E(R) = 9.6%, which is the expected return on the stock",
+    "chapter": 12
+  },
+  {
+    "id": 1116,
+    "question": "The systematic response coefficient for productivity, βp, would produce an unexpected change in any security return of [βP × ________] if the expected rate of productivity was 1.8 percent and the actual rate was 2.2 percent.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: A Explanation: Ri = βPFP Ri = βP(2.2% − 1.8) Ri = βP(.4%) Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "A",
+    "explanation": "Ri = βPFP",
+    "chapter": 12
+  },
+  {
+    "id": 1117,
+    "question": "Assume the single-factor APT model applies and a portfolio exists such that half of the funds are invested in risky Security Q and the rest in a risk-free asset. Security Q has a beta of 1.8. The portfolio has a factor beta of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: C Explanation: βPortfolio = .5(1.8) + .5(0) βPortfolio = .9 Difficulty: 2 Medium Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Beta Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "C",
+    "explanation": "βPortfolio = .5(1.8) + .5(0)",
+    "chapter": 12
+  },
+  {
+    "id": 1118,
+    "question": "Assume the single-factor model applies and a portfolio exists such that 65 percent of the funds are invested in risky Security Q and the rest in the risk-free asset. Security Q has a beta of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 12
+  },
+  {
+    "id": 1119,
+    "question": "5. The portfolio has a beta of:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: βPortfolio =.65(1.5) + (1 − .65)(0) βPortfolio = .975 Difficulty: 2 Medium Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Beta Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "βPortfolio =.65(1.5) + (1 − .65)(0)",
+    "chapter": 12
+  },
+  {
+    "id": 1120,
+    "question": "Assume a one-factor model where the factor is associated with the overall market. Suppose JSC's common stock has a factor beta of .8, the risk-free rate is 3.2 percent, and the expected market rate of return is 11.2 percent. What is the expected return for JSC stock?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: E(RJSC) = .032 + .8(.112 − .032) E(RJSC) = .0960, or 9.60% Difficulty: 2 Medium Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Arbitrage pricing theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "D",
+    "explanation": "E(RJSC) = .032 + .8(.112 − .032)",
+    "chapter": 12
+  },
+  {
+    "id": 1121,
+    "question": "Suppose ABC's common stock has a return of 12.87 percent, the risk-free rate is 2.65 percent, the market return is 13.46 percent, and there is currently no unsystematic influence affecting ABC's return. Given a one-factor APT model, what is the factor beta?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: .1287 = .0265 + β(.1346 − .0265) β = .945 Difficulty: 2 Medium Section: 12.3 Betas, Arbitrage, and Expected Returns Topic: Arbitrage pricing theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "B",
+    "explanation": ".1287 = .0265 + β(.1346 − .0265)",
+    "chapter": 12
+  },
+  {
+    "id": 1122,
+    "question": "Suppose a sizeable, fully diversified portfolio has an F1 beta of .9, an F2 beta of 1.4, and an expected return of 11.6 percent. If F1 turns out to be 1.1 percent and F2 is −.8 percent, what will be the actual rate of return based on a two-factor arbitrage pricing model?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: B Explanation: R = .116 + .9(.011) + 1.4(−.008) R = .1147, or 11.47% Difficulty: 2 Medium Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+    },
+    "answer": "B",
+    "explanation": "R = .116 + .9(.011) + 1.4(−.008)",
+    "chapter": 12
+  },
+  {
+    "id": 1123,
+    "question": "Suppose Binder Corporation's common stock has an actual return of 12.34 percent compared to its expected return of 12.6 percent. The risk-free rate was expected to be 4.3 percent, which it was. The beta of Fi is .9 and the beta of FGNP is 1.1. If inflation unexpectedly increased by 1.4 percent, what was the unexpected change in GNP?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": "Answer: D Explanation: (.1234 − .126) = .9(.014) + 1.1(FGNP) FGNP = −.0138, or −1.38% Difficulty: 2 Medium Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+    },
+    "answer": "D",
+    "explanation": "(.1234 − .126) = .9(.014) + 1.1(FGNP)",
+    "chapter": 12
+  },
+  {
+    "id": 1124,
+    "question": "In a multifactor model, explain what a factor represents and the role that beta plays in relation to factors. How do factors and betas affect the actual return? Answer: A factor is a variable that helps identify the difference between an actual return and an estimated return. Each factor measures the surprise, or unexpected change, in a specific systematic risk. A factor's beta measures a security's or portfolio's response to a change in that factor. The actual return is equal to the estimated return plus the sum of the individual betas times their respective factors, assuming there is no unsystematic risk. Difficulty: 2 Medium Section: 12.1 Systematic Risk and Betas Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 12
+  },
+  {
+    "id": 1125,
+    "question": "Verbally describe a graph that illustrates the one-factor model. Answer: The one-factor model can be graphed with the return percent on the factor, F, on the horizontal axis and the excess return percent on the stock as the vertical axis. The slope of the line that represents a security is the factor beta for that security. All security lines will intersect the origin with positive beta lines being upsloping. Difficulty: 2 Medium Section: 12.2 Portfolios and Factor Models Topic: Factor models Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 12
+  },
+  {
+    "id": 1126,
+    "question": "Explain the conceptual differences in the theoretical development of the CAPM and the APT. Answer: CAPM is built on the efficient set and then incorporates the use of a riskless asset. The APT adds factors until there is little, if any, correlation between the unsystematic risks of individual securities. Both processes illustrate that systematic risk remains in a diversified portfolio but idiosyncratic, or unsystematic, risk can be eliminated. Difficulty: 2 Medium Section: 12.4 The Capital Asset Pricing Model and the Arbitrage Pricing Theory Topic: Arbitrage pricing theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "C",
+    "chapter": 12
+  },
+  {
+    "id": 1127,
+    "question": "Explain the concept of a benchmark and why benchmarks provide value when evaluating the performance of a security or portfolio. Answer: A benchmark is often times an index with specific characteristics such as an index based on the S&P 500, or on an international portfolio, or on small-growth stocks, or even on a specific group of fixed-income securities. Comparing a specific security or portfolio against its related index allows you to compare returns against a benchmark with similar risk characteristics. Difficulty: 2 Medium Section: 12.5 Empirical Approaches to Asset Pricing Topic: Risks and return Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 12
+  }
+]
