@@ -3,11 +3,11 @@
     "id": 72,
     "question": "Which one of these accounts appears on the right-hand side of a balance sheet?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Property, plant, and equipment",
+      "B": "Accumulated retained earnings",
+      "C": "Accumulated depreciation",
+      "D": "Cash and equivalents",
+      "E": "Intangible assets"
     },
     "answer": "B",
     "chapter": 2
@@ -16,11 +16,11 @@
     "id": 73,
     "question": "The entire book value of the residual ownership of a corporation is known as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "total equity.",
+      "B": "intangible assets.",
+      "C": "retained earnings.",
+      "D": "capital surplus.",
+      "E": "total assets."
     },
     "answer": "A",
     "chapter": 2
@@ -29,11 +29,11 @@
     "id": 74,
     "question": "Which account represents the book value of all of a corporation's net profits less its dividend payments?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Capital surplus",
+      "B": "Accumulated retained earnings",
+      "C": "Treasury stock",
+      "D": "Common stock",
+      "E": "Preferred stock"
     },
     "answer": "B",
     "chapter": 2
@@ -42,11 +42,11 @@
     "id": 75,
     "question": "Which one of the following is a current liability?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Amount due to a supplier in 18 months",
+      "B": "Note payable in nine months",
+      "C": "Estimated taxes just paid",
+      "D": "Loan payment due in 13 months",
+      "E": "Amount due from a customer in 30 days"
     },
     "answer": "B",
     "chapter": 2
@@ -55,11 +55,11 @@
     "id": 76,
     "question": "An increase in total assets:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "means that net working capital is also increasing.",
+      "B": "requires an investment in fixed assets.",
+      "C": "means that stockholders' equity must also increase.",
+      "D": "must be offset by an equal increase in liabilities and stockholders' equity.",
+      "E": "can only occur when a firm has positive net income."
     },
     "answer": "D",
     "chapter": 2
@@ -68,11 +68,11 @@
     "id": 77,
     "question": "Which one of the following assets is generally the most liquid?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Liquidity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Inventory",
+      "B": "Buildings",
+      "C": "Accounts receivable",
+      "D": "Equipment",
+      "E": "Patents"
     },
     "answer": "C",
     "chapter": 2
@@ -81,11 +81,11 @@
     "id": 78,
     "question": "Which one of the following statements concerning liquidity is correct?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "difficulties.",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Liquidity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Liquid assets generally earn higher rates of return than fixed assets.",
+      "B": "If you can sell an asset next year at a price equal to its actual value, the asset is highly liquid.",
+      "C": "Liquid assets are defined as those assets obtained within the past year.",
+      "D": "The less liquidity a firm has, the lower the probability the firm will encounter financial difficulties.",
+      "E": "Balance sheet accounts are listed in order of decreasing liquidity."
     },
     "answer": "E",
     "chapter": 2
@@ -94,11 +94,11 @@
     "id": 79,
     "question": "Liquidity is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Liquidity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "a measure of the use of debt in a firm's capital structure.",
+      "B": "equal to current assets minus current liabilities.",
+      "C": "equal to the market value of a firm's total assets minus its total liabilities.",
+      "D": "valuable to a firm even though liquid assets tend to be less profitable to own.",
+      "E": "generally most associated with intangible assets."
     },
     "answer": "D",
     "chapter": 2
@@ -107,11 +107,11 @@
     "id": 80,
     "question": "Which one of the following accounts is included in stockholders' equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Long-term debt",
+      "B": "Deferred taxes",
+      "C": "Plant and equipment",
+      "D": "Accumulated retained earnings",
+      "E": "Dividends paid"
     },
     "answer": "D",
     "chapter": 2
@@ -120,11 +120,11 @@
     "id": 81,
     "question": "Book value:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "is equivalent to market value for firms with fixed assets.",
+      "B": "is based on historical cost.",
+      "C": "generally tends to exceed market value when fixed assets are included.",
+      "D": "is more of a financial than an accounting valuation.",
+      "E": "is adjusted whenever the market value of an asset changes."
     },
     "answer": "B",
     "chapter": 2
@@ -133,11 +133,11 @@
     "id": 82,
     "question": "If you sell an asset, you are most apt to receive which value for that asset?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Market value",
+      "B": "Original cost minus accumulated depreciation",
+      "C": "Historical value",
+      "D": "Book value",
+      "E": "Carrying value"
     },
     "answer": "A",
     "chapter": 2
@@ -146,11 +146,11 @@
     "id": 83,
     "question": "Which one of these equations is an accurate expression of the balance sheet?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Assets ≡ Liabilities − Stockholders' equity",
+      "B": "Stockholders' equity ≡ Assets + Liabilities",
+      "C": "Liabilities ≡ Stockholders' equity − Assets",
+      "D": "Assets ≡ Stockholders' equity − Liabilities",
+      "E": "Stockholders' equity ≡ Assets − Liabilities"
     },
     "answer": "E",
     "chapter": 2
@@ -159,11 +159,11 @@
     "id": 84,
     "question": "Which one of these accounts is classified as a fixed asset on the balance sheet?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Intangible assets",
+      "B": "Accounts payable",
+      "C": "Preferred stock",
+      "D": "Inventory",
+      "E": "Accounts receivable"
     },
     "answer": "A",
     "chapter": 2
@@ -172,11 +172,11 @@
     "id": 85,
     "question": "On a balance sheet, deferred taxes are classified as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "stockholders' equity.",
+      "B": "a current asset.",
+      "C": "a long-term liability.",
+      "D": "a fixed asset.",
+      "E": "a current liability."
     },
     "answer": "C",
     "chapter": 2
@@ -185,11 +185,11 @@
     "id": 86,
     "question": "If a firm's financial managers successfully meet their primary goal, then the firm's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "debts will exceed its equity.",
+      "B": "market value will exceed its book value.",
+      "C": "net working capital will exceed its long-term debt.",
+      "D": "carrying value will exceed its market value.",
+      "E": "equity will exceed its assets."
     },
     "answer": "B",
     "chapter": 2
@@ -198,11 +198,11 @@
     "id": 87,
     "question": "An asset that can be quickly converted into cash without significant loss in value is referred to as being:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Liquidity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "marketable.",
+      "B": "tangible.",
+      "C": "intangible.",
+      "D": "liquid.",
+      "E": "fixed."
     },
     "answer": "D",
     "chapter": 2
@@ -211,11 +211,11 @@
     "id": 88,
     "question": "Which one of these is related to an increase in the book value of the stockholders' equity in a profitable, non-dividend paying firm? Assume no shares of stock are repurchased or sold.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "A decrease in the book value of inventory",
+      "B": "An increase in earnings per share",
+      "C": "An increase in the market value of the firm's buildings",
+      "D": "An increase in the market value of the firm's long-term debt",
+      "E": "An increase in non-cash expenses"
     },
     "answer": "B",
     "chapter": 2
@@ -224,11 +224,11 @@
     "id": 89,
     "question": "Assets are listed on the balance sheet in order of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Liquidity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decreasing liquidity.",
+      "B": "acquisition.",
+      "C": "increasing size.",
+      "D": "market value relative to book value.",
+      "E": "book value."
     },
     "answer": "A",
     "chapter": 2
@@ -237,11 +237,11 @@
     "id": 90,
     "question": "An increase in treasury stock:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "increases the total equity of the firm.",
+      "B": "is the result of a firm issuing new shares of stock to the federal government.",
+      "C": "increases the number of shares outstanding.",
+      "D": "results from a repurchase of outstanding shares of stock.",
+      "E": "requires repayment at some point in the future."
     },
     "answer": "D",
     "chapter": 2
@@ -250,11 +250,11 @@
     "id": 91,
     "question": "The book value of assets:",
     "options": {
-      "A": "cost of those assets.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Generally Accepted Accounting Principles (GAAP) Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "is determined under Generally Accepted Accounting Principles (GAAP) and is based on the cost of those assets.",
+      "B": "represents the true market value of those assets according to GAAP.",
+      "C": "is always the best measure of the company's value to an investor.",
+      "D": "is always higher than the replacement cost of the assets.",
+      "E": "is shown on the firm's income statement."
     },
     "answer": "A",
     "chapter": 2
@@ -263,11 +263,11 @@
     "id": 92,
     "question": "Under Generally Accepted Accounting Principles (GAAP), a firm's assets are reported at:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.1 The Balance Sheet Topic: Generally Accepted Accounting Principles (GAAP) Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "market value.",
+      "B": "liquidation value.",
+      "C": "market value less accumulated depreciation.",
+      "D": "historical cost less accumulated depreciation.",
+      "E": "liquidation value less accumulated depreciation."
     },
     "answer": "D",
     "chapter": 2
@@ -276,11 +276,11 @@
     "id": 93,
     "question": "The income statement:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Income statement Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "measures performance for one specific day.",
+      "B": "ignores any income other than operating revenues.",
+      "C": "excludes deferred tax expense.",
+      "D": "treats dividends paid as a cash expense.",
+      "E": "includes noncash expenses."
     },
     "answer": "E",
     "chapter": 2
@@ -289,11 +289,11 @@
     "id": 94,
     "question": "According to Generally Accepted Accounting Principles (GAAP), revenue is recognized as income when:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Generally Accepted Accounting Principles (GAAP) Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "a contract is signed to perform a service or deliver a good.",
+      "B": "the transaction is complete and the goods or services are delivered.",
+      "C": "payment is requested.",
+      "D": "income taxes are paid on the revenue earned.",
+      "E": "managers decide to recognize it."
     },
     "answer": "B",
     "chapter": 2
@@ -302,11 +302,11 @@
     "id": 95,
     "question": "The financial statement summarizing a firm's accounting performance over a period of time is the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Income statement Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "income statement.",
+      "B": "balance sheet.",
+      "C": "statement of cash flows.",
+      "D": "tax reconciliation statement.",
+      "E": "statement of equity."
     },
     "answer": "A",
     "chapter": 2
@@ -315,11 +315,11 @@
     "id": 96,
     "question": "Noncash items refer to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Noncash items Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the credit sales of a firm.",
+      "B": "the accounts payable of a firm.",
+      "C": "the costs incurred for the purchase of intangible fixed assets.",
+      "D": "expenses charged against revenues that do not directly affect cash flow.",
+      "E": "all accounts on the balance sheet other than cash on hand."
     },
     "answer": "D",
     "chapter": 2
@@ -328,11 +328,11 @@
     "id": 97,
     "question": "For a firm with long-term debt, net income must be equal to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Income statement Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Pretax income − Interest expense − Taxes.",
+      "B": "EBIT − Taxes.",
+      "C": "Taxes + Addition to retained earnings.",
+      "D": "Operating income × (1 − Marginal tax rate).",
+      "E": "Dividends + Addition to retained earnings."
     },
     "answer": "E",
     "chapter": 2
@@ -341,11 +341,11 @@
     "id": 98,
     "question": "As seen on the income statement of a tax-paying firm:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Income statement Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "interest is deducted from income and increases the total taxes incurred.",
+      "B": "the tax rate is applied to the earnings before interest and taxes when the firm pays interest.",
+      "C": "depreciation is shown as an expense but does not affect the tax expense.",
+      "D": "depreciation reduces both the pretax income and the net income.",
+      "E": "interest expense is added to earnings before interest and taxes to compute pretax income."
     },
     "answer": "D",
     "chapter": 2
@@ -354,11 +354,11 @@
     "id": 99,
     "question": "All else held constant, the earnings per share will decrease as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "net income increases.",
+      "B": "number of shares outstanding increases.",
+      "C": "total revenue of the firm increases.",
+      "D": "tax rate decreases.",
+      "E": "costs decrease."
     },
     "answer": "B",
     "chapter": 2
@@ -367,11 +367,11 @@
     "id": 100,
     "question": "Which one of these statements is correct?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Pretax income is equal to net income minus taxes.",
+      "B": "The addition to retained earnings is equal to net income plus dividends.",
+      "C": "Operating income is equal to operating revenue minus cost of goods sold.",
+      "D": "Only current taxes are included in the tax expense.",
+      "E": "Earnings per share can be negative but dividends per share cannot."
     },
     "answer": "E",
     "chapter": 2
@@ -380,11 +380,11 @@
     "id": 101,
     "question": "Earnings per share:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "will increase if net income increases and the number of shares outstanding decreases.",
+      "B": "will increase if net income decreases and the number of shares outstanding increases.",
+      "C": "is defined as the addition to retained earnings divided by the number of shares outstanding.",
+      "D": "is the total amount of dividends paid per year on a per share basis.",
+      "E": "must increase at the same rate as the net income."
     },
     "answer": "A",
     "chapter": 2
@@ -393,11 +393,11 @@
     "id": 102,
     "question": "Earnings per share will increase when:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "depreciation decreases.",
+      "B": "the number of shares outstanding increase.",
+      "C": "operating income decreases.",
+      "D": "dividends per share decrease.",
+      "E": "the average tax rate increases."
     },
     "answer": "A",
     "chapter": 2
@@ -406,11 +406,11 @@
     "id": 103,
     "question": "Assuming the number of shares outstanding and total earnings remains constant, an increase in dividends per share will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "reduce the earnings per share.",
+      "B": "reduce the addition to retained earnings.",
+      "C": "reduce net income.",
+      "D": "increase total equity.",
+      "E": "increase total assets."
     },
     "answer": "B",
     "chapter": 2
@@ -419,11 +419,11 @@
     "id": 104,
     "question": "Which one of these is a non-cash item?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Noncash items Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Deferred taxes",
+      "B": "Interest expense",
+      "C": "Current taxes",
+      "D": "Dividends",
+      "E": "Selling expenses"
     },
     "answer": "A",
     "chapter": 2
@@ -432,11 +432,11 @@
     "id": 105,
     "question": "For a tax-paying firm, an increase in the depreciation expense of $1 will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Noncash items Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "reduce net income by $1.",
+      "B": "increase net income by $1.",
+      "C": "reduce net income by more than $1.",
+      "D": "reduce net income by less than $1.",
+      "E": "increase net income by less than $1."
     },
     "answer": "D",
     "chapter": 2
@@ -445,11 +445,11 @@
     "id": 106,
     "question": "According to Generally Accepted Accounting Principles (GAAP), the cost of goods sold expenses are:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Generally Accepted Accounting Principles (GAAP) Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "recorded as incurred.",
+      "B": "recorded when paid.",
+      "C": "matched with revenues.",
+      "D": "matched with production levels.",
+      "E": "expensed as management desires."
     },
     "answer": "C",
     "chapter": 2
@@ -458,11 +458,11 @@
     "id": 107,
     "question": "Depreciation for a profitable firm:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Noncash items Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decreases both operating and net income.",
+      "B": "increases the net fixed assets as shown on the balance sheet.",
+      "C": "reduces both the net fixed assets and the costs of a firm.",
+      "D": "is a non-cash expense which increases the net operating income.",
+      "E": "decreases net fixed assets, net income, and operating cash flows."
     },
     "answer": "A",
     "chapter": 2
@@ -471,11 +471,11 @@
     "id": 108,
     "question": "Which one of these is most apt to be a fixed, cash expense in the short run?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.2 The Income Statement Topic: Fixed and variable costs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Raw materials cost",
+      "B": "Bond interest",
+      "C": "Commissions paid to sales representatives",
+      "D": "Depreciation",
+      "E": "Manufacturing labor costs"
     },
     "answer": "B",
     "chapter": 2
@@ -484,11 +484,11 @@
     "id": 109,
     "question": "When you are making a financial decision, the most relevant tax rate is the ________ rate when the tax rate schedule is progressive.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.3 Taxes Topic: Taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "average",
+      "B": "fixed",
+      "C": "marginal",
+      "D": "total",
+      "E": "variable"
     },
     "answer": "C",
     "chapter": 2
@@ -497,11 +497,11 @@
     "id": 110,
     "question": "Which term defines the tax rate that applies to the next dollar of taxable income earned?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.3 Taxes Topic: Taxes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Deductible",
+      "B": "Residual",
+      "C": "Total",
+      "D": "Average",
+      "E": "Marginal"
     },
     "answer": "E",
     "chapter": 2
@@ -510,11 +510,11 @@
     "id": 111,
     "question": "As of 2018, the U.S. corporate tax rate is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.3 Taxes Topic: Taxes Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "based on a progressive tax rate schedule.",
+      "B": "based on a tiered, multi-rate flat tax.",
+      "C": "a flat tax of 34 percent.",
+      "D": "zero with all corporate taxable income passed to shareholders.",
+      "E": "a flat rate of 21 percent."
     },
     "answer": "E",
     "chapter": 2
@@ -523,11 +523,11 @@
     "id": 112,
     "question": "A firm starts its year with positive net working capital. During the year, the firm acquires more short-term debt than it does short-term assets. This means that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the ending net working capital must be negative.",
+      "B": "both accounts receivable and inventory decreased during the year.",
+      "C": "the beginning current assets were less than the beginning current liabilities.",
+      "D": "accounts payable increased and inventory decreased during the year.",
+      "E": "the ending net working capital can be positive, negative, or equal to zero."
     },
     "answer": "E",
     "chapter": 2
@@ -536,11 +536,11 @@
     "id": 113,
     "question": "For a growing firm, the change in net working capital is generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "positive.",
+      "B": "negative.",
+      "C": "highly erratic.",
+      "D": "highly negative.",
+      "E": "equal to zero."
     },
     "answer": "A",
     "chapter": 2
@@ -549,11 +549,11 @@
     "id": 114,
     "question": "An increase in which one of the following will cause the operating cash flow to increase for a profitable firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Depreciation",
+      "B": "Cash",
+      "C": "Net working capital",
+      "D": "Taxes",
+      "E": "Administrative expenses"
     },
     "answer": "A",
     "chapter": 2
@@ -562,11 +562,11 @@
     "id": 115,
     "question": "Which one of these does not affect the cash flow to creditors?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Interest paid on long-term debt",
+      "B": "New mortgage on a building",
+      "C": "Increase in accounts payable",
+      "D": "Mortgage interest payment",
+      "E": "Reduction in long-term debt"
     },
     "answer": "C",
     "chapter": 2
@@ -575,11 +575,11 @@
     "id": 116,
     "question": "A firm's dividend payments less any net new equity raised is referred to as the firm's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "operating cash flow.",
+      "B": "capital spending.",
+      "C": "net working capital.",
+      "D": "cash flow from creditors.",
+      "E": "cash flow to stockholders."
     },
     "answer": "E",
     "chapter": 2
@@ -588,11 +588,11 @@
     "id": 117,
     "question": "Which one of these will cause an increase in the cash flow to creditors for the current year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Collection of a refund for the overpayment of a loan",
+      "B": "Payoff of a 36-month loan after the first 15 months",
+      "C": "Payment of a late charge on an account payable to a supplier",
+      "D": "Acquiring a new loan that will be repaid in one lump sum 24 months from now",
+      "E": "Purchasing inventory using credit offered by a supplier"
     },
     "answer": "B",
     "chapter": 2
@@ -601,11 +601,11 @@
     "id": 118,
     "question": "The cash flow to stockholders must be positive when:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the dividends paid are less than the amount of net new equity raised.",
+      "B": "the net sale of common stock exceeds the amount of dividends paid.",
+      "C": "no income is distributed but new shares of stock are sold.",
+      "D": "the cash flow from assets is positive and exceeds the cash flow to creditors.",
+      "E": "both the cash flow to assets and the cash flow to creditors are positive."
     },
     "answer": "D",
     "chapter": 2
@@ -614,11 +614,11 @@
     "id": 119,
     "question": "Cash flow from assets:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "equals net income plus non-cash items.",
+      "B": "can be positive, negative, or equal to zero.",
+      "C": "equals operating cash flow minus net capital spending.",
+      "D": "equals the addition to retained earnings.",
+      "E": "equals operating cash flow minus the cash flow to creditors."
     },
     "answer": "B",
     "chapter": 2
@@ -627,11 +627,11 @@
     "id": 120,
     "question": "Net capital spending is equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "net change in total assets plus depreciation.",
+      "B": "net change in fixed assets plus depreciation.",
+      "C": "net income plus depreciation.",
+      "D": "difference between the market and book values of the total assets.",
+      "E": "change in total assets."
     },
     "answer": "B",
     "chapter": 2
@@ -640,11 +640,11 @@
     "id": 121,
     "question": "Cash flow to stockholders is defined as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "cash dividends paid.",
+      "B": "repurchases of equity less new equity sold minus cash dividends paid.",
+      "C": "cash flow from financing less cash flow to creditors.",
+      "D": "cash dividends paid plus repurchases of equity minus new equity financing.",
+      "E": "cash flow from assets plus cash flow to creditors."
     },
     "answer": "D",
     "chapter": 2
@@ -653,11 +653,11 @@
     "id": 122,
     "question": "Free cash flow is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Free cash flow Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the money generated from the sale of new shares of stock.",
+      "B": "another term for operating cash flow.",
+      "C": "the cash generated by decreasing net working capital.",
+      "D": "cash that the firm can distribute to creditors and stockholders.",
+      "E": "the net income of a firm after taxes have been paid."
     },
     "answer": "D",
     "chapter": 2
@@ -666,11 +666,11 @@
     "id": 123,
     "question": "The cash flow of the firm must be equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "cash flow to stockholders minus the cash flow to creditors.",
+      "B": "cash flow to creditors minus the cash flow to stockholders.",
+      "C": "cash flow to governments plus the cash flow to stockholders.",
+      "D": "cash flow to stockholders plus the cash flow to creditors.",
+      "E": "aftertax operating cash flow."
     },
     "answer": "D",
     "chapter": 2
@@ -679,11 +679,11 @@
     "id": 124,
     "question": "The cash flow resulting from a firm's ongoing, normal business activities is referred to as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "operating cash flow.",
+      "B": "net capital spending.",
+      "C": "additions to net working capital.",
+      "D": "free cash flow.",
+      "E": "cash flow to investors."
     },
     "answer": "A",
     "chapter": 2
@@ -692,11 +692,11 @@
     "id": 125,
     "question": "Capital spending is equal to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Capital spending Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "ending net fixed assets minus beginning net fixed assets.",
+      "B": "ending net fixed assets minus beginning net fixed assets plus depreciation.",
+      "C": "ending total assets minus beginning total assets.",
+      "D": "ending total assets minus beginning total assets plus depreciation.",
+      "E": "beginning total assets plus asset purchases minus asset sales."
     },
     "answer": "B",
     "chapter": 2
@@ -705,11 +705,11 @@
     "id": 126,
     "question": "Operating cash flow is defined as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Pretax income − Taxes.",
+      "B": "Net income − Dividends.",
+      "C": "EBIT + Depreciation − Taxes.",
+      "D": "Pretax income + Depreciation.",
+      "E": "Cash flow to investors + Taxes."
     },
     "answer": "C",
     "chapter": 2
@@ -718,11 +718,11 @@
     "id": 127,
     "question": "Payments to creditors that include interest and the repayment of principal are referred to as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the cash flow to stockholders.",
+      "B": "the reduction in net working capital.",
+      "C": "debt service.",
+      "D": "operating cash flow.",
+      "E": "the change in net working capital."
     },
     "answer": "C",
     "chapter": 2
@@ -731,11 +731,11 @@
     "id": 128,
     "question": "In the accounting statement of cash flows, which one of these is calculated by adding back noncash expenses to net income and adjusting for changes in current assets and liabilities?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.6 The Accounting Statement of Cash Flows Topic: Statement of cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Cash flow from investing activities",
+      "B": "Cash flow from financing activities",
+      "C": "Net working capital",
+      "D": "Cash flow from operations",
+      "E": "Cash flow to investors"
     },
     "answer": "D",
     "chapter": 2
@@ -744,11 +744,11 @@
     "id": 129,
     "question": "The accounting statement of cash flows consists of the cash flows from:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 2.6 The Accounting Statement of Cash Flows Topic: Statement of cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "operations, investing activities, and financing activities.",
+      "B": "operations, investing activities, and divesting activities.",
+      "C": "internal activities, external activities, and financing activities.",
+      "D": "balance sheet accounts only.",
+      "E": "income statement accounts only."
     },
     "answer": "A",
     "chapter": 2
@@ -757,11 +757,11 @@
     "id": 130,
     "question": "In the accounting statement of cash flows, interest expense is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 2.6 The Accounting Statement of Cash Flows Topic: Statement of cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "ignored completely.",
+      "B": "included as a financing activity.",
+      "C": "included both as an operating and as a financing activity.",
+      "D": "included as an investing activity.",
+      "E": "included in operations."
     },
     "answer": "E",
     "chapter": 2
@@ -770,11 +770,11 @@
     "id": 131,
     "question": "One of the reasons why cash flow analysis is popular is because:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 2.7 Cash Flow Management Topic: Cash flows Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "cash flows are more subjective than net income.",
+      "B": "deferred taxes require future cash payment.",
+      "C": "cash flows are strictly defined by Generally Accepted Accounting Principles (GAAP).",
+      "D": "it is difficult to manipulate, or spin the cash flows.",
+      "E": "operating cash flows are found on the income statement."
     },
     "answer": "D",
     "chapter": 2
@@ -783,95 +783,95 @@
     "id": 132,
     "question": "Total equity is $1,620, fixed assets are $1,810, long-term debt is $650, and short-term debt is $300. What is the amount of current assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Current assets = $1,620 + 650 + 300 − 1,810 Current assets = $760 Difficulty: 2 Medium Section: 2.1 The Balance Sheet Topic: Balance sheet Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$760",
+      "B": "$360",
+      "C": "$1,140",
+      "D": "$480",
+      "E": "$790"
     },
     "answer": "A",
-    "explanation": "Current assets = $1,620 + 650 + 300 − 1,810",
+    "explanation": "Current assets = $1,620 + 650 + 300 − 1,810 Current assets = $760",
     "chapter": 2
   },
   {
     "id": 133,
     "question": "Southwest Co. has equipment with a book value of $3,560 that could be sold today for $3,900. Its inventory is valued at $1,780 and could be sold immediately to a competitor at a discount of 25 percent. The firm has $260 in cash and customers owe the firm $950, of which 98 percent is collectible. What is the current market value of the firm's assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Market value of assets = $260 + .98($950) + (1 − .25)($1,780) + $3,900 Market value of assets = $6,426 Difficulty: 2 Medium Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$6,086",
+      "B": "$5,536",
+      "C": "$6,426",
+      "D": "$6,316",
+      "E": "$5,946"
     },
     "answer": "C",
-    "explanation": "Market value of assets = $260 + .98($950) + (1 − .25)($1,780) + $3,900",
+    "explanation": "Market value of assets = $260 + .98($950) + (1 − .25)($1,780) + $3,900 Market value of assets = $6,426",
     "chapter": 2
   },
   {
     "id": 134,
     "question": "Martha's Enterprises spent $4,100 to purchase equipment three years ago. This equipment is currently valued at $2,700 on today's balance sheet but could actually be sold for $3,200. Net working capital is $400 and long-term debt is $2,300. Assuming the equipment is the firm's only fixed asset, what is the book value of shareholders' equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Book value of equity = $400 + 2,700 − 2,300 Book value of equity = $800 Difficulty: 2 Medium Section: 2.1 The Balance Sheet Topic: Market and book values Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1,300",
+      "B": "$800",
+      "C": "$1,600",
+      "D": "$1,900",
+      "E": "$2,200"
     },
     "answer": "B",
-    "explanation": "Book value of equity = $400 + 2,700 − 2,300",
+    "explanation": "Book value of equity = $400 + 2,700 − 2,300 Book value of equity = $800",
     "chapter": 2
   },
   {
     "id": 135,
     "question": "Mart's Boutique has sales of $820,000 and costs of $540,000. Interest expense is $36,000 and depreciation is $59,000. The tax rate is 21 percent. What is the net income?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Net income = ($820,000 − 540,000 − 59,000 − 36,000)(1 − .21) Net income = $146,150 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Income statement Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$221,200",
+      "B": "$146,150",
+      "C": "$105,000",
+      "D": "$179,250",
+      "E": "$139,050"
     },
     "answer": "B",
-    "explanation": "Net income = ($820,000 − 540,000 − 59,000 − 36,000)(1 − .21)",
+    "explanation": "Net income = ($820,000 − 540,000 − 59,000 − 36,000)(1 − .21) Net income = $146,150",
     "chapter": 2
   },
   {
     "id": 136,
     "question": "Upton Industries has revenues of $42,629, interest expense of $1,230, depreciation of $2,609, cost of goods sold of $23,704, dividends paid of $1,200, and administrative expenses of $7,040. Assume the tax rate is 22 percent. What is the addition to retained earnings?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Net income = ($42,629 − 23,704 − 7,040 − 2,609 − 1,230)(1 − .22) Net income = $6,275.88 Addition to retained earnings = $6,275.88 − 1,200 Addition to retained earnings = $5,075.88 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Income statement Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$5,075.88",
+      "B": "$4,630.19",
+      "C": "$3,766.67",
+      "D": "$4,903.18",
+      "E": "$5,230.04"
     },
     "answer": "A",
-    "explanation": "Net income = ($42,629 − 23,704 − 7,040 − 2,609 − 1,230)(1 − .22)",
+    "explanation": "Net income = ($42,629 − 23,704 − 7,040 − 2,609 − 1,230)(1 − .22) Net income = $6,275.88 Addition to retained earnings = $6,275.88 − 1,200 Addition to retained earnings = $5,075.88",
     "chapter": 2
   },
   {
     "id": 137,
     "question": "This year, Johnson Mills has annual revenue of $37,800, cost of goods sold of $23,200, and administrative expenses of $6,300. The firm paid $700 in dividends, $280 in interest, and has a total tax rate of 21 percent. The firm will add $2,810 to retained earnings. What is the depreciation expense?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Net income = $700 + 2,810 Net income = $3,510 Pretax income = $3,510/(1 − .21) Pretax income = $4,443 Depreciation expense = $37,800 − 23,200 − 6,300 − 280 − 4,443 Depreciation expense = $3,577 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Income statement Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$2,300",
+      "B": "$3,709",
+      "C": "$2,640",
+      "D": "$780",
+      "E": "$3,577"
     },
     "answer": "E",
-    "explanation": "Net income = $700 + 2,810",
+    "explanation": "Net income = $700 + 2,810 Net income = $3,510 Pretax income = $3,510/(1 − .21) Pretax income = $4,443 Depreciation expense = $37,800 − 23,200 − 6,300 − 280 − 4,443 Depreciation expense = $3,577",
     "chapter": 2
   },
   {
     "id": 138,
     "question": "Delfinio's has total revenues of $4,315, selling and administrative expenses of $611, depreciation of $309, cost of goods sold of $2,403, taxes of $178, dividends of $80, and interest expense of $168. What is the amount of the non-cash items?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Non-cash items = Depreciation = $309 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Noncash items Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$481",
+      "B": "$477",
+      "C": "$248",
+      "D": "$309",
+      "E": "$567"
     },
     "answer": "D",
     "explanation": "Non-cash items = Depreciation = $309",
@@ -881,434 +881,434 @@
     "id": 139,
     "question": "Deep Water Mining added $411 to retained earnings last year on sales of $24,646. The administrative expenses were $4,370, depreciation was $812, dividends paid were $285, and the interest expense was $103. What was the cost of goods sold if the total tax rate was 23 percent?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Net income = $285 + 411 Net income = $696 Pretax income = $696/(1 − .23) Pretax income = $904 COGS = $24,646 − 4,370 − 812 − 103 − 904 COGS = $18,457 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Income statement Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$20,225",
+      "B": "$24,385",
+      "C": "$18,457",
+      "D": "$14,815",
+      "E": "$21,393"
     },
     "answer": "C",
-    "explanation": "Net income = $285 + 411",
+    "explanation": "Net income = $285 + 411 Net income = $696 Pretax income = $696/(1 − .23) Pretax income = $904 COGS = $24,646 − 4,370 − 812 − 103 − 904 COGS = $18,457",
     "chapter": 2
   },
   {
     "id": 140,
     "question": "Daniels Transport has operating income of $68,200, interest expense of $210, dividends paid of $320, depreciation of $12,400, other income of $2,100, common stock of $48,500 with a par value of $1 per share, and retained earnings of $29,700. What is the earnings per share if the tax rate is 21 percent?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Net income = ($68,200 + 2,100 − 210)(1 − .21) Net income = $55,371.10 EPS = $55,371.10/($48,500/$1) EPS = $1.14 Difficulty: 2 Medium Section: 2.2 The Income Statement Topic: Per-share valuations Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1.14",
+      "B": "$1.21",
+      "C": "$.82",
+      "D": "$.96",
+      "E": "$1.33"
     },
     "answer": "A",
-    "explanation": "Net income = ($68,200 + 2,100 − 210)(1 − .21)",
+    "explanation": "Net income = ($68,200 + 2,100 − 210)(1 − .21) Net income = $55,371.10 EPS = $55,371.10/($48,500/$1) EPS = $1.14",
     "chapter": 2
   },
   {
     "id": 141,
     "question": "Given the personal income tax rates as shown, what is the average tax rate for an individual with taxable income of $118,700? Taxable Income Tax Rate $ 0 − 9,525 10% 9,526 − 38,700 12 38,701 − 82,500 22 82,501 − 157,500 24",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Tax = .10($9,525) + .12($38,700 − 9,525) + .22($82,500 − 38,700) + .24($118,700 − 82,500) Tax = $22,777.50 Average tax rate = $22,777.50/$118,700 Average tax rate = .19, or 19% Difficulty: 2 Medium Section: 2.3 Taxes Topic: Taxes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "24.00 percent",
+      "B": "22.36 percent",
+      "C": "19.00 percent",
+      "D": "21.94 percent",
+      "E": "21.00 percent"
     },
     "answer": "C",
-    "explanation": "Tax = .10($9,525) + .12($38,700 − 9,525) + .22($82,500 − 38,700) +",
+    "explanation": "Tax = .10($9,525) + .12($38,700 − 9,525) + .22($82,500 − 38,700) + .24($118,700 − 82,500) Tax = $22,777.50 Average tax rate = $22,777.50/$118,700 Average tax rate = .19, or 19%",
     "chapter": 2
   },
   {
     "id": 142,
     "question": "AC Motors is a sole proprietorship that has taxable income of $94,200. How much additional tax will be owed if the taxable income increases by $14,300 based on the following tax rates? Assume this is the sole source of income for the owner. Taxable Income Tax Rate $ 0 − 9,525 10% 9,526 − 38,700 12 38,701 − 82,500 22 82,501 − 157,500 24",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Additional tax = .24($14,300) Additional tax = $3,432 Difficulty: 2 Medium Section: 2.3 Taxes Topic: Taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$3,862",
+      "B": "$3,039",
+      "C": "$3,406",
+      "D": "$3,432",
+      "E": "$3,678"
     },
     "answer": "D",
-    "explanation": "Additional tax = .24($14,300)",
+    "explanation": "Additional tax = .24($14,300) Additional tax = $3,432",
     "chapter": 2
   },
   {
     "id": 143,
     "question": "Assume Juno's paid $368,060 in taxes on taxable income of $1,673,000 last year. This year, the firm paid $401,545 in taxes on taxable income of $1,818,586. Assume the tax rates were the same for both years. What are the marginal and average tax rates for this year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Marginal tax rate = ($401,545 − 368,060)/($1,818,586 − 1,673,000) Marginal tax rate = .23, or 23% Average tax rate = $401,545/$1,818,586 Average tax rate = .22, or 22% Difficulty: 2 Medium Section: 2.3 Taxes Topic: Taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "21 percent; 21 percent",
+      "B": "22 percent; 21 percent",
+      "C": "23 percent; 22 percent",
+      "D": "22 percent; 22 percent",
+      "E": "23 percent; 21 percent"
     },
     "answer": "C",
-    "explanation": "Marginal tax rate = ($401,545 − 368,060)/($1,818,586 − 1,673,000)",
+    "explanation": "Marginal tax rate = ($401,545 − 368,060)/($1,818,586 − 1,673,000) Marginal tax rate = .23, or 23% Average tax rate = $401,545/$1,818,586 Average tax rate = .22, or 22%",
     "chapter": 2
   },
   {
     "id": 144,
     "question": "A firm has $820 in inventory, $3,200 in fixed assets, $1,210 in accounts receivable, $890 in accounts payable, and $360 in cash. What is the amount of the net working capital?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: NWC = $360 + 1,210 + 820 − 890 NWC = $1,500 Difficulty: 2 Medium Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$4,700",
+      "B": "$5,590",
+      "C": "$3,600",
+      "D": "$2,390",
+      "E": "$1,500"
     },
     "answer": "E",
-    "explanation": "NWC = $360 + 1,210 + 820 − 890",
+    "explanation": "NWC = $360 + 1,210 + 820 − 890 NWC = $1,500",
     "chapter": 2
   },
   {
     "id": 145,
     "question": "A firm has $820 in inventory, $3,200 in fixed assets, $670 in accounts receivable, $390 in accounts payable, $500 in long-term debt, and $360 in cash. What is the amount of the net working capital?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: NWC = $360 + 670 + 820 − 390 NWC = $1,460 Difficulty: 2 Medium Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$890",
+      "B": "$960",
+      "C": "$3,600",
+      "D": "$3,340",
+      "E": "$1,460"
     },
     "answer": "E",
-    "explanation": "NWC = $360 + 670 + 820 − 390",
+    "explanation": "NWC = $360 + 670 + 820 − 390 NWC = $1,460",
     "chapter": 2
   },
   {
     "id": 146,
     "question": "At the beginning of the year, a firm had total assets of $51,400, fixed assets of $32,800, and current liabilities of $13,280. At the end of the year, the current assets are $14,800, the fixed assets are $34,100, and the current liabilities are $14,210. What is the change in net working capital for the year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: ΔNWC = ($14,800 − 14,210) − ($51,400 − 32,800 − 13,280) ΔNWC = −$4,730 Difficulty: 2 Medium Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "−$18,930",
+      "B": "−$6,950",
+      "C": "$11,470",
+      "D": "−$4,730",
+      "E": "$9,110"
     },
     "answer": "D",
-    "explanation": "ΔNWC = ($14,800 − 14,210) − ($51,400 − 32,800 − 13,280)",
+    "explanation": "ΔNWC = ($14,800 − 14,210) − ($51,400 − 32,800 − 13,280) ΔNWC = −$4,730",
     "chapter": 2
   },
   {
     "id": 147,
     "question": "Blauser's started the year with $280 in cash, $924 in inventory, $361 in accounts payable, $1,687 in equipment, and $414 in accounts receivable. At year's end, the firm had $311 in cash, $1,594 in equipment, $1,003 in inventory, $426 in accounts receivable, and $398 in accounts payable. What was the change in net working capital during the year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: ΔNWC = ($311 + 426 + 1,003 − 398) − ($280 + 414 + 924 − 361) ΔNWC = $85 Difficulty: 2 Medium Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$860",
+      "B": "$191",
+      "C": "$85",
+      "D": "−$94",
+      "E": "−$206"
     },
     "answer": "C",
-    "explanation": "ΔNWC = ($311 + 426 + 1,003 − 398) − ($280 + 414 + 924 − 361)",
+    "explanation": "ΔNWC = ($311 + 426 + 1,003 − 398) − ($280 + 414 + 924 − 361) ΔNWC = $85",
     "chapter": 2
   },
   {
     "id": 148,
     "question": "Foxglove Interiors has net fixed assets of $38,215, long-term debt of $22,400, cash of $560, accounts payable $4,611, inventory of $11,408, and accounts receivable of $3,462. How much net working capital does the firm have?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: NWC = $560 + 3,462 + 11,408 − 4,611 NWC = $10,819 Difficulty: 2 Medium Section: 2.4 Net Working Capital Topic: Net working capital Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$11,634",
+      "B": "$26,634",
+      "C": "$13,117",
+      "D": "$10,819",
+      "E": "$14,736"
     },
     "answer": "D",
-    "explanation": "NWC = $560 + 3,462 + 11,408 − 4,611",
+    "explanation": "NWC = $560 + 3,462 + 11,408 − 4,611 NWC = $10,819",
     "chapter": 2
   },
   {
     "id": 149,
     "question": "A debt-free firm has total sales of $22,980, costs of $14,715, and depreciation of $6,045. What is the operating cash flow at a tax rate of 23 percent?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: EBIT = $22,980 − 14,715 − 6,045 EBIT = $2,220 Tax = $2,220(.23) Tax = $510.60 OCF = $2,220 + 6,045 − 510.60 OCF = $7,754.40 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1,465.20",
+      "B": "$2,410.80",
+      "C": "$8,340.00",
+      "D": "$7,754.40",
+      "E": "$9,019.80"
     },
     "answer": "D",
-    "explanation": "EBIT = $22,980 − 14,715 − 6,045",
+    "explanation": "EBIT = $22,980 − 14,715 − 6,045 EBIT = $2,220 Tax = $2,220(.23) Tax = $510.60 OCF = $2,220 + 6,045 − 510.60 OCF = $7,754.40",
     "chapter": 2
   },
   {
     "id": 150,
     "question": "Awnings Inc. has beginning net fixed assets of $234,100 and ending net fixed assets of $243,600. Assets valued at $42,500 were sold during the year. Depreciation was $62,500. What is the amount of net capital spending?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Net capital spending = $243,600 − 234,100 + 62,500 Net capital spending = $72,000 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Capital spending Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "−$42,500",
+      "B": "$9,500",
+      "C": "$72,000",
+      "D": "$53,000",
+      "E": "$29,500"
     },
     "answer": "C",
-    "explanation": "Net capital spending = $243,600 − 234,100 + 62,500",
+    "explanation": "Net capital spending = $243,600 − 234,100 + 62,500 Net capital spending = $72,000",
     "chapter": 2
   },
   {
     "id": 151,
     "question": "At the beginning of the year, long-term debt of a firm is $2,400 and total debt is $3,150. At the end of the year, long-term debt is $2,800 and total debt is $4,370. The interest paid is $40. What is the amount of the cash flow to creditors?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: CF(B) = $40 − ($2,800 − 2,400) CF(B) = −$360 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$440",
+      "B": "−$40",
+      "C": "$1,260",
+      "D": "$1,180",
+      "E": "−$360"
     },
     "answer": "E",
-    "explanation": "CF(B) = $40 − ($2,800 − 2,400)",
+    "explanation": "CF(B) = $40 − ($2,800 − 2,400) CF(B) = −$360",
     "chapter": 2
   },
   {
     "id": 152,
     "question": "Pete's Boats has beginning long-term debt of $840 and ending long-term debt of $790. The beginning and ending total debt balances are $1,220 and $1,360, respectively. The interest paid is $30. What is the amount of the cash flow to creditors?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: CF(B) = $30 − ($790 − 840) CF(B) = $80 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$80",
+      "B": "−$110",
+      "C": "$110",
+      "D": "$20",
+      "E": "−$80"
     },
     "answer": "A",
-    "explanation": "CF(B) = $30 − ($790 − 840)",
+    "explanation": "CF(B) = $30 − ($790 − 840) CF(B) = $80",
     "chapter": 2
   },
   {
     "id": 153,
     "question": "For the year, Peggy Grey's Cookies had net income of $8,110. The firm paid out 30 percent of the net income to its shareholders as dividends and also paid $210 in interest. During the year, the company repurchased $500 worth of common stock and borrowed $250. What is the cash flow to stockholders?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: CF(S) = .30($8,110) − (−$500) CF(S) = $2,933 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$2,933",
+      "B": "$1,893",
+      "C": "$1,933",
+      "D": "$2,433",
+      "E": "$2,893"
     },
     "answer": "A",
-    "explanation": "CF(S) = .30($8,110) − (−$500)",
+    "explanation": "CF(S) = .30($8,110) − (−$500) CF(S) = $2,933",
     "chapter": 2
   },
   {
     "id": 154,
     "question": "Thompson's Jet Skis has operating cash flow of $11,618. Depreciation is $2,345 and interest paid is $395. A net total of $485 was paid on long-term debt. The firm spent $6,180 on fixed assets and decreased net working capital by $420. What is the cash flow of the firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: CF(A) = $11,618 − 6,180 − (−$420) CF(A) = $5,858 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$5,858",
+      "B": "$8,203",
+      "C": "$9,228",
+      "D": "$5,018",
+      "E": "$7,363"
     },
     "answer": "A",
-    "explanation": "CF(A) = $11,618 − 6,180 − (−$420)",
+    "explanation": "CF(A) = $11,618 − 6,180 − (−$420) CF(A) = $5,858",
     "chapter": 2
   },
   {
     "id": 155,
     "question": "Lester's Markets has total revenues of $3,811, costs of $2,902, depreciation of $315, interest expense of $168, and taxes of $89. At the beginning of the year, the firm had current assets of $2,150, total assets of $4,908, and total liabilities of $1,964. At the end of the year, the current assets are $2,202, total assets are $5,103, and total liabilities are $1,952. What is the amount of net capital spending for the year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Net capital spending = ($5,103 − 2,202) − ($4,908 − 2,150) + $315 Net capital spending = $458 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Capital spending Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$182",
+      "B": "$133",
+      "C": "$458",
+      "D": "$510",
+      "E": "$285"
     },
     "answer": "C",
-    "explanation": "Net capital spending = ($5,103 − 2,202) − ($4,908 − 2,150) + $315",
+    "explanation": "Net capital spending = ($5,103 − 2,202) − ($4,908 − 2,150) + $315 Net capital spending = $458",
     "chapter": 2
   },
   {
     "id": 156,
     "question": "The General Store has total revenue of $4,116, depreciation of $319, selling and administrative expenses of $554, interest expense of $162, dividends of $75, cost of goods sold of $2,354, and taxes of $186. What is the operating cash flow?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: OCF = $4,116 − 2,354 − 554 − 186 OCF = $1,022 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$1,118",
+      "B": "$795",
+      "C": "$1,147",
+      "D": "$1,022",
+      "E": "$720"
     },
     "answer": "D",
-    "explanation": "OCF = $4,116 − 2,354 − 554 − 186",
+    "explanation": "OCF = $4,116 − 2,354 − 554 − 186 OCF = $1,022",
     "chapter": 2
   },
   {
     "id": 157,
     "question": "Right Way Movers has interest expense of $168, total revenues of $38,411, costs of $28,515, depreciation of $306, and taxes of $1,979. The beginning balance sheet has total assets of $48,354, net fixed assets of $31,202, current liabilities of $14,207, and total liabilities of $29,407. The ending balance sheet shows total assets of $49,305, net fixed assets of $33,406, current liabilities of $17,318, and total liabilities of $30,404. What is the annual cash flow of the firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: OCF = $38,411 − 28,515 − 1,979 OCF = $7,917 Net capital spending = $33,406 − 31,202 + 306 Net capital spending = $2,510 ΔNWC = ($49,305 − 33,406 − 17,318) − ($48,354 − 31,202 − 14,207) ΔNWC = −$4,364 CF(A) = $7,917 − 2,510 − (−$4,364) CF(A) = $9,771 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$9,771",
+      "B": "−$2,160",
+      "C": "$15,168",
+      "D": "$8,474",
+      "E": "$2,857"
     },
     "answer": "A",
-    "explanation": "OCF = $38,411 − 28,515 − 1,979",
+    "explanation": "OCF = $38,411 − 28,515 − 1,979 OCF = $7,917 Net capital spending = $33,406 − 31,202 + 306 Net capital spending = $2,510 ΔNWC = ($49,305 − 33,406 − 17,318) − ($48,354 − 31,202 − 14,207) ΔNWC = −$4,364 CF(A) = $7,917 − 2,510 − (−$4,364) CF(A) = $9,771",
     "chapter": 2
   },
   {
     "id": 158,
     "question": "For a given year, Mfg. Corp. had taxable income of $1,630 and a tax rate of 23 percent. The firm neither issued nor repurchased shares of stock but did decrease its retained earnings by $310. What is the cash flow to stockholders?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Net income = $1,630(1 − .23) Net income = $1,255.10 CF(S) = $1,255.10 − (−$310) CF(S) = $1,565.10 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$1,749.50",
+      "B": "$535.50",
+      "C": "$959.50",
+      "D": "$1,242.50",
+      "E": "$1,565.10"
     },
     "answer": "E",
-    "explanation": "Net income = $1,630(1 − .23)",
+    "explanation": "Net income = $1,630(1 − .23) Net income = $1,255.10 CF(S) = $1,255.10 − (−$310) CF(S) = $1,565.10",
     "chapter": 2
   },
   {
     "id": 159,
     "question": "Northern Express paid $85 in dividends and $110 in interest expense during a given year. During that same year, the firm issued $40 in new equity shares, issued new debt of $65, and repaid $23 of old debt. What is the cash flow to creditors for that year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: CF(B) = $110 − ($65 − 23) CF(B) = $68 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$152",
+      "B": "$146",
+      "C": "$237",
+      "D": "$68",
+      "E": "$46"
     },
     "answer": "D",
-    "explanation": "CF(B) = $110 − ($65 − 23)",
+    "explanation": "CF(B) = $110 − ($65 − 23) CF(B) = $68",
     "chapter": 2
   },
   {
     "id": 160,
     "question": "At the beginning of this year, Blauser Industries had net fixed assets of $21,506 and total assets of $32,687. At year's end, net fixed assets are $20,492 and total assets are $32,915. The annual depreciation expense is $1,520. What is net capital spending for this year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Net capital spending = $20,492 − 21,506 + 1,520 Net capital spending = $506 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Capital spending Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "−$850",
+      "B": "$506",
+      "C": "−$1,292",
+      "D": "−$2,534",
+      "E": "$1,748"
     },
     "answer": "B",
-    "explanation": "Net capital spending = $20,492 − 21,506 + 1,520",
+    "explanation": "Net capital spending = $20,492 − 21,506 + 1,520 Net capital spending = $506",
     "chapter": 2
   },
   {
     "id": 161,
     "question": "For the year, Jensen's has depreciation of $2,058, dividends paid of $125, interest expense of $382, an addition to retained earnings of $3,408, and an increase in common stock of $2,500. The total tax rate is 21 percent. What is the operating cash flow?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Net income = $125 + 3,408 Net income = $3,533 Pre-tax income = $3,533/(1 − .21) Pre-tax income = $4,472.15 EBIT = $4,472.15 + 382 EBIT = $4,854.15 OCF = $4,854.15 + 2,058 − ($4,472.15 − 3,533) OCF = $5,973 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$6,460",
+      "B": "$5,973",
+      "C": "$5,325",
+      "D": "$5,735",
+      "E": "$6,408"
     },
     "answer": "B",
-    "explanation": "Net income = $125 + 3,408",
+    "explanation": "Net income = $125 + 3,408 Net income = $3,533 Pre-tax income = $3,533/(1 − .21) Pre-tax income = $4,472.15 EBIT = $4,472.15 + 382 EBIT = $4,854.15 OCF = $4,854.15 + 2,058 − ($4,472.15 − 3,533) OCF = $5,973",
     "chapter": 2
   },
   {
     "id": 162,
     "question": "Ledger Properties has the following financial information: Current Year Prior Year Revenues $ 48,915 $ 43,610 Administrative expenses 12,106 11,602 Interest expense 816 468 Cost of goods sold 29,715 26,309 Depreciation 1,408 1,387 Net fixed assets 32,711 31,984 Current liabilities 14,652 14,625 Common stock 15,000 14,000 Current assets 16,506 14,687 Long-term debt 12,200 ? Retained earnings 7,365 4,246 Dividends paid 290 275 What is the cash flow of the firm for the current year if the tax rate is 22 percent?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Pretax income = $48,915 − 29,715 − 12,106 − 1,408 − 816 Pretax income = $4,870 Tax = .22($4,870) Tax = $1,071 OCF = $48,915 − 29,715 − 12,106 − 1,071 OCF = $6,023 Net capital spending = $32,711 − 31,984 + 1,408 Net capital spending = $2,135 Change in NWC = ($16,506 − 14,652) − ($14,687 − 14,625) Change in NWC = $1,792 Cash flow of the firm = $6,023 − 2,135 − 1,792 Cash flow of the firm = $2,096 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1,885",
+      "B": "$1,042",
+      "C": "$2,297",
+      "D": "$2,096",
+      "E": "$2,517"
     },
     "answer": "D",
-    "explanation": "Pretax income = $48,915 − 29,715 − 12,106 − 1,408 − 816",
+    "explanation": "Pretax income = $48,915 − 29,715 − 12,106 − 1,408 − 816 Pretax income = $4,870 Tax = .22($4,870) Tax = $1,071 OCF = $48,915 − 29,715 − 12,106 − 1,071 OCF = $6,023 Net capital spending = $32,711 − 31,984 + 1,408 Net capital spending = $2,135 Change in NWC = ($16,506 − 14,652) − ($14,687 − 14,625) Change in NWC = $1,792 Cash flow of the firm = $6,023 − 2,135 − 1,792 Cash flow of the firm = $2,096",
     "chapter": 2
   },
   {
     "id": 163,
     "question": "For a given year, Rogers Express paid $318 in interest, $460 in dividends, and $368 in taxes. The firm had a net income of $1,220, depreciation of $1,560, an increase in net working capital of $220, an increase in net fixed assets of $950, and a decrease in long-term debt of $260. There were no changes in the equity accounts other than the change in retained earnings. What is the annual cash flow of the firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: CF(B) = $318 + 260 CF(B) = $578 CF(S) = $460 CF(A) = $578 + 460 CF(A) = $1,038 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow from assets Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$3,148",
+      "B": "$1,610",
+      "C": "$2,780",
+      "D": "$1,038",
+      "E": "$50"
     },
     "answer": "D",
-    "explanation": "CF(B) = $318 + 260",
+    "explanation": "CF(B) = $318 + 260 CF(B) = $578 CF(S) = $460 CF(A) = $578 + 460 CF(A) = $1,038",
     "chapter": 2
   },
   {
     "id": 164,
     "question": "JK Meadows has beginning current liabilities of $14,602 and total liabilities of $35,418. At the end of the year, the current liabilities are $15,311 and the total liabilities are $37,604. During the year, the firm paid $680 in dividends and $1,320 in interest. What is the cash flow to creditors?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: CFC = $1,320 − [($37,604 − 15,311) − ($35,418 − 14,602)] CFC = −$157 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Cash flow to creditors Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 39 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$3,230",
+      "B": "$2,797",
+      "C": "$3,135",
+      "D": "−$157",
+      "E": "−$267"
     },
     "answer": "D",
-    "explanation": "CFC = $1,320 − [($37,604 − 15,311) − ($35,418 − 14,602)]",
+    "explanation": "CFC = $1,320 − [($37,604 − 15,311) − ($35,418 − 14,602)] CFC = −$157",
     "chapter": 2
   },
   {
     "id": 165,
     "question": "During the year, Lasko's repaid $12,500 in long-term debt, borrowed $8,400, paid $611 in interest and $740 in dividends, and had an operating cash flow of $16,207. The firm acquired $33,500 in new fixed assets and sold $8,400 of old assets. Net working capital declined by $1,592 during the year. What is the annual cash flow to stockholders?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Cash flow of the firm = $16,207 − 33,500 + 8,400 − (−$1,592) Cash flow of the firm = −$7,301 CFC = $611 + 12,500 − 8,400 CFC = $4,711 CFS = −$7,301 − 4,711 CFS = −$12,012 Difficulty: 3 Hard Section: 2.5 Cash Flow of the Firm Topic: Cash flow to stockholders Bloom's: Evaluate AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$1,200",
+      "B": "−$2,590",
+      "C": "−$8,828",
+      "D": "−$12,012",
+      "E": "$2,800"
     },
     "answer": "D",
-    "explanation": "Cash flow of the firm = $16,207 − 33,500 + 8,400 − (−$1,592)",
+    "explanation": "Cash flow of the firm = $16,207 − 33,500 + 8,400 − (−$1,592) Cash flow of the firm = −$7,301 CFC = $611 + 12,500 − 8,400 CFC = $4,711 CFS = −$7,301 − 4,711 CFS = −$12,012",
     "chapter": 2
   },
   {
     "id": 166,
     "question": "Last year, Webster Farms had annual revenue of $87,200, depreciation of $11,600, cost of goods sold of $54,700, and administrative expenses of $8,300. The firm paid $3,200 in dividends and paid taxes of $2,646. What was the operating cash flow?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: OCF = $87,200 − 54,700 − 8,300 − 2,646 OCF = $21,554 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 40 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$21,500",
+      "B": "$18,300",
+      "C": "$23,100",
+      "D": "$21,554",
+      "E": "$23,700"
     },
     "answer": "D",
-    "explanation": "OCF = $87,200 − 54,700 − 8,300 − 2,646",
+    "explanation": "OCF = $87,200 − 54,700 − 8,300 − 2,646 OCF = $21,554",
     "chapter": 2
   },
   {
     "id": 167,
     "question": "Last year, Oscar's Dog Treats had a cash flow to creditors of $2,840 and a cash flow to stockholders of $1,630. The firm spent a net of $1,420 on fixed assets and reduced net working capital by $330. What was the operating cash flow?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: CF(A) = $2,840 + 1,630 CF(A)= $4,470 $4,470 = OCF − $1,420 − (−$330) OCF = $5,560 Difficulty: 2 Medium Section: 2.5 Cash Flow of the Firm Topic: Operating cash flow Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$6,190",
+      "B": "$5,560",
+      "C": "$3,500",
+      "D": "$1,320",
+      "E": "$4,901"
     },
     "answer": "B",
-    "explanation": "CF(A) = $2,840 + 1,630",
+    "explanation": "CF(A) = $2,840 + 1,630 CF(A)= $4,470 $4,470 = OCF − $1,420 − (−$330) OCF = $5,560",
     "chapter": 2
   },
   {
     "id": 168,
     "question": "Quick Marts increased its cash by $418 this year. The firm's statement of cash flows shows total cash flow from financing activities of $246 and total cash flow from investing activities of −$184. What is the total cash flow from operations on this accounting statement?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: $418 = Total cash flow from operations − 184 + 246 Total cash flow from operations = $356 Difficulty: 2 Medium Section: 2.6 The Accounting Statement of Cash Flows Topic: Statement of cash flows Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 41 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$480",
+      "B": "$356",
+      "C": "$427",
+      "D": "$367",
+      "E": "$391"
     },
     "answer": "B",
-    "explanation": "$418 = Total cash flow from operations − 184 + 246",
+    "explanation": "$418 = Total cash flow from operations − 184 + 246 Total cash flow from operations = $356",
     "chapter": 2
   },
   {
     "id": 169,
     "question": "JJ's has net sales of $48,920, depreciation of $711, cost of goods sold of $31,890, administrative costs of $11,210, interest expense of $680, dividends paid of $450, and taxes of $974. What is the cash flow from operations as it will appear on the accounting statement of cash flows if the firm spent $274 on net working capital?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Cash flow from operations = $48,920 − 31,890 − 11,210 − 680 − 974 − 274 Cash flow from operations = $3,892 Note that the accounting statement of cash flows includes the interest expense as an operating activity. Difficulty: 2 Medium Section: 2.6 The Accounting Statement of Cash Flows Topic: Statement of cash flows Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$3,892",
+      "B": "$3,056",
+      "C": "$4,066",
+      "D": "$3,667",
+      "E": "$3,391"
     },
     "answer": "A",
-    "explanation": "Cash flow from operations = $48,920 − 31,890 − 11,210 − 680 − 974 − 274",
+    "explanation": "Cash flow from operations = $48,920 − 31,890 − 11,210 − 680 − 974 − 274 Cash flow from operations = $3,892 Note that the accounting statement of cash flows includes the interest expense as an operating activity.",
     "chapter": 2
   },
   {

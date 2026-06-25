@@ -3,11 +3,11 @@
     "id": 1509,
     "question": "Nu Tech is a technology firm with good growth prospects. The firm wishes to do something to acknowledge the loyalty of its shareholders but needs all its available cash to fund its rapid growth. The market price of its stock is currently trading in the upper end of its preferred trading range. The firm could consider:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Stock dividends Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "a liquidating dividend.",
+      "B": "an extra cash dividend.",
+      "C": "a reverse stock split.",
+      "D": "a stock dividend.",
+      "E": "a cash distribution."
     },
     "answer": "D",
     "chapter": 19
@@ -16,11 +16,11 @@
     "id": 1510,
     "question": "Payments made out of a firm's earnings to its owners in the form of cash or stock are called:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Stock dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "dividends.",
+      "B": "distributions.",
+      "C": "share repurchases.",
+      "D": "payments-in-kind.",
+      "E": "stock splits."
     },
     "answer": "A",
     "chapter": 19
@@ -29,11 +29,11 @@
     "id": 1511,
     "question": "A cash payment made by a firm to its owners in the normal course of business is called a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Types of cash dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "share repurchase.",
+      "B": "liquidating dividend.",
+      "C": "regular cash dividend.",
+      "D": "special dividend.",
+      "E": "extra cash dividend."
     },
     "answer": "C",
     "chapter": 19
@@ -42,11 +42,11 @@
     "id": 1512,
     "question": "A cash payment made by a firm to its owners when some of the firm's assets are sold off is called a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Types of cash dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "liquidating dividend.",
+      "B": "regular cash dividend.",
+      "C": "special dividend.",
+      "D": "extra cash dividend.",
+      "E": "share repurchase."
     },
     "answer": "A",
     "chapter": 19
@@ -55,11 +55,11 @@
     "id": 1513,
     "question": "A payment made by a firm to its owners in the form of new shares of stock is called a ________ dividend.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Stock dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "stock",
+      "B": "normal",
+      "C": "special",
+      "D": "extra",
+      "E": "liquidating"
     },
     "answer": "A",
     "chapter": 19
@@ -68,11 +68,11 @@
     "id": 1514,
     "question": "A(n) ________ is an alternative method to cash dividends which is used to pay out a firm's earnings to shareholders in the form of a cash payment.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.1 Different Types of Payouts Topic: Stock repurchases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "merger",
+      "B": "acquisition",
+      "C": "payment-in-kind",
+      "D": "stock split",
+      "E": "stock repurchase"
     },
     "answer": "E",
     "chapter": 19
@@ -81,11 +81,11 @@
     "id": 1515,
     "question": "The last date on which you can purchase shares of stock and still receive the dividend is the date ________ business day(s) prior to the date of record.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "zero",
+      "B": "one",
+      "C": "three",
+      "D": "five",
+      "E": "seven"
     },
     "answer": "C",
     "chapter": 19
@@ -94,11 +94,11 @@
     "id": 1516,
     "question": "Leslie purchased 100 shares of GT stock on June 7th. Marti purchased 100 shares of GT stock on Monday, July 9th. GT declared a dividend on June 20th to shareholders of record on July 13th that is payable on August 1st. Which one of the following statements concerning the dividend paid on August 1st is correct given this information?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Neither Leslie nor Marti are entitled to the dividend.",
+      "B": "Leslie is entitled to the dividend but Marti is not.",
+      "C": "Marti is entitled to the dividend but Leslie is not.",
+      "D": "Both Marti and Leslie are entitled to the dividend.",
+      "E": "Both Marti and Leslie are each entitled to one-half of the dividend amount."
     },
     "answer": "D",
     "chapter": 19
@@ -107,11 +107,11 @@
     "id": 1517,
     "question": "Ignoring taxes and all else held constant, the market value of a stock should decrease by the amount of the dividend on the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "dividend declaration date.",
+      "B": "ex-dividend date.",
+      "C": "date of record.",
+      "D": "date of payment.",
+      "E": "day after the date of payment."
     },
     "answer": "B",
     "chapter": 19
@@ -120,11 +120,11 @@
     "id": 1518,
     "question": "The annual dividend per share stated as a percentage of the annual earnings per share is called the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Dividends and payout policy Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "dividend yield.",
+      "B": "dividend per share.",
+      "C": "annual yield.",
+      "D": "dividend rate.",
+      "E": "dividend payout."
     },
     "answer": "E",
     "chapter": 19
@@ -133,11 +133,11 @@
     "id": 1519,
     "question": "The date on which the board of directors passes a resolution authorizing payment of a dividend to the shareholders is the ________ date.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "ex-rights",
+      "B": "ex-dividend",
+      "C": "record",
+      "D": "payment",
+      "E": "declaration"
     },
     "answer": "E",
     "chapter": 19
@@ -146,11 +146,11 @@
     "id": 1520,
     "question": "The date before which a purchaser of stock is entitled to receive a declared dividend, but on or after that date they cannot, is called the ________ date.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "ex-rights",
+      "B": "ex-dividend",
+      "C": "record",
+      "D": "payment",
+      "E": "declaration"
     },
     "answer": "B",
     "chapter": 19
@@ -159,11 +159,11 @@
     "id": 1521,
     "question": "The date by which a stockholder must be registered on the firm's roll as having share ownership in order to receive a declared dividend is called the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "ex-rights date.",
+      "B": "ex-dividend date.",
+      "C": "date of record.",
+      "D": "date of payment.",
+      "E": "declaration date."
     },
     "answer": "C",
     "chapter": 19
@@ -172,11 +172,11 @@
     "id": 1522,
     "question": "The date on which a firm actually distributes its declared dividend is called the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "ex-rights date.",
+      "B": "ex-dividend date.",
+      "C": "date of record.",
+      "D": "date of payment.",
+      "E": "declaration date."
     },
     "answer": "D",
     "chapter": 19
@@ -185,11 +185,11 @@
     "id": 1523,
     "question": "Which one of the following lists dividend events in the correct chronological order from earliest to latest?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Date of record, declaration date, ex-dividend date",
+      "B": "Date of record, ex-dividend date, declaration date",
+      "C": "Declaration date, date of record, ex-dividend date",
+      "D": "Declaration date, ex-dividend date, date of record",
+      "E": "Ex-dividend date, date of record, declaration date"
     },
     "answer": "D",
     "chapter": 19
@@ -198,11 +198,11 @@
     "id": 1524,
     "question": "The dividend-irrelevance proposition of Miller and Modigliani depends on which one of the following relationships between investment policy and dividend policy?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "dividend policy.",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Dividend policy irrelevance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The level of investment does not influence or matter to the dividend decision.",
+      "B": "Once dividend policy is set the investment decision can be made.",
+      "C": "The investment policy is set ahead of time and not altered by changes in dividend policy.",
+      "D": "Since dividend policy is irrelevant there is no relationship between investment policy and dividend policy.",
+      "E": "Miller and Modigliani were only concerned about capital structure."
     },
     "answer": "C",
     "chapter": 19
@@ -211,11 +211,11 @@
     "id": 1525,
     "question": "The ability of shareholders to undo the dividend policy of a firm and create an alternative dividend payment policy via reinvesting dividends or selling shares of stock is referred to as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Dividend policy; Homemade dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the perfect foresight model.",
+      "B": "MM Proposition I.",
+      "C": "capital structure irrelevancy.",
+      "D": "homemade leverage.",
+      "E": "homemade dividends."
     },
     "answer": "E",
     "chapter": 19
@@ -224,11 +224,11 @@
     "id": 1526,
     "question": "Which one of these statements is true?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "change is made in its dividend policy.",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Dividend policy Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Dividends are irrelevant.",
+      "B": "Shareholders are unable to personally adjust the dividend policy set by a firm.",
+      "C": "According to Miller and Modigliani, a firm should alter its investment policy whenever a change is made in its dividend policy.",
+      "D": "Dividend policy is relevant.",
+      "E": "Firms should never give up a positive NPV project to increase a dividend."
     },
     "answer": "E",
     "chapter": 19
@@ -237,11 +237,11 @@
     "id": 1527,
     "question": "A firm announces that it is willing to repurchase a number of shares at various prices and shareholders have the option to indicate how many shares they are willing to sell at the various prices. This process is called a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "homemade dividend.",
+      "B": "tender offer.",
+      "C": "free market sale.",
+      "D": "Dutch auction.",
+      "E": "targeted repurchase."
     },
     "answer": "D",
     "chapter": 19
@@ -250,11 +250,11 @@
     "id": 1528,
     "question": "A firm can repurchase its shares in all the following ways except through:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "a tender offer.",
+      "B": "a reverse stock split.",
+      "C": "a targeted repurchase.",
+      "D": "open market purchases.",
+      "E": "a Dutch auction."
     },
     "answer": "B",
     "chapter": 19
@@ -263,11 +263,11 @@
     "id": 1529,
     "question": "Ignore commissions, taxes, and other imperfections. If a firm substitutes a repurchase for a cash dividend, the primary difference will be an increase in the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "earnings per share.",
+      "B": "total value received by each investor.",
+      "C": "total earnings of the firm.",
+      "D": "excess cash reserves of the firm.",
+      "E": "number of shares outstanding."
     },
     "answer": "A",
     "chapter": 19
@@ -276,11 +276,11 @@
     "id": 1530,
     "question": "Which one of the following is not a reason why firms choose repurchases rather than dividends?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Provide flexibility",
+      "B": "Increase the value of existing stock options",
+      "C": "Provide shareholders with a tax advantage",
+      "D": "Offset dilution",
+      "E": "Conserve cash"
     },
     "answer": "E",
     "chapter": 19
@@ -289,11 +289,11 @@
     "id": 1531,
     "question": "Assume personal tax rates are lower than corporate tax rates. From a tax-paying shareholder point of view, how should a firm spend its excess cash once it has funded all positive net present value projects?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.5 Personal Taxes, Dividends, and Stock Repurchases Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Repurchase shares",
+      "B": "Acquire another firm",
+      "C": "Purchase financial assets",
+      "D": "Increase cash dividends",
+      "E": "Increase executive compensation"
     },
     "answer": "A",
     "chapter": 19
@@ -302,11 +302,11 @@
     "id": 1532,
     "question": "From a tax-paying investor's point of view, a stock repurchase:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.5 Personal Taxes, Dividends, and Stock Repurchases Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "is equivalent to a cash dividend.",
+      "B": "is more desirable than a cash dividend.",
+      "C": "has the same tax effects as a cash dividend.",
+      "D": "is more highly taxed than a cash dividend.",
+      "E": "creates a tax liability even if the investor does not sell any of the shares he owns."
     },
     "answer": "B",
     "chapter": 19
@@ -315,11 +315,11 @@
     "id": 1533,
     "question": "A scenario exists that supports an argument in favor of a low dividend policy when:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "with similar risk characteristics.",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.5 Personal Taxes, Dividends, and Stock Repurchases Topic: Dividend policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "tax laws allow capital gains to be deferred until the gain is realized.",
+      "B": "few, if any, positive net present value projects are available to a firm.",
+      "C": "a preponderance of stockholders have minimal taxable income.",
+      "D": "the majority of the stockholders have other investment opportunities that offer higher rewards with similar risk characteristics.",
+      "E": "corporate tax rates exceed personal tax rates."
     },
     "answer": "A",
     "chapter": 19
@@ -328,11 +328,11 @@
     "id": 1534,
     "question": "The market's reaction to the announcement of a change in the firm's dividend payout is referred to as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.6 Real-World Factors Favoring a High-Dividend Policy Topic: Payout policy considerations Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "information content effect.",
+      "B": "clientele effect.",
+      "C": "efficient markets hypothesis.",
+      "D": "MM Proposition I.",
+      "E": "MM Proposition II."
     },
     "answer": "A",
     "chapter": 19
@@ -341,11 +341,11 @@
     "id": 1535,
     "question": "Which one of the following is cited as an argument favoring a high dividend payout?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.6 Real-World Factors Favoring a High-Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Flotation costs involved with a new securities issue",
+      "B": "High personal tax rates relative to corporate rates",
+      "C": "Desire to maintain constant dividends over time",
+      "D": "Restrictive covenant on dividend payouts contained in a bond indenture agreement",
+      "E": "Agency costs related to excess cash reserves"
     },
     "answer": "E",
     "chapter": 19
@@ -354,11 +354,11 @@
     "id": 1536,
     "question": "The information content of a dividend increase generally signals that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.6 Real-World Factors Favoring a High-Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the firm has a one-time surplus of cash.",
+      "B": "the firm has several net present value projects to pursue.",
+      "C": "management believes the future earnings of the firm will be strong.",
+      "D": "the firm has more cash than it needs due to sales declines.",
+      "E": "future dividends will be lower."
     },
     "answer": "C",
     "chapter": 19
@@ -367,11 +367,11 @@
     "id": 1537,
     "question": "The behavioral finance concept of self-control is an argument in favor of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.6 Real-World Factors Favoring a High-Dividend Policy Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "frequent stock splits.",
+      "B": "low cash dividends.",
+      "C": "stock dividends.",
+      "D": "reverse stock splits.",
+      "E": "high cash dividends."
     },
     "answer": "E",
     "chapter": 19
@@ -380,11 +380,11 @@
     "id": 1538,
     "question": "The information content effect implies that stock prices will rise when dividends are increased provided that the dividend increase:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.6 Real-World Factors Favoring a High-Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "is denoted as a one-time event.",
+      "B": "causes stockholders to increase their expectations of future cash flows.",
+      "C": "is greater than the average historical dividend increase.",
+      "D": "is substantial in both dollar amount and percentage terms.",
+      "E": "is combined with a stock repurchase."
     },
     "answer": "B",
     "chapter": 19
@@ -393,11 +393,11 @@
     "id": 1539,
     "question": "The observed empirical fact that stocks attract particular investors based on the firm's dividend policy and the resulting tax impact on investors is called the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.7 The Clientele Effect: A Resolution of Real-World Factors? Topic: Clientele effect Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "information content effect.",
+      "B": "clientele effect.",
+      "C": "efficient markets hypothesis.",
+      "D": "MM Proposition I.",
+      "E": "MM Proposition II."
     },
     "answer": "B",
     "chapter": 19
@@ -406,11 +406,11 @@
     "id": 1540,
     "question": "Based on the concept of the clientele effect, which one of these combinations correctly aligns an investor group with its preferred type of stocks?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.7 A Clientele Effect: A Resolution of Real-World Factors? Topic: Clientele effect Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Low-tax-bracket individuals; zero-to-low payout stocks",
+      "B": "High-tax-bracket individuals; low-to-medium payout stocks",
+      "C": "Corporations; low-to-medium payout stocks",
+      "D": "Tax-free institutions; medium-payout stocks",
+      "E": "High-tax-bracket individuals; high-payout stocks"
     },
     "answer": "D",
     "chapter": 19
@@ -419,11 +419,11 @@
     "id": 1541,
     "question": "According to the clientele effect, firms can only boost their stock price:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "clientele group.",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.7 The Clientele Effect: A Resolution of Real-World Factors? Topic: Clientele effect Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "by increasing the dividend payout ratio.",
+      "B": "by increasing their regular cash dividends.",
+      "C": "by setting their dividend to the level expected by the highest-dividend-receiving satisfied clientele group.",
+      "D": "by commencing dividend payments if they are a non-dividend-paying firm.",
+      "E": "if an unsatisfied clientele group exists."
     },
     "answer": "E",
     "chapter": 19
@@ -432,11 +432,11 @@
     "id": 1542,
     "question": "Of the following factors, which one is considered to be the primary factor affecting a firm's dividend payout decision?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Considering the personal taxes of company stockholders",
+      "B": "Maintaining a consistent dividend policy",
+      "C": "Attracting retail investors",
+      "D": "Attracting institutional investors",
+      "E": "Avoiding flotation costs"
     },
     "answer": "B",
     "chapter": 19
@@ -445,11 +445,11 @@
     "id": 1543,
     "question": "Financial managers:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "are reluctant to cut dividends.",
+      "B": "tend to ignore past dividend policies.",
+      "C": "tend to prefer cutting dividends every time quarterly earnings decline.",
+      "D": "prefer cutting dividends over incurring flotation costs.",
+      "E": "place little emphasis on dividend policy consistency."
     },
     "answer": "A",
     "chapter": 19
@@ -458,11 +458,11 @@
     "id": 1544,
     "question": "Which one of these statements is correct?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "has decreased in the U.S.",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Dividend policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "In the U.S. economy, dividends are quite insignificant.",
+      "B": "Over the last few decades, the percentage of U.S. firms paying dividends has increased.",
+      "C": "The tax law change in May 2003 is cited as one reason why the percentage of dividend payers has decreased in the U.S.",
+      "D": "Dividends are more tax-advantaged than capital gains as of 2017.",
+      "E": "Much of the dividend income paid in the U.S. is related to a relatively small number of firms."
     },
     "answer": "E",
     "chapter": 19
@@ -471,11 +471,11 @@
     "id": 1545,
     "question": "Firms generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Dividend policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "set high target payout ratios when they are relatively young.",
+      "B": "decrease their dividends as soon as they expect earnings to decline.",
+      "C": "allow their dividend changes to lag their earnings changes.",
+      "D": "set short-term target ratios of dividends to earnings.",
+      "E": "set the dividend growth rate equal to the firm's earnings growth rate."
     },
     "answer": "C",
     "chapter": 19
@@ -484,11 +484,11 @@
     "id": 1546,
     "question": "Which one of these is a con of paying dividends?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Paying dividends reduces agency costs when excess cash is available to a firm.",
+      "B": "Dividends can be used to signal a firm's optimistic outlook.",
+      "C": "Dividends are frequently taxed as ordinary income.",
+      "D": "Dividends appeal to income-seeking investors.",
+      "E": "Managers can pay dividends to keep cash from bondholders."
     },
     "answer": "C",
     "chapter": 19
@@ -497,11 +497,11 @@
     "id": 1547,
     "question": "Financial executives place the greatest importance on which one of these factors when setting dividend policy?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.8 What We Know and Do Not Know about Dividend Policy Topic: Payout policy considerations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Setting a high-dividend payout ratio even when earnings are unstable",
+      "B": "Maintaining a consistent dividend policy",
+      "C": "Increasing current dividends even if those dividends need to be lowered in the near future",
+      "D": "Reducing dividends anytime future earnings are in doubt",
+      "E": "Attracting institutional investors"
     },
     "answer": "B",
     "chapter": 19
@@ -510,11 +510,11 @@
     "id": 1548,
     "question": "Which one of these is a characteristic of a sensible payout policy?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 2 Medium Section: 19.9 Putting It All Together Topic: Dividends and payout policy Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Over time pay out half of all free cash flows",
+      "B": "Set the current regular dividend consistent with a 100 percent payout ratio",
+      "C": "Increase regular dividends to distribute transitory cash flow increases",
+      "D": "Set the dividends high even if it means acquiring expensive external financing",
+      "E": "Avoid rejecting positive NPV projects to increase dividends or buyback shares"
     },
     "answer": "E",
     "chapter": 19
@@ -523,11 +523,11 @@
     "id": 1549,
     "question": "Share repurchases:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 2 Medium Section: 19.9 Putting It All Together Topic: Stock repurchases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "reduce a firm's demand for external financing.",
+      "B": "offer less tax advantages to shareholders than do cash dividends.",
+      "C": "tend to increase agency costs.",
+      "D": "are always positive net present value investments.",
+      "E": "can be difficult to verify."
     },
     "answer": "E",
     "chapter": 19
@@ -536,11 +536,11 @@
     "id": 1550,
     "question": "A change in dividend policy does not affect the value of a share of stock as long as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.9 Putting It All Together Topic: Dividend policy irrelevance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the dividend payout ratio remains constant.",
+      "B": "all future dividends are changed by the same amount.",
+      "C": "all the distributable cash flow is paid out.",
+      "D": "there is an offsetting change in stock repurchases.",
+      "E": "shareholders are given ample warning."
     },
     "answer": "C",
     "chapter": 19
@@ -549,11 +549,11 @@
     "id": 1551,
     "question": "All else equal, a stock dividend will ________ the number of shares outstanding and ________ the value per share.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock dividends Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "increase; increase",
+      "B": "increase; decrease",
+      "C": "not change; increase",
+      "D": "decrease; increase",
+      "E": "decrease; decrease"
     },
     "answer": "B",
     "chapter": 19
@@ -562,11 +562,11 @@
     "id": 1552,
     "question": "A small stock dividend is generally defined as a stock dividend of less than ________ percent.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock dividends Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "10 to 15",
+      "B": "15 to 20",
+      "C": "20 to 25",
+      "D": "25 to 30",
+      "E": "30 to 35"
     },
     "answer": "C",
     "chapter": 19
@@ -575,11 +575,11 @@
     "id": 1553,
     "question": "A stock split:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "increases the total book value of the common stock account.",
+      "B": "decreases the book value of the retained earnings account.",
+      "C": "does not affect the total book value of any of the equity accounts.",
+      "D": "increases the book value of the capital in excess of par account.",
+      "E": "decreases the total owners' equity on the balance sheet."
     },
     "answer": "C",
     "chapter": 19
@@ -588,11 +588,11 @@
     "id": 1554,
     "question": "Stock splits are often used to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "adjust the market price of a stock such that it falls within a preferred trading range.",
+      "B": "decrease the excess cash held by a firm.",
+      "C": "increase both the number of shares outstanding and the market price per share.",
+      "D": "increase the total equity of a firm.",
+      "E": "adjust the debt-equity ratio such that it falls within a preferred range."
     },
     "answer": "A",
     "chapter": 19
@@ -601,11 +601,11 @@
     "id": 1555,
     "question": "Wydex stock is currently trading at $82 a share. The firm feels that its primary clientele can afford to spend between $2,000 and $2,500 to purchase a round lot of 100 shares. The firm should consider a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "reverse stock split.",
+      "B": "liquidating dividend.",
+      "C": "stock dividend.",
+      "D": "stock split.",
+      "E": "special dividend."
     },
     "answer": "D",
     "chapter": 19
@@ -614,11 +614,11 @@
     "id": 1556,
     "question": "A one-for-four reverse stock split will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "increase the par value by 25 percent.",
+      "B": "increase the number of shares outstanding by 400 percent.",
+      "C": "increase the market value but not affect the par value per share.",
+      "D": "increase a $1 par value to $4.",
+      "E": "increase a $1 par value by $4."
     },
     "answer": "D",
     "chapter": 19
@@ -627,11 +627,11 @@
     "id": 1557,
     "question": "Probably the best argument for a reverse stock split is to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "decrease the liquidity of a stock.",
+      "B": "decrease the market value per share.",
+      "C": "increase the number of stockholders.",
+      "D": "maintain a minimum share price as set by a stock exchange.",
+      "E": "raise additional capital from current stockholders."
     },
     "answer": "D",
     "chapter": 19
@@ -640,11 +640,11 @@
     "id": 1558,
     "question": "A ________ will increase the number of shares outstanding without affecting the book value of any of the owners' equity account values.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "special dividend",
+      "B": "stock split",
+      "C": "share repurchase",
+      "D": "tender offer",
+      "E": "liquidating dividend"
     },
     "answer": "B",
     "chapter": 19
@@ -653,11 +653,11 @@
     "id": 1559,
     "question": "In a reverse stock split the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "number of shares outstanding increases and the owners' equity decreases.",
+      "B": "firm buys back existing shares of stock on the open market.",
+      "C": "firm sells new shares of stock on the open market.",
+      "D": "number of shares outstanding decreases while the book value of owners' equity is unchanged.",
+      "E": "shareholders make a cash payment to the firm."
     },
     "answer": "D",
     "chapter": 19
@@ -666,235 +666,235 @@
     "id": 1560,
     "question": "Alpha Co. is paying a $.72 per share dividend today. There are 138,000 shares outstanding with a par value of $1 per share. As a result of this dividend, the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Decrease in retained earnings = $.72(138,000) Decrease in retained earnings = $99,360 Difficulty: 2 Medium Section: 19.1 Different Types of Payouts Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "retained earnings will decrease by $99,360.",
+      "B": "retained earnings will decrease by $138,000.",
+      "C": "common stock account will decrease by $138,000.",
+      "D": "common stock account will decrease by $99,360.",
+      "E": "capital in excess of par value account will decrease by $99,360."
     },
     "answer": "A",
-    "explanation": "Decrease in retained earnings = $.72(138,000)",
+    "explanation": "Decrease in retained earnings = $.72(138,000) Decrease in retained earnings = $99,360",
     "chapter": 19
   },
   {
     "id": 1561,
     "question": "The Rent It Company declared a dividend of $.60 a share on October 20th to holders of record on Monday, November 1st. The dividend is payable on December 1st. You purchased 100 shares of this stock on Wednesday, October 27th. How much dividend income will you receive on December 1st as a result of this declaration?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Dividend income = $.60(100) Dividend income = $60.00 Difficulty: 2 Medium Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$0",
+      "B": "$1.50",
+      "C": "$6.00",
+      "D": "$15.00",
+      "E": "$60.00"
     },
     "answer": "E",
-    "explanation": "Dividend income = $.60(100)",
+    "explanation": "Dividend income = $.60(100) Dividend income = $60.00",
     "chapter": 19
   },
   {
     "id": 1562,
     "question": "Schaeffer Shippers announced on May 1 that it will pay a dividend of $1.20 per share on June 15 to all holders of record as of May 31st. The firm's stock price closed today at $42 a share. Assume all investors are in the 22 percent tax bracket. If tomorrow is the ex-dividend date, what would you expect the opening price to be tomorrow morning assuming all else is held constant?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Opening price = $42 − $1.20(1 − .22) Opening price = $41.06 Difficulty: 2 Medium Section: 19.2 Standard Method of Cash Dividend Payment Topic: Tax effects on dividends and payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$42.00",
+      "B": "$43.20",
+      "C": "$41.06",
+      "D": "$42.94",
+      "E": "$41.66"
     },
     "answer": "C",
-    "explanation": "Opening price = $42 − $1.20(1 − .22)",
+    "explanation": "Opening price = $42 − $1.20(1 − .22) Opening price = $41.06",
     "chapter": 19
   },
   {
     "id": 1563,
     "question": "You purchased 200 shares of ABC stock on July 15th. On July 20th, you purchased another 100 shares and then on July 22nd you purchased your final 200 shares of ABC stock. The company declared a dividend of $1.10 a share on July 5th to holders of record on Friday, July 23rd. The dividend is payable on July 31st. How much dividend income will you receive on July 31st from ABC?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Dividend income = $1.10(200 + 100) Dividend income = $330 Difficulty: 2 Medium Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$0",
+      "B": "$220",
+      "C": "$330",
+      "D": "$440",
+      "E": "$550"
     },
     "answer": "C",
-    "explanation": "Dividend income = $1.10(200 + 100)",
+    "explanation": "Dividend income = $1.10(200 + 100) Dividend income = $330",
     "chapter": 19
   },
   {
     "id": 1564,
     "question": "On May 18th, you purchased 1,000 shares of Buy Lo stock. On June 5th, you sold 200 shares of this stock for $21 a share. You sold an additional 400 shares on July 8th at a price of $22.50 a share. The company declared a $.50 per share dividend on June 25th to holders of record as of Thursday, July 10th. This dividend is payable on July 31st. How much dividend income will you receive on July 31st as a result of your ownership of this firm's stock?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Dividend received = $.50(1,000 − 200) Dividend received = $400 Difficulty: 2 Medium Section: 19.2 Standard Method of Cash Dividend Payment Topic: Chronology of dividend payments Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$100",
+      "B": "$200",
+      "C": "$300",
+      "D": "$400",
+      "E": "$500"
     },
     "answer": "D",
-    "explanation": "Dividend received = $.50(1,000 − 200)",
+    "explanation": "Dividend received = $.50(1,000 − 200) Dividend received = $400",
     "chapter": 19
   },
   {
     "id": 1565,
     "question": "You own 300 shares of Abco stock. The firm plans on issuing a dividend of $2.10 a share one year from today and then issuing a final liquidating dividend of $36.45 a share two years from today. Your required rate of return is 14.5 percent. Ignoring taxes, what is the value of one share of this stock to you today?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Value per share = $2.10/1.145 + $36.45/1.1452 Value per share = $29.64 Difficulty: 2 Medium Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Stock valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$33.93",
+      "B": "$29.64",
+      "C": "$26.62",
+      "D": "$27.80",
+      "E": "$31.05"
     },
     "answer": "B",
-    "explanation": "Value per share = $2.10/1.145 + $36.45/1.1452",
+    "explanation": "Value per share = $2.10/1.145 + $36.45/1.1452 Value per share = $29.64",
     "chapter": 19
   },
   {
     "id": 1566,
     "question": "You own 200 shares of Loner stock. The firm announced that it will be issuing a dividend of $.20 a share one year from today followed by a final liquidating dividend of $1.60 a share two years from today. If you can earn 7 percent on your funds, what will be the value of your total investment income in two years if you do not want to receive any funds until then?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total value = [$.20(1 + .07) + $1.60](200) Total value = $362.80 Difficulty: 2 Medium Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Homemade dividends Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$362.80",
+      "B": "$266.67",
+      "C": "$302.30",
+      "D": "$348.04",
+      "E": "$247.78"
     },
     "answer": "A",
-    "explanation": "Total value = [$.20(1 + .07) + $1.60](200)",
+    "explanation": "Total value = [$.20(1 + .07) + $1.60](200) Total value = $362.80",
     "chapter": 19
   },
   {
     "id": 1567,
     "question": "Priscilla owns 500 shares of Deltona stock. It is January 1, 2018, and the company recently issued a statement that it will pay a $1 per share dividend on December 31, 2018, a $2.50 per share dividend on December 31, 2019, and then cease all dividend payments. Priscilla does not want any dividend income this year but does want as much dividend income as possible next year. Priscilla can earn 8 percent on her investments. Ignoring taxes, what will Priscilla's homemade dividend per share be in 2019?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Homemade dividend = $1(1.08) + $2.50 Homemade dividend = $3.58 Difficulty: 2 Medium Section: 19.3 The Benchmark Case: An Illustration of the Irrelevance of Dividend Policy Topic: Homemade dividends Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$3.78",
+      "B": "$3.50",
+      "C": "$2.50",
+      "D": "$3.58",
+      "E": "$1.08"
     },
     "answer": "D",
-    "explanation": "Homemade dividend = $1(1.08) + $2.50",
+    "explanation": "Homemade dividend = $1(1.08) + $2.50 Homemade dividend = $3.58",
     "chapter": 19
   },
   {
     "id": 1568,
     "question": "Allison's has a market value equal to its book value. Currently, the firm has excess cash of $1,100 and other assets of $12,400. Equity is worth $13,500. The firm has 2,500 shares of stock outstanding and net income of $10,800. What will be the new earnings per share if the firm uses its excess cash to complete a stock repurchase?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Price per share = $13,500/2,500 Price per share = $5.40 Number of shares repurchased = $1,100/$5.40 Number of shares repurchased = 203.70 shares New EPS = $10,800/(2,500 − 203.70) New EPS = $4.70 Difficulty: 2 Medium Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$4.32",
+      "B": "$4.50",
+      "C": "$4.82",
+      "D": "$4.70",
+      "E": "$4.40"
     },
     "answer": "D",
-    "explanation": "Price per share = $13,500/2,500",
+    "explanation": "Price per share = $13,500/2,500 Price per share = $5.40 Number of shares repurchased = $1,100/$5.40 Number of shares repurchased = 203.70 shares New EPS = $10,800/(2,500 − 203.70) New EPS = $4.70",
     "chapter": 19
   },
   {
     "id": 1569,
     "question": "Assume a firm has a market value equal to its book value, excess cash of $900, other assets of $16,500, and equity valued at $17,400. The firm has 1,200 shares of stock outstanding and net income of $15,400. If the firm spends all of its excess cash on share repurchases, how many shares will be outstanding after the repurchases are completed? (Round your answer up to the nearest whole share)",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Price per share = $17,400/1,200 Price per share = $14.50 Number of shares repurchased = $900/$14.50 Number of shares repurchased = 62.07 New number of shares outstanding = 1,200 − 62.07 New number of shares outstanding = 1,137.93, or 1,138 Difficulty: 2 Medium Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "1,148 shares",
+      "B": "1,135 shares",
+      "C": "1,138 shares",
+      "D": "1,164 shares",
+      "E": "1,142 shares"
     },
     "answer": "C",
-    "explanation": "Price per share = $17,400/1,200",
+    "explanation": "Price per share = $17,400/1,200 Price per share = $14.50 Number of shares repurchased = $900/$14.50 Number of shares repurchased = 62.07 New number of shares outstanding = 1,200 − 62.07 New number of shares outstanding = 1,137.93, or 1,138",
     "chapter": 19
   },
   {
     "id": 1570,
     "question": "Jensen's has a market value equal to its book value, excess cash of $500, other assets of $9,500, and equity worth $10,000. The firm has 250 shares of stock outstanding and net income of $1,400. What will be the stock price per share if the firm pays out its excess cash as a cash dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Price per share = ($10,000 − 500)/250 Price per share = $38 Difficulty: 2 Medium Section: 19.4 Repurchase of Stock Topic: Cash dividends Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$36",
+      "B": "$38",
+      "C": "$40",
+      "D": "$42",
+      "E": "$44"
     },
     "answer": "B",
-    "explanation": "Price per share = ($10,000 − 500)/250",
+    "explanation": "Price per share = ($10,000 − 500)/250 Price per share = $38",
     "chapter": 19
   },
   {
     "id": 1571,
     "question": "DD&L has a market value equal to its book value, excess cash of $400, other assets of $7,600, equity of $8,000, 200 shares of stock outstanding, and net income of $900. The firm has decided to pay out all its excess cash as a cash dividend. What will be the earnings per share after the dividend is paid?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: EPS = $900/200 EPS = $4.50 Difficulty: 2 Medium Section: 19.4 Repurchase of Stock Topic: Cash dividends Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$4.68",
+      "B": "$4.74",
+      "C": "$4.59",
+      "D": "$4.80",
+      "E": "$4.50"
     },
     "answer": "E",
-    "explanation": "EPS = $900/200",
+    "explanation": "EPS = $900/200 EPS = $4.50",
     "chapter": 19
   },
   {
     "id": 1572,
     "question": "A firm has a market value equal to its book value, excess cash of $1,000, and equity worth $17,800. The firm has 5,000 shares of stock outstanding and net income of $31,200. What will be the new earnings per share if the firm uses its excess cash to complete a stock repurchase?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Price per share = $17,800/5,000 Price per share = $3.56 Number of shares repurchased = $1,000/$3.56 Number of shares repurchased = 280.90 New EPS = $31,200/(5,000 − 280.90) New EPS = $6.61 Difficulty: 2 Medium Section: 19.4 Repurchase of Stock Topic: Stock repurchases Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$7.20",
+      "B": "$6.50",
+      "C": "$6.61",
+      "D": "$5.89",
+      "E": "$6.23"
     },
     "answer": "C",
-    "explanation": "Price per share = $17,800/5,000",
+    "explanation": "Price per share = $17,800/5,000 Price per share = $3.56 Number of shares repurchased = $1,000/$3.56 Number of shares repurchased = 280.90 New EPS = $31,200/(5,000 − 280.90) New EPS = $6.61",
     "chapter": 19
   },
   {
     "id": 1573,
     "question": "Assume you own 300 shares of ABC stock and receive a stock dividend of 5 percent. As a result, the number of shares you own will change to ________ shares while your total wealth will increase by ________ percent.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: New number of shares = 300(1.05) New number of shares = 315 Your total wealth will remain constant as the value per share will decrease by 5 percent. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock dividends Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "305; 5",
+      "B": "315; 0",
+      "C": "305; 0",
+      "D": "315; 5",
+      "E": "300; 5"
     },
     "answer": "B",
-    "explanation": "New number of shares = 300(1.05)",
+    "explanation": "New number of shares = 300(1.05) New number of shares = 315 Your total wealth will remain constant as the value per share will decrease by 5 percent.",
     "chapter": 19
   },
   {
     "id": 1574,
     "question": "Murphy's has shares of stock outstanding with a par value of $1 per share and a market value of $24.60 per share. The balance sheet shows $32,500 in the capital in excess of par account, $12,000 in the common stock account, and $68,700 in the retained earnings account. The firm just announced a stock dividend of 10 percent. What will be the balance in the retained earnings account after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Retained earnings = −[($12,000/$1)(.10)($24.60)] + $68,700 Retained earnings = $39,180 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$39,180",
+      "B": "$48,300",
+      "C": "$59,120",
+      "D": "$67,520",
+      "E": "$40,380"
     },
     "answer": "A",
-    "explanation": "Retained earnings = −[($12,000/$1)(.10)($24.60)] + $68,700",
+    "explanation": "Retained earnings = −[($12,000/$1)(.10)($24.60)] + $68,700 Retained earnings = $39,180",
     "chapter": 19
   },
   {
     "id": 1575,
     "question": "Brown's Market has 15,000 shares of stock outstanding with a par value of $1 per share and a market value per share of $8. The firm just announced a stock dividend of 10 percent. What will be the market price per share after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Market price per share = [15,000($8)]/[15,000(1.10)] Market price per share = $7.27 This can also be simplified to: Market price per share = $8/1.10 Market price per share = $7.27 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$7.20",
+      "B": "$7.27",
+      "C": "$7.33",
+      "D": "$8.00",
+      "E": "$8.80"
     },
     "answer": "B",
-    "explanation": "Market price per share = [15,000($8)]/[15,000(1.10)]",
+    "explanation": "Market price per share = [15,000($8)]/[15,000(1.10)] Market price per share = $7.27 This can also be simplified to: Market price per share = $8/1.10 Market price per share = $7.27",
     "chapter": 19
   },
   {
     "id": 1576,
     "question": "Samuel's has 42,000 shares of stock outstanding with a par value of $1 per share and a market price per share of $41. The balance sheet shows $1,358,000 in the capital in excess of par account and $2,212,500 in the retained earnings account. The firm just announced a stock dividend of 50 percent. What is the value of the capital in excess of par account after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: The capital in excess of par account does not change with a large stock dividend. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1,358,000",
+      "B": "$612,500",
+      "C": "$518,000",
+      "D": "$497,000",
+      "E": "$221,900"
     },
     "answer": "A",
     "explanation": "The capital in excess of par account does not change with a large stock dividend.",
@@ -904,81 +904,81 @@
     "id": 1577,
     "question": "Davidsons has 15,000 shares of stock outstanding with a par value of $1 per share and a market value of $45 per share. The balance sheet shows $15,000 in the common stock account, $158,000 in the capital in excess of par account, and $132,500 in the retained earnings account. The firm just announced a stock dividend of 50 percent. What is the value of the retained earnings account after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Retained earnings = −[($15,000/$1)(.50)($1)] + $132,500 Retained earnings = $125,000 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$125,000",
+      "B": "$117,500",
+      "C": "$132,500",
+      "D": "$140,000",
+      "E": "$147,500"
     },
     "answer": "A",
-    "explanation": "Retained earnings = −[($15,000/$1)(.50)($1)] + $132,500",
+    "explanation": "Retained earnings = −[($15,000/$1)(.50)($1)] + $132,500 Retained earnings = $125,000",
     "chapter": 19
   },
   {
     "id": 1578,
     "question": "The Saw Mill has shares of stock outstanding with a par value of $1 per share and a market- to-book ratio of 2.1. The balance sheet shows $5,000 in the common stock account, $58,000 in the capital in excess of par account, and $32,500 in the retained earnings account. The firm just announced a stock dividend of 50 percent. What is the book value of the common stock account after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Book valueCommon stock = [($5,000/$1)(.5)($1)] + $5,000 Book valueCommon stock = $7,500 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$10,000",
+      "B": "$8,500",
+      "C": "$9,000",
+      "D": "$7,500",
+      "E": "$5,000"
     },
     "answer": "D",
-    "explanation": "Book valueCommon stock = [($5,000/$1)(.5)($1)] + $5,000",
+    "explanation": "Book valueCommon stock = [($5,000/$1)(.5)($1)] + $5,000 Book valueCommon stock = $7,500",
     "chapter": 19
   },
   {
     "id": 1579,
     "question": "Downtown Deli has 2,000 shares of stock outstanding with a par value of $1 per share and a market value of $26 per share. The balance sheet shows $2,000 in the common stock account, $9,500 in the capital in excess of par account, and $14,500 in the retained earnings account. The firm just announced a stock dividend of 75 percent. What is the market value per share after the dividend?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Market value per share = [2,000($26)]/[($2,000/$1)(1.75)] Market value per share = $14.86 The answer can also be found as: Market value per share = $26/(1.75) Market value per share = $14.86 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$36.00",
+      "B": "$14.86",
+      "C": "$45.50",
+      "D": "$13.50",
+      "E": "$12.00"
     },
     "answer": "B",
-    "explanation": "Market value per share = [2,000($26)]/[($2,000/$1)(1.75)]",
+    "explanation": "Market value per share = [2,000($26)]/[($2,000/$1)(1.75)] Market value per share = $14.86 The answer can also be found as: Market value per share = $26/(1.75) Market value per share = $14.86",
     "chapter": 19
   },
   {
     "id": 1580,
     "question": "Robinson's has 15,000 shares of stock outstanding with a par value of $1 per share and a market price of $36 a share. How many shares of stock will be outstanding of the firm does a 3- for-2 stock split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Number of shares = 15,000(3/2) Number of shares = 22,500 shares Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "10,000 shares",
+      "B": "12,500 shares",
+      "C": "20,000 shares",
+      "D": "22,500 shares",
+      "E": "27,500 shares"
     },
     "answer": "D",
-    "explanation": "Number of shares = 15,000(3/2)",
+    "explanation": "Number of shares = 15,000(3/2) Number of shares = 22,500 shares",
     "chapter": 19
   },
   {
     "id": 1581,
     "question": "Robinson's has 15,000 shares of stock outstanding with a market price of $6 a share. What will be the market price per share if the firm does a 1-for-3 reverse stock split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Market price per share = $6(3/1) Market price per share = $18 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$18",
+      "B": "$24",
+      "C": "$42",
+      "D": "$48",
+      "E": "$54"
     },
     "answer": "A",
-    "explanation": "Market price per share = $6(3/1)",
+    "explanation": "Market price per share = $6(3/1) Market price per share = $18",
     "chapter": 19
   },
   {
     "id": 1582,
     "question": "Kelso's balance sheet shows $15,000 in the common stock account, $315,000 in the capital in excess of par account, and $189,000 in the retained earnings account. The firm just announced a 3-for-2 stock split. What will be the value of the common stock account after the split if the par value per share is $1?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: A stock split does not change the total value of the common stock account. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$10,000",
+      "B": "$12,500",
+      "C": "$15,000",
+      "D": "$18,500",
+      "E": "$22,500"
     },
     "answer": "C",
     "explanation": "A stock split does not change the total value of the common stock account.",
@@ -988,39 +988,39 @@
     "id": 1583,
     "question": "Assume Downtown Markets latest balance sheet shows $15,000 in the common stock account, $315,000 in the capital in excess of par account, and $189,000 in the retained earnings account. What will be the capital in excess of par account value if the firm does a 5-for-3 stock split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: A stock split does not change the total value of the capital in excess of par account. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$126,000",
+      "B": "$210,000",
+      "C": "$283,500",
+      "D": "$315,000",
+      "E": "$472,500"
     },
     "answer": "D",
-    "explanation": "A stock split does not change the total value of the capital in excess of par",
+    "explanation": "A stock split does not change the total value of the capital in excess of par account.",
     "chapter": 19
   },
   {
     "id": 1584,
     "question": "The Retail Outlet has 6,000 shares of stock outstanding and the current market value of the firm is $429,000. The company just announced a 2-for-1 stock split. What will be the market price per share after the split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Market price per share = ($429,000/6,000 shares)(1/2) Market price per share = $35.75 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$35.75",
+      "B": "$40.50",
+      "C": "$80.50",
+      "D": "$71.50",
+      "E": "$50.25"
     },
     "answer": "A",
-    "explanation": "Market price per share = ($429,000/6,000 shares)(1/2)",
+    "explanation": "Market price per share = ($429,000/6,000 shares)(1/2) Market price per share = $35.75",
     "chapter": 19
   },
   {
     "id": 1585,
     "question": "The Retail Outlet has 8,000 shares of stock outstanding with a par value of $1 per share. The current market value of the firm is $620,000. The balance sheet shows a capital in excess of par account value of $66,000 and retained earnings of $234,000. The company just announced a 3- for-1 stock split. What will be the retained earnings account balance after the split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: A stock split does not change the total value of the retained earnings account. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$117,000",
+      "B": "$234,000",
+      "C": "$351,000",
+      "D": "$410,000",
+      "E": "$468,000"
     },
     "answer": "B",
     "explanation": "A stock split does not change the total value of the retained earnings account.",
@@ -1030,39 +1030,39 @@
     "id": 1586,
     "question": "The Tinslow Co. has 125,000 shares of stock outstanding at a market price of $93 a share. The company has just announced a 5-for-2 stock split. How many shares of stock will be outstanding after the split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Number of shares = 125,000(5/2) Number of shares = 312,500 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "50,000",
+      "B": "75,000",
+      "C": "156,250",
+      "D": "175,000",
+      "E": "312,500"
     },
     "answer": "E",
-    "explanation": "Number of shares = 125,000(5/2)",
+    "explanation": "Number of shares = 125,000(5/2) Number of shares = 312,500",
     "chapter": 19
   },
   {
     "id": 1587,
     "question": "Deep Water Drilling has 160,000 shares of stock outstanding at a market price of $109 a share. The company has just announced a 7-for-3 stock split. What will be the market price per share after the split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Market price per share = $109(3/7) Market price per share = $46.71 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$38.27",
+      "B": "$46.71",
+      "C": "$48.40",
+      "D": "$46.18",
+      "E": "$48.80"
     },
     "answer": "B",
-    "explanation": "Market price per share = $109(3/7)",
+    "explanation": "Market price per share = $109(3/7) Market price per share = $46.71",
     "chapter": 19
   },
   {
     "id": 1588,
     "question": "A firm has a total market value of $89,600 with 6,500 shares of stock outstanding. What will be the total market value of the firm if it does a 1-for-2 reverse stock split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: A reverse stock split does not change the total market value of a firm. Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$179,200",
+      "B": "$148,300",
+      "C": "$122,300",
+      "D": "$89,600",
+      "E": "$44,800"
     },
     "answer": "D",
     "explanation": "A reverse stock split does not change the total market value of a firm.",
@@ -1072,42 +1072,42 @@
     "id": 1589,
     "question": "Bob's Auto Group has 25,000 shares of stock outstanding at a market price of $4.50 a share. What will be the market price per share if the company does a 1-for-5 reverse stock split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Market price = $4.50(5/1) Market price = $22.50 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$.90",
+      "B": "$1.20",
+      "C": "$22.50",
+      "D": "$27.00",
+      "E": "$29.50"
     },
     "answer": "C",
-    "explanation": "Market price = $4.50(5/1)",
+    "explanation": "Market price = $4.50(5/1) Market price = $22.50",
     "chapter": 19
   },
   {
     "id": 1590,
     "question": "Edie's Health Supply has 125,000 shares of stock outstanding with a par value of $1 per share and a market value of $5 a share. The company has retained earnings of $76,500 and capital in excess of par of $340,000. The company just announced a 1-for-5 reverse stock split. What will be the par value per share after the split?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Par value per share = $1(5/1) Par value per share = $5 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Stock splits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$.20",
+      "B": "$.25",
+      "C": "$2.50",
+      "D": "$5.00",
+      "E": "$10.00"
     },
     "answer": "D",
-    "explanation": "Par value per share = $1(5/1)",
+    "explanation": "Par value per share = $1(5/1) Par value per share = $5",
     "chapter": 19
   },
   {
     "id": 1591,
     "question": "The Cameron Co. is paying a dividend of $.82 a share today. There are 120,000 shares outstanding with a par value of $1 per share. As a result of this dividend, the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Decrease in retained earnings = $.82($120,000) Decrease in retained earnings = $98,400 Difficulty: 2 Medium Section: 19.10 Stock Dividends and Stock Splits Topic: Accounting for dividends and other payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "retained earnings will decrease by $120,000.",
+      "B": "retained earnings will decrease by $98,400.",
+      "C": "common stock account will decrease by $98,400.",
+      "D": "common stock account will increase by $120,000.",
+      "E": "capital in excess of par value account will decrease by $21,600."
     },
     "answer": "B",
-    "explanation": "Decrease in retained earnings = $.82($120,000)",
+    "explanation": "Decrease in retained earnings = $.82($120,000) Decrease in retained earnings = $98,400",
     "chapter": 19
   },
   {

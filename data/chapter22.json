@@ -3,11 +3,11 @@
     "id": 1730,
     "question": "A financial contract that provides its owner with the right, but not the obligation, to buy or sell a specified asset at an agreed-upon price on or before a given future date is called a(n) ________ contract.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "option",
+      "B": "futures",
+      "C": "forward",
+      "D": "swap",
+      "E": "straddle"
     },
     "answer": "A",
     "chapter": 22
@@ -16,11 +16,11 @@
     "id": 1731,
     "question": "The act where an owner of an option buys or sells the underlying asset, as is his right, is called ________ the option.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "striking",
+      "B": "exercising",
+      "C": "opening",
+      "D": "splitting",
+      "E": "strangling"
     },
     "answer": "B",
     "chapter": 22
@@ -29,11 +29,11 @@
     "id": 1732,
     "question": "The fixed price in an option contract at which the owner can buy or sell the underlying asset is called the option's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "opening price.",
+      "B": "intrinsic value.",
+      "C": "strike price.",
+      "D": "market price.",
+      "E": "time value."
     },
     "answer": "C",
     "chapter": 22
@@ -42,11 +42,11 @@
     "id": 1733,
     "question": "The last day on which an owner of an option can elect to exercise that option is referred to as the ________ date.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "ex-payment",
+      "B": "ex-option",
+      "C": "opening",
+      "D": "expiration",
+      "E": "intrinsic"
     },
     "answer": "D",
     "chapter": 22
@@ -55,11 +55,11 @@
     "id": 1734,
     "question": "An option that may be exercised only on the expiration date is called a(n) ________ option.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "European",
+      "B": "American",
+      "C": "Bermudian",
+      "D": "futures",
+      "E": "Asian"
     },
     "answer": "A",
     "chapter": 22
@@ -68,11 +68,11 @@
     "id": 1735,
     "question": "The difference between an American option and a European option is that the American option:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "shares.",
-      "E": "exercised on the expiration date. Answer: E Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "has a fixed exercise price while the European exercise price can vary within a small range.",
+      "B": "is a right to buy while a European option is an obligation to buy.",
+      "C": "has an expiration date while the European option does not.",
+      "D": "is written on 100 shares of the underlying security while the European option covers 1,000 shares.",
+      "E": "can be exercised at any time up to the expiration date while the European option can only be exercised on the expiration date."
     },
     "answer": "E",
     "chapter": 22
@@ -81,11 +81,11 @@
     "id": 1736,
     "question": "An option that may be exercised at any time up to and including its expiration date is called a(n) ________ option.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.1 Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "futures",
+      "B": "Asian",
+      "C": "Bermudian",
+      "D": "European",
+      "E": "American"
     },
     "answer": "E",
     "chapter": 22
@@ -94,11 +94,11 @@
     "id": 1737,
     "question": "If a call option has a positive intrinsic value at expiration the call is said to be:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option valuation fundamentals Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "funded.",
+      "B": "unfunded.",
+      "C": "at the money.",
+      "D": "in the money.",
+      "E": "out of the money."
     },
     "answer": "D",
     "chapter": 22
@@ -107,11 +107,11 @@
     "id": 1738,
     "question": "A ________ is a derivative security that gives the owner the right, but not the obligation, to buy an asset at a fixed price for a specified period of time.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "futures contract",
+      "B": "call option",
+      "C": "put option",
+      "D": "swap",
+      "E": "forward contract"
     },
     "answer": "B",
     "chapter": 22
@@ -120,11 +120,11 @@
     "id": 1739,
     "question": "If you are the owner of a European call option, you:",
     "options": {
-      "A": "",
-      "B": "expiration date.",
-      "C": "",
-      "D": "",
-      "E": "expiration. Answer: C Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option types and features Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "are obligated to buy the specified assets prior to the option's expiration.",
+      "B": "have the right to sell the specified assets at the set price at any time up to and including on the expiration date.",
+      "C": "have the right to buy the specified assets at the set price only on the expiration date.",
+      "D": "are obligated to sell the specified assets at the set price if the option is exercised.",
+      "E": "have the right to buy the specified assets at the set price at any time prior to the option's expiration."
     },
     "answer": "C",
     "chapter": 22
@@ -133,11 +133,11 @@
     "id": 1740,
     "question": "Which of these will increase the value of a call option? I. An increase in the market value of the underlying asset II. An increase in the option's strike price III. A decrease in the market value of the underlying asset IV. A decrease in the option's strike price",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option payoffs and profits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "I and II only",
+      "B": "II only",
+      "C": "II and III only",
+      "D": "I and IV only",
+      "E": "I only"
     },
     "answer": "D",
     "chapter": 22
@@ -146,11 +146,11 @@
     "id": 1741,
     "question": "An out-of-the-money call option is best defined as an option that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "has an exercise price below the current market price of the underlying security.",
+      "B": "should not be exercised at this time.",
+      "C": "has an exercise price equal to the current market price of the underlying security.",
+      "D": "has expired.",
+      "E": "qualifies as an American option."
     },
     "answer": "B",
     "chapter": 22
@@ -159,11 +159,11 @@
     "id": 1742,
     "question": "Jillian owns a call option on WAN stock with a strike price of $20 a share. Currently, WAN is selling for $24.50 a share. Jillian would like to profit on this option but is not permitted to exercise the option for another two weeks. She believes the stock will decline in value before the two weeks is up. What should she do?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.2 Call Options Topic: Option payoffs and profits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Sell her option today",
+      "B": "Place an order to exercise her option on its expiration date",
+      "C": "Purchase an additional call option on WAN today with a strike price of $20",
+      "D": "Place an order to exercise her option as soon as she is permitted to do so",
+      "E": "Convert her American option into a European option"
     },
     "answer": "A",
     "chapter": 22
@@ -172,11 +172,11 @@
     "id": 1743,
     "question": "The owner of a European put option has the:",
     "options": {
-      "A": "specified date.",
-      "B": "specified period of time.",
-      "C": "specified price.",
-      "D": "price.",
-      "E": "date. Answer: A Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option types and features Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "right, but not the obligation, to sell the underlying asset at the specified price only on the specified date.",
+      "B": "right, but not the obligation, to sell the underlying asset at the specified price during a specified period of time.",
+      "C": "obligation to sell the underlying asset on the specified date, but only if they can do so at the specified price.",
+      "D": "obligation to buy the underlying asset sometime during the specified period at the specified price.",
+      "E": "right, but not the obligation, to buy the underlying asset at the exercise price on the expiration date."
     },
     "answer": "A",
     "chapter": 22
@@ -185,11 +185,11 @@
     "id": 1744,
     "question": "An option that grants the right, but not the obligation, to sell shares of the underlying asset during a particular time period at a specified price is called:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "either an American or a European option.",
+      "B": "an American call option.",
+      "C": "an American put option.",
+      "D": "a European put option.",
+      "E": "a European call option."
     },
     "answer": "C",
     "chapter": 22
@@ -198,11 +198,11 @@
     "id": 1745,
     "question": "Which one of the following provides the right to sell a stock anytime during the option period at the strike price even if the market price of the stock declines to zero?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option types and features Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "American call",
+      "B": "European call",
+      "C": "American put",
+      "D": "European put",
+      "E": "Should the underlying stock price decline to zero, all options are null and void."
     },
     "answer": "C",
     "chapter": 22
@@ -211,11 +211,11 @@
     "id": 1746,
     "question": "Which of these will decrease the value of a put option? I. An increase in the market value of the underlying asset II. An increase in the option's strike price III. A decrease in the market value of the underlying asset IV. A decrease in the option's strike price",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option payoffs and profits Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "I and II only",
+      "B": "I and IV only",
+      "C": "II and III only",
+      "D": "III only",
+      "E": "IV only"
     },
     "answer": "B",
     "chapter": 22
@@ -224,11 +224,11 @@
     "id": 1747,
     "question": "An in-the-money put option is one that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option valuations and payoffs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "has an exercise price greater than the underlying stock price.",
+      "B": "has an exercise price less than the underlying stock price.",
+      "C": "expires today.",
+      "D": "should not be exercised at expiration.",
+      "E": "should not be exercised at any time."
     },
     "answer": "A",
     "chapter": 22
@@ -237,11 +237,11 @@
     "id": 1748,
     "question": "On the expiration day, the maximum price of a put option on a stock is the greater of the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "stock price minus the exercise price, or 0.",
+      "B": "the exercise price or 0.",
+      "C": "exercise price minus the stock price, or 0.",
+      "D": "stock price or 0.",
+      "E": "exercise price or the stock price."
     },
     "answer": "A",
     "chapter": 22
@@ -250,11 +250,11 @@
     "id": 1749,
     "question": "Jeff owns an American put option on 100 shares of ABC stock. The option has a strike price of $32.50 and a September expiration date. The stock has recently been declining in value, currently sells for $27.65 per share, and is expected to continue declining in value. Ignore all costs and taxes. If today is Wednesday, August 14, he:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "date.",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "cannot exercise his option even though he would like to do so.",
+      "B": "should hold his option until September.",
+      "C": "can exercise his option and earn a profit.",
+      "D": "should exercise his option today and then sell the shares of stock on the September expiration date.",
+      "E": "should let his option expire unless the stock price increases above $32.50 a share."
     },
     "answer": "C",
     "chapter": 22
@@ -263,11 +263,11 @@
     "id": 1750,
     "question": "A put option on ABC stock with an exercise price of $35 expires today. The current price of ABC stock is $36. The put is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.3 Put Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "funded.",
+      "B": "unfunded.",
+      "C": "at the money.",
+      "D": "in the money.",
+      "E": "out of the money."
     },
     "answer": "E",
     "chapter": 22
@@ -276,11 +276,11 @@
     "id": 1751,
     "question": "Which one of the following statements concerning call option writers is true?",
     "options": {
-      "A": "",
-      "B": "exercised.",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.4 Selling Options Topic: Option types and features Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Call option writers promise to purchase shares if the call option is exercised.",
+      "B": "The call option writer has the option, but not the obligation, to purchase shares if the option is exercised.",
+      "C": "The call option writer is betting that the market price of the underlying asset will increase.",
+      "D": "The call option writer receives a cash payment when the option is written.",
+      "E": "The call option writer earns a profit when an in-the-money option is exercised."
     },
     "answer": "D",
     "chapter": 22
@@ -289,11 +289,11 @@
     "id": 1752,
     "question": "Eric has an option position on Langdon stock that results in a zero dollar payoff when the stock price is equal to or greater than the option strike price. What did he do to obtain this position?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.4 Selling Options Topic: Option valuations and payoffs Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Purchased a call option",
+      "B": "Purchased a put option",
+      "C": "Wrote a call option",
+      "D": "Wrote a put option",
+      "E": "No option position would have this result."
     },
     "answer": "D",
     "chapter": 22
@@ -302,11 +302,11 @@
     "id": 1753,
     "question": "Assume you are reviewing a table that lists the current stock option contracts and quotes. Which one of these statements would correctly apply to that table?",
     "options": {
-      "A": "",
-      "B": "share.",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.5 Option Quotes Topic: Option contracts and quotes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "If you write a contract you will pay the bid price per share listed in the table.",
+      "B": "If you write a contract you will receive the difference between the bid and ask prices per share.",
+      "C": "The bid price on a specific contract will be higher than the ask price on that same contract.",
+      "D": "To purchase one contract you must pay 1000 times the quoted bid price shown in the table.",
+      "E": "To purchase one contract you must pay 100 times the quoted ask price shown in the table."
     },
     "answer": "E",
     "chapter": 22
@@ -315,11 +315,11 @@
     "id": 1754,
     "question": "Assume you are reviewing a table that lists the current stock option contracts and quotes. On a specific contract the table shows an option interest value of 38 and volume of 9. This means that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.5 Option Quotes Topic: Option contracts and quotes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "9 contracts were exercised on that day while 38 more were traded.",
+      "B": "38 contracts were traded on that day compared to only 9 traded on the previous day.",
+      "C": "9 contracts were traded on that day at a price of $.38 per share.",
+      "D": "38 contracts were traded on that day at the bid price and 9 were traded at the ask price.",
+      "E": "9 of the 38 outstanding contracts traded on that day."
     },
     "answer": "E",
     "chapter": 22
@@ -328,11 +328,11 @@
     "id": 1755,
     "question": "The relationship between the prices of the underlying stock, a call option, a put option, and a riskless asset is referred to as the ________ relationship.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "put-call parity",
+      "B": "covered call",
+      "C": "protective put",
+      "D": "straddle",
+      "E": "strangle"
     },
     "answer": "A",
     "chapter": 22
@@ -341,11 +341,11 @@
     "id": 1756,
     "question": "Given an exercise price, time to maturity, and European put-call parity, the present value of the strike price plus the price of the call option is equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "current market value of the stock.",
+      "B": "present value of the stock minus the price of a put option.",
+      "C": "price of a put option minus the market value of one share of stock.",
+      "D": "value of a risk-free U.S. Treasury bill.",
+      "E": "price of the stock plus the price of the put option."
     },
     "answer": "E",
     "chapter": 22
@@ -354,11 +354,11 @@
     "id": 1757,
     "question": "Selling a covered call is equivalent to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Option combinations Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "buying a zero coupon bond and selling a put.",
+      "B": "selling a put and buying an offsetting call.",
+      "C": "buying the stock and selling the call.",
+      "D": "selling a zero coupon bond and buying a put.",
+      "E": "buying a zero coupon bond and buying a call."
     },
     "answer": "A",
     "chapter": 22
@@ -367,11 +367,11 @@
     "id": 1758,
     "question": "You can realize the same value as that derived from stock ownership if you:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "put and call options. Answer: C Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "sell a put option and invest at the risk-free rate of return.",
+      "B": "buy a call option and write a put option on a stock and also borrow funds at the risk-free rate.",
+      "C": "sell a put, buy a call, and buy a zero-coupon bond.",
+      "D": "lend out funds at the risk-free rate of return and sell a put option on the stock.",
+      "E": "borrow funds at the risk-free rate of return and invest the proceeds in equivalent amounts of put and call options."
     },
     "answer": "C",
     "chapter": 22
@@ -380,11 +380,11 @@
     "id": 1759,
     "question": "Put-call parity can be used to show:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "expiration dates.",
-      "D": "equal expiration dates.",
-      "E": "expiration dates. Answer: C Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "how far in-the-money put options can be.",
+      "B": "how far in-the-money call options can be.",
+      "C": "the precise relationship between put and call prices given equal exercise prices and equal expiration dates.",
+      "D": "that the value of a call option is always twice that of a put given equal exercise prices and equal expiration dates.",
+      "E": "that the value of a call option is always half that of a put given equal exercise prices and equal expiration dates."
     },
     "answer": "C",
     "chapter": 22
@@ -393,11 +393,11 @@
     "id": 1760,
     "question": "Which combination is referred to as a protective put? Assume all sales and purchases refer to ABC stock and its option contract.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "expiration date Answer: D Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Option combinations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Buying 100 shares of stock and writing one put option contract",
+      "B": "Selling a put option contract and buying an offsetting call option contract",
+      "C": "Buying 300 shares of stock and selling three call option contracts",
+      "D": "Buying a put option contract and buying 100 shares of stock",
+      "E": "Buying a put option contract and selling a call option contract with the same strike price and expiration date"
     },
     "answer": "D",
     "chapter": 22
@@ -406,11 +406,11 @@
     "id": 1761,
     "question": "Assume you purchase one share of a stock and sell a call option on a single share of that same stock with an exercise price of $25. What is the maximum payoff you can realize on this combination?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.6 Combinations of Options Topic: Option combinations Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The exercise price of $25",
+      "B": "An amount equal to the stock price on the option expiration date",
+      "C": "An amount equal to $25 minus the stock price on the option expiration date",
+      "D": "An amount equal to the stock price on the expiration date plus $25",
+      "E": "Zero"
     },
     "answer": "A",
     "chapter": 22
@@ -419,11 +419,11 @@
     "id": 1762,
     "question": "Hi-Tech announces a major expansion which causes the price of its stock to increase and also causes an increase in the volatility of the stock price. How will these two reactions affect the value of call options on this stock?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "value. Answer: B Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Both reactions will decrease the value.",
+      "B": "Both reactions increase the value.",
+      "C": "Neither reaction will affect the value.",
+      "D": "The reactions will have offsetting effects on the value.",
+      "E": "The change in volatility will have no effect while the increased stock price will increase the value."
     },
     "answer": "B",
     "chapter": 22
@@ -432,11 +432,11 @@
     "id": 1763,
     "question": "New Tek announces a major expansion which causes the price of its stock to increase and also causes an increase in the volatility of the stock price. How will these two reactions affect the value of put options on this stock?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "value. Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Both reactions will decrease the value.",
+      "B": "Both reactions will increase the value.",
+      "C": "Neither reaction will affect put option values.",
+      "D": "The reactions will have offsetting effects on the value.",
+      "E": "The change in volatility will have no effect while the increased stock price will decrease the value."
     },
     "answer": "D",
     "chapter": 22
@@ -445,11 +445,11 @@
     "id": 1764,
     "question": "A trading opportunity that offers a riskless profit is called a(n):",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "put option.",
+      "B": "call option.",
+      "C": "market equilibrium.",
+      "D": "arbitrage.",
+      "E": "cross-hedge."
     },
     "answer": "D",
     "chapter": 22
@@ -458,11 +458,11 @@
     "id": 1765,
     "question": "The value of an option if it were to immediately expire, that is, its lower pricing bound, is called an option's ________ value.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "strike",
+      "B": "market",
+      "C": "volatility",
+      "D": "time",
+      "E": "intrinsic"
     },
     "answer": "E",
     "chapter": 22
@@ -471,11 +471,11 @@
     "id": 1766,
     "question": "The maximum value of a call option is equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "strike price minus the initial cost of the option.",
+      "B": "exercise price plus the price of the underlying stock.",
+      "C": "strike price.",
+      "D": "price of the underlying stock.",
+      "E": "purchase price."
     },
     "answer": "D",
     "chapter": 22
@@ -484,11 +484,11 @@
     "id": 1767,
     "question": "The lower bound on a call's value is defined as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "greater of the strike price or zero.",
+      "B": "greater of the stock price minus the exercise price or zero.",
+      "C": "lesser of the strike price or the stock price.",
+      "D": "lesser of the strike price or zero.",
+      "E": "lesser of the stock price minus the exercise price or zero."
     },
     "answer": "B",
     "chapter": 22
@@ -497,11 +497,11 @@
     "id": 1768,
     "question": "The lower bound of a call option's value:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "can be a negative value regardless of the stock or exercise prices.",
+      "B": "can be a negative value but only when the exercise price exceeds the stock price.",
+      "C": "can be a negative value but only when the stock price exceeds the exercise price.",
+      "D": "must be greater than zero.",
+      "E": "can be equal to zero."
     },
     "answer": "E",
     "chapter": 22
@@ -510,11 +510,11 @@
     "id": 1769,
     "question": "The intrinsic value of a call equals the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "exercise price minus the stock price.",
+      "B": "upper bound of the call's value.",
+      "C": "market price of the call option.",
+      "D": "lower bound of the call's value.",
+      "E": "premium paid to purchase the call."
     },
     "answer": "D",
     "chapter": 22
@@ -523,11 +523,11 @@
     "id": 1770,
     "question": "The intrinsic value of a put is equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option pricing bounds Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "lesser of the strike price or the stock price.",
+      "B": "lesser of the stock price minus the exercise price or zero.",
+      "C": "lesser of the stock price or zero.",
+      "D": "greater of the strike price minus the stock price or zero.",
+      "E": "greater of the stock price minus the exercise price or zero."
     },
     "answer": "D",
     "chapter": 22
@@ -536,11 +536,11 @@
     "id": 1771,
     "question": "Which one of the following statements is correct concerning in-the-money option values?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The value of a put decreases as the exercise price increases.",
+      "B": "The value of a put increases as the price of the underlying stock increases.",
+      "C": "The value of a call decreases as the exercise price increases.",
+      "D": "An increase in the underlying stock price decreases both the value of a put and a call.",
+      "E": "The value of a call decreases as the price of the underlying stock increases."
     },
     "answer": "C",
     "chapter": 22
@@ -549,11 +549,11 @@
     "id": 1772,
     "question": "All else held constant, the value of a call decreases when the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "time to expiration increases.",
+      "B": "risk-free rate of return increases.",
+      "C": "stock price increases.",
+      "D": "exercise price increases.",
+      "E": "volatility of the price of the underlying stock increases."
     },
     "answer": "D",
     "chapter": 22
@@ -562,11 +562,11 @@
     "id": 1773,
     "question": "Which one of the following will cause the value of a call to decrease?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Lowering the exercise price",
+      "B": "Increasing the time to expiration",
+      "C": "Increasing the risk-free rate",
+      "D": "Lowering the risk level of the underlying security",
+      "E": "Increasing the stock price"
     },
     "answer": "D",
     "chapter": 22
@@ -575,11 +575,11 @@
     "id": 1774,
     "question": "Assume you own both a May 40 put and a May 40 call on ABC stock. Which one of the following statements is correct concerning your option positions? Ignore taxes and transaction costs.",
     "options": {
-      "A": "your call.",
-      "B": "",
-      "C": "June options.",
-      "D": "",
-      "E": "on the other option. Answer: C Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "An increase in the stock price will increase the value of your put and decrease the value of your call.",
+      "B": "Both a May 45 put and a May 45 call will have higher values than your May 40 options.",
+      "C": "The time premiums on both your put and call are less than the time premiums on equivalent June options.",
+      "D": "A decrease in the stock price will decrease the value of both of your options.",
+      "E": "You can never profit on your positions as your profits on one option will be offset by losses on the other option."
     },
     "answer": "C",
     "chapter": 22
@@ -588,11 +588,11 @@
     "id": 1775,
     "question": "You own both a May 20 call and a May 20 put. If the call finishes in the money, then the put will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "also finish in the money.",
+      "B": "finish at the money.",
+      "C": "finish out of the money.",
+      "D": "either finish at the money or in the money.",
+      "E": "either finish at the money or out of the money."
     },
     "answer": "C",
     "chapter": 22
@@ -601,11 +601,11 @@
     "id": 1776,
     "question": "An increase in which one of the following will decrease the value of a call option?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.7 Valuing Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Interest rate",
+      "B": "Exercise price",
+      "C": "Time to expiration",
+      "D": "Stock volatility",
+      "E": "Underlying asset price"
     },
     "answer": "B",
     "chapter": 22
@@ -614,11 +614,11 @@
     "id": 1777,
     "question": "The effect on an option's value of a small change in the value of the underlying asset is called the option:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.8 An Option Pricing Formula Topic: Option valuation fundamentals Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "theta.",
+      "B": "vega.",
+      "C": "rho.",
+      "D": "delta.",
+      "E": "gamma."
     },
     "answer": "D",
     "chapter": 22
@@ -627,11 +627,11 @@
     "id": 1778,
     "question": "In the Black-Scholes option pricing formula, N(d1) is the probability that a standardized, normally distributed random variable is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "less than or equal to N(d2).",
+      "B": "less than one.",
+      "C": "equal to one.",
+      "D": "equal to d1.",
+      "E": "less than or equal to d1."
     },
     "answer": "E",
     "chapter": 22
@@ -640,11 +640,11 @@
     "id": 1779,
     "question": "The Black-Scholes option pricing model is dependent on which five parameters?",
     "options": {
-      "A": "",
-      "B": "underlying asset",
-      "C": "exercise price",
-      "D": "expiration",
-      "E": "time to expiration Answer: D Difficulty: 1 Easy Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Stock price, exercise price, risk-free rate, probability of occurrence, and time to expiration",
+      "B": "Stock price, risk-free rate, probability of occurrence, time to maturity, and variance of the underlying asset",
+      "C": "Stock price, risk-free rate, probability of occurrence, variance of the underlying asset, and exercise price",
+      "D": "Stock price, exercise price, risk-free rate, variance of the underlying asset, and time to expiration",
+      "E": "Exercise price, probability of occurrence, stock price, variance of the underlying asset, and time to expiration"
     },
     "answer": "D",
     "chapter": 22
@@ -653,11 +653,11 @@
     "id": 1780,
     "question": "The delta of a call measures the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "time remaining to expiration compared to the option's original maturity.",
+      "B": "change between an option's original value and its current value.",
+      "C": "swing in the price of the call relative to the swing in the underlying stock price.",
+      "D": "ratio of the change in the option price to the change in the time to expiration.",
+      "E": "volatility of the underlying security."
     },
     "answer": "C",
     "chapter": 22
@@ -666,11 +666,11 @@
     "id": 1781,
     "question": "You own stock in a firm that has a pure discount loan due in six months. The loan has a face value of $50,000. The assets of the firm are currently worth $62,000. The stockholders in this firm basically own a ________ option on the assets of the firm with a strike price of ________",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "put; $62,000.",
+      "B": "put; $50,000.",
+      "C": "warrant; $62,000.",
+      "D": "call; $62,000.",
+      "E": "call; $50,000."
     },
     "answer": "E",
     "chapter": 22
@@ -679,11 +679,11 @@
     "id": 1782,
     "question": "If you consider the equity of a firm to be an option on the firm's assets then the act of paying off debt is comparable to ________ on the assets of the firm.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "purchasing a put option",
+      "B": "purchasing a call option",
+      "C": "exercising an in-the-money put option",
+      "D": "exercising an in-the-money call option",
+      "E": "selling a call option"
     },
     "answer": "D",
     "chapter": 22
@@ -692,11 +692,11 @@
     "id": 1783,
     "question": "For every positive net present value project that a firm undertakes, the equity in the firm will increase the most if the delta of the call option on the firm's assets is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "equal to one.",
+      "B": "between zero and one.",
+      "C": "equal to zero.",
+      "D": "between zero and minus one.",
+      "E": "equal to minus one."
     },
     "answer": "A",
     "chapter": 22
@@ -705,11 +705,11 @@
     "id": 1784,
     "question": "Assume a risky firm has both bondholders and stockholders. If the firm obtains a government loan guarantee on its existing debt, who will gain from this guarantee?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Debt and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Existing stockholders only",
+      "B": "Both existing bondholders and stockholders in proportion to the firm's debt-equity ratio",
+      "C": "Existing bondholders and stockholders on an equal basis",
+      "D": "Existing bondholders only",
+      "E": "Future stockholders only"
     },
     "answer": "D",
     "chapter": 22
@@ -718,11 +718,11 @@
     "id": 1785,
     "question": "If you consider bondholders to be the owners of a firm, then those bondholders:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "own a call option on the firm with an exercise price equal to the firm's total equity.",
+      "B": "own a put option on the firm with an exercise price equal to the firm's total debt.",
+      "C": "have written a put option on the firm with an exercise price equal to the firm's total equity.",
+      "D": "have written a call option on the firm with an exercise price equal to the firm's total debt.",
+      "E": "own a put option on the firm with an exercise price equal to the firm's total assets."
     },
     "answer": "D",
     "chapter": 22
@@ -731,11 +731,11 @@
     "id": 1786,
     "question": "If you consider stockholders to be the owners of a firm, then those stockholders:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "own a call option on the firm with an exercise price equal to the firm's total equity.",
+      "B": "own a put option on the firm with an exercise price equal to the firm's total debt.",
+      "C": "have written a put option on the firm with an exercise price equal to the firm's total equity.",
+      "D": "have written a call option on the firm with an exercise price equal to the firm's total debt.",
+      "E": "own a put option on the firm with an exercise price equal to the firm's total assets."
     },
     "answer": "B",
     "chapter": 22
@@ -744,11 +744,11 @@
     "id": 1787,
     "question": "A purely financial merger:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 22.10 Options and Corporate Decisions: Some Applications Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "increases shareholder value but does not affect bondholders.",
+      "B": "decreases both bondholder and shareholder values.",
+      "C": "transfers bondholder value to shareholders.",
+      "D": "increases bondholder value but does not affect shareholder value.",
+      "E": "reduces shareholder value while increasing bondholder value."
     },
     "answer": "E",
     "chapter": 22
@@ -757,11 +757,11 @@
     "id": 1788,
     "question": "Shareholders in a levered firm might wish to accept a negative net present value project if it:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.10 Options and Corporate Decisions: Some Applications Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "increases the standard deviation of the returns on the firm's assets.",
+      "B": "lowers the variance of the returns on the firm's assets.",
+      "C": "lowers the firm's volatility.",
+      "D": "diversifies the cash flows of the firm.",
+      "E": "decreases the risk that a firm will default on its debt."
     },
     "answer": "A",
     "chapter": 22
@@ -770,11 +770,11 @@
     "id": 1789,
     "question": "Alicia is considering purchasing a small building with the intent of opening a craft and sewing center. The cost of the building is $49,000 and the cost to open the center is an additional $150,000. If the center is opened and no other competition is nearby the project will provide a hefty return. However, should the vacant building down the street be used for a competitive type entity, then the center could be a losing proposition. Assume the building is purchased but the opening of the center is delayed. This situation would best be described as ________ on a craft and sewing center.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 22.11 Investment in Real Projects and Options Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "purchasing a call option",
+      "B": "writing a call option",
+      "C": "purchasing a put option",
+      "D": "writing a put option",
+      "E": "exercising a call on the land and writing a put"
     },
     "answer": "A",
     "chapter": 22
@@ -783,224 +783,224 @@
     "id": 1790,
     "question": "You purchased eight TJH call option contracts with a strike price of $37.50 when the option quote was $.55. The option expires today when the value of TJH stock is $37.10. Ignoring trading costs and taxes, what is your total profit on your investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: You will not exercise the call option because the strike price is greater than the stock price. Why pay more than market price to purchase shares? Thus, your loss is equal to the amount paid to purchase the option contracts: Total profit = 8(100)[−$.55 + MAX($37.10 − 37.50, 0)] Total profit = −$440 Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option payoffs and profits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$0",
+      "B": "−$120",
+      "C": "−$440",
+      "D": "$420",
+      "E": "$760"
     },
     "answer": "C",
-    "explanation": "You will not exercise the call option because the strike price is greater than the",
+    "explanation": "You will not exercise the call option because the strike price is greater than the stock price. Why pay more than market price to purchase shares? Thus, your loss is equal to the amount paid to purchase the option contracts: Total profit = 8(100)[−$.55 + MAX($37.10 − 37.50, 0)] Total profit = −$440",
     "chapter": 22
   },
   {
     "id": 1791,
     "question": "You purchased five WXO 30 call option contracts at a quoted price of $.34. What is your total profit on this investment if the price of WXO is $33.60 on the option expiration date?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Total profit = 5(100)[−$.34 + MAX($33.60 − 30, 0)] Total profit = $1,630 Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option payoffs and profits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$170",
+      "B": "$326",
+      "C": "$1,630",
+      "D": "$1,440",
+      "E": "$1,576"
     },
     "answer": "C",
-    "explanation": "Total profit = 5(100)[−$.34 + MAX($33.60 − 30, 0)]",
+    "explanation": "Total profit = 5(100)[−$.34 + MAX($33.60 − 30, 0)] Total profit = $1,630",
     "chapter": 22
   },
   {
     "id": 1792,
     "question": "You own two call option contracts on ABC stock with a strike price of $15. When you purchased the contracts the option price was $1.20 and the stock price was $15.90. What is the total intrinsic value of these options if ABC stock is currently selling for $14.50 a share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Intrinsic value = Max($14.50 − 15, 0) Intrinsic value = $0 Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$280",
+      "B": "$180",
+      "C": "$100",
+      "D": "$0",
+      "E": "$29"
     },
     "answer": "D",
-    "explanation": "Intrinsic value = Max($14.50 − 15, 0)",
+    "explanation": "Intrinsic value = Max($14.50 − 15, 0) Intrinsic value = $0",
     "chapter": 22
   },
   {
     "id": 1793,
     "question": "Last week, you purchased one call option contract on DI stock with a strike price of $32.50 and an option price of $1.05. What is the intrinsic value per share of stock if DI is currently priced at $34.10?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Intrinsic value = Max($34.10 − 32.50, 0) Intrinsic value = $1.60 The call is in the money. Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$2.15",
+      "B": "$1.60",
+      "C": "$.55",
+      "D": "$.93",
+      "E": "$0"
     },
     "answer": "B",
-    "explanation": "Intrinsic value = Max($34.10 − 32.50, 0)",
+    "explanation": "Intrinsic value = Max($34.10 − 32.50, 0) Intrinsic value = $1.60 The call is in the money.",
     "chapter": 22
   },
   {
     "id": 1794,
     "question": "You purchased five CVB call option contracts with a strike price of $40 when the option was quoted at $3.65. The option expires today when the value of CVB stock is $43. Ignoring trading costs and taxes, what is your total profit on your investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 5(100)[−$3.65 + MAX($43 − 40, 0)] Total profit = −$325 Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$0",
+      "B": "−$325",
+      "C": "$800",
+      "D": "$1,500",
+      "E": "−$1,825"
     },
     "answer": "B",
-    "explanation": "Total profit = 5(100)[−$3.65 + MAX($43 − 40, 0)]",
+    "explanation": "Total profit = 5(100)[−$3.65 + MAX($43 − 40, 0)] Total profit = −$325",
     "chapter": 22
   },
   {
     "id": 1795,
     "question": "You purchased two WXO 15 call option contracts at a quoted price of $.08. What is your total profit on this investment if the price of WXO is $14.80 on the option expiration date?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 2(100)[−$.08 + MAX($14.80 − 15, 0)] Total profit = −$16 The option expires out of the money. Difficulty: 2 Medium Section: 22.2 Call Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "−$20",
+      "B": "−$16",
+      "C": "$12",
+      "D": "$16",
+      "E": "$20"
     },
     "answer": "B",
-    "explanation": "Total profit = 2(100)[−$.08 + MAX($14.80 − 15, 0)]",
+    "explanation": "Total profit = 2(100)[−$.08 + MAX($14.80 − 15, 0)] Total profit = −$16 The option expires out of the money.",
     "chapter": 22
   },
   {
     "id": 1796,
     "question": "Three weeks ago, you purchased a July 45 put option on RPJ stock at an option price of $3.20. The market price of RPJ stock three weeks ago was $42.70. Today, RPJ stock is selling at $44.75 a share and the July 45 put is priced at $.80. What is the intrinsic value of your put contract?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Contract intrinsic value = 1(100)[Max($45 − 44.75, 0)] Contract intrinsic value = $25 Difficulty: 2 Medium Section: 22.3 Put Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$295",
+      "B": "$210",
+      "C": "$0",
+      "D": "$25",
+      "E": "$110"
     },
     "answer": "D",
-    "explanation": "Contract intrinsic value = 1(100)[Max($45 − 44.75, 0)]",
+    "explanation": "Contract intrinsic value = 1(100)[Max($45 − 44.75, 0)] Contract intrinsic value = $25",
     "chapter": 22
   },
   {
     "id": 1797,
     "question": "You own ten put option contracts on XYZ stock with an exercise price of $25. What is the total intrinsic value of these contracts if XYZ stock is currently selling for $24.50 a share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Intrinsic value of contracts = 10(100)[Max($25 − 24.50, 0)] Intrinsic value of contracts = $500 Difficulty: 2 Medium Section: 22.3 Put Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "−$500",
+      "B": "−$50",
+      "C": "$0",
+      "D": "$50",
+      "E": "$500"
     },
     "answer": "E",
-    "explanation": "Intrinsic value of contracts = 10(100)[Max($25 − 24.50, 0)]",
+    "explanation": "Intrinsic value of contracts = 10(100)[Max($25 − 24.50, 0)] Intrinsic value of contracts = $500",
     "chapter": 22
   },
   {
     "id": 1798,
     "question": "Three months ago, you purchased three put option contracts on WXX stock with a strike price of $60 and an option price of $.60. The option expires today when the value of WXX stock is $48.10. Ignoring trading costs and taxes, what is your total profit on your investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 3(100)[−$.60 + MAX($60 − 48.10,0)] Total profit = $3,390 Difficulty: 2 Medium Section: 22.3 Put Options Topic: Option payoffs and profits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$180",
+      "B": "$3,390",
+      "C": "$60",
+      "D": "$1,130",
+      "E": "$1,090"
     },
     "answer": "B",
-    "explanation": "Total profit = 3(100)[−$.60 + MAX($60 − 48.10,0)]",
+    "explanation": "Total profit = 3(100)[−$.60 + MAX($60 − 48.10,0)] Total profit = $3,390",
     "chapter": 22
   },
   {
     "id": 1799,
     "question": "Three months ago, you purchased a put option contract on WXX stock with a strike price of $61 and an option price of $.60. The option expires today when the value of WXX stock is $63.50. Ignoring trading costs and taxes, what is your total profit on your investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 1(100)[−$.60 + MAX($61 − 63.50,0)] Total profit = −$60 Difficulty: 2 Medium Section: 22.3 Put Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$310",
+      "B": "−$60",
+      "C": "$0",
+      "D": "$60",
+      "E": "−$190"
     },
     "answer": "B",
-    "explanation": "Total profit = 1(100)[−$.60 + MAX($61 − 63.50,0)]",
+    "explanation": "Total profit = 1(100)[−$.60 + MAX($61 − 63.50,0)] Total profit = −$60",
     "chapter": 22
   },
   {
     "id": 1800,
     "question": "You sold ten put option contracts on PLT stock with an exercise price of $31.20 and an option price of $1.20. Today, the option expires and the underlying stock is selling for $33 a share. Ignoring trading costs and taxes, what is your total profit on this investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Total profit = 10(100)[$1.20 + MIN($33 − 31.20, 0)] Total profit = $1,200 Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$3,300",
+      "B": "−$1,200",
+      "C": "$120",
+      "D": "$1,200",
+      "E": "$3,300"
     },
     "answer": "D",
-    "explanation": "Total profit = 10(100)[$1.20 + MIN($33 − 31.20, 0)]",
+    "explanation": "Total profit = 10(100)[$1.20 + MIN($33 − 31.20, 0)] Total profit = $1,200",
     "chapter": 22
   },
   {
     "id": 1801,
     "question": "You sold a put contract on EDF stock at an option price of $.50 and an exercise price of $21. Today, EDF stock is selling for $20 a share and your option position was closed out. Ignoring transaction costs and taxes, what is your total profit?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Total profit = 1(100)[$.50 + MIN($20 − 21, 0)] Total profit = −$50 Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$50",
+      "B": "$60",
+      "C": "−$50",
+      "D": "−$60",
+      "E": "$0"
     },
     "answer": "C",
-    "explanation": "Total profit = 1(100)[$.50 + MIN($20 − 21, 0)]",
+    "explanation": "Total profit = 1(100)[$.50 + MIN($20 − 21, 0)] Total profit = −$50",
     "chapter": 22
   },
   {
     "id": 1802,
     "question": "You wrote ten call option contracts on JIG stock with a strike price of $41 and an option price of $.60. What is your total profit on this investment if the price of JIG is $46.05 on the option expiration date?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 10(100)[$.60 + MIN($41 − 46.05, 0)] Total profit = −$4,450 Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option valuations and payoffs Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$5,050",
+      "B": "−$4,450",
+      "C": "$4,100",
+      "D": "$4,450",
+      "E": "$5,050"
     },
     "answer": "B",
-    "explanation": "Total profit = 10(100)[$.60 + MIN($41 − 46.05, 0)]",
+    "explanation": "Total profit = 10(100)[$.60 + MIN($41 − 46.05, 0)] Total profit = −$4,450",
     "chapter": 22
   },
   {
     "id": 1803,
     "question": "You wrote ten put option contracts on JIG stock with a strike price of $40 and an option price of $.40. What is your total profit on this investment if the price of JIG is $41.05 on the option expiration date?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: The buyer of the put contracts will not exercise the options since the market price exceeds the strike price. Thus, your total profit equals the option premium you received as the option writer. Total profit = 10(100)[$.40 + MIN($41.05 − 40.00, 0)] Total profit = $400 Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option payoffs and profits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$6,450",
+      "B": "$5,650",
+      "C": "$400",
+      "D": "−$5,650",
+      "E": "−$6,450"
     },
     "answer": "C",
-    "explanation": "The buyer of the put contracts will not exercise the options since the market price",
+    "explanation": "The buyer of the put contracts will not exercise the options since the market price exceeds the strike price. Thus, your total profit equals the option premium you received as the option writer. Total profit = 10(100)[$.40 + MIN($41.05 − 40.00, 0)] Total profit = $400",
     "chapter": 22
   },
   {
     "id": 1804,
     "question": "You sold ten put option contracts on PLT stock with an exercise price of $32.50 and an option price of $1.10. Today, the option expires when the underlying stock is selling for $34.30 a share. Ignoring trading costs and taxes, what is your total profit on this investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Total profit = 10(100)[$1.10 + MIN($34.30 − 32.50,0)] Total profit = $1,100 Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option payoffs and profits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$2,900",
+      "B": "− $1,100",
+      "C": "$700",
+      "D": "$1,100",
+      "E": "− $2,900"
     },
     "answer": "D",
-    "explanation": "Total profit = 10(100)[$1.10 + MIN($34.30 − 32.50,0)]",
+    "explanation": "Total profit = 10(100)[$1.10 + MIN($34.30 − 32.50,0)] Total profit = $1,100",
     "chapter": 22
   },
   {
     "id": 1805,
     "question": "You sold a put contract on EDF stock at an option price of $.25 and an exercise price of $22.50. The option expires today when EDF stock is selling for $21.70 a share. Ignoring transaction costs and taxes, what is your total profit on this investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 1(100)[$.25 + MIN($21.70 − 22.50,0)] Total profit = −$55 When the put was exercised, you had to buy at $22.50 and could only resell at $21.70. Difficulty: 2 Medium Section: 22.4 Selling Options Topic: Option payoffs and profits Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$105",
+      "B": "−$55",
+      "C": "−$25",
+      "D": "$55",
+      "E": "$0"
     },
     "answer": "B",
-    "explanation": "Total profit = 1(100)[$.25 + MIN($21.70 − 22.50,0)]",
+    "explanation": "Total profit = 1(100)[$.25 + MIN($21.70 − 22.50,0)] Total profit = −$55 When the put was exercised, you had to buy at $22.50 and could only resell at $21.70.",
     "chapter": 22
   },
   {
@@ -1163,14 +1163,14 @@
     "id": 1818,
     "question": "50",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Cost = 4(100)($.26) Cost = $104 Difficulty: 2 Medium Section: 22.5 Option Quotes Topic: Option contracts and quotes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$22",
+      "B": "$26",
+      "C": "$240",
+      "D": "$88",
+      "E": "$104"
     },
     "answer": "E",
-    "explanation": "Cost = 4(100)($.26)",
+    "explanation": "Cost = 4(100)($.26) Cost = $104",
     "chapter": 22
   },
   {
@@ -1229,224 +1229,224 @@
     "id": 1823,
     "question": "10",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Contract value = 1(100)($6.15) Contract value = $615 Difficulty: 2 Medium Section: 22.5 Option Quotes Topic: Option contracts and quotes Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$4.60",
+      "B": "$.10",
+      "C": "$615",
+      "D": "$10",
+      "E": "$6.15"
     },
     "answer": "C",
-    "explanation": "Contract value = 1(100)($6.15)",
+    "explanation": "Contract value = 1(100)($6.15) Contract value = $615",
     "chapter": 22
   },
   {
     "id": 1824,
     "question": "The market price of ABC stock has been very volatile and you think this volatility will continue for several weeks. Thus, you decide to purchase one two-month call option contract on ABC stock with a strike price of $25 and an option price of $1.30. You also purchase one two- month put option on ABC stock with a strike price of $25 and an option price of $.50. What will be your total profit on these positions if the stock price is $25.60 on the day the options expire?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 1(100)(−$1.30 − 25 + 25.60) + 1(100)(−$.50) Total profit = −$120 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Option payoffs and profits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$180",
+      "B": "−$120",
+      "C": "$100",
+      "D": "$120",
+      "E": "$180"
     },
     "answer": "B",
-    "explanation": "Total profit = 1(100)(−$1.30 − 25 + 25.60) + 1(100)(−$.50)",
+    "explanation": "Total profit = 1(100)(−$1.30 − 25 + 25.60) + 1(100)(−$.50) Total profit = −$120",
     "chapter": 22
   },
   {
     "id": 1825,
     "question": "Several rumors concerning Wyslow stock have started circulating. These rumors are causing the market price of the stock to become increasingly volatile. Given this situation, you decide to buy both a one-month put and a one-month call option on this stock with an exercise price of $15. You purchased the call at a quoted price of $.20 and the put at a price of $2.10. What will be your total profit on these option positions if the stock price is $6 on the day the options expire?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Total profit = 1(100)(−$.20) + 1(100)(−$2.10 − 6.00 + 15.00] Total profit = $670 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Option payoffs and profits Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$30",
+      "B": "$670",
+      "C": "$690",
+      "D": "$710",
+      "E": "$1,110"
     },
     "answer": "B",
-    "explanation": "Total profit = 1(100)(−$.20) + 1(100)(−$2.10 − 6.00 + 15.00]",
+    "explanation": "Total profit = 1(100)(−$.20) + 1(100)(−$2.10 − 6.00 + 15.00] Total profit = $670",
     "chapter": 22
   },
   {
     "id": 1826,
     "question": "Tru-U stock is selling for $41 a share. A 6-month call on Tru-U stock with a strike price of $45 is priced at $1.60. Risk-free assets are currently returning .29 percent per month. What is the price of a 6-month put on Tru-U stock with a strike price of $45?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Using put-call parity: S + P = C + PV(E) P = $1.60 + ($45/1.00296) − $41 P = $4.82 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$2.98",
+      "B": "$3.00",
+      "C": "$4.63",
+      "D": "$4.82",
+      "E": "$4.90"
     },
     "answer": "D",
-    "explanation": "Using put-call parity:",
+    "explanation": "Using put-call parity: S + P = C + PV(E) P = $1.60 + ($45/1.00296) − $41 P = $4.82",
     "chapter": 22
   },
   {
     "id": 1827,
     "question": "GSX stock is selling for $32.40 a share. A 4-month call on GSX stock with a strike price of $35 is priced at $.55. Risk-free assets are currently returning .3 percent per month. What is the price of a 4-month put on GSX stock with a strike price of $35?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Using put-call parity: S + P = C + PV(E) P = $.55 + ($35/1.0034) − $32.40 P = $2.73 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$2.46",
+      "B": "$3.48",
+      "C": "$4.09",
+      "D": "$2.73",
+      "E": "$3.02"
     },
     "answer": "D",
-    "explanation": "Using put-call parity:",
+    "explanation": "Using put-call parity: S + P = C + PV(E) P = $.55 + ($35/1.0034) − $32.40 P = $2.73",
     "chapter": 22
   },
   {
     "id": 1828,
     "question": "J&L stock has a current market price of $47.60 a share. The one-year call on this stock with a strike price of $45 is priced at $3.20 while the one-year put with a strike price of $45 is priced at $.15. What is the risk-free rate of return?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: S + P = C + PV(E) $47.60 + .15 = $3.20 + $45/(1 + r) r = .0101, or 1.01% Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Put-call parity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 39 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "2.71 percent",
+      "B": "1.76 percent",
+      "C": "1.01 percent",
+      "D": "2.04 percent",
+      "E": "2.87 percent"
     },
     "answer": "C",
-    "explanation": "S + P = C + PV(E)",
+    "explanation": "S + P = C + PV(E) $47.60 + .15 = $3.20 + $45/(1 + r) r = .0101, or 1.01%",
     "chapter": 22
   },
   {
     "id": 1829,
     "question": "The market price of ABC stock has been very volatile and you think this volatility will continue for a few weeks. Thus, you decide to purchase a one-month call option contract on this stock with a strike price of $25 and an option price of $1.50. You also purchase a one-month put option on this stock with a strike price of $25 and an option price of $.70. What will be your total profit on these option positions if the stock price is $24.60 on the day the options expire?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total profit = 1(100)(−$1.50) + 1(100)(−$.70 + 25.00 − 24.60) Total profit = −$180 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "−$180",
+      "B": "−$140",
+      "C": "−$100",
+      "D": "$220",
+      "E": "$140"
     },
     "answer": "A",
-    "explanation": "Total profit = 1(100)(−$1.50) + 1(100)(−$.70 + 25.00 − 24.60)",
+    "explanation": "Total profit = 1(100)(−$1.50) + 1(100)(−$.70 + 25.00 − 24.60) Total profit = −$180",
     "chapter": 22
   },
   {
     "id": 1830,
     "question": "Due to technological and market developments, the price of Beta stock has become quite volatile. Given this, you decide to buy two one-month put option contracts and two one-month call option contracts on this stock with an exercise price of $15. You purchased the calls at a quoted price of $.40 and the puts at a price of $2.30. What will be your total profit on these positions if the stock price is $29 on the day the options expire?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Total profit = 2(100)(−$.40 − 15 + 29) + 2(100)(−$2.30) Total profit = $2,260 Difficulty: 2 Medium Section: 22.6 Combinations of Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 40 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1,890",
+      "B": "$2,720",
+      "C": "$2,260",
+      "D": "$1,130",
+      "E": "$1,360"
     },
     "answer": "C",
-    "explanation": "Total profit = 2(100)(−$.40 − 15 + 29) + 2(100)(−$2.30)",
+    "explanation": "Total profit = 2(100)(−$.40 − 15 + 29) + 2(100)(−$2.30) Total profit = $2,260",
     "chapter": 22
   },
   {
     "id": 1831,
     "question": "You own a call option on Jasper Co. stock that expires in one year. The exercise price is $35. The current price of the stock is $48 and the risk-free rate of return is 4.5 percent. Assume the option will finish in the money. What is the current value of the call option per share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: C0 = $48 − $35/1.045 C0 = $14.51 Difficulty: 2 Medium Section: 22.7 Valuing Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$13.00",
+      "B": "$13.59",
+      "C": "$13.97",
+      "D": "$14.51",
+      "E": "$15.46"
     },
     "answer": "D",
-    "explanation": "C0 = $48 − $35/1.045",
+    "explanation": "C0 = $48 − $35/1.045 C0 = $14.51",
     "chapter": 22
   },
   {
     "id": 1832,
     "question": "You currently own a one-year call option on WOI stock with a strike price of $20. The current stock price is $22.10 and the risk-free rate of return is 3.75 percent. If you assume the option finishes in the money, what is the current value of your call option per share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: C0 = $22.10 - $20/1.0375 C0 = $2.82 Difficulty: 2 Medium Section: 22.7 Valuing Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 41 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$2.02",
+      "B": "$2.18",
+      "C": "$1.76",
+      "D": "$3.13",
+      "E": "$2.82"
     },
     "answer": "E",
-    "explanation": "C0 = $22.10 - $20/1.0375",
+    "explanation": "C0 = $22.10 - $20/1.0375 C0 = $2.82",
     "chapter": 22
   },
   {
     "id": 1833,
     "question": "The common stock of Mercury Motors is selling for $28.97 a share while one-year U.S. Treasury securities are currently yielding 2.8 percent. What is the current value per share of a one-year call option on Mercury Motors stock if the exercise price is $22.50 and you assume the option will finish in the money?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: C0 = $28.97 − $22.50/1.028 C0 = $7.08 Difficulty: 2 Medium Section: 22.7 Valuing Options Topic: Option valuations and payoffs Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$6.29",
+      "B": "$6.40",
+      "C": "$6.65",
+      "D": "$7.67",
+      "E": "$7.08"
     },
     "answer": "E",
-    "explanation": "C0 = $28.97 − $22.50/1.028",
+    "explanation": "C0 = $28.97 − $22.50/1.028 C0 = $7.08",
     "chapter": 22
   },
   {
     "id": 1834,
     "question": "The common stock of WIN is currently priced at $52.50 a share. One year from now, the stock price is expected to be either $54 or $60 a share. The risk-free rate of return is 4 percent. What is the per share value of one call option on WIN stock with an exercise price of $55?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Delta = ($5 − 0)/($60 − 54) Delta = .8333 Value of call = $52.50(.8333) − .8333($54/1.04) Value of call = $.48 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 42 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$.39",
+      "B": "$.41",
+      "C": "$.45",
+      "D": "$.48",
+      "E": "$.51"
     },
     "answer": "D",
-    "explanation": "Delta = ($5 − 0)/($60 − 54)",
+    "explanation": "Delta = ($5 − 0)/($60 − 54) Delta = .8333 Value of call = $52.50(.8333) − .8333($54/1.04) Value of call = $.48",
     "chapter": 22
   },
   {
     "id": 1835,
     "question": "You own one call option with an exercise price of $30 on Nadia stock. This stock is currently selling for $27.80 a share but is expected to increase to either $28 or $34 a share over the next year. The risk-free rate of return is 5 percent. What is the current per share value of your option if it expires in one year?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Delta = ($4 − 0)/($34 − 28) Delta = .6667 Value of call = $27.80(.6667) − (.6667)($28/1.05) Value of call = $.76 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$.76",
+      "B": "$.79",
+      "C": "$.89",
+      "D": "$.92",
+      "E": "$.95"
     },
     "answer": "A",
-    "explanation": "Delta = ($4 − 0)/($34 − 28)",
+    "explanation": "Delta = ($4 − 0)/($34 − 28) Delta = .6667 Value of call = $27.80(.6667) − (.6667)($28/1.05) Value of call = $.76",
     "chapter": 22
   },
   {
     "id": 1836,
     "question": "The assets of Green Light Specials are currently worth $2,100. These assets are expected to be worth either $1,800 or $2,300 one year from now. The company has a pure discount bond outstanding with a $2,000 face value and a maturity date of one year. The risk-free rate is 5 percent. What is the value of the equity in this firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Delta = ($300 − 0)/($2,300 − 1,800) Delta = .60 Equity is a call option on a firm's assets, so: Value of call = $2,100(.60) − (.60)($1,800/1.05) Value of call = $231.43 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 43 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$166.67",
+      "B": "$231.43",
+      "C": "$385.71",
+      "D": "$405.00",
+      "E": "$714.29"
     },
     "answer": "B",
-    "explanation": "Delta = ($300 − 0)/($2,300 − 1,800)",
+    "explanation": "Delta = ($300 − 0)/($2,300 − 1,800) Delta = .60 Equity is a call option on a firm's assets, so: Value of call = $2,100(.60) − (.60)($1,800/1.05) Value of call = $231.43",
     "chapter": 22
   },
   {
     "id": 1837,
     "question": "Big Ed's Electrical has a pure discount bond that comes due in one year and has a face value of $1,000. The risk-free rate of return is 4 percent. The assets of Big Ed's are expected to be worth either $800 or $1,300 in one year. Currently, these assets are worth $1,140. What is the current value of the debt of Big Ed's Electrical?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Delta = ($300 − 0)/($1,300 − 800) Delta = .60 Equity is a call option on a firm's assets, so: Value of call = $1,140(.60) − (.60)($800/1.04) Value of call = $222.46 Value of debt = $1,140 − 222.46 Value of debt = $917.54 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 44 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$222.46",
+      "B": "$370.77",
+      "C": "$514.28",
+      "D": "$769.23",
+      "E": "$917.54"
     },
     "answer": "E",
-    "explanation": "Delta = ($300 − 0)/($1,300 − 800)",
+    "explanation": "Delta = ($300 − 0)/($1,300 − 800) Delta = .60 Equity is a call option on a firm's assets, so: Value of call = $1,140(.60) − (.60)($800/1.04) Value of call = $222.46 Value of debt = $1,140 − 222.46 Value of debt = $917.54",
     "chapter": 22
   },
   {
     "id": 1838,
     "question": "Martha B's has total assets of $1,810. These assets are expected to increase in value to either $1,900 or $2,400 by next year. The company has a pure discount bond outstanding with a face value of $2,000. This bond matures in one year. Currently, U.S. Treasury bills are yielding 5.5 percent. What is the value of the equity in this firm?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Delta = ($400 − 0)/($2,400 − 1,900) Delta = .80 Equity is a call option on a firm's assets, so: Value of call = $1,810(.80) − (.80)($1,900/1.055) Value of call = $7.24 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 45 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$6.98",
+      "B": "$7.24",
+      "C": "$6.67",
+      "D": "$7.08",
+      "E": "$7.89"
     },
     "answer": "B",
-    "explanation": "Delta = ($400 − 0)/($2,400 − 1,900)",
+    "explanation": "Delta = ($400 − 0)/($2,400 − 1,900) Delta = .80 Equity is a call option on a firm's assets, so: Value of call = $1,810(.80) − (.80)($1,900/1.055) Value of call = $7.24",
     "chapter": 22
   },
   {
@@ -1466,14 +1466,14 @@
     "id": 1840,
     "question": "5% Standard deviation 18% d1 .108367",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: d2 = .108367 − (.18)(.5.5) d2 = −.0189 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 46 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".0133",
+      "B": "−.0189",
+      "C": "−.0460",
+      "D": ".0867",
+      "E": "−.0019"
     },
     "answer": "B",
-    "explanation": "d2 = .108367 − (.18)(.5.5)",
+    "explanation": "d2 = .108367 − (.18)(.5.5) d2 = −.0189",
     "chapter": 22
   },
   {
@@ -1493,70 +1493,70 @@
     "id": 1842,
     "question": "75% Standard deviation 26% d1 −.673350",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: d2 = −.673350 − (.26)(.25.5) d2 = −.8034 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": ".0216",
+      "B": "−.8034",
+      "C": ".1756",
+      "D": "−.20021",
+      "E": ".0251"
     },
     "answer": "B",
-    "explanation": "d2 = −.673350 − (.26)(.25.5)",
+    "explanation": "d2 = −.673350 − (.26)(.25.5) d2 = −.8034",
     "chapter": 22
   },
   {
     "id": 1843,
     "question": "What is the value of a call given the Black-Scholes model and the following information? Stock price = $44, Exercise price = $40, Time to expiration = .75, Risk-free rate = 4.5%, Standard deviation = 25%, N(d1) = .759395, and N(d2) = .687172.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Call price = ($44)(.759395) − ($40)(e−.045(.75))(.687172) Call price = $6.84 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 47 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$2.03",
+      "B": "$4.86",
+      "C": "$6.84",
+      "D": "$8.81",
+      "E": "$9.27"
     },
     "answer": "C",
-    "explanation": "Call price = ($44)(.759395) − ($40)(e−.045(.75))(.687172)",
+    "explanation": "Call price = ($44)(.759395) − ($40)(e−.045(.75))(.687172) Call price = $6.84",
     "chapter": 22
   },
   {
     "id": 1844,
     "question": "Assume the delta of a call option on a firm's assets is .608. This means a project valued at $65,000 will increase the value of the firm's equity by:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Increase in equity value = $65,000(.608) Increase in equity value = $39,520 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$27,902.",
+      "B": "$39,520.",
+      "C": "$43,820.",
+      "D": "$63,131.",
+      "E": "$89,600."
     },
     "answer": "B",
-    "explanation": "Increase in equity value = $65,000(.608)",
+    "explanation": "Increase in equity value = $65,000(.608) Increase in equity value = $39,520",
     "chapter": 22
   },
   {
     "id": 1845,
     "question": "The current market value of the assets of Bigelow Inc. is $91 million, with a standard deviation of 19 percent per year. The firm has zero-coupon bonds outstanding with a total face value of $45 million. These bonds mature in 2 years. The risk-free rate is 4 percent per year compounded continuously. What is the value of d1?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: d1 = {ln($91m/$45m) + [.04 + (.192/2)](2)}/{.19(2.5)} d1 = 3.05 Difficulty: 2 Medium Section: 22.8 An Option Pricing Formula Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 48 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "3.05",
+      "B": "3.62",
+      "C": "2.48",
+      "D": "2.71",
+      "E": "3.46"
     },
     "answer": "A",
-    "explanation": "d1 = {ln($91m/$45m) + [.04 + (.192/2)](2)}/{.19(2.5)}",
+    "explanation": "d1 = {ln($91m/$45m) + [.04 + (.192/2)](2)}/{.19(2.5)} d1 = 3.05",
     "chapter": 22
   },
   {
     "id": 1846,
     "question": "The current market value of the assets of ABCD is $86.28 million. The call option value on the firm's assets is $53.09 million. What is the market value of the firm's debt?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Market value of debt = $86.28m − 53.09m Market value of debt = $33.19m Difficulty: 2 Medium Section: 22.9 Stocks and Bonds as Options Topic: Equity and options Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 49 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$74.49 million",
+      "B": "$31.36 million",
+      "C": "$33.19 million",
+      "D": "$44.08 million",
+      "E": "$139.37 million"
     },
     "answer": "C",
-    "explanation": "Market value of debt = $86.28m − 53.09m",
+    "explanation": "Market value of debt = $86.28m − 53.09m Market value of debt = $33.19m",
     "chapter": 22
   },
   {

@@ -3,11 +3,11 @@
     "id": 178,
     "question": "Which statement expresses all relative account values as a percentage of total assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Pro forma balance sheet",
+      "B": "Common-size income statement",
+      "C": "Statement of cash flows",
+      "D": "Pro forma income statement",
+      "E": "Common-size balance sheet"
     },
     "answer": "E",
     "chapter": 3
@@ -16,11 +16,11 @@
     "id": 179,
     "question": "You would like to compare your firm's cost structure to that of your competitors. However, your competitors are much larger in size than your firm. Which one of these would best enable you to compare costs across your industry?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Pro forma balance sheet",
+      "B": "Common-size income statement",
+      "C": "Statement of cash flows",
+      "D": "Pro forma income statement",
+      "E": "Common-size balance sheet"
     },
     "answer": "B",
     "chapter": 3
@@ -29,11 +29,11 @@
     "id": 180,
     "question": "Which one of these terms is most synonymous with the term \"income from operations\"?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "TTM",
+      "B": "EBIT",
+      "C": "LTM",
+      "D": "EBITDA",
+      "E": "EPS"
     },
     "answer": "B",
     "chapter": 3
@@ -42,11 +42,11 @@
     "id": 181,
     "question": "Ratios that measure a firm's ability to pay its bills over the short run without undue stress are known as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "asset management ratios.",
+      "B": "long-term solvency measures.",
+      "C": "liquidity measures.",
+      "D": "profitability ratios.",
+      "E": "market value ratios."
     },
     "answer": "C",
     "chapter": 3
@@ -55,11 +55,11 @@
     "id": 182,
     "question": "The current ratio is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "current assets minus current liabilities.",
+      "B": "current assets divided by current liabilities.",
+      "C": "current liabilities minus inventory, divided by current assets.",
+      "D": "cash on hand divided by current liabilities.",
+      "E": "current liabilities divided by current assets."
     },
     "answer": "B",
     "chapter": 3
@@ -68,11 +68,11 @@
     "id": 183,
     "question": "The quick ratio is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "current assets divided by current liabilities.",
+      "B": "cash on hand plus current liabilities, divided by current assets.",
+      "C": "current liabilities divided by current assets, plus inventory.",
+      "D": "current assets minus inventory, divided by current liabilities.",
+      "E": "current assets minus inventory minus current liabilities."
     },
     "answer": "D",
     "chapter": 3
@@ -81,11 +81,11 @@
     "id": 184,
     "question": "Ratios that measure a firm's financial leverage are known as ________ ratios.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "asset management",
+      "B": "long-term solvency",
+      "C": "short-term solvency",
+      "D": "profitability",
+      "E": "market value"
     },
     "answer": "B",
     "chapter": 3
@@ -94,11 +94,11 @@
     "id": 185,
     "question": "The debt-equity ratio is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "total equity divided by long-term debt.",
+      "B": "total equity divided by total debt.",
+      "C": "total debt divided by total equity.",
+      "D": "long-term debt divided by total equity.",
+      "E": "total assets minus total debt, divided by total equity."
     },
     "answer": "C",
     "chapter": 3
@@ -107,11 +107,11 @@
     "id": 186,
     "question": "The equity multiplier is measured as total:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "equity divided by total assets.",
+      "B": "equity plus total debt.",
+      "C": "assets minus total equity, divided by total assets.",
+      "D": "assets plus total equity, divided by total debt.",
+      "E": "assets divided by total equity."
     },
     "answer": "E",
     "chapter": 3
@@ -120,11 +120,11 @@
     "id": 187,
     "question": "Ratios that measure how efficiently a firm uses its assets to generate sales are known as ________ ratios.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "asset management",
+      "B": "long-term solvency",
+      "C": "short-term solvency",
+      "D": "profitability",
+      "E": "market value"
     },
     "answer": "A",
     "chapter": 3
@@ -133,11 +133,11 @@
     "id": 188,
     "question": "The inventory turnover ratio is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "sales divided by inventory.",
+      "B": "inventory times total sales.",
+      "C": "cost of goods sold divided by inventory.",
+      "D": "inventory divided by cost of goods sold.",
+      "E": "inventory divided by sales."
     },
     "answer": "C",
     "chapter": 3
@@ -146,11 +146,11 @@
     "id": 189,
     "question": "Days' sales in inventory is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "inventory turnover plus 365 days.",
+      "B": "inventory turnover times 365 days.",
+      "C": "inventory divided by cost of goods sold, times 365 days.",
+      "D": "365 days divided by the inventory.",
+      "E": "365 days divided by the inventory turnover."
     },
     "answer": "E",
     "chapter": 3
@@ -159,11 +159,11 @@
     "id": 190,
     "question": "The receivables turnover ratio is measured as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "sales plus accounts receivable.",
+      "B": "sales divided by accounts receivable.",
+      "C": "sales minus accounts receivable, divided by sales.",
+      "D": "accounts receivable times sales.",
+      "E": "accounts receivable divided by sales."
     },
     "answer": "B",
     "chapter": 3
@@ -172,11 +172,11 @@
     "id": 191,
     "question": "The total asset turnover ratio measures the amount of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "total assets needed for every $1 of sales.",
+      "B": "sales generated by every $1 in total assets.",
+      "C": "fixed assets required for every $1 of sales.",
+      "D": "net income generated by every $1 in total assets.",
+      "E": "net income that can be generated by every $1 of fixed assets."
     },
     "answer": "B",
     "chapter": 3
@@ -185,11 +185,11 @@
     "id": 192,
     "question": "Ratios that measure how efficiently a firm's management uses its assets and equity to generate bottom line net income are known as ________ ratios.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "asset management",
+      "B": "long-term solvency",
+      "C": "short-term solvency",
+      "D": "profitability",
+      "E": "market value"
     },
     "answer": "D",
     "chapter": 3
@@ -198,11 +198,11 @@
     "id": 193,
     "question": "The financial ratio measured as net income divided by sales is known as the firm's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "profit margin.",
+      "B": "return on assets.",
+      "C": "return on equity.",
+      "D": "asset turnover.",
+      "E": "earnings before interest and taxes."
     },
     "answer": "A",
     "chapter": 3
@@ -211,11 +211,11 @@
     "id": 194,
     "question": "The measure of net income returned from every dollar invested in total assets is the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "profit margin.",
+      "B": "return on assets.",
+      "C": "return on equity.",
+      "D": "asset turnover.",
+      "E": "earnings before interest and taxes."
     },
     "answer": "B",
     "chapter": 3
@@ -224,11 +224,11 @@
     "id": 195,
     "question": "The financial ratio that measures the accounting profit per dollar of book equity is referred to as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "profit margin.",
+      "B": "price-earnings ratio.",
+      "C": "return on equity.",
+      "D": "equity turnover.",
+      "E": "market profit-to-book ratio."
     },
     "answer": "C",
     "chapter": 3
@@ -237,11 +237,11 @@
     "id": 196,
     "question": "The amount that investors are willing to pay for each dollar of annual earnings is reflected in the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "return on assets.",
+      "B": "return on equity.",
+      "C": "debt-equity ratio.",
+      "D": "price-earnings ratio.",
+      "E": "DuPont identity."
     },
     "answer": "D",
     "chapter": 3
@@ -250,11 +250,11 @@
     "id": 197,
     "question": "The market-to-book ratio is measured as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "market price per share divided by the par value per share.",
+      "B": "net income per share divided by the market price per share.",
+      "C": "market price per share divided by the net income per share.",
+      "D": "market price per share divided by the dividends per share.",
+      "E": "market value per share divided by the book value per share."
     },
     "answer": "E",
     "chapter": 3
@@ -263,11 +263,11 @@
     "id": 198,
     "question": "Which one of the following statements is correct concerning ratio analysis?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Ratio analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "A single ratio is often computed differently by different individuals.",
+      "B": "No ratio can address the problem of size differences among firms.",
+      "C": "Only a very limited number of ratios can be used for analytical purposes.",
+      "D": "Every ratio is an income statement entry divided by a balance sheet item.",
+      "E": "Ratios cannot be used for comparison purposes over periods of time."
     },
     "answer": "A",
     "chapter": 3
@@ -276,11 +276,11 @@
     "id": 199,
     "question": "Which one of the following is a liquidity ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Quick ratio",
+      "B": "Cash coverage ratio",
+      "C": "Total debt ratio",
+      "D": "EV multiple",
+      "E": "Times interest earned ratio"
     },
     "answer": "A",
     "chapter": 3
@@ -289,11 +289,11 @@
     "id": 200,
     "question": "An increase in which one of the following accounts increases a firm's current ratio without affecting its quick ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Accounts payable",
+      "B": "Cash",
+      "C": "Inventory",
+      "D": "Accounts receivable",
+      "E": "Fixed assets"
     },
     "answer": "C",
     "chapter": 3
@@ -302,11 +302,11 @@
     "id": 201,
     "question": "A supplier, who requires payment within ten days, should be most concerned with which one of the following ratios when granting credit?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Current",
+      "B": "Cash",
+      "C": "Debt-equity",
+      "D": "Quick",
+      "E": "Total debt"
     },
     "answer": "B",
     "chapter": 3
@@ -315,11 +315,11 @@
     "id": 202,
     "question": "A firm has a total debt ratio of .47. This means the firm has 47 cents in debt for every:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "$1 in total equity.",
+      "B": "$.53 in total assets.",
+      "C": "$1 in current assets.",
+      "D": "$.53 in total equity.",
+      "E": "$1 in fixed assets."
     },
     "answer": "D",
     "chapter": 3
@@ -328,11 +328,11 @@
     "id": 203,
     "question": "The long-term debt ratio is probably of most interest to a firm's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "credit customers.",
+      "B": "employees.",
+      "C": "suppliers.",
+      "D": "mortgage holder.",
+      "E": "stockholders."
     },
     "answer": "D",
     "chapter": 3
@@ -341,11 +341,11 @@
     "id": 204,
     "question": "A banker considering loaning money to a firm for ten years would most likely prefer the firm have a debt ratio of ________, and a times interest earned ratio of ________.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": ".50; .75",
+      "B": ".50; 1.00",
+      "C": ".45; 1.75",
+      "D": ".40; .75",
+      "E": ".40; 1.75"
     },
     "answer": "E",
     "chapter": 3
@@ -354,11 +354,11 @@
     "id": 205,
     "question": "From a cash flow position, which one of the following ratios best measures a firm's ability to pay the interest on its debts?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Times interest earned ratio",
+      "B": "Cash coverage ratio",
+      "C": "Cash ratio",
+      "D": "Quick ratio",
+      "E": "Interval measure"
     },
     "answer": "B",
     "chapter": 3
@@ -367,11 +367,11 @@
     "id": 206,
     "question": "The higher the inventory turnover, the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "less time inventory items remain on the shelf.",
+      "B": "higher the inventory as a percentage of total assets.",
+      "C": "longer it takes a firm to sell its inventory.",
+      "D": "greater the amount of inventory held by a firm.",
+      "E": "greater the selection of goods available for sale."
     },
     "answer": "A",
     "chapter": 3
@@ -380,11 +380,11 @@
     "id": 207,
     "question": "Which one of the following statements is correct if a firm has a receivables turnover of 10?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "It takes the firm 10 days to collect payment from its customers.",
+      "B": "It takes the firm 36.5 days to sell its inventory and collect the payment from the sale.",
+      "C": "It takes the firm an average of 36.5 days to sell its items.",
+      "D": "The firm collects its credit sales in an average of 36.5 days.",
+      "E": "The firm has ten times more in accounts receivable than it does in cash."
     },
     "answer": "D",
     "chapter": 3
@@ -393,11 +393,11 @@
     "id": 208,
     "question": "A capital intensity ratio of 1.03 means a firm has $1.03 in:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "total debt for every $1 in equity.",
+      "B": "equity for every $1 in total debt.",
+      "C": "sales for every $1 in total assets.",
+      "D": "total assets for every $1 in sales.",
+      "E": "long-term assets for every $1 in short-term assets."
     },
     "answer": "D",
     "chapter": 3
@@ -406,11 +406,11 @@
     "id": 209,
     "question": "Puffy's Pastries generates five cents of net income for every $1 in equity. Thus, Puffy's has ________ of 5 percent.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "a return on assets",
+      "B": "a profit margin",
+      "C": "a return on equity",
+      "D": "an EV multiple",
+      "E": "a price-earnings ratio"
     },
     "answer": "C",
     "chapter": 3
@@ -419,11 +419,11 @@
     "id": 210,
     "question": "If a firm produces a return on assets of 15 percent and also a return on equity of 15 percent, then the firm:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "has no debt of any kind.",
+      "B": "is using its assets as efficiently as possible.",
+      "C": "pays all its earnings out in dividends.",
+      "D": "also has a current ratio of 15.",
+      "E": "has an equity multiplier of 2."
     },
     "answer": "A",
     "chapter": 3
@@ -432,11 +432,11 @@
     "id": 211,
     "question": "If stockholders want to know how much profit the firm is making on their entire investment in that firm, the stockholders should refer to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "profit margin.",
+      "B": "return on assets.",
+      "C": "return on equity.",
+      "D": "equity multiplier.",
+      "E": "earnings per share."
     },
     "answer": "C",
     "chapter": 3
@@ -445,11 +445,11 @@
     "id": 212,
     "question": "Assume BGL Enterprises increases its operating efficiency by lowering its costs while holding its sales constant. As a result, given all else constant, the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "return on equity will increase.",
+      "B": "return on assets will decrease.",
+      "C": "profit margin will decline.",
+      "D": "total debt ratio will decrease.",
+      "E": "price-earnings ratio will increase."
     },
     "answer": "A",
     "chapter": 3
@@ -458,11 +458,11 @@
     "id": 213,
     "question": "Joe's has old, fully depreciated equipment. Moe's just purchased all new equipment which will be depreciated over eight years. If Joe's and Moe's have the same sales, costs, tax rate, and enterprise value, then:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Joe's will have a lower profit margin.",
+      "B": "Joe's will have a lower return on equity.",
+      "C": "Moe's will have a higher net income.",
+      "D": "Moe's and Joe's will have the same EV multiple.",
+      "E": "Moe's will have a lower EV multiple."
     },
     "answer": "D",
     "chapter": 3
@@ -471,11 +471,11 @@
     "id": 214,
     "question": "Last year, Alfred's Automotive had a price-earnings ratio of 15 and earnings per share of $1.20. This year, the price-earnings ratio is 18 and the earnings per share is $1.20. Based on this information, it can be stated with certainty that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the price per share decreased.",
+      "B": "the earnings per share decreased.",
+      "C": "investors are paying a lower price per share this year as compared to last year.",
+      "D": "investors are receiving a higher rate of return this year.",
+      "E": "the investors' outlook for the firm has improved."
     },
     "answer": "E",
     "chapter": 3
@@ -484,11 +484,11 @@
     "id": 215,
     "question": "Turner's Inc. has a price-earnings ratio of 16. Alfred's Co. has a price-earnings ratio of 19. Thus, you can state with certainty that one share of stock in Alfred's:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "has a higher market price than one share of stock in Turner's.",
+      "B": "has a higher market price per dollar of earnings than does one share of Turner's.",
+      "C": "sells at a lower price per share than one share of Turner's.",
+      "D": "represents a larger percentage of firm ownership than does one share of Turner's stock.",
+      "E": "earns a greater profit per share than does one share of Turner's stock."
     },
     "answer": "B",
     "chapter": 3
@@ -497,11 +497,11 @@
     "id": 216,
     "question": "Which one of the following is most apt to cause a profitable, stable firm to have a higher price-earnings ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Slow industry outlook",
+      "B": "Very low current earnings",
+      "C": "Low market share",
+      "D": "Low prospect of firm growth",
+      "E": "Low investor opinion of firm"
     },
     "answer": "B",
     "chapter": 3
@@ -510,11 +510,11 @@
     "id": 217,
     "question": "Vinnie's Motors has a market-to-book ratio of 3.4. The book value per share is $34 and earnings per share are $1.36. Holding the market-to-book ratio and earnings per share constant, a $1 increase in the book value per share will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decrease the price-earnings ratio.",
+      "B": "decrease the EV multiple.",
+      "C": "decrease the market price per share.",
+      "D": "increase the price-earnings ratio.",
+      "E": "increase the return on equity."
     },
     "answer": "D",
     "chapter": 3
@@ -523,11 +523,11 @@
     "id": 218,
     "question": "Which one of the following sets of ratios would generally be of the most interest to stockholders?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Return on assets and profit margin",
+      "B": "Quick ratio and times interest earned",
+      "C": "Price-earnings ratio and debt-equity ratio",
+      "D": "Return on equity and price-earnings ratio",
+      "E": "Cash coverage ratio and equity multiplier"
     },
     "answer": "D",
     "chapter": 3
@@ -536,11 +536,11 @@
     "id": 219,
     "question": "If a firm decreases its operating costs, all else constant, then the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "profit margin will decrease.",
+      "B": "return on assets will decrease.",
+      "C": "total asset turnover rate will increase.",
+      "D": "cash coverage ratio will decrease.",
+      "E": "price-earnings ratio will decrease."
     },
     "answer": "E",
     "chapter": 3
@@ -549,11 +549,11 @@
     "id": 220,
     "question": "A public firm's market capitalization is equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "total book value of assets less the book value of debt.",
+      "B": "par value of common equity.",
+      "C": "price per share multiplied by number of shares outstanding.",
+      "D": "stock price per share multiplied by the number of shares authorized.",
+      "E": "maximum value an acquirer would pay for the firm in an acquisition."
     },
     "answer": "C",
     "chapter": 3
@@ -562,11 +562,11 @@
     "id": 221,
     "question": "Enterprise value is based on the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Enterprise value and ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "market value of interest-bearing debt plus the market value of equity minus cash.",
+      "B": "book values of debt and assets, other than cash.",
+      "C": "market value of equity plus the book value of total debt minus cash.",
+      "D": "book value of debt plus the market value of equity.",
+      "E": "book values of debt and equity less cash."
     },
     "answer": "A",
     "chapter": 3
@@ -575,11 +575,11 @@
     "id": 222,
     "question": "Which one of these values best represents the funds needed to acquire a firm and payoff all of that firm's debt?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Enterprise value and ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Market value of total assets",
+      "B": "Book value of equity",
+      "C": "Return on assets",
+      "D": "Market value of equity",
+      "E": "Enterprise value"
     },
     "answer": "E",
     "chapter": 3
@@ -588,11 +588,11 @@
     "id": 223,
     "question": "A firm with a high level of growth opportunities is most apt to have a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.2 Ratio Analysis Topic: Enterprise value and ratios Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "high PE ratio and a high EV multiple.",
+      "B": "high cash ratio and a low EV multiple.",
+      "C": "high PE ratio and a low EV multiple.",
+      "D": "low PE ratio and a high EV multiple.",
+      "E": "low cash ratio and a low PE ratio."
     },
     "answer": "A",
     "chapter": 3
@@ -601,11 +601,11 @@
     "id": 224,
     "question": "The equity multiplier measures:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "financial leverage.",
+      "B": "returns to stockholders.",
+      "C": "operating efficiency.",
+      "D": "management efficiency.",
+      "E": "asset use efficiency."
     },
     "answer": "A",
     "chapter": 3
@@ -614,11 +614,11 @@
     "id": 225,
     "question": "The return on equity can be calculated as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "ROA × Equity multiplier.",
+      "B": "Profit margin × ROA.",
+      "C": "Profit margin × ROA × Total asset turnover.",
+      "D": "ROA × Net income/Total assets.",
+      "E": "ROA × Debt-equity ratio."
     },
     "answer": "A",
     "chapter": 3
@@ -627,11 +627,11 @@
     "id": 226,
     "question": "The DuPont identity can be computed as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Net income × Profit margin × (1 + Debt-equity ratio).",
+      "B": "Profit margin × 1/Capital intensity ratio × (1 + Debt-equity ratio).",
+      "C": "Net income × Total asset turnover × Equity multiplier.",
+      "D": "Profit margin × Total asset turnover × Debt-equity ratio.",
+      "E": "Return on equity × Profit margin × Total asset turnover."
     },
     "answer": "B",
     "chapter": 3
@@ -640,11 +640,11 @@
     "id": 227,
     "question": "Which one of these ratios measures the efficiency at which a firm employs its assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Profit margin",
+      "B": "Return on equity",
+      "C": "Equity multiplier",
+      "D": "P/E ratio",
+      "E": "Total asset turnover"
     },
     "answer": "E",
     "chapter": 3
@@ -653,11 +653,11 @@
     "id": 228,
     "question": "It is easier to evaluate a firm using its financial statements when the firm:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: Financial statement analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "is a conglomerate.",
+      "B": "is global in nature.",
+      "C": "uses the same accounting procedures as other firms in its industry.",
+      "D": "has a different fiscal year than other firms in its industry.",
+      "E": "tends to have one-time events such as asset sales and property acquisitions."
     },
     "answer": "C",
     "chapter": 3
@@ -666,11 +666,11 @@
     "id": 229,
     "question": "The most effective method of directly evaluating the financial performance of a firm is to compare the financial ratios of the firm to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: Financial statement analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the firm's ratios from prior time periods and to the ratios of firms with similar operations.",
+      "B": "the average ratios of all firms within the same country over a period of time.",
+      "C": "those of other firms located in the same geographic area that are similarly sized.",
+      "D": "the average ratios of the firm's international peer group.",
+      "E": "those of the largest conglomerate that has operations in the same industry as the firm."
     },
     "answer": "A",
     "chapter": 3
@@ -679,11 +679,11 @@
     "id": 230,
     "question": "The least problems encountered when comparing the financial statements of one firm with those of another firm occur when the firms:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.3 The DuPont Identity Topic: Financial statement analysis Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "are in different lines of business.",
+      "B": "have geographically diverse operations.",
+      "C": "use different methods of depreciation.",
+      "D": "are both classified as conglomerates.",
+      "E": "have the same fiscal year-end."
     },
     "answer": "E",
     "chapter": 3
@@ -692,11 +692,11 @@
     "id": 231,
     "question": "In the financial planning model, the external financing needed (EFN) as shown on a pro forma balance sheet is equal to the changes in assets:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.4 Financial Models Topic: External financing need Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "plus the changes in liabilities minus the changes in equity.",
+      "B": "minus the changes in both liabilities and equity.",
+      "C": "minus the changes in liabilities only.",
+      "D": "plus the changes in both liabilities and equity.",
+      "E": "minus the change in retained earnings."
     },
     "answer": "B",
     "chapter": 3
@@ -705,11 +705,11 @@
     "id": 232,
     "question": "Which account is least apt to vary directly with sales?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.4 Financial Models Topic: Financial planning models Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Notes payable",
+      "B": "Inventory",
+      "C": "Cost of goods sold",
+      "D": "Accounts payable",
+      "E": "Accounts receivable"
     },
     "answer": "A",
     "chapter": 3
@@ -718,11 +718,11 @@
     "id": 233,
     "question": "Projected future financial statements are called:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.4 Financial Models Topic: Pro forma statements Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "imaginative statements.",
+      "B": "pro forma statements.",
+      "C": "reconciled statements.",
+      "D": "aggregated statements.",
+      "E": "comparative statements."
     },
     "answer": "B",
     "chapter": 3
@@ -731,11 +731,11 @@
     "id": 234,
     "question": "The projected addition to retained earnings can be calculated as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.4 Financial Models Topic: External financing need Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "PM × Δ Sales.",
+      "B": "PM × Δ Sales × (1 − Dividend payout ratio).",
+      "C": "PM × Projected sales × (1 − Dividend payout ratio).",
+      "D": "Projected sales × (1 − Dividend payout ratio).",
+      "E": "PM × Projected sales."
     },
     "answer": "C",
     "chapter": 3
@@ -744,11 +744,11 @@
     "id": 235,
     "question": "The maximum rate at which a firm can grow while maintaining a constant debt-equity ratio is best defined by its:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "rate of return on assets.",
+      "B": "internal rate of growth.",
+      "C": "average historical rate of growth.",
+      "D": "rate of return on equity.",
+      "E": "sustainable rate of growth."
     },
     "answer": "E",
     "chapter": 3
@@ -757,11 +757,11 @@
     "id": 236,
     "question": "The sustainable growth rate will be equivalent to the internal growth rate when, and only when:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "a firm has no debt.",
+      "B": "the growth rate is positive.",
+      "C": "the plowback ratio is positive but less than 1.",
+      "D": "a firm has a debt-equity ratio equal to 1.",
+      "E": "the retention ratio is equal to 1."
     },
     "answer": "A",
     "chapter": 3
@@ -770,11 +770,11 @@
     "id": 237,
     "question": "The sustainable growth rate:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "assumes there is no external financing of any kind.",
+      "B": "is normally higher than the internal growth rate.",
+      "C": "assumes the debt-equity ratio is variable.",
+      "D": "is based on receiving additional external equity financing.",
+      "E": "assumes the dividend payout ratio is equal to zero."
     },
     "answer": "B",
     "chapter": 3
@@ -783,11 +783,11 @@
     "id": 238,
     "question": "If a firm bases its growth projection on the rate of sustainable growth, shows positive net income, and has a dividend payout ratio of 30 percent, then the:",
     "options": {
-      "A": "operating at only 78 percent of capacity.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "increase. Answer: D Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "fixed assets will have to increase at the sustainable growth rate, even if the firm is currently operating at only 78 percent of capacity.",
+      "B": "number of common shares outstanding will increase at the same rate of growth.",
+      "C": "debt-equity ratio will have to increase.",
+      "D": "debt-equity ratio will remain constant while retained earnings increase.",
+      "E": "fixed assets, the debt-equity ratio, and number of common shares outstanding will all increase."
     },
     "answer": "D",
     "chapter": 3
@@ -796,11 +796,11 @@
     "id": 239,
     "question": "Marcie's Mercantile wants to maintain its current dividend policy, which is a payout ratio of 35 percent. The firm does not want to increase its equity financing but is willing to maintain its current debt-equity ratio. Given these requirements, the maximum rate at which Marcie's can grow is equal to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "35 percent of the internal rate of growth.",
+      "B": "65 percent of the internal rate of growth.",
+      "C": "the internal rate of growth.",
+      "D": "the sustainable rate of growth.",
+      "E": "65 percent of the sustainable rate of growth."
     },
     "answer": "D",
     "chapter": 3
@@ -809,11 +809,11 @@
     "id": 240,
     "question": "The value of the variable \"b\" as used in the internal growth rate formula can be computed as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "1 + Growth rate.",
+      "B": "Total dividends/Net income.",
+      "C": "1 − Dividend payout ratio.",
+      "D": "Net income/Total sales.",
+      "E": "1 − PE ratio."
     },
     "answer": "C",
     "chapter": 3
@@ -822,11 +822,11 @@
     "id": 241,
     "question": "The sustainable rate of growth for a firm can be increased by:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decreasing the debt-equity ratio.",
+      "B": "decreasing the profit margin.",
+      "C": "increasing the dividend payout ratio.",
+      "D": "increasing the capital intensity ratio.",
+      "E": "increasing the total asset turnover."
     },
     "answer": "E",
     "chapter": 3
@@ -835,11 +835,11 @@
     "id": 242,
     "question": "Financial planning models are most apt to omit:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 3.6 Some Caveats Regarding Financial Planning Models Topic: Financial planning models Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the changes in net working capital required for additional sales.",
+      "B": "the increases in costs required to increase sales.",
+      "C": "any change in retained earnings due to changes in the income statement.",
+      "D": "the timing, risk, and size of the cash flows.",
+      "E": "any additions that might be needed to fixed assets."
     },
     "answer": "D",
     "chapter": 3
@@ -848,84 +848,84 @@
     "id": 243,
     "question": "DL Motors has sales of $22,400, net income of $3,600, net fixed assets of $18,700, inventory of $2,800, and total current assets of $6,300. What is the common-size statement value of inventory?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Common-size inventory = $2,800/($6,300 + 18,700) Common-size inventory = .1120, or 11.20% Difficulty: 2 Medium Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "10.07 percent",
+      "B": "13.67 percent",
+      "C": "11.20 percent",
+      "D": "12.50 percent",
+      "E": "9.84 percent"
     },
     "answer": "C",
-    "explanation": "Common-size inventory = $2,800/($6,300 + 18,700)",
+    "explanation": "Common-size inventory = $2,800/($6,300 + 18,700) Common-size inventory = .1120, or 11.20%",
     "chapter": 3
   },
   {
     "id": 244,
     "question": "Weston's has sales of $38,900, net income of $2,400, total assets of $43,100, and total equity of $24,700. Interest expense is $830. What is the common-size statement value of the interest expense?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Common-size interest expense = $830/$38,900 Common-size interest expense = .0213, or 2.13% Difficulty: 2 Medium Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "2.13 percent",
+      "B": "3.08 percent",
+      "C": "1.93 percent",
+      "D": "2.49 percent",
+      "E": "3.46 percent"
     },
     "answer": "A",
-    "explanation": "Common-size interest expense = $830/$38,900",
+    "explanation": "Common-size interest expense = $830/$38,900 Common-size interest expense = .0213, or 2.13%",
     "chapter": 3
   },
   {
     "id": 245,
     "question": "Southern Markets has sales of $78,400, net income of $2,400, costs of goods sold of $43,100, and depreciation of $6,800. What is the common-size statement value of EBIT?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Common-size EBIT = ($78,400 − 43,100 − 6,800)/$78,400 Common-size EBIT = .3635, or 36.35% Difficulty: 2 Medium Section: 3.1 Financial Statements Analysis Topic: Standardized financial statements Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "36.35 percent",
+      "B": "38.08 percent",
+      "C": "41.93 percent",
+      "D": "32.49 percent",
+      "E": "35.46 percent"
     },
     "answer": "A",
-    "explanation": "Common-size EBIT = ($78,400 − 43,100 − 6,800)/$78,400",
+    "explanation": "Common-size EBIT = ($78,400 − 43,100 − 6,800)/$78,400 Common-size EBIT = .3635, or 36.35%",
     "chapter": 3
   },
   {
     "id": 246,
     "question": "Jessica's Boutique has cash of $218, accounts receivable of $457, accounts payable of $398, and inventory of $647. What is the value of the quick ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Quick ratio = ($218 + 457)/$398 Quick ratio = 1.70 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".55",
+      "B": "1.05",
+      "C": "1.70",
+      "D": "1.32",
+      "E": "1.52"
     },
     "answer": "C",
-    "explanation": "Quick ratio = ($218 + 457)/$398",
+    "explanation": "Quick ratio = ($218 + 457)/$398 Quick ratio = 1.70",
     "chapter": 3
   },
   {
     "id": 247,
     "question": "Browning's has a debt-equity ratio of .47. What is the equity multiplier?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: EM = Total assets/Total equity EM = Total equity/Total equity + Total debt/Total equity EM = 1 + .47 EM = 1.47 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: DuPont identity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "1.47",
+      "B": ".53",
+      "C": "2.13",
+      "D": "1.13",
+      "E": "1.53"
     },
     "answer": "A",
-    "explanation": "EM = Total assets/Total equity",
+    "explanation": "EM = Total assets/Total equity EM = Total equity/Total equity + Total debt/Total equity EM = 1 + .47 EM = 1.47",
     "chapter": 3
   },
   {
     "id": 248,
     "question": "Cado Industries has total debt of $6,800 and a debt-equity ratio of .36. What is the value of the total assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Total equity = $6,800/.36 Total equity = $18,889 Total assets = $6,800 + 18,889 Total assets = $25,689 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$18,889",
+      "B": "$24,480",
+      "C": "$23,520",
+      "D": "$25,689",
+      "E": "$25,360"
     },
     "answer": "D",
-    "explanation": "Total equity = $6,800/.36",
+    "explanation": "Total equity = $6,800/.36 Total equity = $18,889 Total assets = $6,800 + 18,889 Total assets = $25,689",
     "chapter": 3
   },
   {
@@ -945,434 +945,434 @@
     "id": 250,
     "question": "6. What is the return on equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Net income = ($684,000 − 437,000 − 109,400 − 13,800)(1 − .21) Net income = $97,802 Equity = $712,000/1.6 Equity = $445,000 ROE = $97,802/$445,000 ROE = .2198, or 21.98% Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "21.30 percent",
+      "B": "23.92 percent",
+      "C": "20.06 percent",
+      "D": "19.48 percent",
+      "E": "21.98 percent"
     },
     "answer": "E",
-    "explanation": "Net income = ($684,000 − 437,000 − 109,400 − 13,800)(1 − .21)",
+    "explanation": "Net income = ($684,000 − 437,000 − 109,400 − 13,800)(1 − .21) Net income = $97,802 Equity = $712,000/1.6 Equity = $445,000 ROE = $97,802/$445,000 ROE = .2198, or 21.98%",
     "chapter": 3
   },
   {
     "id": 251,
     "question": "Rosita's Resources paid $11,310 in interest and $16,500 in dividends last year. The times interest earned ratio is 2.9, the depreciation expense is $7,900, and the tax rate is 21 percent. What is the value of the cash coverage ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: EBIT = 2.9($11,310) EBIT = $32,799 Cash coverage ratio = ($32,799 + 7,900)/$11,310 Cash coverage ratio = 3.60 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "3.71",
+      "B": "2.58",
+      "C": "3.60",
+      "D": "2.78",
+      "E": "3.10"
     },
     "answer": "C",
-    "explanation": "EBIT = 2.9($11,310)",
+    "explanation": "EBIT = 2.9($11,310) EBIT = $32,799 Cash coverage ratio = ($32,799 + 7,900)/$11,310 Cash coverage ratio = 3.60",
     "chapter": 3
   },
   {
     "id": 252,
     "question": "Home Systems has sales of $312,800, cost of goods sold of $218,400, inventory of $46,300, and accounts receivable of $62,700. How many days, on average, does it take the firm to both sell its inventory and collect payment on the sale?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Days' sales in inventory = 365/($218,400/$46,300) Days' sales in inventory = 77.38 Days' sales in receivables = 365/($312,800/$62,700) Days' sales in receivables = 73.16 Total days' sales in inventory and receivables = 77.38 + 73.16 Total days' sales in inventory and receivables = 150.54 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "142.10",
+      "B": "96.37",
+      "C": "178.21",
+      "D": "150.54",
+      "E": "124.03"
     },
     "answer": "D",
-    "explanation": "Days' sales in inventory = 365/($218,400/$46,300)",
+    "explanation": "Days' sales in inventory = 365/($218,400/$46,300) Days' sales in inventory = 77.38 Days' sales in receivables = 365/($312,800/$62,700) Days' sales in receivables = 73.16 Total days' sales in inventory and receivables = 77.38 + 73.16 Total days' sales in inventory and receivables = 150.54",
     "chapter": 3
   },
   {
     "id": 253,
     "question": "Northern Industries has accounts receivable of $42,300, inventory of $61,200, sales of $544,200, and cost of goods sold of $393,500. How many days, on average, does it take the firm to sell its inventory?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Days' sales in inventory = 365/($393,500/$61,200) Days' sales in inventory = 56.77 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "93.08",
+      "B": "74.92",
+      "C": "85.14",
+      "D": "56.77",
+      "E": "80.46"
     },
     "answer": "D",
-    "explanation": "Days' sales in inventory = 365/($393,500/$61,200)",
+    "explanation": "Days' sales in inventory = 365/($393,500/$61,200) Days' sales in inventory = 56.77",
     "chapter": 3
   },
   {
     "id": 254,
     "question": "Two Sisters Dresses has net working capital of $43,800, net fixed assets of $232,400, net income of $43,900, and current liabilities of $51,300. The tax rate is 21 percent and the profit margin is 9.3 percent. How many dollars of sales are generated from every $1 in total assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total asset turnover = ($43,900/.093)/($43,800 + 51,300 + 232,400) Total asset turnover = 1.44 Every $1 in total assets generates $1.44 in sales. Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Asset management ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$1.44",
+      "B": "$1.32",
+      "C": "$1.73",
+      "D": "$.97",
+      "E": "$1.06"
     },
     "answer": "A",
-    "explanation": "Total asset turnover = ($43,900/.093)/($43,800 + 51,300 + 232,400)",
+    "explanation": "Total asset turnover = ($43,900/.093)/($43,800 + 51,300 + 232,400) Total asset turnover = 1.44 Every $1 in total assets generates $1.44 in sales.",
     "chapter": 3
   },
   {
     "id": 255,
     "question": "Flo's Restaurant has sales of $418,000, total equity of $224,400, a tax rate of 23 percent, a debt-equity ratio of .37, and a profit margin of 5.1 percent. What is the return on assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: ROA = [.051($418,000)]/[(1 + .37)($224,400)] ROA = .0693, or 6.93% Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "6.93 percent",
+      "B": "9.50 percent",
+      "C": "11.08 percent",
+      "D": "7.13 percent",
+      "E": "13.13 percent"
     },
     "answer": "A",
-    "explanation": "ROA = [.051($418,000)]/[(1 + .37)($224,400)]",
+    "explanation": "ROA = [.051($418,000)]/[(1 + .37)($224,400)] ROA = .0693, or 6.93%",
     "chapter": 3
   },
   {
     "id": 256,
     "question": "Sun Shade's has sales of $363,000, total assets of $323,500, and a profit margin of 14.6 percent. The firm has a total debt ratio of 54 percent. What is the return on equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: ROE = [.146($363,000)]/[$323,500(1 − .54)] ROE = .3561, or 35.61% Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "28.45 percent",
+      "B": "35.61 percent",
+      "C": "23.29 percent",
+      "D": "31.74 percent",
+      "E": "7.88 percent"
     },
     "answer": "B",
-    "explanation": "ROE = [.146($363,000)]/[$323,500(1 − .54)]",
+    "explanation": "ROE = [.146($363,000)]/[$323,500(1 − .54)] ROE = .3561, or 35.61%",
     "chapter": 3
   },
   {
     "id": 257,
     "question": "Discount Mart has $876,400 in sales with a profit margin of 3.8 percent. There are 32,500 shares of stock outstanding at a market price per share of $21.60. What is the price-earnings ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: PE ratio = $21.60/{[.038($876,400)]/32,500} PE ratio = 21.08 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 31 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "23.40",
+      "B": "22.60",
+      "C": "19.21",
+      "D": "21.08",
+      "E": "18.47"
     },
     "answer": "D",
-    "explanation": "PE ratio = $21.60/{[.038($876,400)]/32,500}",
+    "explanation": "PE ratio = $21.60/{[.038($876,400)]/32,500} PE ratio = 21.08",
     "chapter": 3
   },
   {
     "id": 258,
     "question": "New Metals has depreciation of $28,300, interest expense of $11,400, EBIT of $62,700, a price-earnings ratio of 8.6, a profit margin of 7.2 percent, a tax rate of 21 percent, and 37,500 shares of stock outstanding. What is the market price per share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Market price per share = 8.6{[($62,700 − 11,400)(1 − .21)]/37,500} Market price per share = $9.29 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$13.48",
+      "B": "$7.09",
+      "C": "$9.29",
+      "D": "$12.48",
+      "E": "$10.92"
     },
     "answer": "C",
-    "explanation": "Market price per share = 8.6{[($62,700 − 11,400)(1 − .21)]/37,500}",
+    "explanation": "Market price per share = 8.6{[($62,700 − 11,400)(1 − .21)]/37,500} Market price per share = $9.29",
     "chapter": 3
   },
   {
     "id": 259,
     "question": "A firm has 12,000 shares of stock outstanding, sales of $638,100, a profit margin of 8.2 percent, a tax rate of 21 percent, a price-earnings ratio of 11.3, and a book value per share of $7.98. What is the market-to-book ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Market-to-book ratio = {11.3[.082($638,100)]/12,000}/$7.98 Market-to-book ratio = 6.17 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 32 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "6.08",
+      "B": "5.42",
+      "C": "5.16",
+      "D": "6.17",
+      "E": "6.90"
     },
     "answer": "D",
-    "explanation": "Market-to-book ratio = {11.3[.082($638,100)]/12,000}/$7.98",
+    "explanation": "Market-to-book ratio = {11.3[.082($638,100)]/12,000}/$7.98 Market-to-book ratio = 6.17",
     "chapter": 3
   },
   {
     "id": 260,
     "question": "Preston Woods has 17,500 shares of stock outstanding along with $408,000 of interest- bearing debt. The market and book values of the debt are the same. The firm has sales of $697,000 and a profit margin of 6.8 percent. The tax rate is 21 percent, the debt-equity ratio is 40 percent, and the price-earnings ratio is 11.8. The firm has $130,000 of current assets of which $41,200 is cash. What is the enterprise value multiple?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: EV multiple = 11.8[.068($697,000)] + $408,000 − 41,200 EV multiple = $926,073 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$1,106,308",
+      "B": "$994,520",
+      "C": "$830,479",
+      "D": "$1,018,097",
+      "E": "$926,073"
     },
     "answer": "E",
-    "explanation": "EV multiple = 11.8[.068($697,000)] + $408,000 − 41,200",
+    "explanation": "EV multiple = 11.8[.068($697,000)] + $408,000 − 41,200 EV multiple = $926,073",
     "chapter": 3
   },
   {
     "id": 261,
     "question": "Samuelson's has sales of $317,000, a profit margin of 8.6 percent, an equity multiplier of 1.8, and total debt of $144,400. What is the return on equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Debt-equity ratio = 1.8 − 1 Debt-equity ratio = .8 Equity = $144,400/.8 Equity = $180,500 ROE = .086($317,000)/$180,500 ROE = .1510, or 15.10% Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "15.48 percent",
+      "B": "14.46 percent",
+      "C": "7.05 percent",
+      "D": "15.10 percent",
+      "E": "11.25 percent"
     },
     "answer": "D",
-    "explanation": "Debt-equity ratio = 1.8 − 1",
+    "explanation": "Debt-equity ratio = 1.8 − 1 Debt-equity ratio = .8 Equity = $144,400/.8 Equity = $180,500 ROE = .086($317,000)/$180,500 ROE = .1510, or 15.10%",
     "chapter": 3
   },
   {
     "id": 262,
     "question": "Upriver Tours has balance sheet values of: Inventory $70,500; accounts receivable $50,700; accounts payable $58,900; cash $32,300, notes payable $20,000, long-term debt $134,700, and net fixed assets $504,500. What is the current ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Current ratio = ($32,300 + 50,700 + 70,500)/($58,900 + 20,000) Current ratio = 1.95 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "1.95",
+      "B": ".95",
+      "C": "2.11",
+      "D": "1.98",
+      "E": ".98"
     },
     "answer": "A",
-    "explanation": "Current ratio = ($32,300 + 50,700 + 70,500)/($58,900 + 20,000)",
+    "explanation": "Current ratio = ($32,300 + 50,700 + 70,500)/($58,900 + 20,000) Current ratio = 1.95",
     "chapter": 3
   },
   {
     "id": 263,
     "question": "Brewster Mills has total revenues of $684,350, costs of goods sold of $472,500, net income of $11,520, and average inventory of $91,600. What is the days' sales in inventory?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Days' sales in inventory = 365/($472,500/$91,600) Days' sales in inventory = 70.76 days Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Short-term solvency ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "69.84 days",
+      "B": "70.76 days",
+      "C": "71.51 days",
+      "D": "5.16 days",
+      "E": "4.08 days"
     },
     "answer": "B",
-    "explanation": "Days' sales in inventory = 365/($472,500/$91,600)",
+    "explanation": "Days' sales in inventory = 365/($472,500/$91,600) Days' sales in inventory = 70.76 days",
     "chapter": 3
   },
   {
     "id": 264,
     "question": "Jones Mfg. has current assets of $26,900, net working capital of $8,200, long-term debt of $21,500, and total equity of $57,800. What is the equity multiplier?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total assets = Total liabilities and equity = $26,900 − 8,200 + 21,500 + 57,800 Total assets = $98,000 Equity multiplier = $98,000/$57,800 Equity multiplier = 1.70 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "1.70",
+      "B": "1.59",
+      "C": "1.66",
+      "D": "1.80",
+      "E": "1.99"
     },
     "answer": "A",
-    "explanation": "Total assets = Total liabilities and equity = $26,900 − 8,200 + 21,500 + 57,800",
+    "explanation": "Total assets = Total liabilities and equity = $26,900 − 8,200 + 21,500 + 57,800 Total assets = $98,000 Equity multiplier = $98,000/$57,800 Equity multiplier = 1.70",
     "chapter": 3
   },
   {
     "id": 265,
     "question": "Highland Lumber has net sales of $642,100, depreciation of $138,400, interest expense of $15,600, cost of goods sold of $409,800, and taxes of $16,400. What is the cash coverage ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Cash coverage ratio = ($642,100 − 409,800)/$15,600 Cash coverage ratio = 14.89 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "11.06",
+      "B": "6.02",
+      "C": "13.79",
+      "D": "14.89",
+      "E": "8.78"
     },
     "answer": "D",
-    "explanation": "Cash coverage ratio = ($642,100 − 409,800)/$15,600",
+    "explanation": "Cash coverage ratio = ($642,100 − 409,800)/$15,600 Cash coverage ratio = 14.89",
     "chapter": 3
   },
   {
     "id": 266,
     "question": "Southern Foods has net income of $39,900, net sales of $318,600, total assets of $663,000, common stock of $106,800 with a par value of $1 per share, and retained earnings of $224,400. The stock has a market value of $5.45 per share. What is the price-earnings ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: PE ratio = $5.45/[$39,900/($106,800/$1)] PE ratio = 14.59 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "17.12",
+      "B": "19.94",
+      "C": "12.82",
+      "D": "14.59",
+      "E": "16.64"
     },
     "answer": "D",
-    "explanation": "PE ratio = $5.45/[$39,900/($106,800/$1)]",
+    "explanation": "PE ratio = $5.45/[$39,900/($106,800/$1)] PE ratio = 14.59",
     "chapter": 3
   },
   {
     "id": 267,
     "question": "Catherine's Consulting paid dividends of $3,300 and total equity of $39,450. The debt-equity ratio is 1 and the plowback ratio is 40 percent. What is the return on assets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: A debt-equity ratio of 1 means that total debt equals total equity while a plowback ratio of 40 percent means that the dividends were 60 percent of net income. ROA = ($3,300/.60)/($39,450 + 39,450) ROA = .0697, or 6.97% Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Profitability ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 36 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "6.24 percent",
+      "B": "6.09 percent",
+      "C": "7.23 percent",
+      "D": "6.97 percent",
+      "E": "5.72 percent"
     },
     "answer": "D",
-    "explanation": "A debt-equity ratio of 1 means that total debt equals total equity while a plowback",
+    "explanation": "A debt-equity ratio of 1 means that total debt equals total equity while a plowback ratio of 40 percent means that the dividends were 60 percent of net income. ROA = ($3,300/.60)/($39,450 + 39,450) ROA = .0697, or 6.97%",
     "chapter": 3
   },
   {
     "id": 268,
     "question": "Mountain Top Markets has total assets of $48,700, net working capital of $1,100, and retained earnings of $21,200. The firm has 12,500 shares of stock outstanding with a par value of $1 per share and a market value of $7.10 per share. The stock was originally issued to the firm's founders at par value. What is the market-to-book ratio?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Market-to-book ratio = $7.10/{[$1(12,500) + $21,200]/12,500} Market-to-book ratio = 2.63 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Market value ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "3.19",
+      "B": "2.22",
+      "C": "2.78",
+      "D": "3.03",
+      "E": "2.63"
     },
     "answer": "E",
-    "explanation": "Market-to-book ratio = $7.10/{[$1(12,500) + $21,200]/12,500}",
+    "explanation": "Market-to-book ratio = $7.10/{[$1(12,500) + $21,200]/12,500} Market-to-book ratio = 2.63",
     "chapter": 3
   },
   {
     "id": 269,
     "question": "Georgetown Supply has sales of $318,200, net income of $41,400, current assets of $118,400, net fixed assets of $238,300, net working capital of $18,900, and long-term debt of $175,000. What is the equity multiplier?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Equity multiplier = ($118,400 + 238,300)/[$118,400 + 238,300 − ($118,400 − 18,900) − $175,000] Equity multiplier = 4.34 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Long-term solvency ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "1.71",
+      "B": "4.34",
+      "C": "1.44",
+      "D": "3.82",
+      "E": "2.92"
     },
     "answer": "B",
-    "explanation": "Equity multiplier = ($118,400 + 238,300)/[$118,400 + 238,300 − ($118,400 −",
+    "explanation": "Equity multiplier = ($118,400 + 238,300)/[$118,400 + 238,300 − ($118,400 − 18,900) − $175,000] Equity multiplier = 4.34",
     "chapter": 3
   },
   {
     "id": 270,
     "question": "Black Stone Mills has an enterprise value ratio of 9.8, a profit margin of 6.5 percent, sales of $946,200, costs of $631,400, depreciation of $17,900, interest expense of $4,500, and a total tax rate of 23 percent. What is the value of the enterprise?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Enterprise value = 9.8($946,200 − 631,400) Enterprise value = $3,085,040 Difficulty: 2 Medium Section: 3.2 Ratio Analysis Topic: Enterprise value and ratios Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$3,102,900",
+      "B": "$3,085,040",
+      "C": "$2,748,300",
+      "D": "$3,206,780",
+      "E": "$2,918,640"
     },
     "answer": "B",
-    "explanation": "Enterprise value = 9.8($946,200 − 631,400)",
+    "explanation": "Enterprise value = 9.8($946,200 − 631,400) Enterprise value = $3,085,040",
     "chapter": 3
   },
   {
     "id": 271,
     "question": "Riverton Stores is all-equity financed and has net sales of $217,800, taxable income of $32,600, a return on assets of 11.5 percent, a tax rate of 21 percent, and total debt of $63,700. What are the values for the three components of the DuPont identity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Profit margin = $32,600(1 − .21)/$217,800 Profit margin = .1182, or 11.82% Total assets = $32,600(1 − .21)/.115 Total assets = $223,947.83 Total asset turnover = $217,800/$223,947.83 Total asset turnover = .9725 Equity multiplier = $223,947.83/($223,947.83 − 63,700) Equity multiplier = 1.3975 Difficulty: 2 Medium Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "11.82 percent; .9725; 1.3975",
+      "B": "11.82 percent; 1.0282; 1.3975",
+      "C": "11.82 percent; .9725; .7156",
+      "D": "10.24 percent; 1.0282; .7156",
+      "E": "10.24 percent; 1.0282; 1.3975"
     },
     "answer": "A",
-    "explanation": "Profit margin = $32,600(1 − .21)/$217,800",
+    "explanation": "Profit margin = $32,600(1 − .21)/$217,800 Profit margin = .1182, or 11.82% Total assets = $32,600(1 − .21)/.115 Total assets = $223,947.83 Total asset turnover = $217,800/$223,947.83 Total asset turnover = .9725 Equity multiplier = $223,947.83/($223,947.83 − 63,700) Equity multiplier = 1.3975",
     "chapter": 3
   },
   {
     "id": 272,
     "question": "Kelso's has a return on equity of 16.2 percent, a debt-equity ratio of 44 percent, a capital intensity ratio of 1.08, a current ratio of 1.25, and current assets of $138,000. What is the profit margin?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Profit margin = .162/[(1/1.08)(1 + .44)] Profit margin = .1215, or 12.15% Difficulty: 2 Medium Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "12.15 percent",
+      "B": "9.72 percent",
+      "C": "7.48 percent",
+      "D": "15.19 percent",
+      "E": "13.69 percent"
     },
     "answer": "A",
-    "explanation": "Profit margin = .162/[(1/1.08)(1 + .44)]",
+    "explanation": "Profit margin = .162/[(1/1.08)(1 + .44)] Profit margin = .1215, or 12.15%",
     "chapter": 3
   },
   {
     "id": 273,
     "question": "Western Wear has total sales of $642,100, EBIT of $93,900, net income of $50,800, current assets of $153,500, total assets of $658,000, current liabilities of $78,900, and total liabilities of $213,600. What are the values of the three components of the DuPont identity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Profit margin = $50,800/$642,100 Profit margin = .0791, or 7.91% Total asset turnover = $642,100/$658,000 Total asset turnover = .98 Equity multiplier = $658,000/($658,000 − 213,600) Equity multiplier = 1.48 Difficulty: 2 Medium Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 39 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "7.91 percent; 1.02; 1.48",
+      "B": "8.57 percent; 1.02; .68",
+      "C": "7.91 percent; .98; 1.48",
+      "D": "11.43 percent; .98; .68",
+      "E": "11.43 percent; 1.02; 1.48"
     },
     "answer": "C",
-    "explanation": "Profit margin = $50,800/$642,100",
+    "explanation": "Profit margin = $50,800/$642,100 Profit margin = .0791, or 7.91% Total asset turnover = $642,100/$658,000 Total asset turnover = .98 Equity multiplier = $658,000/($658,000 − 213,600) Equity multiplier = 1.48",
     "chapter": 3
   },
   {
     "id": 274,
     "question": "Frederico's has a net income of $29,600, a total asset turnover of 1.4, total assets of $318,600, and a debt-equity ratio of .35. What is the return on equity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: ROE = ($29,600/$318,600)(1 + .35) ROE = .1254, or 12.54% Difficulty: 2 Medium Section: 3.3 The DuPont Identity Topic: DuPont identity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "16.72 percent",
+      "B": "8.40 percent",
+      "C": "12.54 percent",
+      "D": "14.67 percent",
+      "E": "17.56 percent"
     },
     "answer": "C",
-    "explanation": "ROE = ($29,600/$318,600)(1 + .35)",
+    "explanation": "ROE = ($29,600/$318,600)(1 + .35) ROE = .1254, or 12.54%",
     "chapter": 3
   },
   {
     "id": 275,
     "question": "JB Markets has sales of $848,600, net income of $94,000, dividends paid of $28,200, total assets of $913,600, and current liabilities of $78,900. Assume that all costs, assets, and current liabilities change spontaneously with sales. The tax rate and dividend payout ratios remain constant. If the firm's managers project a firm growth rate of 15 percent for next year, what will be the amount of external financing needed to support this level of growth? Assume the firm is currently operating at full capacity.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: EFN = $913,600(.15) − $78,900(.15) − $94,000(1.15)[1 − ($28,200/$94,000)] EFN = $49,535 Difficulty: 2 Medium Section: 3.4 Financial Models Topic: External financing need Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 40 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$49,535",
+      "B": "$68,211",
+      "C": "−$10,406",
+      "D": "$13,909",
+      "E": "$32,408"
     },
     "answer": "A",
-    "explanation": "EFN = $913,600(.15) − $78,900(.15) − $94,000(1.15)[1 − ($28,200/$94,000)]",
+    "explanation": "EFN = $913,600(.15) − $78,900(.15) − $94,000(1.15)[1 − ($28,200/$94,000)] EFN = $49,535",
     "chapter": 3
   },
   {
     "id": 276,
     "question": "The Lumber Mill has total assets of $591,600, current liabilities of $49,700, dividends paid of $12,000, net sales of $68,400, and net income of $55,400. Assume that all costs, assets, and current liabilities change spontaneously with sales. The tax rate and dividend payout ratios remain constant. If the firm's managers project a firm growth rate of 6 percent for next year, what will be the amount of external financing needed to support this level of growth? Assume the firm is currently operating at full capacity.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: EFN = $591,600(.06) − $49,700(.06) − $55,400(1.06)[1 − ($12,000/$55,400)] EFN = −$13,490 Difficulty: 2 Medium Section: 3.4 Financial Models Topic: External financing need Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$3,200",
+      "B": "−$13,490",
+      "C": "−$17,520",
+      "D": "$15,640",
+      "E": "$16,380"
     },
     "answer": "B",
-    "explanation": "EFN = $591,600(.06) − $49,700(.06) − $55,400(1.06)[1 − ($12,000/$55,400)]",
+    "explanation": "EFN = $591,600(.06) − $49,700(.06) − $55,400(1.06)[1 − ($12,000/$55,400)] EFN = −$13,490",
     "chapter": 3
   },
   {
     "id": 277,
     "question": "Green Lumber has total sales of $387,200 on total assets of $429,600, current liabilities of $45,000, and $24,000 of dividends paid on net income of $57,700. Assume that all costs, assets, and current liabilities change spontaneously with sales. The tax rate and dividend payout ratios remain constant. If the firm's managers project a firm growth rate of 12 percent for next year, what will be the amount of external financing needed to support this level of growth? Assume the firm is currently operating at full capacity.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: EFN = $429,600(.12) − $45,000(.12) − $57,700(1.12)[1 − ($24,000/$57,700)] EFN = $8,408 Difficulty: 2 Medium Section: 3.4 Financial Models Topic: External financing need Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 41 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$11,706",
+      "B": "$14,350",
+      "C": "$9,911",
+      "D": "$5,667",
+      "E": "$8,408"
     },
     "answer": "E",
-    "explanation": "EFN = $429,600(.12) − $45,000(.12) − $57,700(1.12)[1 − ($24,000/$57,700)]",
+    "explanation": "EFN = $429,600(.12) − $45,000(.12) − $57,700(1.12)[1 − ($24,000/$57,700)] EFN = $8,408",
     "chapter": 3
   },
   {
     "id": 278,
     "question": "Deep Falls Timber has net sales of $642,100, net income of $50,800, dividends paid of $12,700, total assets of $658,000, and total equity of $444,400. What is the internal growth rate?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Internal growth rate = {($50,800/$658,000)[1 − ($12,700/$50,800)]}/(1 − {($50,800/$658,000)[1 − ($12,700/$50,800)]}) Internal growth rate = .0615, or 6.15% Difficulty: 2 Medium Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "5.83 percent",
+      "B": "6.24 percent",
+      "C": "6.15 percent",
+      "D": "5.18 percent",
+      "E": "7.70 percent"
     },
     "answer": "C",
-    "explanation": "Internal growth rate = {($50,800/$658,000)[1 − ($12,700/$50,800)]}/(1 −",
+    "explanation": "Internal growth rate = {($50,800/$658,000)[1 − ($12,700/$50,800)]}/(1 − {($50,800/$658,000)[1 − ($12,700/$50,800)]}) Internal growth rate = .0615, or 6.15%",
     "chapter": 3
   },
   {
     "id": 279,
     "question": "Narrow Falls Lumber has total assets of $913,600, total debt of $424,500, net sales of $848,600, and net income of $94,000. The tax rate is 21 percent and the dividend payout ratio is 30 percent. What is the firm's sustainable growth rate?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Sustainable growth rate = {[$94,000/($913,600 – 424,500)](1 – .30)}/(1 – {[$94,000/($913,600 – 424,500)](1 – .30)}) Sustainable growth rate = .1554, or 15.54% Difficulty: 2 Medium Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 42 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "13.97 percent",
+      "B": "14.46 percent",
+      "C": "15.54 percent",
+      "D": "12.63 percent",
+      "E": "14.91 percent"
     },
     "answer": "C",
-    "explanation": "Sustainable growth rate = {[$94,000/($913,600 – 424,500)](1 – .30)}/(1 –",
+    "explanation": "Sustainable growth rate = {[$94,000/($913,600 – 424,500)](1 – .30)}/(1 – {[$94,000/($913,600 – 424,500)](1 – .30)}) Sustainable growth rate = .1554, or 15.54%",
     "chapter": 3
   },
   {
     "id": 280,
     "question": "The Blue Giant has a profit margin of 6.2 percent and a dividend payout ratio of 40 percent. The capital intensity is 1.08 and the debt-equity ratio is .54. What is the sustainable rate of growth?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: ROE = .062(1/1.08)(1 + .54) ROE = .088407 Sustainable growth rate = [.088407(1 −.40)]/{1 – [.088407(1 − .40)]} Sustainable growth rate = .0560, or 5.60% Difficulty: 2 Medium Section: 3.5 External Financing and Growth Topic: Internal and sustainable growth rates Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "6.30 percent",
+      "B": "5.53 percent",
+      "C": "5.60 percent",
+      "D": "6.41 percent",
+      "E": "5.89 percent"
     },
     "answer": "C",
-    "explanation": "ROE = .062(1/1.08)(1 + .54)",
+    "explanation": "ROE = .062(1/1.08)(1 + .54) ROE = .088407 Sustainable growth rate = [.088407(1 −.40)]/{1 – [.088407(1 − .40)]} Sustainable growth rate = .0560, or 5.60%",
     "chapter": 3
   },
   {

@@ -3,11 +3,11 @@
     "id": 1201,
     "question": "Which one of these is the best means of creating a valuable financing opportunity?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.1 Can Financing Decisions Create Value? Topic: Market efficiency - implications Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Reduce a tax subsidy",
+      "B": "Fool investors in an efficient market",
+      "C": "Create a new security to meet the needs of an unsatisfied clientele",
+      "D": "Issue new securities in a market niche of satisfied clientele",
+      "E": "Create new securities to minimize tax benefits"
     },
     "answer": "C",
     "chapter": 14
@@ -16,11 +16,11 @@
     "id": 1202,
     "question": "An efficient capital market is one in which:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "brokerage commissions are zero.",
+      "B": "taxes are irrelevant.",
+      "C": "securities always offer a positive NPV.",
+      "D": "all investments earn the market rate of return.",
+      "E": "security prices reflect all available information."
     },
     "answer": "E",
     "chapter": 14
@@ -29,11 +29,11 @@
     "id": 1203,
     "question": "The notion that actual capital markets, such as the NYSE, are fairly priced is called the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "efficient market Hypothesis (EMH).",
+      "B": "law of one price (LOP).",
+      "C": "open markets theorem (OMT).",
+      "D": "laissez-faire axiom.",
+      "E": "monopoly pricing theorem (MPT)."
     },
     "answer": "A",
     "chapter": 14
@@ -42,11 +42,11 @@
     "id": 1204,
     "question": "Which of the following are conditions that Andrei Shleifer presents as the conditions that create market efficiency?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Arbitrage, independent deviations from rationality, rationality",
+      "B": "Competition, arbitrage, and rational investors",
+      "C": "Rational investors, dependent deviations from rationality, and competition",
+      "D": "Wide public access to information, rational investors, and arbitrage",
+      "E": "Professional investors, easy access to information, rational independent investors"
     },
     "answer": "A",
     "chapter": 14
@@ -55,11 +55,11 @@
     "id": 1205,
     "question": "Individuals that continually monitor the financial markets seeking mispriced securities:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "evaluation.",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "tend to make substantial profits on a daily basis.",
+      "B": "tend to make the markets more efficient.",
+      "C": "are never able to find a security that is temporarily mispriced.",
+      "D": "are always quite successful using only well-known public information as their basis of evaluation.",
+      "E": "are always quite successful using only historical price information as their basis of evaluation."
     },
     "answer": "B",
     "chapter": 14
@@ -68,11 +68,11 @@
     "id": 1206,
     "question": "Market efficiency requires:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "arbitrage conducted by irrational investors.",
+      "B": "the absence of arbitrage.",
+      "C": "speculation by amateur investors.",
+      "D": "all investors to be rational.",
+      "E": "countervailing irrationalities."
     },
     "answer": "E",
     "chapter": 14
@@ -81,11 +81,11 @@
     "id": 1207,
     "question": "Which of the following would be indicative of inefficient markets?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Overreaction and reversion",
+      "B": "Delayed response",
+      "C": "Immediate and accurate response",
+      "D": "Overreaction with reversion and delayed response",
+      "E": "Immediate and accurate response with a zero NPV"
     },
     "answer": "D",
     "chapter": 14
@@ -94,11 +94,11 @@
     "id": 1208,
     "question": "Arbitrage involves the simultaneous purchase:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.2 A Description of Efficient Capital Markets Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "of one security and the corporate repurchase of another similar security.",
+      "B": "of two substitute securities with their sales following within the hour.",
+      "C": "of two or more similar securities.",
+      "D": "and sale of the same security.",
+      "E": "and sale of different, but substitute, securities."
     },
     "answer": "E",
     "chapter": 14
@@ -107,11 +107,11 @@
     "id": 1209,
     "question": "The hypothesis that market prices reflect all available information of every kind is called ________ form efficiency.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "open",
+      "B": "strong",
+      "C": "semistrong",
+      "D": "weak",
+      "E": "stable"
     },
     "answer": "B",
     "chapter": 14
@@ -120,11 +120,11 @@
     "id": 1210,
     "question": "The hypothesis that market prices reflect all publicly available information is called ________ form efficiency.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "open",
+      "B": "strong",
+      "C": "semistrong",
+      "D": "weak",
+      "E": "stable"
     },
     "answer": "C",
     "chapter": 14
@@ -133,11 +133,11 @@
     "id": 1211,
     "question": "The form of market efficiency that only relates to whether past market returns are useful in predicting future market returns is ________ form efficiency.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "open",
+      "B": "strong",
+      "C": "semistrong",
+      "D": "weak",
+      "E": "stable"
     },
     "answer": "D",
     "chapter": 14
@@ -146,11 +146,11 @@
     "id": 1212,
     "question": "In an efficient market, the price of a security will:",
     "options": {
-      "A": "adjustments related to that information.",
-      "B": "related to that information will occur.",
-      "C": "the following day.",
-      "D": "",
-      "E": "information to be reviewed and analyzed. Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "always rise immediately upon the release of new information with no further price adjustments related to that information.",
+      "B": "react to new information over a two-day period after which time no further price adjustments related to that information will occur.",
+      "C": "rise sharply when new information is first released and then decline to a new stable level by the following day.",
+      "D": "react immediately to any new information that affects the value of the issuing firm.",
+      "E": "be slow to react for the first few hours after new information is released allowing time for that information to be reviewed and analyzed."
     },
     "answer": "D",
     "chapter": 14
@@ -159,11 +159,11 @@
     "id": 1213,
     "question": "If the financial markets are efficient, then investors should expect their investments in those markets to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - implications Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "earn extraordinary returns on a routine basis.",
+      "B": "generally have positive net present values.",
+      "C": "generally have zero net present values.",
+      "D": "produce arbitrage opportunities on a routine basis.",
+      "E": "produce negative returns on a routine basis."
     },
     "answer": "C",
     "chapter": 14
@@ -172,11 +172,11 @@
     "id": 1214,
     "question": "Which one of the following statements is correct concerning market efficiency?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - implications Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Markets tend to be more efficient when the frequency of price changes diminishes.",
+      "B": "If a market is efficient, arbitrage opportunities should be common.",
+      "C": "In an efficient market, some market participants will have an advantage over others.",
+      "D": "A firm will generally receive a fair price when it sells newly issued shares of stock.",
+      "E": "New information will gradually be reflected in a stock's price to avoid spooking investors."
     },
     "answer": "D",
     "chapter": 14
@@ -185,11 +185,11 @@
     "id": 1215,
     "question": "Financial markets fluctuate daily because they:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "are inefficient.",
+      "B": "are slowly reacting to new information.",
+      "C": "are continually reacting to new information.",
+      "D": "offer tremendous arbitrage opportunities.",
+      "E": "only reflect historical information."
     },
     "answer": "C",
     "chapter": 14
@@ -198,11 +198,11 @@
     "id": 1216,
     "question": "Insider trading does not offer any advantages if the financial markets are:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "weak form efficient.",
+      "B": "semiweak form efficient.",
+      "C": "semistrong form efficient.",
+      "D": "strong form efficient.",
+      "E": "inefficient."
     },
     "answer": "D",
     "chapter": 14
@@ -211,11 +211,11 @@
     "id": 1217,
     "question": "According to theory, studying historical prices in order to identify mispriced stocks will:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "only work if the market is at least weak form efficient.",
+      "B": "work as long as the market is less than strong form efficient.",
+      "C": "work only in a strong form efficient market.",
+      "D": "not work in any market regardless of the level of efficiency.",
+      "E": "not work if the market is at least weak form efficient."
     },
     "answer": "E",
     "chapter": 14
@@ -224,11 +224,11 @@
     "id": 1218,
     "question": "If you excel in analyzing the future outlook of firms based on past performance, you would prefer that the financial markets be less than ________ form efficient so that you can have an advantage in the marketplace.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "weak",
+      "B": "semiweak",
+      "C": "semistrong",
+      "D": "strong",
+      "E": "perfect"
     },
     "answer": "A",
     "chapter": 14
@@ -237,11 +237,11 @@
     "id": 1219,
     "question": "Your best friend works in the finance office of the Delta Corporation. You are aware this friend trades Delta stock based on information he overhears in the office but which is not known to the general public. Your friend continually brags to you about the profits he earns trading Delta stock. Based on this information, you would tend to argue that the financial markets are at best ________ form efficient.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "weak",
+      "B": "semiweak",
+      "C": "semistrong",
+      "D": "strong",
+      "E": "perfect"
     },
     "answer": "C",
     "chapter": 14
@@ -250,11 +250,11 @@
     "id": 1220,
     "question": "The U.S. Securities and Exchange Commission periodically charges individuals with insider trading and claims those individuals have made unfair profits. Based on this fact, you would tend to argue that the financial markets are at best ________ form efficient.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "weak",
+      "B": "semiweak",
+      "C": "semistrong",
+      "D": "strong",
+      "E": "perfect"
     },
     "answer": "C",
     "chapter": 14
@@ -263,11 +263,11 @@
     "id": 1221,
     "question": "An investor discovers that for a certain group of stocks, large positive price changes are always followed by large negative price changes. This finding is a violation of the ________ form of the efficient market hypothesis.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "moderate",
+      "B": "semistrong",
+      "C": "strong",
+      "D": "weak",
+      "E": "historical"
     },
     "answer": "D",
     "chapter": 14
@@ -276,11 +276,11 @@
     "id": 1222,
     "question": "If a stock price follows a random walk, the price today is said to be equal to the prior period price plus the expected return for the period with any remaining difference from the actual return considered to be:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "a predictable amount based on the past prices.",
+      "B": "due to new information related to the stock.",
+      "C": "related to the security's risk.",
+      "D": "related to the risk-free rate.",
+      "E": "an overall market abnormality."
     },
     "answer": "B",
     "chapter": 14
@@ -289,11 +289,11 @@
     "id": 1223,
     "question": "A fully efficient market will eliminate which one of the following?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Cyclical patterns",
+      "B": "Daily price fluctuations",
+      "C": "Unexpected price declines",
+      "D": "All abnormal profits except those related to insider trading",
+      "E": "Price increases over any period of time in excess of six months"
     },
     "answer": "A",
     "chapter": 14
@@ -302,11 +302,11 @@
     "id": 1224,
     "question": "If a market is strong form efficient then:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "company insiders are the only investors capable of earning an abnormal profit.",
+      "B": "abnormal profits are obtainable by any and all investors.",
+      "C": "technical analysts who study past market performance have a market advantage.",
+      "D": "all investments should have positive NPVs.",
+      "E": "company insiders have no advantage over John Q. Public investor."
     },
     "answer": "E",
     "chapter": 14
@@ -315,11 +315,11 @@
     "id": 1225,
     "question": "An investor discovers that predictions about weather patterns published years in advance and found in the Farmer's Almanac are amazingly accurate. In fact, these predictions enable the investor to predict the health of the farm economy and therefore certain security prices. This finding is a violation of the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "moderate form of the efficient market hypothesis.",
+      "B": "semistrong form of the efficient market hypothesis.",
+      "C": "strong form of the efficient market hypothesis.",
+      "D": "weak form of the efficient market hypothesis.",
+      "E": "efficient market hypothesis at all levels."
     },
     "answer": "B",
     "chapter": 14
@@ -328,11 +328,11 @@
     "id": 1226,
     "question": "An investor discovers that stock prices change drastically as a result of certain events. This finding is a violation of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the moderate form of the efficient market hypothesis.",
+      "B": "the semistrong form of the efficient market hypothesis.",
+      "C": "the strong form of the efficient market hypothesis.",
+      "D": "the weak form of the efficient market hypothesis.",
+      "E": "no form of market efficiency but rather an indication of an efficient market."
     },
     "answer": "E",
     "chapter": 14
@@ -341,11 +341,11 @@
     "id": 1227,
     "question": "The market price of a stock tends to fluctuate throughout every trading day. This fluctuation is:",
     "options": {
-      "A": "should be stable.",
-      "B": "information should already be included in the price.",
-      "C": "should adjust as new information becomes available.",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "inconsistent with the semistrong form of the efficient market hypothesis because prices should be stable.",
+      "B": "inconsistent with the weak form of the efficient market hypothesis because all past information should already be included in the price.",
+      "C": "consistent with the semistrong form of the efficient market hypothesis because daily prices should adjust as new information becomes available.",
+      "D": "consistent with the strong form of market efficiency because prices are controlled by insiders.",
+      "E": "a strong indicator that abnormal profits can be realized."
     },
     "answer": "C",
     "chapter": 14
@@ -354,11 +354,11 @@
     "id": 1228,
     "question": "Suppose firms with unexpectedly high earnings earn abnormally high returns for several months after the earnings announcement. This would be evidence of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency - foundations and types Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "efficient markets in the weak form.",
+      "B": "inefficient markets in the weak form.",
+      "C": "efficient markets in the semistrong form.",
+      "D": "inefficient markets in the semistrong form.",
+      "E": "inefficient markets in the strong form."
     },
     "answer": "D",
     "chapter": 14
@@ -367,11 +367,11 @@
     "id": 1229,
     "question": "If the securities market is efficient, an investor need only throw darts at the stock pages to pick securities and be just as well off as they would be with a professionally-developed portfolio. This statement is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.3 The Different Types of Efficiency Topic: Market efficiency Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "true because there would be no significant difference in risk and return.",
+      "B": "true because in an efficient stock market all portfolios earn the market rate of return.",
+      "C": "false because professionals guarantee higher returns given the same level of risk.",
+      "D": "false because investors may not hold a desirable risk-return combination.",
+      "E": "false because the markets are controlled by the institutional investors."
     },
     "answer": "D",
     "chapter": 14
@@ -380,11 +380,11 @@
     "id": 1230,
     "question": "Serial correlation:",
     "options": {
-      "A": "security.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "measures the relationship between the current return on a security with that of a second security.",
+      "B": "involves multiple securities within the same industry.",
+      "C": "indicates a tendency for continuation when the correlation is positive.",
+      "D": "indicates a tendency toward reversal when the correlation coefficient is zero.",
+      "E": "supports weak form efficiency when the correlation coefficient is near zero."
     },
     "answer": "E",
     "chapter": 14
@@ -393,11 +393,11 @@
     "id": 1231,
     "question": "Event studies attempt to determine:",
     "options": {
-      "A": "information's release.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the influence of information released to the market on stock prices in days surrounding the information's release.",
+      "B": "if the market is at least weak form efficient.",
+      "C": "whether the market is semi strong or strong form efficient.",
+      "D": "the correlation between the returns on two diverse securities.",
+      "E": "the optimal time to release new information to the public."
     },
     "answer": "A",
     "chapter": 14
@@ -406,11 +406,11 @@
     "id": 1232,
     "question": "The abnormal return in an event study is described as the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "average return on the security for the past year.",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "total return earned on a security on the day of an announcement.",
+      "B": "daily return on a security minus the daily return on the overall market.",
+      "C": "average return on a security for the 7-day period surrounding an announcement.",
+      "D": "average return on a security for the 7-day period surrounding an announcement minus the average return on the security for the past year.",
+      "E": "daily return on a security on the announcement date minus the risk-free rate of return."
     },
     "answer": "B",
     "chapter": 14
@@ -419,11 +419,11 @@
     "id": 1233,
     "question": "Assume the price of a stock rises upon the announcement that the firm's chief executive officer (CEO) was killed in a freak accident. This market reaction is most indicative of the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - implications Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "uncertainty of the firm's future existence.",
+      "B": "random nature of stock price movements.",
+      "C": "expected management turmoil that is anticipated.",
+      "D": "underperformance of that CEO.",
+      "E": "sadness of hearing the news."
     },
     "answer": "D",
     "chapter": 14
@@ -432,11 +432,11 @@
     "id": 1234,
     "question": "Studies of the performance of professionally managed mutual funds find that these funds:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "all have a tendency to consistently outperform the overall market.",
+      "B": "perform in a manner consistent with semistrong form efficiency.",
+      "C": "all have a tendency to underperform the market consistently year after year.",
+      "D": "perform in a manner that definitely refutes both strong and semistrong form efficiency.",
+      "E": "indicate that stock prices consistently adhere to a daily continuation pattern."
     },
     "answer": "B",
     "chapter": 14
@@ -445,11 +445,11 @@
     "id": 1235,
     "question": "Which one of the following statements is true?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Highly positive serial correlations are indicators of market efficiency.",
+      "B": "Abnormal returns limited to the announcement date are indicators of market inefficiency.",
+      "C": "Market studies indicate that stock markets are only weak form efficient.",
+      "D": "Studies seem to indicate stock markets are semistrong but not strong form efficient.",
+      "E": "Mutual funds provide little, if any, benefit to investors."
     },
     "answer": "D",
     "chapter": 14
@@ -458,11 +458,11 @@
     "id": 1236,
     "question": "Event studies of dividend omissions indicate that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "announcements are made.",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "this type of announcement generally has no effect on abnormal returns.",
+      "B": "the cumulative abnormal return remains constant when this type of announcement is made.",
+      "C": "stock returns are positively, and efficiently, impacted when dividend omission announcements are made.",
+      "D": "this type of an event is incorporated into stock prices slowly over a 10-day period.",
+      "E": "the cumulative abnormal return declines on the day prior to and the day of the announcement."
     },
     "answer": "E",
     "chapter": 14
@@ -471,11 +471,11 @@
     "id": 1237,
     "question": "Which one of these is an example of financially irrational behavior?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "An investor selling stock to realize a profit",
+      "B": "Increasing the amount you are willing to pay for a stock following a positive announcement",
+      "C": "Buying a mutual fund to benefit from diversification",
+      "D": "Casino gambling",
+      "E": "A firm issuing new shares when their managers feel the stock is overpriced"
     },
     "answer": "D",
     "chapter": 14
@@ -484,11 +484,11 @@
     "id": 1238,
     "question": "An overconfident investor will tend to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "trade primarily in securities from their local area.",
+      "B": "trade less frequently than an average investor.",
+      "C": "underperform due to excess trading.",
+      "D": "suffer from the disposition effect.",
+      "E": "underestimate their ability to pick a winning stock."
     },
     "answer": "C",
     "chapter": 14
@@ -497,11 +497,11 @@
     "id": 1239,
     "question": "The disposition effect refers to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the underreaction of investors to bad news.",
+      "B": "selling any security that creates a tax liability.",
+      "C": "the hesitancy to sell a security of any firm with which you are affiliated.",
+      "D": "the urge to sell all your securities when market values decline.",
+      "E": "selling your winners while holding your losers."
     },
     "answer": "E",
     "chapter": 14
@@ -510,11 +510,11 @@
     "id": 1240,
     "question": "Which term best applies to the situation where an investor cares less about losing $1 of his profits than he does about losing $1 of his original investment?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Get-evenitis",
+      "B": "Snakebite effect",
+      "C": "Familiarity",
+      "D": "Home bias",
+      "E": "House money effect"
     },
     "answer": "E",
     "chapter": 14
@@ -523,11 +523,11 @@
     "id": 1241,
     "question": "Drawing conclusions from too small of a sampling describes the behavioral characteristic of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "conservatism.",
+      "B": "familiarity.",
+      "C": "representativeness.",
+      "D": "overconfidence.",
+      "E": "underreaction."
     },
     "answer": "C",
     "chapter": 14
@@ -536,11 +536,11 @@
     "id": 1242,
     "question": "Psychologists generally agree that irrational traits such as those related to behavioral finance are generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "temporary and limited to a small sector of the population.",
+      "B": "pervasive across individuals.",
+      "C": "offset within the overall population.",
+      "D": "cyclical in nature.",
+      "E": "unique to a few individuals."
     },
     "answer": "B",
     "chapter": 14
@@ -549,11 +549,11 @@
     "id": 1243,
     "question": "One reason why the efficient capital market hypothesis may not hold in reality is that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.5 The Behavioral Challenge to Market Efficiency Topic: Behavioral finance Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "risk has been eliminated from the process of arbitrage.",
+      "B": "most investors appear in studies to be rational.",
+      "C": "arbitrage appears to be fully effective.",
+      "D": "irrationality may be related across individuals.",
+      "E": "irrationalities cancel out across investors."
     },
     "answer": "D",
     "chapter": 14
@@ -562,11 +562,11 @@
     "id": 1244,
     "question": "Stock market events in 1929, 1987, and 2008 are most apt to be used as examples in support of which one of these theories?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.6 Empirical Challenges to Market Efficiency Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Blanket theory",
+      "B": "Advanced markets theory",
+      "C": "Value theory",
+      "D": "Bubble theory",
+      "E": "Behavioral theory"
     },
     "answer": "D",
     "chapter": 14
@@ -575,11 +575,11 @@
     "id": 1245,
     "question": "Who is credited with saying \"Markets can stay irrational longer than you can stay solvent\"?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.6 Empirical Challenges to Market Efficiency Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "G.C. Biddle",
+      "B": "Warren Buffett",
+      "C": "R.S. Kaplan",
+      "D": "John Maynard Keynes",
+      "E": "Jay Ritter"
     },
     "answer": "D",
     "chapter": 14
@@ -588,11 +588,11 @@
     "id": 1246,
     "question": "The Kolasinski and Li study of earnings surprises showed that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.6 Empirical Challenges to Market Efficiency Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "prices tend to overreact and then properly adjust the following day.",
+      "B": "prices tend to be unaffected by these types of announcements.",
+      "C": "prices tend to adjust rapidly and efficiently to these announcements.",
+      "D": "prices adjust slowly to earnings announcements.",
+      "E": "earnings surprises tend to be predicted such that prices adjust prior to the announcement."
     },
     "answer": "D",
     "chapter": 14
@@ -601,11 +601,11 @@
     "id": 1247,
     "question": "The studies conducted by Fama and French show that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.6 Empirical Challenges to Market Efficiency Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "value stocks have higher average returns than growth stocks around the world.",
+      "B": "growth stocks have higher average returns than value stocks around the world.",
+      "C": "value stocks outperform in the U.S. while growth stocks outperform elsewhere.",
+      "D": "growth stocks outperform in the U.S. while value stocks outperform elsewhere.",
+      "E": "value and growth stocks perform relatively the same over longer periods of time."
     },
     "answer": "A",
     "chapter": 14
@@ -614,11 +614,11 @@
     "id": 1248,
     "question": "Critics of behavioral finance use which one of these as an argument for market efficiency?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.7 Reviewing the Differences Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Research papers supporting market efficiency tend to end up \"in file drawers\"",
+      "B": "Underreactions fail to exist in actual studies",
+      "C": "The overall community of financial economists firmly decided the markets are efficient",
+      "D": "Overreactions offset underreactions in almost every market study conducted to date",
+      "E": "Conservatism has been found to be absent in studies under actual market conditions"
     },
     "answer": "A",
     "chapter": 14
@@ -627,11 +627,11 @@
     "id": 1249,
     "question": "If financial markets are efficient, then attempting to accurately predict interest rates is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 14.8 Implications for Corporate Finance Topic: Market efficiency - implications Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "an endeavor best left to corporate executives.",
+      "B": "a relatively easy and accurate exercise.",
+      "C": "a waste of good time.",
+      "D": "relatively easy to do if you have a general understanding of finance and economics.",
+      "E": "a little tricky but wise managers tend to succeed at it on an ongoing basis."
     },
     "answer": "C",
     "chapter": 14
@@ -640,11 +640,11 @@
     "id": 1250,
     "question": "In the three years prior to a forced departure of a top manager, stock prices, adjusted for market performance, on average:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 14.8 Implications for Corporate Finance Topic: Market efficiency - implications Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "decline about 20 percent.",
+      "B": "decline about 40 percent.",
+      "C": "decline about 60 percent.",
+      "D": "remain stable.",
+      "E": "increase about 20 percent."
     },
     "answer": "B",
     "chapter": 14
@@ -653,11 +653,11 @@
     "id": 1251,
     "question": "Ritter's study of SEO's suggests that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "firm's stock price.",
-      "D": "for the five years following issuance.",
-      "E": "Answer: A Difficulty: 1 Easy Section: 14.8 Implications for Corporate Finance Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "managers appear to be able to successfully time SEO issues when the stock is overpriced.",
+      "B": "managers can only successfully time SEO issuance by pure chance.",
+      "C": "managers tend to be incorrect in their market assessment of the market movement of their firm's stock price.",
+      "D": "returns on SEO-issuing firms are statistically the same as those of style-matched non-issuers for the five years following issuance.",
+      "E": "firms are better at timing IPOs than they are at timing SEOs."
     },
     "answer": "A",
     "chapter": 14
@@ -666,11 +666,11 @@
     "id": 1252,
     "question": "In examining the issue of whether the choice of accounting methods affects stock prices, studies have found that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "information or provide incorrect information.",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.8 Implications for Corporate Finance Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "accounting depreciation methods can significantly affect stock prices.",
+      "B": "switching depreciation methods can significantly affect stock prices.",
+      "C": "accounting changes that increase accounting earnings also increase stock prices.",
+      "D": "accounting changes can affect stock prices if the company were either to withhold information or provide incorrect information.",
+      "E": "accounting reporting has little, if any effect, ever on stock prices."
     },
     "answer": "D",
     "chapter": 14
@@ -679,11 +679,11 @@
     "id": 1253,
     "question": "Empirical evidence suggests that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 14.8 Implications for Corporate Finance Topic: Market efficiency - studies and challenges Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "prices may not reflect their true underlying value.",
+      "B": "financial managers lack any ability to correctly time stock repurchases.",
+      "C": "managers may profitably speculate in foreign currency.",
+      "D": "managers cannot boost stock prices by changing their accounting methods.",
+      "E": "wise accounting choices can impact a firm's stock price."
     },
     "answer": "D",
     "chapter": 14
@@ -692,14 +692,14 @@
     "id": 1254,
     "question": "Assume today is an earnings announcement day for a firm. For the day, the firm's return was .8 percent, while the risk-free daily rate was .01 percent and the market rate of return was 1.1 percent. The firm's industrial class returned 1.2 percent on average for the day. What was the firm's abnormal return for the day?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Abnormal return = .8% − 1.1 Abnormal return = −.3% Difficulty: 2 Medium Section: 14.4 The Evidence Topic: Market efficiency - studies and challenges Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": ".8 percent",
+      "B": ".79 percent",
+      "C": "−.3 percent",
+      "D": "−.4 percent",
+      "E": "−.39 percent"
     },
     "answer": "C",
-    "explanation": "Abnormal return = .8% − 1.1",
+    "explanation": "Abnormal return = .8% − 1.1 Abnormal return = −.3%",
     "chapter": 14
   },
   {

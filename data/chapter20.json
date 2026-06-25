@@ -3,11 +3,11 @@
     "id": 1597,
     "question": "The market for venture capital refers to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "private financial marketplace for servicing new, often high-risk firms.",
+      "B": "corporate bond market.",
+      "C": "market for selling unsubscribed rights.",
+      "D": "market for selling seasoned equity securities.",
+      "E": "public market for all issues of both company stocks and bonds."
     },
     "answer": "A",
     "chapter": 20
@@ -16,11 +16,11 @@
     "id": 1598,
     "question": "In a typical deal, the venture capitalist will receive at least ________ percent of the equity of the financed firm.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "5",
+      "B": "20",
+      "C": "40",
+      "D": "50",
+      "E": "75"
     },
     "answer": "C",
     "chapter": 20
@@ -29,11 +29,11 @@
     "id": 1599,
     "question": "Venture capitalists are:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "intermediaries that raise funds from outside investors.",
+      "B": "investors who take a hands-off approach to investment management.",
+      "C": "generally interested in primarily long-term investments.",
+      "D": "easily contacted and tend to assist with most requests received.",
+      "E": "generally granted a maximum of 25 percent of a firm's equity."
     },
     "answer": "A",
     "chapter": 20
@@ -42,11 +42,11 @@
     "id": 1600,
     "question": "Venture capitalists provide financing for new firms from the seed and start-up stage all the way to mezzanine and bridge financing. In exchange for this financing, venture capitalists generally receive:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the personal financial guarantees of all current owners.",
+      "B": "an equity position and board of director positions.",
+      "C": "the right to set the offer price in any future initial public offering.",
+      "D": "the protection provided by a court-appointed trustee.",
+      "E": "a government-funded guarantee of repayment for all funds provided."
     },
     "answer": "B",
     "chapter": 20
@@ -55,11 +55,11 @@
     "id": 1601,
     "question": "Venture capitalists will frequently:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "hold voting preferred stock which grants them priorities in the event of a sale or liquidation.",
+      "B": "hold voting common stock which grants them priorities over the debt holders.",
+      "C": "hold nonvoting preferred stock.",
+      "D": "hold nonvoting common stock.",
+      "E": "obtain seats on the board but not obtain shares of stock."
     },
     "answer": "A",
     "chapter": 20
@@ -68,11 +68,11 @@
     "id": 1602,
     "question": "Wood Crafts has expended almost all its start-up funds and is seeking venture capital to begin manufacturing. Which type of financing is it seeking?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Mezzanine financing",
+      "B": "First-round financing",
+      "C": "Bridge financing",
+      "D": "Seed money financing",
+      "E": "Second-round financing"
     },
     "answer": "B",
     "chapter": 20
@@ -81,11 +81,11 @@
     "id": 1603,
     "question": "Which one of these statements correctly relates to the capital commitments to U.S. Venture Funds?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.1 Early-Stage Financing and Venture Capital Topic: Venture capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The highest level of commitment occurred in 1999.",
+      "B": "The average annual commitment since the Year 2004 has been less than that of the 1980s.",
+      "C": "After the Year 2000, the level of commitment has steadily declined.",
+      "D": "The level of commitment is relatively unaffected by economic conditions.",
+      "E": "As of 2016, the amount of capital commitments was increasing."
     },
     "answer": "E",
     "chapter": 20
@@ -94,11 +94,11 @@
     "id": 1604,
     "question": "Management's first step in any issue of securities to the public is to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "file a registration form with the SEC.",
+      "B": "distribute copies of the preliminary prospectus.",
+      "C": "distribute copies of the final prospectus.",
+      "D": "obtain approval from the board of directors.",
+      "E": "prepare the tombstone advertisement."
     },
     "answer": "D",
     "chapter": 20
@@ -107,11 +107,11 @@
     "id": 1605,
     "question": "A red herring contains:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "exactly the same information as the final prospectus except for the SEC approval.",
+      "B": "the same information as the final prospectus.",
+      "C": "only a brief synopsis of the final prospectus.",
+      "D": "only a description of how the funds raised will be used.",
+      "E": "information very similar to the final prospectus but excludes the selling price."
     },
     "answer": "E",
     "chapter": 20
@@ -120,11 +120,11 @@
     "id": 1606,
     "question": "A company must file a registration statement with the SEC providing various financial and company information prior to selling new securities to the public. This registration statement does not need to be filed if the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "issue is less than $50 million.",
+      "B": "securities are loans that mature in one year or less.",
+      "C": "issue is less than $2.5 million.",
+      "D": "securities are valued at less than $5 million and are being sold on the Internet.",
+      "E": "securities are loans that mature within nine months."
     },
     "answer": "E",
     "chapter": 20
@@ -133,11 +133,11 @@
     "id": 1607,
     "question": "Security issues that are governed by Regulation A are:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "distributed solely among current company employees and directors.",
+      "B": "sold in full to a single purchaser.",
+      "C": "those that only include securities currently held by corporate insiders.",
+      "D": "limited such that only current shareholders can purchase them.",
+      "E": "valued at less than $5 million."
     },
     "answer": "E",
     "chapter": 20
@@ -146,11 +146,11 @@
     "id": 1608,
     "question": "Potential investors primarily obtain detailed information regarding a new issue by reading the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "SEC's comment letter.",
+      "B": "preliminary prospectus.",
+      "C": "letter of commitment.",
+      "D": "registration statement.",
+      "E": "rights offering statement."
     },
     "answer": "B",
     "chapter": 20
@@ -159,11 +159,11 @@
     "id": 1609,
     "question": "A registration statement is effective on the 20th day after filing unless:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the SEC is backlogged with statements.",
+      "B": "a tombstone ad is issued indicating its demise.",
+      "C": "a letter of comment suggesting changes is issued by the SEC.",
+      "D": "a syndicate can be formed sooner.",
+      "E": "the issue exceeds $50 million in which case the wait period is 30 days."
     },
     "answer": "C",
     "chapter": 20
@@ -172,11 +172,11 @@
     "id": 1610,
     "question": "If a firm lists its stock on a stock exchange without employing an underwriter, the firm is raising funds via:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "equity crowdfunding.",
+      "B": "charitable crowdfunding.",
+      "C": "token securities.",
+      "D": "a direct listing.",
+      "E": "venture capital."
     },
     "answer": "D",
     "chapter": 20
@@ -185,11 +185,11 @@
     "id": 1611,
     "question": "The maximum amount of equity that can be raised through crowdfunding in a 12-month period is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "$1 million.",
+      "B": "$25 million.",
+      "C": "$10 million.",
+      "D": "$50 million.",
+      "E": "$100 million."
     },
     "answer": "D",
     "chapter": 20
@@ -198,11 +198,11 @@
     "id": 1612,
     "question": "Tokens offered in initial coin offerings:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.2 The Public Issue Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "can be exchanged for services but not for cash.",
+      "B": "can only be obtained from Ethereum.",
+      "C": "must be exchanged for shares of common stock once the coin's issuer has gone public.",
+      "D": "are considered to be illiquid investments.",
+      "E": "may be obtained in the hope that the tokens will appreciate in value."
     },
     "answer": "E",
     "chapter": 20
@@ -211,11 +211,11 @@
     "id": 1613,
     "question": "The first equity issue offered to the general public by a firm is a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.3 Alternative Issue Methods Topic: Types of offerings Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "rights offer.",
+      "B": "general cash offer.",
+      "C": "restricted placement.",
+      "D": "direct placement.",
+      "E": "seasoned offering."
     },
     "answer": "B",
     "chapter": 20
@@ -224,11 +224,11 @@
     "id": 1614,
     "question": "An equity issue sold to the firm's existing stockholders is called a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.3 Alternative Issue Methods Topic: Types of offerings Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "rights offer.",
+      "B": "general cash offer.",
+      "C": "private placement.",
+      "D": "restricted placement.",
+      "E": "direct placement."
     },
     "answer": "A",
     "chapter": 20
@@ -237,11 +237,11 @@
     "id": 1615,
     "question": "The first public equity issue offered by a company is commonly referred to as a(n):",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.3 Alternative Issue Methods Topic: Types of offerings Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "initial private offering.",
+      "B": "initial public offering.",
+      "C": "secondary offering.",
+      "D": "seasoned new issue.",
+      "E": "registered issue."
     },
     "answer": "B",
     "chapter": 20
@@ -250,11 +250,11 @@
     "id": 1616,
     "question": "A seasoned equity offering:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.3 Alternative Issue Methods Topic: Types of offerings Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "may be either a cash offer or a rights offer.",
+      "B": "is a privileged subscription.",
+      "C": "must be a rights offer.",
+      "D": "must be a direct placement.",
+      "E": "must be a cash offer."
     },
     "answer": "A",
     "chapter": 20
@@ -263,11 +263,11 @@
     "id": 1617,
     "question": "Assume a firm issued securities through an agreement where the investment bankers sold as many shares as possible at a fixed price. This issue would be classified as a:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.3 Alternative Issue Methods Topic: Types of offerings Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Dutch auction.",
+      "B": "direct rights offer.",
+      "C": "direct placement.",
+      "D": "best-efforts cash offer.",
+      "E": "standby rights offer."
     },
     "answer": "D",
     "chapter": 20
@@ -276,11 +276,11 @@
     "id": 1618,
     "question": "A firm commitment arrangement with an investment banker occurs when the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "not being able to sell them.",
-      "E": "decrease. Answer: D Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Underwriting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "syndicate is in place to handle the issue.",
+      "B": "spread between the buying and selling price is less than one percent.",
+      "C": "issue is solidly accepted in the market as evidenced by a large price increase.",
+      "D": "investment banker buys the securities for less than the offering price and accepts the risk of not being able to sell them.",
+      "E": "investment banker sells as much of the security as the market can bear without a price decrease."
     },
     "answer": "D",
     "chapter": 20
@@ -289,11 +289,11 @@
     "id": 1619,
     "question": "The Green Shoe provision is used to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "cover oversubscriptions.",
+      "B": "address unsold shares.",
+      "C": "provide additional reward to investment bankers for a risky issue.",
+      "D": "provide funding to investment bankers for unsold shares.",
+      "E": "reduce the number of shareholders."
     },
     "answer": "A",
     "chapter": 20
@@ -302,11 +302,11 @@
     "id": 1620,
     "question": "Which one of the following services is least apt to be offered to a corporation by an investment bank?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Underwriting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Formulating a method to issue new securities",
+      "B": "Pricing of new securities",
+      "C": "Facilitating a merger",
+      "D": "Providing checking account management",
+      "E": "Selling new securities"
     },
     "answer": "D",
     "chapter": 20
@@ -315,11 +315,11 @@
     "id": 1621,
     "question": "Which one of the following is not one of the four main functions provided by underwriters?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Underwriting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Assumption of some market risk",
+      "B": "Responsibility for marketing securities",
+      "C": "Auditing the financial statements",
+      "D": "Estimating the value of an offering",
+      "E": "Establishing the offer price"
     },
     "answer": "C",
     "chapter": 20
@@ -328,11 +328,11 @@
     "id": 1622,
     "question": "In a best efforts offering the investment bank makes its money primarily by earning:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Underwriting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the spread between the buying and offering price.",
+      "B": "a commission on each share sold.",
+      "C": "a negotiated percentage of the offering price.",
+      "D": "a flat fee charged for services rendered.",
+      "E": "the difference between the offer price and the warrant price."
     },
     "answer": "B",
     "chapter": 20
@@ -341,11 +341,11 @@
     "id": 1623,
     "question": "Under the ________ method, the underwriter buys the entire issue, while under the ________ method, the underwriter does not purchase the shares but merely acts as an agent.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Underwriting Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "best efforts; firm commitment",
+      "B": "firm commitment; best efforts",
+      "C": "negotiated offer; competitive offer",
+      "D": "competitive offer; negotiated offer",
+      "E": "seasoned; unseasoned"
     },
     "answer": "B",
     "chapter": 20
@@ -354,11 +354,11 @@
     "id": 1624,
     "question": "Empirical evidence suggests that new equity issues are generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Costs of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "priced efficiently by the market.",
+      "B": "overpriced by investor excitement concerning a new issue.",
+      "C": "overpriced resulting from SEC regulation.",
+      "D": "underpriced, in part, to counteract the winner's curse.",
+      "E": "underpriced resulting from SEC regulation."
     },
     "answer": "D",
     "chapter": 20
@@ -367,11 +367,11 @@
     "id": 1625,
     "question": "The price at which offered securities are sold in a Dutch auction underwriting is determined by the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Types of offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "lead underwriter.",
+      "B": "bidders.",
+      "C": "SEC.",
+      "D": "issuing firm.",
+      "E": "venture capitalists."
     },
     "answer": "B",
     "chapter": 20
@@ -380,11 +380,11 @@
     "id": 1626,
     "question": "Green Shoe options generally last ________ days and benefit ________.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "30; the issuer",
+      "B": "30; the underwriting syndicate",
+      "C": "60; the underwriting syndicate",
+      "D": "60; the issuer",
+      "E": "90; both the issuer and the underwriting syndicate"
     },
     "answer": "B",
     "chapter": 20
@@ -393,11 +393,11 @@
     "id": 1627,
     "question": "Which one of these applies to the aftermarket period?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The red herrings are distributed.",
+      "B": "Underwriters generally only sell shares at or above the offer price.",
+      "C": "Book building is conducted.",
+      "D": "The lead underwriter determines the offer price.",
+      "E": "Underwriting negotiations are completed."
     },
     "answer": "B",
     "chapter": 20
@@ -406,11 +406,11 @@
     "id": 1628,
     "question": "Oversubscription is most commonly the result of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "unsuccessful book building.",
+      "B": "underpricing.",
+      "C": "exercising the Green Shoe option.",
+      "D": "a negotiated, rather than a competitive, underwriting.",
+      "E": "unexercised rights."
     },
     "answer": "B",
     "chapter": 20
@@ -419,11 +419,11 @@
     "id": 1629,
     "question": "Negotiated offers generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "are used as a last resort.",
+      "B": "involve an underwriting syndicate.",
+      "C": "result in higher issue costs than do competitive offers.",
+      "D": "involve only large issuers.",
+      "E": "reduce the probability an issue will be successful."
     },
     "answer": "C",
     "chapter": 20
@@ -432,11 +432,11 @@
     "id": 1630,
     "question": "A road show is a portion of the underwriting process known as:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "capital reputation building.",
+      "B": "bookbuilding.",
+      "C": "locking-up.",
+      "D": "syndication.",
+      "E": "Dutch auctioning."
     },
     "answer": "B",
     "chapter": 20
@@ -445,11 +445,11 @@
     "id": 1631,
     "question": "Historically, firms that issued new securities at a price that was above the file price range have:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.4 The Cash Offer Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "successfully avoided leaving any significant funds on the table.",
+      "B": "ended up overpricing their securities by at least 10 percent.",
+      "C": "left more money on the table than firms that issued within the file price range.",
+      "D": "ended up with unsold shares even though the final offer price was considered to be fair.",
+      "E": "left less money on the table than firms that issued at or below the file price range."
     },
     "answer": "C",
     "chapter": 20
@@ -458,11 +458,11 @@
     "id": 1632,
     "question": "Empirical evidence suggests that upon announcement of a seasoned equity issue, current stock prices generally:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.5 The Announcement of New Equity and the Value of the Firm Topic: Raising capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decrease perhaps because the issue reflects management's view the stock is overvalued.",
+      "B": "remain fairly constant since an efficient market anticipates a new equity issue.",
+      "C": "decrease perhaps because the issues are associated with positive NPV projects.",
+      "D": "increase because the market supply is always less than demand.",
+      "E": "increase because underwriters exercise their Green Shoe option."
     },
     "answer": "A",
     "chapter": 20
@@ -471,11 +471,11 @@
     "id": 1633,
     "question": "Debt capacity is often offered as a reason for a stock price to decline when additional equity securities are issued. The primary reason that supports this argument is that:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "and thus an equity issue is necessary.",
-      "D": "securities are issued.",
-      "E": "signaling the firm is on the verge of bankruptcy. Answer: C Difficulty: 1 Easy Section: 20.5 The Announcement of New Equity and the Value of the Firm Topic: Raising capital Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the high issue costs of a debt offering must be paid by the shareholders.",
+      "B": "an additional equity issue reduces the debt capacity of a firm.",
+      "C": "management feels the probability of default has risen, which limits the firm's debt capacity and thus an equity issue is necessary.",
+      "D": "unless additional debt is issued in the future, stock dividends will tend to decline after the new securities are issued.",
+      "E": "additional equity is only issued when a firm cannot meet its current debt obligations, thereby signaling the firm is on the verge of bankruptcy."
     },
     "answer": "C",
     "chapter": 20
@@ -484,11 +484,11 @@
     "id": 1634,
     "question": "Direct expenses of an IPO include the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "gross spread plus other direct expenses.",
+      "B": "gross spread and underpricing.",
+      "C": "abnormal returns and underpricing.",
+      "D": "Green Shoe option and the abnormal returns.",
+      "E": "gross spread, Green Shoe option, and other direct expenses."
     },
     "answer": "A",
     "chapter": 20
@@ -497,11 +497,11 @@
     "id": 1635,
     "question": "In comparison to debt issuance expenses, the total direct costs of equity issues are:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "considerably less.",
+      "B": "the same.",
+      "C": "minimally less.",
+      "D": "considerably greater.",
+      "E": "minimally greater."
     },
     "answer": "D",
     "chapter": 20
@@ -510,11 +510,11 @@
     "id": 1636,
     "question": "Which type of offering will generally incur the lowest direct issue costs as a percentage of gross proceeds?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Small-sized IPO",
+      "B": "Straight, investment-grade bonds",
+      "C": "SEO",
+      "D": "Large-sized IPO",
+      "E": "Convertible bonds"
     },
     "answer": "B",
     "chapter": 20
@@ -523,11 +523,11 @@
     "id": 1637,
     "question": "To determine the total value of a rights offering, the stockholder needs to know the following two pieces of information in addition to the number of rights issued, the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "subscription price and the number of rights needed to acquire a new share.",
+      "B": "current market price per share and the number of rights needed to acquire a new share.",
+      "C": "current market price per share and the standby fee.",
+      "D": "detachment date and the subscription price.",
+      "E": "the number of rights needed to acquire a new share and the number of shares currently owned."
     },
     "answer": "A",
     "chapter": 20
@@ -536,11 +536,11 @@
     "id": 1638,
     "question": "Assuming everything else is constant, when a stock goes ex-rights the stock price should:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "decrease since the stockholder is losing an option.",
+      "B": "increase since the corporation no longer has the right to force the stockholder to convert.",
+      "C": "remain the same since an efficient market would anticipate this change.",
+      "D": "remain constant as shareholder value is unaffected by a rights offering.",
+      "E": "decrease by the amount of the tax applicable to the right."
     },
     "answer": "A",
     "chapter": 20
@@ -549,11 +549,11 @@
     "id": 1639,
     "question": "If current shareholders want to acquire one share of stock under a rights plan they must:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "acquire new shares of stock that are being issued with rights attached.",
+      "B": "simply pay a registration fee plus the subscription price per share requested.",
+      "C": "submit the number of rights required plus the subscription price.",
+      "D": "inform the issuer and submit the market price per share desired.",
+      "E": "exchange their current shares for new shares that have rights attached."
     },
     "answer": "C",
     "chapter": 20
@@ -562,11 +562,11 @@
     "id": 1640,
     "question": "Which one of the following statements is true concerning a rights offering?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The subscription price is generally greater than the market price.",
+      "B": "The subscription price must be greater than the ex-rights price.",
+      "C": "The subscription price is generally less than the market price.",
+      "D": "The ex-rights price is generally higher than the rights-attached price.",
+      "E": "The market price tends to increase on the ex-rights date."
     },
     "answer": "C",
     "chapter": 20
@@ -575,11 +575,11 @@
     "id": 1641,
     "question": "Shareholders who have rights are always:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "better off if they exercise the rights rather than selling them.",
+      "B": "better off if they sell their rights rather than exercising them.",
+      "C": "in the same financial position if they sell or if they exercise their rights.",
+      "D": "able to purchase one new share for each right they own.",
+      "E": "financially disadvantaged any time a rights offer is made, regardless of any action they take."
     },
     "answer": "C",
     "chapter": 20
@@ -588,11 +588,11 @@
     "id": 1642,
     "question": "A standby underwriting arrangement in conjunction with a rights offering provides the:",
     "options": {
-      "A": "",
-      "B": "investment banker arises.",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.7 Rights Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "issuer with methods to cancel the offering should they so desire.",
+      "B": "issuer with an alternate investment banker if a conflict between the issuer and the original investment banker arises.",
+      "C": "investment banker with an oversubscription privilege to ensure profits are earned.",
+      "D": "issuer with an alternative avenue of sale to ensure success of the rights offering.",
+      "E": "investment bankers with a means of withdrawing from their firm offer."
     },
     "answer": "D",
     "chapter": 20
@@ -601,11 +601,11 @@
     "id": 1643,
     "question": "Arguments offered as explanations, with or without market evidence, as to why most U.S. equity issues are sold without rights include all the following except:",
     "options": {
-      "A": "",
-      "B": "market.",
-      "C": "",
-      "D": "price must be set much further in advance.",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.8 The Rights Puzzle Topic: Rights offerings Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "underwriters buy at an agreed upon price and bear some risk of selling the issue.",
+      "B": "cash proceeds are available sooner in underwriting and the issue is available to a wider market.",
+      "C": "underwriters certify that the offering price is consistent with the true value of the issue.",
+      "D": "the underwritten offer price is generally set 48 hours prior to the offering while the rights price must be set much further in advance.",
+      "E": "underwriters tend to increase the stock price through their sales efforts."
     },
     "answer": "D",
     "chapter": 20
@@ -614,11 +614,11 @@
     "id": 1644,
     "question": "Dilution commonly refers to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.9 Dilution Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "increase in stock value due to wider ownership of stock.",
+      "B": "loss in existing shareholder's value.",
+      "C": "loss in new shareholder's equity.",
+      "D": "splitting of a single share of stock into multiple shares.",
+      "E": "issuance of debt to repurchase shares."
     },
     "answer": "B",
     "chapter": 20
@@ -627,11 +627,11 @@
     "id": 1645,
     "question": "The type(s) of dilution that are most relevant to a firm's shareholders when the firm's shares are issued with rights is(are) the dilution of:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 20.9 Dilution Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "percentage ownership.",
+      "B": "stock price per share.",
+      "C": "both book value per share and earnings per share.",
+      "D": "both percentage ownership and book value per share.",
+      "E": "both stock price per share and earnings per share."
     },
     "answer": "B",
     "chapter": 20
@@ -640,11 +640,11 @@
     "id": 1646,
     "question": "If existing shareholders are offered rights to a new issue of securities, those shareholders:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.9 Dilution Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "will receive additional shares at no additional cost to themselves.",
+      "B": "will need to pay the current market price per share on the day they tend their rights.",
+      "C": "must participate in the offering if they wish to maintain their current ownership position.",
+      "D": "will pay the book price per share for each share obtained through the rights process.",
+      "E": "should expect to receive the book value per share for each right they have been granted."
     },
     "answer": "C",
     "chapter": 20
@@ -653,11 +653,11 @@
     "id": 1647,
     "question": "If a rights offer is used as the means of funding a positive net present value project, then shareholders should expect the price of their shares to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.9 Dilution Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "remain constant as the value of the project will be offset by the issuance of the new shares.",
+      "B": "decrease due to the additional shares being offered.",
+      "C": "change but the direction of that change cannot be predicted.",
+      "D": "change in direct relation to the change in the book value per share.",
+      "E": "increase due to the increased value of the issuing firm."
     },
     "answer": "E",
     "chapter": 20
@@ -666,11 +666,11 @@
     "id": 1648,
     "question": "Assume a firm issued rights to fund a new project. If this project immediately increases the market value per share, then:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.9 Dilution Topic: Dilution Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "no dilution of ownership position can occur.",
+      "B": "the book value per share had to remain constant.",
+      "C": "the EPS will also immediately increase.",
+      "D": "the shareholders will be worse off than before, whether or not they participate in the offering.",
+      "E": "the firm has acted in the best interest of its pre-rights shareholders."
     },
     "answer": "E",
     "chapter": 20
@@ -679,11 +679,11 @@
     "id": 1649,
     "question": "Corporations primarily use the shelf registration method of security sales because:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 20.10 Shelf Registration Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "preregistered securities can be quickly brought to market.",
+      "B": "SEC registration is avoided.",
+      "C": "their stock is rated as junk.",
+      "D": "they are issuing securities to the general public for the first time.",
+      "E": "they are doing a private offering."
     },
     "answer": "A",
     "chapter": 20
@@ -692,11 +692,11 @@
     "id": 1650,
     "question": "All the following are major requirements needed to qualify for shelf registration except:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 20.10 Shelf Registration Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 20 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "having a current rating of investment grade.",
+      "B": "having outstanding stock with a market value in excess of $150 million.",
+      "C": "not defaulting on debt in the past three years.",
+      "D": "having no violations of the Securities Act of 1933 in the past three years.",
+      "E": "having no violations of the Securities Exchange Act of 1934 in the past three years."
     },
     "answer": "D",
     "chapter": 20
@@ -705,11 +705,11 @@
     "id": 1651,
     "question": "One argument against the use of shelf-registration is:",
     "options": {
-      "A": "with a market advantage.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 20.10 Shelf Registration Topic: Basics of issuing securities Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "that it is limited to only technology and manufacturing firms which provides those industries with a market advantage.",
+      "B": "that it provides an unfair advantage to debt issues.",
+      "C": "that it unfairly increases the market price of the registered security.",
+      "D": "the ability to use the dribble method in conjunction with the shelf-registration.",
+      "E": "the age of the information disclosure."
     },
     "answer": "E",
     "chapter": 20
@@ -718,11 +718,11 @@
     "id": 1652,
     "question": "Which one of these statements related to debt financing is correct?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 20.11 Issuing Long-Term Debt Topic: Debt issues Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 21 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "Debt issues of any type, unlike equity issues, do not require SEC registration.",
+      "B": "Commercial banks specialize more in private placements than in term loans.",
+      "C": "Private placements generally have longer maturities than term loans.",
+      "D": "The majority of debt issues are public issues.",
+      "E": "Public debt issues generally have more restrictive covenants than private issues."
     },
     "answer": "C",
     "chapter": 20
@@ -731,238 +731,238 @@
     "id": 1653,
     "question": "Assume there are three upcoming IPOs (A, B, and C) that are priced at $20 a share. You place an order with your broker to purchase 500 shares of each of the three offerings. Further assume that A is oversubscribed and your allocation is only 100 shares. You receive a full allocation on both B and C. Offer A is undervalued by $13, B is overvalued by $8, and C is overvalued by $1. What will be your combined total profit or loss on these three investments?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total profit = 100($13) + 500(−$8) + 500(−$1) Total profit = −$3,200 Difficulty: 2 Medium Section: 20.4 The Cash Offer Topic: Initial public offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "−$3,200",
+      "B": "−$1,125",
+      "C": "$2,000",
+      "D": "$1,125",
+      "E": "$3,200"
     },
     "answer": "A",
-    "explanation": "Total profit = 100($13) + 500(−$8) + 500(−$1)",
+    "explanation": "Total profit = 100($13) + 500(−$8) + 500(−$1) Total profit = −$3,200",
     "chapter": 20
   },
   {
     "id": 1654,
     "question": "Rita placed an order for 300 shares of each of four separate IPOs (Orders A, B, C, and D) with an offer price of $16 each. She received 100 shares of Order B, 200 shares of Order D, and 300 shares of the other orders. At the end of the first day, Order A was overpriced by $2 a share, Order B was underpriced by $4 a share, Order C was correctly priced, and Order D was overpriced by $1 a share. What was combined total profit or loss for the first day on these four orders?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Total profit = 300(−$2) + 100($4) + 300($0) + 200(−$1) Total profit = −$400 Difficulty: 2 Medium Section: 20.4 The Cash Offer Topic: Initial public offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 22 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "−$400",
+      "B": "$400",
+      "C": "$100",
+      "D": "−$100",
+      "E": "−$300"
     },
     "answer": "A",
-    "explanation": "Total profit = 300(−$2) + 100($4) + 300($0) + 200(−$1)",
+    "explanation": "Total profit = 300(−$2) + 100($4) + 300($0) + 200(−$1) Total profit = −$400",
     "chapter": 20
   },
   {
     "id": 1655,
     "question": "The Market Place recently offered 5,000 shares of stock for sale via a Dutch auction. The firm received bids as follows: 500 shares at $22.50; 2,500 shares at $22.20; 3,300 shares at $22; and 5,500 shares at $21. Ignoring all costs, how much will the firm receive from this auction?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Gross proceeds = 5,000($22) Gross proceeds = $110,000 Difficulty: 2 Medium Section: 20.4 The Cash Offer Topic: Types of offerings Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation"
+      "A": "$110,000",
+      "B": "$105,000",
+      "C": "$138,600",
+      "D": "$112,500",
+      "E": "$247,800"
     },
     "answer": "A",
-    "explanation": "Gross proceeds = 5,000($22)",
+    "explanation": "Gross proceeds = 5,000($22) Gross proceeds = $110,000",
     "chapter": 20
   },
   {
     "id": 1656,
     "question": "Alex bid $24 a share for 500 shares in a Dutch auction for ABC shares of stock. The other bids were $25 for 200 shares, $23 for 600 shares, $26 for 100 shares, and $22 for 500 shares. ABC was seeking the sale of 1,000 shares. What price did Alex have to pay for each share he obtained?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: To sell 1,000 shares, ABC will need to sell at a price of $23 a share. At $24 a share, only 800 shares could be sold. Difficulty: 2 Medium Section: 20.4 The Cash Offer Topic: Types of offerings Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$26",
+      "B": "$25",
+      "C": "$24",
+      "D": "$23",
+      "E": "$22"
     },
     "answer": "D",
-    "explanation": "To sell 1,000 shares, ABC will need to sell at a price of $23 a share. At $24 a",
+    "explanation": "To sell 1,000 shares, ABC will need to sell at a price of $23 a share. At $24 a share, only 800 shares could be sold.",
     "chapter": 20
   },
   {
     "id": 1657,
     "question": "Nelson's Metallurgy needs $1.36 million to fund an expansion project. The firm has decided to raise the funds through a negotiated offering. The terms of the offer include an offer price of $22.50 a share and an underwriting spread of 8.1 percent. How many shares must the firm sell in order to raise the funds it needs?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Number of shares = [$1,360,000/(1 − .081)]/$22.50 Number of shares = 65,772 Difficulty: 2 Medium Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "65,772",
+      "B": "81,414",
+      "C": "65,340",
+      "D": "81,200",
+      "E": "55,915"
     },
     "answer": "A",
-    "explanation": "Number of shares = [$1,360,000/(1 − .081)]/$22.50",
+    "explanation": "Number of shares = [$1,360,000/(1 − .081)]/$22.50 Number of shares = 65,772",
     "chapter": 20
   },
   {
     "id": 1658,
     "question": "A firm has negotiated a seasoned equity offer that will provide the firm with $1.68 million in net proceeds. The underwriting spread is 7.35 percent and the firm needs to sell 50,000 shares. What is the offer price?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: Offer price = $1,680,000/(1 − .0735)/50,000 Offer price = $36.27 Difficulty: 2 Medium Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 24 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$36.07",
+      "B": "$37.25",
+      "C": "$36.27",
+      "D": "$34.50",
+      "E": "$33.60"
     },
     "answer": "C",
-    "explanation": "Offer price = $1,680,000/(1 − .0735)/50,000",
+    "explanation": "Offer price = $1,680,000/(1 − .0735)/50,000 Offer price = $36.27",
     "chapter": 20
   },
   {
     "id": 1659,
     "question": "Four Wheels requires $1.75 million to fund a new project and has decided to raise the funds via a seasoned stock offering. Assume the firm will incur $140,000 in indirect costs and pay 8.63 percent of the gross proceeds in direct costs. How much does the firm need to raise in total to cover all the issue costs as well as fund the new project?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Gross proceeds = [($1,750,000 + 140,000)/(1 − .0863)] Gross proceeds = $2,068,513 Difficulty: 2 Medium Section: 20.6 The Cost of New Issues Topic: Costs of issuing securities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$2,068,513",
+      "B": "$2,037,825",
+      "C": "$2,055,289",
+      "D": "$1,914,650",
+      "E": "$1,984,294"
     },
     "answer": "A",
-    "explanation": "Gross proceeds = [($1,750,000 + 140,000)/(1 − .0863)]",
+    "explanation": "Gross proceeds = [($1,750,000 + 140,000)/(1 − .0863)] Gross proceeds = $2,068,513",
     "chapter": 20
   },
   {
     "id": 1660,
     "question": "The Wordsmith Corporation has 40,000 shares outstanding with a market price of $25 each. The firm expects to raise $200,000 via a rights offering at a subscription price of $20. How many rights must be submitted to acquire one new share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Number of new shares = $200,000/$20 Number of new shares = 10,000 Number of rights needed per new share = 40,000/10,000 Number of rights needed per new share = 4 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".20",
+      "B": ".25",
+      "C": "5.00",
+      "D": "1.25",
+      "E": "4.00"
     },
     "answer": "E",
-    "explanation": "Number of new shares = $200,000/$20",
+    "explanation": "Number of new shares = $200,000/$20 Number of new shares = 10,000 Number of rights needed per new share = 40,000/10,000 Number of rights needed per new share = 4",
     "chapter": 20
   },
   {
     "id": 1661,
     "question": "Assume it requires 3 rights to obtain a new share in a rights offering. If the stock's price prior to the ex-rights date is $25 and the ex-rights price is $22.75, what is the value of each right?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: Value of one right = $25 − 22.75 Value of one right = $2.25 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$.67",
+      "B": "$.75",
+      "C": "$.56",
+      "D": "$1.25",
+      "E": "$2.25"
     },
     "answer": "E",
-    "explanation": "Value of one right = $25 − 22.75",
+    "explanation": "Value of one right = $25 − 22.75 Value of one right = $2.25",
     "chapter": 20
   },
   {
     "id": 1662,
     "question": "You currently own 200 shares of a stock valued at $21 a share. A rights offer has just been announced that grants the option of obtaining one new share for two rights plus $17. Each current share is entitled to one right. What is the value of each right?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Value of one right = $21 − [2($21) + $17]/3 Value of one right = $1.33 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1.33",
+      "B": "$1.25",
+      "C": "$.33",
+      "D": "$.67",
+      "E": "$1.67"
     },
     "answer": "A",
-    "explanation": "Value of one right = $21 − [2($21) + $17]/3",
+    "explanation": "Value of one right = $21 − [2($21) + $17]/3 Value of one right = $1.33",
     "chapter": 20
   },
   {
     "id": 1663,
     "question": "Regional Power wants to raise $2.4 million in new equity via a rights offering with a subscription price of $12. There are currently 2.6 million shares outstanding, each with one right. How many rights are needed to purchase one new share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: Number of new shares = $2,400,000/$12 Number of new shares = 200,000 Number of rights needed to obtain one share = 2,600,000/200,000 Number of rights needed to obtain one share = 13 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "12",
+      "B": "18",
+      "C": "20",
+      "D": "13",
+      "E": "6"
     },
     "answer": "D",
-    "explanation": "Number of new shares = $2,400,000/$12",
+    "explanation": "Number of new shares = $2,400,000/$12 Number of new shares = 200,000 Number of rights needed to obtain one share = 2,600,000/200,000 Number of rights needed to obtain one share = 13",
     "chapter": 20
   },
   {
     "id": 1664,
     "question": "Western Markets has 150,000 shares outstanding with a market price per share of $15. Each share is entitled to one right. If the firm sets a rights offer as 5 rights plus $10 for each new share, what will be the ex-rights price per share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: Ex-rights price = [5($15) + $10]/6 Ex-rights price = $14.17 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$12.23",
+      "B": "$14.17",
+      "C": "$15.83",
+      "D": "$13.77",
+      "E": "$14.49"
     },
     "answer": "B",
-    "explanation": "Ex-rights price = [5($15) + $10]/6",
+    "explanation": "Ex-rights price = [5($15) + $10]/6 Ex-rights price = $14.17",
     "chapter": 20
   },
   {
     "id": 1665,
     "question": "Schraeder Corporation has 20,000 shares outstanding at $30 each. The firm expects to raise $200,000 via a rights offering at a subscription price of $25. How many rights are required for each new share?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: New shares = $200,000/$25 New shares = 8,000 Number of rights required per share = 20,000/8,000 Number of rights required per share = 2.5 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "1.25",
+      "B": "1.50",
+      "C": "2.00",
+      "D": "2.50",
+      "E": "2.25"
     },
     "answer": "D",
-    "explanation": "New shares = $200,000/$25",
+    "explanation": "New shares = $200,000/$25 New shares = 8,000 Number of rights required per share = 20,000/8,000 Number of rights required per share = 2.5",
     "chapter": 20
   },
   {
     "id": 1666,
     "question": "Assume a stock has an ex-rights price of $32. The rights offer has a requirement of 3 rights per new share and a subscription price of $30. What is the rights-on stock price?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Explanation: $32 = (3Prights-on + $30)/4 Prights-on = $32.67 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 28 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$28.06",
+      "B": "$32.67",
+      "C": "$42.00",
+      "D": "$40.94",
+      "E": "$38.33"
     },
     "answer": "B",
-    "explanation": "$32 = (3Prights-on + $30)/4",
+    "explanation": "$32 = (3Prights-on + $30)/4 Prights-on = $32.67",
     "chapter": 20
   },
   {
     "id": 1667,
     "question": "A rights offer was set at four rights plus $25 for each new share. What is the rights-on price if the ex-rights price is $30?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: $30 = (4Prights-on + $25)/5 Prights-on = $31.25 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$35.00",
+      "B": "$25.00",
+      "C": "$30.00",
+      "D": "$31.25",
+      "E": "$32.50"
     },
     "answer": "D",
-    "explanation": "$30 = (4Prights-on + $25)/5",
+    "explanation": "$30 = (4Prights-on + $25)/5 Prights-on = $31.25",
     "chapter": 20
   },
   {
     "id": 1668,
     "question": "A stock has a rights-on price of $20, an ex-rights price of $18.25, and the number of rights needed to buy one new share is 5. Assuming everything else is held constant, what is the subscription price?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: $18.25 = [5($20) + Subscription price]/6 Subscription price = $9.50 Difficulty: 2 Medium Section: 20.7 Rights Topic: Rights offerings Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 29 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$9.50",
+      "B": "$11.25",
+      "C": "$16.67",
+      "D": "$14.50",
+      "E": "$21.90"
     },
     "answer": "A",
-    "explanation": "$18.25 = [5($20) + Subscription price]/6",
+    "explanation": "$18.25 = [5($20) + Subscription price]/6 Subscription price = $9.50",
     "chapter": 20
   },
   {
     "id": 1669,
     "question": "Lasko's has 250,000 shares of stock outstanding, $400,000 in perpetual annual earnings, and a discount rate of 16 percent. The firm is considering a new project that has initial costs of $350,000 and annual perpetual cash flows of $60,000. How many new shares must be issued to fund the new project? Ignore taxes.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: Current price per share = ($400,000/250,000)/.16 Current price per share = $10 Firm value with project = −$350,000 + [($400,000 + 60,000)/.16] Firm value with project = $2,525,000 Price per share with project = $2,525,000/250,000 Price per share with project = $10.10 New shares needed = $350,000/$10.10 New shares needed = 34,653 Difficulty: 2 Medium Section: 20.9 Dilution Topic: Dilution Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 30 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "34,653",
+      "B": "33,928",
+      "C": "35,000",
+      "D": "36,028",
+      "E": "34,209"
     },
     "answer": "A",
-    "explanation": "Current price per share = ($400,000/250,000)/.16",
+    "explanation": "Current price per share = ($400,000/250,000)/.16 Current price per share = $10 Firm value with project = −$350,000 + [($400,000 + 60,000)/.16] Firm value with project = $2,525,000 Price per share with project = $2,525,000/250,000 Price per share with project = $10.10 New shares needed = $350,000/$10.10 New shares needed = 34,653",
     "chapter": 20
   },
   {

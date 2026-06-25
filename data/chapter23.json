@@ -3,11 +3,11 @@
     "id": 1853,
     "question": "A ________ period prohibits executives from exercising their options for a stated period of time.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 23.1 Executive Stock Options Topic: Employee stock options Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "investing",
+      "B": "freeze-out",
+      "C": "valuation",
+      "D": "guaranteed",
+      "E": "strike"
     },
     "answer": "B",
     "chapter": 23
@@ -16,11 +16,11 @@
     "id": 1854,
     "question": "Executive stock options generally have all the following characteristics except:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.1 Executive Stock Options Topic: Employee stock options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 2 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "aligning executive goals with shareholder goals.",
+      "B": "linking executive compensation to performance.",
+      "C": "providing tax efficiency.",
+      "D": "increasing executive base salaries.",
+      "E": "putting executive pay at risk."
     },
     "answer": "D",
     "chapter": 23
@@ -29,11 +29,11 @@
     "id": 1855,
     "question": "The call option on a dividend-paying stock compared to a comparable non-dividend paying stock is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 23.1 Executive Stock Options Topic: Option valuation fundamentals Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "more valuable because of the dividend payments.",
+      "B": "equal in value.",
+      "C": "less valuable because cash dividends lower the stock price.",
+      "D": "equal to the cost of the non-dividend paying stock option.",
+      "E": "either equal to or greater than the value of the non-dividend paying stock option."
     },
     "answer": "C",
     "chapter": 23
@@ -42,11 +42,11 @@
     "id": 1856,
     "question": "Which one of these is not a reason why executives place less value on employee stock options than their face value would indicate?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.1 Executive Stock Options Topic: Employee stock options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "The option's value depends on the stock price exceeding the exercise price.",
+      "B": "Options must generally be held for a period of time.",
+      "C": "Options may create a highly undiversified portfolio for the executive.",
+      "D": "Options always create taxable income for the executive when granted.",
+      "E": "Options could be out of the money."
     },
     "answer": "D",
     "chapter": 23
@@ -55,11 +55,11 @@
     "id": 1857,
     "question": "The value of an executive stock option will be lowered if:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 23.1 Executive Stock Options Topic: Employee stock options Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 3 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the volatility of the firm's stock returns increases.",
+      "B": "the executive improves firm performance causing the stock price to rise.",
+      "C": "a freeze-out period is required.",
+      "D": "the firm extends the option expiration date.",
+      "E": "the strike price is lowered."
     },
     "answer": "C",
     "chapter": 23
@@ -68,11 +68,11 @@
     "id": 1858,
     "question": "Investing in a negative NPV project today may be a feasible choice if:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the project has future option alternatives.",
+      "B": "all the project's future options were included in the NPV analysis.",
+      "C": "the current discount rate is low.",
+      "D": "all the project's future options will be ignored by decision makers.",
+      "E": "the discount rate is expected to increase over time."
     },
     "answer": "A",
     "chapter": 23
@@ -81,11 +81,11 @@
     "id": 1859,
     "question": "The opportunity to defer investing in a project until a later date may have value primarily because:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the cost of capital may increase.",
+      "B": "project cash flows may be lower in the future.",
+      "C": "investment costs tend to increase over time.",
+      "D": "the option to abandon may disappear.",
+      "E": "market conditions may improve."
     },
     "answer": "E",
     "chapter": 23
@@ -94,11 +94,11 @@
     "id": 1860,
     "question": "Permanently rejecting an investment project today may not be a wise decision primarily because:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 4 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the size of the firm will be less than it would be with the project.",
+      "B": "there are always errors in the estimation of NPVs.",
+      "C": "the management team may be replaced.",
+      "D": "the company is foregoing all future options.",
+      "E": "the firm may not have any other investment opportunities."
     },
     "answer": "D",
     "chapter": 23
@@ -107,11 +107,11 @@
     "id": 1861,
     "question": "Net present value analysis frequently ignores:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "project risk.",
+      "B": "cash flows after the first three years.",
+      "C": "the time value of money.",
+      "D": "some or all of a project's options.",
+      "E": "start-up costs."
     },
     "answer": "D",
     "chapter": 23
@@ -120,11 +120,11 @@
     "id": 1862,
     "question": "When valuing a project using the Black-Scholes option pricing model, R is set equal to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "historical real market rate of return.",
+      "B": "annually compounded risk-free rate.",
+      "C": "expected future real market rate of return.",
+      "D": "continuously compounded risk-free rate.",
+      "E": "project's CAPM rate of return."
     },
     "answer": "D",
     "chapter": 23
@@ -133,11 +133,11 @@
     "id": 1863,
     "question": "Which one of these statements is true?",
     "options": {
-      "A": "value of the projects.",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 5 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "If virtually all projects have embedded options, then ignoring these options does not affect the value of the projects.",
+      "B": "Every business will benefit if it exercises its expansion option.",
+      "C": "The option to abandon a project lowers the project's value.",
+      "D": "Start-up businesses do not have any options until they have succeeded for one year.",
+      "E": "Every business idea has at least two possible outcomes."
     },
     "answer": "E",
     "chapter": 23
@@ -146,11 +146,11 @@
     "id": 1864,
     "question": "Which one of the following is not included as an input for the Black-Scholes option pricing model?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "Standard deviation",
+      "B": "Time to maturity",
+      "C": "Exercise price",
+      "D": "Par value",
+      "E": "Continuously compounded interest rate"
     },
     "answer": "D",
     "chapter": 23
@@ -159,11 +159,11 @@
     "id": 1865,
     "question": "With the binominal option pricing model, it is reasonable to assume:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "there is a varying rate of price change from one time interval to the next time interval.",
+      "B": "any new information impacting prices is similar from one interval to another interval.",
+      "C": "the discount rate increases with each time interval.",
+      "D": "the call price will only be usable if the time interval is extremely small.",
+      "E": "that each project is limited to two outcomes over its life."
     },
     "answer": "B",
     "chapter": 23
@@ -172,11 +172,11 @@
     "id": 1866,
     "question": "A branching tree depicting the binomial model of a projected investment:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "branch followed by an up-branch. Answer: E Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 6 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "should capture all possible future paths the investment could take.",
+      "B": "will have more up-branches than down-branches if there are two or more time intervals.",
+      "C": "can only have one final point that has an option value of zero.",
+      "D": "only depicts paths that will lead to acceptable project decisions.",
+      "E": "should lead to the same result if you take an up-branch followed by a down-branch or a down- branch followed by an up-branch."
     },
     "answer": "E",
     "chapter": 23
@@ -185,11 +185,11 @@
     "id": 1867,
     "question": "Under risk neutrality, the expected return on an asset will equal:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "the market risk premium.",
+      "B": "the market rate of return.",
+      "C": "zero.",
+      "D": "the risk-free rate of interest.",
+      "E": "the asset beta times the market risk premium."
     },
     "answer": "D",
     "chapter": 23
@@ -198,11 +198,11 @@
     "id": 1868,
     "question": "The binomial option pricing model is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "bell-curve shaped.",
+      "B": "symmetrical.",
+      "C": "hyperbolic.",
+      "D": "asymmetric.",
+      "E": "curvilinear."
     },
     "answer": "B",
     "chapter": 23
@@ -211,11 +211,11 @@
     "id": 1869,
     "question": "If an infinite number of intervals is applied to the binomial option pricing model, then the value of a call is equal to:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 7 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "the risk-free rate of return.",
+      "B": "zero.",
+      "C": "the exercise price.",
+      "D": "the Black-Scholes model's call value.",
+      "E": "the stock price."
     },
     "answer": "D",
     "chapter": 23
@@ -224,11 +224,11 @@
     "id": 1870,
     "question": "Assume you are determining the risk-neutral probabilities of a price increase and decrease. In this situation, you know the expected return on the asset must equal the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: B Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "sponsoring firm's cost of capital.",
+      "B": "risk-free rate.",
+      "C": "market rate of return.",
+      "D": "annual inflation rate.",
+      "E": "CAPM rate of return."
     },
     "answer": "B",
     "chapter": 23
@@ -237,11 +237,11 @@
     "id": 1871,
     "question": "In the binomial option pricing model the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "developed by the Black-Scholes model.",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 8 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "number of intervals required for convergence is quite large.",
+      "B": "interval time span decreases as time moves forward.",
+      "C": "result based on infinitesimally small intervals will differ significantly from the value developed by the Black-Scholes model.",
+      "D": "percentage increase in price in each interval can differ from the percentage decrease in price.",
+      "E": "value of u remains constant as the number of intervals increases."
     },
     "answer": "D",
     "chapter": 23
@@ -250,11 +250,11 @@
     "id": 1872,
     "question": "Sam owns an oil field with a number of producing wells. In the past, he has started and stopped production of these wells as the price of oil fluctuated over time. Assume the government imposes additional requirements on non-producing wells that are still production capable. These requirements are expected to increase the cost of stopping well production by 30 percent. As a result, Sam should be:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Difficulty: 1 Easy Section: 23.4 Shutdown and Reopening Decisions Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "keeping all wells open continuously.",
+      "B": "closing wells only if he plans to keep them closed permanently.",
+      "C": "willing to keep wells operating at a lower level of profitability than he has in the past.",
+      "D": "increasing the cost of capital he applies to his well evaluation analysis.",
+      "E": "opening wells at a lower popen price."
     },
     "answer": "C",
     "chapter": 23
@@ -263,11 +263,11 @@
     "id": 1873,
     "question": "Assume a firm in the extraction industry has major assets consisting solely of cash, equipment, and a closed facility but yet the firm appears to have extraordinary value. This value is least apt to be attributable to the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Difficulty: 1 Easy Section: 23.4 Shutdown and Reopening Decisions Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 9 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "low exercise price held by the shareholders.",
+      "B": "option to open the facility when prices rise dramatically.",
+      "C": "option to keep the facility closed for an extended period of time.",
+      "D": "current operating cash flow.",
+      "E": "potential sale of the firm."
     },
     "answer": "D",
     "chapter": 23
@@ -276,11 +276,11 @@
     "id": 1874,
     "question": "If a project has both expansion and abandonment options, then the:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 23.4 Shutdown and Reopening Decisions Topic: Options and corporate decisions Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "shorter the available life of the project the less valuable the project is.",
+      "B": "longer the available life of the project the less valuable the project is.",
+      "C": "options will offset each other and therefore add no value to the project.",
+      "D": "project life becomes irrelevant.",
+      "E": "project should always be accepted."
     },
     "answer": "A",
     "chapter": 23
@@ -289,11 +289,11 @@
     "id": 1875,
     "question": "The option to abandon is:",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Difficulty: 1 Easy Section: 23.4 Shutdown and Reopening Decisions Topic: Options and corporate decisions Bloom's: Remember AACSB: Reflective Thinking Accessibility: Keyboard Navigation"
+      "A": "a real option.",
+      "B": "usually of little value because of the costs associated with abandonment.",
+      "C": "irrelevant in capital budgeting analysis.",
+      "D": "generally ignored.",
+      "E": "of no value to a project."
     },
     "answer": "A",
     "chapter": 23
@@ -302,11 +302,11 @@
     "id": 1876,
     "question": "Which one of these statements is true?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "time interval.",
-      "E": "preferred. Answer: E Difficulty: 1 Easy Section: 23.4 Shutdown and Reopening Decisions Topic: Binomial option pricing model Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 10 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "The Black-Scholes model is most applicable to complex situations.",
+      "B": "The binomial model is limited to a two-period time sequence.",
+      "C": "The binomial model is limited to ten time intervals for any single analysis.",
+      "D": "The binomial model is basically equivalent to the Black-Scholes model when there is a single time interval.",
+      "E": "The Black-Scholes model is simpler to use, but for complex situations, the binomial model is preferred."
     },
     "answer": "E",
     "chapter": 23
@@ -315,182 +315,182 @@
     "id": 1877,
     "question": "The CFO of Financial Savings has just been granted at-the-money options on 200,000 shares. The options expire in three years. The firm's stock is currently trading at $22 a share, the volatility of the returns as measured by standard deviation is 19 percent, and the continuously compounded risk-free rate is 3.6 percent. What is the value of d1 as it is used in the Black- Scholes option pricing model?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: d1 = [(R + .5σ2)(t)]/(σ2t).5 d1 = {[.036 + .5(.192)](3)}/[.192(3)].5 d1 = .4927 Difficulty: 2 Medium Section: 23.1 Executive Stock Options Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 11 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".1842",
+      "B": ".4102",
+      "C": ".4583",
+      "D": ".4927",
+      "E": ".5412"
     },
     "answer": "D",
-    "explanation": "d1 = [(R + .5σ2)(t)]/(σ2t).5",
+    "explanation": "d1 = [(R + .5σ2)(t)]/(σ2t).5 d1 = {[.036 + .5(.192)](3)}/[.192(3)].5 d1 = .4927",
     "chapter": 23
   },
   {
     "id": 1878,
     "question": "Assume you are being granted at-the-money stock options today when the stock is trading at $32 a share. These options mature in one year, the continuously compounded risk-free rate is 4.2 percent, and the volatility of the stock's returns is 22 percent. What is the value of d2 as it is used in the Black-Scholes model?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: d1 = [(R + .5σ2)(t)]/(σ2t).5 d1 = {[.042 + .5(.222)](1)}/[.222(1)].5 d1 = .3009 d2 = d1 − (σ2t).5 d2 = .3009 − [.222(1)].5 d2 = .0809 Difficulty: 2 Medium Section: 23.1 Executive Stock Options Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": ".0927",
+      "B": ".0752",
+      "C": ".0809",
+      "D": ".0847",
+      "E": ".0936"
     },
     "answer": "C",
-    "explanation": "d1 = [(R + .5σ2)(t)]/(σ2t).5",
+    "explanation": "d1 = [(R + .5σ2)(t)]/(σ2t).5 d1 = {[.042 + .5(.222)](1)}/[.222(1)].5 d1 = .3009 d2 = d1 − (σ2t).5 d2 = .3009 − [.222(1)].5 d2 = .0809",
     "chapter": 23
   },
   {
     "id": 1879,
     "question": "I. M. Greedy has been granted options on 500,000 shares. The stock is currently trading at $48 a share and the options are at the money. The standard deviation of returns averages 31 percent. The options mature in 5 years and the risk-free rate is 3.68 percent. What is the value of e−Rt?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: e−Rt = e−.0368(5) e−Rt = .8319 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 12 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".6087",
+      "B": ".7087",
+      "C": ".7952",
+      "D": ".8476",
+      "E": ".8319"
     },
     "answer": "E",
-    "explanation": "e−Rt = e−.0368(5)",
+    "explanation": "e−Rt = e−.0368(5) e−Rt = .8319",
     "chapter": 23
   },
   {
     "id": 1880,
     "question": "I. M. Not. Greedy has been granted options on 50,000 shares. The stock is currently trading at $17 a share and the options are at the money. The volatility of the stock returns averages 16 percent. The options mature in 2 years and the risk-free rate is 3.45 percent. N(d1) is .662055 and N(d2) is .576052. Given this information, what is the value of a call option on one share of this stock?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: C = SN(d1) − Ee−RtN(d2) C = $17(.662055) − $17(e−.0345(2))(.576052) C = $2.11 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$2.11",
+      "B": "$1.70",
+      "C": "$1.89",
+      "D": "$2.28",
+      "E": "$2.21"
     },
     "answer": "A",
-    "explanation": "C = SN(d1) − Ee−RtN(d2)",
+    "explanation": "C = SN(d1) − Ee−RtN(d2) C = $17(.662055) − $17(e−.0345(2))(.576052) C = $2.11",
     "chapter": 23
   },
   {
     "id": 1881,
     "question": "Alpha stock is currently trading at $34.50 a share and the 6-month call options are at the money. The stock returns have a standard deviation of 21 percent and the risk-free rate is 4.21 percent. What is the price of the call option per share given that N(d1) is .585508 and N(d2) is .526913?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: C = SN(d1) − Ee−RtN(d2) C = $34.50(.585508) − $34.50(e−.0421(.5))(.526913) C = $2.40 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 13 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$1.07",
+      "B": "$2.79",
+      "C": "$1.38",
+      "D": "$2.40",
+      "E": "$1.64"
     },
     "answer": "D",
-    "explanation": "C = SN(d1) − Ee−RtN(d2)",
+    "explanation": "C = SN(d1) − Ee−RtN(d2) C = $34.50(.585508) − $34.50(e−.0421(.5))(.526913) C = $2.40",
     "chapter": 23
   },
   {
     "id": 1882,
     "question": "A stock has a market price of $25 and a standard deviation of returns of 24 percent. The $25 call option matures in 4 months and the risk-free rate is 2.89 percent. N(d1) is .555198 and N(d2) is .500096. What is the value of the call option per share of stock?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: C Explanation: C = SN(d1) − Ee−RtN(d2) C = $25(.555198) − $25(e−.0289(4/12)(.500096) C = $1.50 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "$1.71",
+      "B": "$1.86",
+      "C": "$1.50",
+      "D": "$1.62",
+      "E": "$2.16"
     },
     "answer": "C",
-    "explanation": "C = SN(d1) − Ee−RtN(d2)",
+    "explanation": "C = SN(d1) − Ee−RtN(d2) C = $25(.555198) − $25(e−.0289(4/12)(.500096) C = $1.50",
     "chapter": 23
   },
   {
     "id": 1883,
     "question": "Jeff is analyzing an expansion project for a new business and has developed this input for a Black-Scholes model. Stock price = $7,365,000, exercise price = $12,400,000, time period = 3 years, standard deviation = 14.5 percent, and the continuously compounded interest rate = 4.2 percent. What is the value of d1 as it is used in the model?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5 d1 = {ln(7,365,000/12,400,000) + [.042 + .5(.145)2](3)}/[.1452(3)].5 d1 = −1.4470 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 14 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".1945",
+      "B": ".5487",
+      "C": "−1.4102",
+      "D": ".4593",
+      "E": "−1.4470"
     },
     "answer": "E",
-    "explanation": "d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5",
+    "explanation": "d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5 d1 = {ln(7,365,000/12,400,000) + [.042 + .5(.145)2](3)}/[.1452(3)].5 d1 = −1.4470",
     "chapter": 23
   },
   {
     "id": 1884,
     "question": "Katrina is analyzing an expansion project for a new business and has developed this input for a Black-Scholes model. Stock price = $4,186,300, exercise price = $7,250,000, time period = 4 years, standard deviation = 13.8 percent, and the continuously compounded interest rate = 3.84 percent. What is the value of d2 as it is used in the model?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5 d1 = (ln(4,186,300/7,250,000) + {[.0384 + .5(.1382)](4)})/[.1382(4)].5 d1 = −1.2953 d2 = d1 − (σ2t).5 d2 = −1.2953 − [.1382(4)].5 d2 = −1.5713 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": ".01338",
+      "B": "1.2784",
+      "C": "1.2953",
+      "D": "−1.5713",
+      "E": "−1.0293"
     },
     "answer": "D",
-    "explanation": "d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5",
+    "explanation": "d1 = [ln(S/E) + (R + .5σ2)(t)]/(σ2t).5 d1 = (ln(4,186,300/7,250,000) + {[.0384 + .5(.1382)](4)})/[.1382(4)].5 d1 = −1.2953 d2 = d1 − (σ2t).5 d2 = −1.2953 − [.1382(4)].5 d2 = −1.5713",
     "chapter": 23
   },
   {
     "id": 1885,
     "question": "Ernst is trying to evaluate some options for a firm. However, he can't remember how to compute e−Rt. Can you help him? If the rate is 4.38 percent and the time period is 6 months, what is the value of e−Rt?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: e−Rt = e−.0438(.5) e−Rt = 1/e.0438(.5) e−Rt = .9783 Difficulty: 2 Medium Section: 23.2 Valuing a Start-Up Topic: Black-Scholes option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 15 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": ".9087",
+      "B": ".8087",
+      "C": ".9952",
+      "D": ".8476",
+      "E": ".9783"
     },
     "answer": "E",
-    "explanation": "e−Rt = e−.0438(.5)",
+    "explanation": "e−Rt = e−.0438(.5) e−Rt = 1/e.0438(.5) e−Rt = .9783",
     "chapter": 23
   },
   {
     "id": 1886,
     "question": "What are the values of u, the up state multiplier, and d, the down state multiplier, if there are monthly intervals and the standard deviation is .38?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: A Explanation: u = e σ/ √n u = e .38/√12 u = 1.1159 d = 1/u d = 1/1.1159 d = .8961 Difficulty: 2 Medium Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation"
+      "A": "1.1159; .8961",
+      "B": ".0317; 1.0327",
+      "C": ".0317; .9683",
+      "D": ".2193; .7807",
+      "E": "1.1159; −.1159"
     },
     "answer": "A",
-    "explanation": "u = e σ/ √n",
+    "explanation": "u = e σ/ √n u = e .38/√12 u = 1.1159 d = 1/u d = 1/1.1159 d = .8961",
     "chapter": 23
   },
   {
     "id": 1887,
     "question": "The price of oil is currently at $24 but you expect it to either increase by 18 percent or decrease by 7 percent over the next 6 months. The 6-month risk-free rate of interest is 1.98 percent. What is the probability that the price will increase?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: D Explanation: rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .0198 = Probability of rise(.18) + (1 − Probability of rise)(−.07) Probability of rise = .3592, or 35.92% Difficulty: 2 Medium Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 16 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "32.47 percent",
+      "B": "36.03 percent",
+      "C": "38.06 percent",
+      "D": "35.92 percent",
+      "E": "37.94 percent"
     },
     "answer": "D",
-    "explanation": "rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease",
+    "explanation": "rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .0198 = Probability of rise(.18) + (1 − Probability of rise)(−.07) Probability of rise = .3592, or 35.92%",
     "chapter": 23
   },
   {
     "id": 1888,
     "question": "One of Modular Products (MP) customers would like to obtain a 6-month option to purchase 500,000 tables for $119 each. These tables currently sell for $110 each. Assume u equals 1.0994 and d equals .9096. What price should MP charge for this option if the annual risk-free rate is 3.2 percent? Round your answer to the nearest $100.",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: % increase = u − 1 % increase = 1.0994 − 1 % increase = .0994, or 9.94% % decrease = d − 1 % decrease = .9096 − 1 % decrease = −.0904, or −9.04% Price with increase = $110(1.0994) Price with increase = $120.934 Price with decrease = $110(.9096) Price with decrease = $100.056 rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .032(6/12) = Probability of rise(.0994) + (1 − Probability of rise)(−.0904) Probability of rise = .5606, or 56.06% Probability of fall = 1 − .5606 Probability of fall = .4394, or 43.94% Payoff if price increases = $120.934 − 119 Payoff if price increases = $1.934 Payoff if price decreases = $0 Expected payoff = .5606($1.934) + .4394($0) Expected payoff = $1.0842 Option value = $1.0842/[1 + .032(6/12)] Option value = $1.0671 Contract value = 500,000($1.0671) Contract value = $533,600 Difficulty: 2 Medium Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 17 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$338,400",
+      "B": "$421,900",
+      "C": "$598,100",
+      "D": "$479,900",
+      "E": "$533,600"
     },
     "answer": "E",
-    "explanation": "% increase = u − 1",
+    "explanation": "% increase = u − 1 % increase = 1.0994 − 1 % increase = .0994, or 9.94% % decrease = d − 1 % decrease = .9096 − 1 % decrease = −.0904, or −9.04% Price with increase = $110(1.0994) Price with increase = $120.934 Price with decrease = $110(.9096) Price with decrease = $100.056 rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .032(6/12) = Probability of rise(.0994) + (1 − Probability of rise)(−.0904) Probability of rise = .5606, or 56.06% Probability of fall = 1 − .5606 Probability of fall = .4394, or 43.94% Payoff if price increases = $120.934 − 119 Payoff if price increases = $1.934 Payoff if price decreases = $0 Expected payoff = .5606($1.934) + .4394($0) Expected payoff = $1.0842 Option value = $1.0842/[1 + .032(6/12)] Option value = $1.0671 Contract value = 500,000($1.0671) Contract value = $533,600",
     "chapter": 23
   },
   {
     "id": 1889,
     "question": "A SunSet Co. customer would like to obtain a 3-month option to purchase additional units of a product for $77 each. This product currently sells for $76 each. Assume u equals 1.1502 and d = .8694. Approximately what price per unit should SunSet charge for this option if the annual risk-free rate is 2.8 percent?",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": "Answer: E Explanation: % increase = u − 1 % increase = 1.1502 − 1 % increase = .1502, or 15.02% % decrease = d − 1 % decrease = .8694 − 1 % decrease = −.1306, or −13.06% Price with increase = $76(1.1502) Price with increase = $87.42 Price with decrease = $76(.8694) Price with decrease = $66.07 rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .028(3/12) = Probability of rise(.1502) + (1 − Probability of rise)(−.1306) Probability of rise = .49, or 49% Probability of fall = 1 − .49 Probability of fall = .51, or 51% Payoff if price increases = $87.42 − 77 Payoff if price increases = $10.42 Payoff if price decreases = $0 Expected payoff = .49($10.42) + .51($0) Expected payoff = $5.1058 Option value = $5.1058/{1 + [.028(3/12)]} Option value = $5.07 Difficulty: 2 Medium Section: 23.3 More about the Binomial Model Topic: Binomial option pricing model Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 18 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education."
+      "A": "$4.79",
+      "B": "$5.98",
+      "C": "$6.17",
+      "D": "$6.02",
+      "E": "$5.07"
     },
     "answer": "E",
-    "explanation": "% increase = u − 1",
+    "explanation": "% increase = u − 1 % increase = 1.1502 − 1 % increase = .1502, or 15.02% % decrease = d − 1 % decrease = .8694 − 1 % decrease = −.1306, or −13.06% Price with increase = $76(1.1502) Price with increase = $87.42 Price with decrease = $76(.8694) Price with decrease = $66.07 rf = Probability of rise(Increase percent) + (1 − Probability of rise)(Decrease percent) .028(3/12) = Probability of rise(.1502) + (1 − Probability of rise)(−.1306) Probability of rise = .49, or 49% Probability of fall = 1 − .49 Probability of fall = .51, or 51% Payoff if price increases = $87.42 − 77 Payoff if price increases = $10.42 Payoff if price decreases = $0 Expected payoff = .49($10.42) + .51($0) Expected payoff = $5.1058 Option value = $5.1058/{1 + [.028(3/12)]} Option value = $5.07",
     "chapter": 23
   },
   {
