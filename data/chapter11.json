@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 2148,
+    "chapter": 11,
+    "question": "A firm in financial distress that reorganizes through the bankruptcy process:",
+    "options": {
+      "A": "will continue to operate as a going concern throughout the entire process.",
+      "B": "must only have the reorganization plan approved by its primary creditor.",
+      "C": "cannot issue new securities to either creditors or shareholders.",
+      "D": "must file a reorganization plan within 90 days of filing the bankruptcy petition.",
+      "E": "must abide by the Section 363 provisions of Chapter 11."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2151,
+    "chapter": 11,
+    "question": "Which one of these statements correctly identifies a condition which must be met for creditors to force a firm into involuntary bankruptcy?",
+    "options": {
+      "A": "The creditors that represent 30 percent or more of the firm's debt must agree on a plan prior to",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2152,
+    "chapter": 11,
+    "question": "Private workouts generally:",
+    "options": {
+      "A": "represent 75 percent of all financial restructurings.",
+      "B": "lead to lower stock price increases than formal bankruptcy reorganizations.",
+      "C": "exchange current financial securities for new securities.",
+      "D": "are more costly than formal bankruptcies.",
+      "E": "increase management salaries and provide employment guarantees."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2153,
+    "chapter": 11,
+    "question": "Some of the key reasons why a firm would choose a formal bankruptcy over a private workout include all the following except the:",
+    "options": {
+      "A": "issuance of debtor-in-possession debt.",
+      "B": "tax treatment of tax loss carryforwards.",
+      "C": "tax treatment of debt forgiveness.",
+      "D": "ability to issue new debt that is senior to all prior debts.",
+      "E": "higher priority given to the existing stockholders."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2154,
+    "chapter": 11,
+    "question": "Which one of the following is most apt to protect an individual creditor's interests in a formal bankruptcy proceeding?",
+    "options": {
+      "A": "The bankrupt firm's financial structure may be complicated with several groups and types of",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2155,
+    "chapter": 11,
+    "question": "Prepackaged bankruptcies:",
+    "options": {
+      "A": "generally benefit only the bankrupt firm.",
+      "B": "require creditor approval within 7 days of filing.",
+      "C": "are a combination of a private workout and legal bankruptcy.",
+      "D": "were replaced by Section 363 provisions.",
+      "E": "must result in a full liquidation."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2156,
+    "chapter": 11,
+    "question": "In a prepackaged bankruptcy the firm:",
+    "options": {
+      "A": "reaches an agreement with its creditors prior to filing the bankruptcy petition.",
+      "B": "exchanges all debt securities with equity securities.",
+      "C": "pays all its secured creditors and exchanges the unsecured debt securities with equity.",
+      "D": "must agree with the bankruptcy plan submitted to it by its creditors.",
+      "E": "prearranges an auction that will liquidate the firm within one month of the legal filing."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2157,
+    "chapter": 11,
+    "question": "Credit scoring models are used by lenders to determine:",
+    "options": {
+      "A": "the best discount to offer each customer.",
+      "B": "the appropriate price to charge each customer.",
+      "C": "the optimal debt-equity ratio for the firm.",
+      "D": "a borrower's credit risk.",
+      "E": "the percentage of their loan that will be repaid in a bankruptcy."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2158,
+    "chapter": 11,
+    "question": "Altman initially developed the Z-score model for publicly traded manufacturing firms. Using financial statement data and multiple discriminant analysis, he found that:",
+    "options": {
+      "A": "in actual use, a Z-score greater than 2.99 implies bankruptcy within one year.",
+      "B": "in actual use, a Z-score greater than 1.81 implied a 90 percent chance of bankruptcy within",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2159,
+    "chapter": 11,
+    "question": "The key intuition of a Z-score model like Altman's is that:",
+    "options": {
+      "A": "only publicly traded firms can be evaluated.",
+      "B": "one will be just as well off by guessing on default rates.",
+      "C": "all corporations will default at least once.",
+      "D": "financial profiles of bankrupt and non-bankrupt firms are very different one year prior to",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2160,
+    "chapter": 11,
+    "question": "Altman's revised model for private firms and non-manufacturers predicts bankruptcy when the computed value is:",
+    "options": {
+      "A": "negative.",
+      "B": "less than 1.23.",
+      "C": "greater than 1.0 and less than 1.23.",
+      "D": "greater than 2.50.",
+      "E": "greater than 2.90."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2161,
+    "chapter": 11,
+    "question": "AJ's Markets is being liquidated. The mortgage holder is owed $830,000, the other secured creditors are owed $128,000, and the unsecured creditors are owed $329,000. Administrative costs of liquidation, wage and benefit payments, and consumer claims amount to $330,000. The firm owes no taxes. The building, which is mortgaged, just netted $794,000 after sale costs. The remaining assets have yielded $467,000 in net proceeds. How much will the unsecured creditors receive per each dollar they are owed?",
+    "options": {
+      "A": "$.027",
+      "B": "$.025",
+      "C": "$.333",
+      "D": "$1.00",
+      "E": "$.533"
+    },
+    "answer": "B",
+    "explanation": "Unsecured mortgage = $830,000 − 794,000 Unsecured mortgage = $36,000 Funds available after expenses, wages, and consumer claims = $467,000 − 330,000 Funds available after expenses, wags, and consumer claims = $137,000 Funds available after secured claims = $137,000 − 128,000 Funds available after secured claims = $9,000 Total unsecured claims = $36,000 + 329,000 Total unsecured claims = $365,000 Percent unsecured claims paid = $9,000/$365,000 Percent unsecured claims paid = .025, or 2.5% For each $1 claim, the unsecured creditors will receive $.025. Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2162,
+    "chapter": 11,
+    "question": "Uptown Cleaners is being liquidated. The building has been sold for a net of $670,000 but the mortgage due is $738,000. The remaining assets were sold with net proceeds of $154,000. Administrative costs, wages and benefits, and consumer claims equal $136,000. The firm also owes $58,000 in taxes. The secured claims total $46,000 and the unsecured claims are $138,000. What percentage of their total claims will the secured creditors be paid?",
+    "options": {
+      "A": "11.2 percent",
+      "B": "8.8 percent",
+      "C": "0 percent",
+      "D": "41.2 percent",
+      "E": "39.1 percent"
+    },
+    "answer": "C",
+    "explanation": "Funds available after expenses, wages, claims, and taxes = MAX[$154,000 − 136,000 − 58,000,0] Funds available after expenses, wages, claims, and taxes = $0 There are no funds available for either the secured or unsecured creditors. Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2163,
+    "chapter": 11,
+    "question": "Welders Supply is reorganizing and has presented a proposal based on a going-concern value of $2 million after reorganization costs and delinquent wages, benefits, and taxes. The proposed financial structure is $750,000 in new mortgage debt, $250,000 in subordinated debt and $1,000,000 in new equity. Secured creditors currently have a mortgage lien for $1.5 million on the factory and the unsecured creditors' claims total $1.2 million. How much of the new debt and equity securities should the secured creditors receive?",
+    "options": {
+      "A": "$1.1 million",
+      "B": "$1.0 million",
+      "C": "$1.3 million",
+      "D": "$1.5 million",
+      "E": "$.75 million"
+    },
+    "answer": "D",
+    "explanation": "Secured creditors receive first priority so they should receive $1.5 million of the new $2 million of securities. Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2164,
+    "chapter": 11,
+    "question": "The Beacon has proposed a reorganization plan based on a going-concern value of $1.3 million after court costs and delinquent wages and taxes. The proposed financial structure is $400,000 in new mortgage debt, $200,000 in subordinated debt, and $700,000 in new equity. Secured creditors currently have a mortgage lien for $600,000 and the unsecured creditors are owed $950,000. What should the unsecured creditors receive if the reorganization plan is approved?",
+    "options": {
+      "A": "$700,000 in equity securities",
+      "B": "$200,000 in subordinated debt and $700,000 in equity securities",
+      "C": "$950,000 in new equity securities",
+      "D": "61.3 percent of the new mortgage debt, 61.3 percent of the subordinated debt, and 61.3",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2165,
+    "chapter": 11,
+    "question": "Southern Goods has an estimated going-concern value of $2 million. As a result of negotiations the firm's bankruptcy reorganization plan consists of $600,000 in new mortgage debt, $250,000 in subordinated debt, and $1,150,000 in new equity. Currently the firm has a mortgage of $823,000, other secured debt of $89,000, and unsecured debt of $1.34 million. According to the APR, what will the stockholders receive if they currently have 2 million shares with a par value of $1 each?",
+    "options": {
+      "A": "$0",
+      "B": "$315,714 in new equity",
+      "C": "$583,333 in a combination of new debt and equity securities",
+      "D": "$1,150,000 in new equity",
+      "E": "$940,000 in new equity"
+    },
+    "answer": "A",
+    "explanation": "Stockholder claims have the least priority in a bankruptcy. Since the debts exceed the firm's value, there is nothing left for the current shareholders. Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2166,
+    "chapter": 11,
+    "question": "Pat's Boats is being liquidated. The administrative costs of liquidation, taxes, and wage payments are expected to be $450,000. Secured creditors have a mortgage lien for $1.4 million on the real estate which was just liquidated and netted proceeds of $1.2 million. The other secured creditors have submitted claims totaling $274,000 and the unsecured submitted claims are $323,000. The remaining assets are expected to net $475,000. What payout should the unsecured creditors expect per each $1 claim?",
+    "options": {
+      "A": "$.13",
+      "B": "$0",
+      "C": "$.08",
+      "D": "$.06",
+      "E": "$.02"
+    },
+    "answer": "B",
+    "explanation": "Unsecured mortgage = $1,400,000 − 1,200,000 Unsecured mortgage = $200,000 Total unsecured claims = $200,000 + 323,000 Total unsecured claims = $523,000 Net proceeds available to unsecured creditors = MAX[$475,000 − 450,000 − 274,000,0] Net proceeds available to unsecured creditors = $0 Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2167,
+    "chapter": 11,
+    "question": "Sunshine Products is being liquidated. The real estate has been sold and there is a remaining mortgage balance of $126,000 after applying the sale proceeds. The other assets were just auctioned off and netted $418,000 after liquidation costs, wages, and taxes. The remaining secured creditors submitted claims totaling $362,000 and the unsecured creditor claims are $211,000. The secured creditors will receive ________ per $1 claim and the unsecured creditors will receive ________ per $1 claim.",
+    "options": {
+      "A": "$1; $.1309",
+      "B": "$.98; $0",
+      "C": "$1; $.1662",
+      "D": "$1; $.2654",
+      "E": "$1; $.0678"
+    },
+    "answer": "C",
+    "explanation": "Secured creditors will be paid in full so they will receive $1 for each $1 in claims. Total unsecured claims = $126,000 + 211,000 Total unsecured claims = $337,000 Proceeds available to unsecured creditors = $418,000 − 362,000 Proceeds available to unsecured creditors = $56,000 Unsecured creditors percentage = $56,000/$337,000 Unsecured creditors percentage = .1662, or $.1662 per $1 claim Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2168,
+    "chapter": 11,
+    "question": "The Steel Pony Company, a maker of all-terrain recreational vehicles, is having financial difficulties due to high interest payments. The estimated \"going concern\" value of the firm is $3.2 million. The senior debt claim is on all fixed assets. The balance sheet of the firm has current assets of $1.1 million, fixed assets of $2.9 million, senior debt of $2.2 million, subordinated debt of $1.8 million, with the remainder allocated to stockholders' equity. Assume the firm files for formal bankruptcy and sells the firm for the estimated \"going concern\" value and nets 92 percent of that amount after administrative costs, wages, and taxes are paid. What amount will be distributed to the subordinated debtholders?",
+    "options": {
+      "A": "$709,000",
+      "B": "$721,000",
+      "C": "$744,000",
+      "D": "$811,000",
+      "E": "$687,000"
+    },
+    "answer": "C",
+    "explanation": "Net proceeds = .92($3,200,000) Net proceeds = $2,944,000 Proceeds available to subordinated debt holders = $2,944,000 − 2,200,000 Proceeds available to subordinated debt holders = $744,000 Difficulty: 2 Medium Section:  30.3 Bankruptcy Liquidation and Reorganization Topic:  Bankruptcy Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2169,
+    "chapter": 11,
+    "question": "There are a number of ways firms can deal with financial distress. Identify at least 5 of these. Answer:  Firms can deal with financial distress by: ∙ Selling major assets. ∙ Merging with another firm. ∙ Reducing capital spending on R&D ∙ Issuing new securities ∙ Negotiating with banks and creditors ∙ Exchanging debt for equity ∙ Filing for bankruptcy. Difficulty: 2 Medium Section:  30.2 What Happens in Financial Distress? Topic:  Financial distress and default risk Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. 40) Financial distress may benefit firms if it prompts them to \"restructure their assets\". Explain what this means and how it can be beneficial. Answer:  \"Restructure their assets\" refers to analyzing a firm's operations and identifying the core business functions that produce profits and fit well together. The non-core functions and operations can be eliminated allowing the firm to concentrate both its assets and its energy into its profitable endeavors. Difficulty: 2 Medium Section:  30.2 What Happens in Financial Distress? Topic:  Financial distress and default risk Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 41) Why would a firm's creditors voluntarily agree to a prepackaged reorganization that offers those creditors less than they are owed? Answer:  Creditors will agree with a prepack when it appears to be in their best interests. If they realize they will most likely not be paid in full anyway, they may be willing to agree so they can at least receive payment sooner. They may also realize that the prepack may help reduce reorganization costs, which should increase their payout. Difficulty: 2 Medium Section:  30.5 Prepackaged Bankruptcy Topic:  Bankruptcy Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross) Chapter 31   International Corporate Finance 1) A security issued in the United States that represents shares of a foreign stock and allows that stock to be traded in the United States is called a(n):",
+    "options": {
+      "A": "American Depository Receipt.",
+      "B": "Yankee bond.",
+      "C": "Yankee stock.",
+      "D": "Eurostock.",
+      "E": "foreign obligation trust certificate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2170,
+    "chapter": 11,
+    "question": "The implicit exchange rate between two currencies when both are quoted in some third currency is called a(n):",
+    "options": {
+      "A": "open exchange rate.",
+      "B": "cross-rate.",
+      "C": "backward rate.",
+      "D": "forward rate.",
+      "E": "interest rate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2171,
+    "chapter": 11,
+    "question": "Money deposited in a financial center outside the country whose currency is involved is called:",
+    "options": {
+      "A": "a foreign depository receipt.",
+      "B": "an international exchange certificate.",
+      "C": "an American Depository Receipt.",
+      "D": "Eurocurrency.",
+      "E": "Eurodollars."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2172,
+    "chapter": 11,
+    "question": "The rate most international banks charge one another for overnight Eurodollar loans is called the:",
+    "options": {
+      "A": "Eurodollar yield to maturity.",
+      "B": "London Interbank Offered Rate.",
+      "C": "Paris Opening Interest Rate.",
+      "D": "United States Treasury bill rate.",
+      "E": "international prime rate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2173,
+    "chapter": 11,
+    "question": "The cross rate is:",
+    "options": {
+      "A": "the inverse of the direct rate.",
+      "B": "an implicit rate based on two currencies and their individual relationships with a third",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2174,
+    "chapter": 11,
+    "question": "A major network for foreign transactions is operated by a Belgian non-profit cooperative known as:",
+    "options": {
+      "A": "EURX.",
+      "B": "BELX.",
+      "C": "SWIFT.",
+      "D": "LIBOR.",
+      "E": "GLOBEX."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2175,
+    "chapter": 11,
+    "question": "Triangle arbitrage can occur when the ________ rate between two currencies is not ________ to the ratio of the two direct rates.",
+    "options": {
+      "A": "cross; equal",
+      "B": "spot; equal",
+      "C": "cross; less than",
+      "D": "spot; less than",
+      "E": "cross; greater than"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2176,
+    "chapter": 11,
+    "question": "When the Canadian dollar is quoted as $.87, this quote is a(n):",
+    "options": {
+      "A": "triangle rate.",
+      "B": "indirect rate.",
+      "C": "direct rate.",
+      "D": "cross rate.",
+      "E": "inverse rate."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2177,
+    "chapter": 11,
+    "question": "When the Mexican peso is quoted as Ps13.93, this quote is a(n):",
+    "options": {
+      "A": "indirect rate.",
+      "B": "direct rate.",
+      "C": "cross rate.",
+      "D": "triangle rate.",
+      "E": "linear rate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2178,
+    "chapter": 11,
+    "question": "What kind of trade involves agreeing today on an exchange rate for settlement in 90 days?",
+    "options": {
+      "A": "Spot trade",
+      "B": "Market trade",
+      "C": "Forward trade",
+      "D": "Triangle trade",
+      "E": "Complex trade"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2179,
+    "chapter": 11,
+    "question": "The foreign exchange market is where:",
+    "options": {
+      "A": "one country's stocks are exchanged for another's.",
+      "B": "one country's bonds are exchanged for another's.",
+      "C": "one country's currency is traded for another's.",
+      "D": "international banks make loans to one another.",
+      "E": "international businesses finalize import/export relationships with one another."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2180,
+    "chapter": 11,
+    "question": "The price of one country's currency expressed in terms of another country's currency is called the:",
+    "options": {
+      "A": "absolute currency rate.",
+      "B": "cross inflation rate.",
+      "C": "depository rate.",
+      "D": "exchange rate.",
+      "E": "foreign interest rate."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2181,
+    "chapter": 11,
+    "question": "An agreement to trade currencies based on the exchange rate set today for settlement within two business days is called a(n) ________ trade.",
+    "options": {
+      "A": "swap",
+      "B": "option",
+      "C": "futures",
+      "D": "forward",
+      "E": "spot"
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2182,
+    "chapter": 11,
+    "question": "Currencies that are exchanged today without any prior arrangement are exchanged at the:",
+    "options": {
+      "A": "spot rate.",
+      "B": "forward rate.",
+      "C": "triangle rate.",
+      "D": "LIBOR.",
+      "E": "discounted rate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2183,
+    "chapter": 11,
+    "question": "An agreement to exchange currencies at some point in the future using an exchange rate agreed upon today is called a ________ trade.",
+    "options": {
+      "A": "spot",
+      "B": "forward",
+      "C": "swap",
+      "D": "floating",
+      "E": "triangle"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2184,
+    "chapter": 11,
+    "question": "Which one of these statements is true?",
+    "options": {
+      "A": "The exchange markets are limited to the currencies of highly developed countries.",
+      "B": "Importers and exporters are key players in the foreign exchange market.",
+      "C": "The trading floor of the foreign exchange market is located in London, England.",
+      "D": "Foreign exchange rates are set by the governments of each country issuing a currency.",
+      "E": "The foreign exchange market is the world's smallest financial market."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2185,
+    "chapter": 11,
+    "question": "Triangle arbitrage:",
+    "options": {
+      "A": "no longer exists due to the advanced electronic communications used in today's markets.",
+      "B": "only applies to forward exchange rates.",
+      "C": "helps keep the currency market in equilibrium.",
+      "D": "opportunities can only be found in the spot market.",
+      "E": "only involves currencies other than the U.S. dollar."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2186,
+    "chapter": 11,
+    "question": "Assume the euro is selling in the spot market for $1.22. Simultaneously, in the 3-month forward market the euro is selling for $1.24. Which one of these statements correctly describes this situation?",
+    "options": {
+      "A": "The spot market is out of equilibrium.",
+      "B": "The forward market is out of equilibrium.",
+      "C": "The dollar is selling at a premium relative to the euro.",
+      "D": "The euro is selling at a premium relative to the dollar.",
+      "E": "The euro is less expensive in the forward market."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2187,
+    "chapter": 11,
+    "question": "Suppose the spot exchange rate is $1 = £.7304 and the 1-month forward rate is $1 = £.7303. Given this, you know the:",
+    "options": {
+      "A": "U.S. inflation rate is higher than the U.K.'s.",
+      "B": "U.S. nominal interest rate is higher than the U.K.'s.",
+      "C": "pound is selling at a discount.",
+      "D": "U.S. real risk-free interest rate is higher than the U.K.'s.",
+      "E": "pound is selling at a premium."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2188,
+    "chapter": 11,
+    "question": "Which one of following statements is false?",
+    "options": {
+      "A": "Importers are participants in the foreign exchange market.",
+      "B": "The foreign exchange market is an over-the-counter market.",
+      "C": "There are no speculators in the foreign exchange market.",
+      "D": "Exporters are participants in the foreign exchange market.",
+      "E": "Portfolio managers are participants in the foreign exchange market."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2189,
+    "chapter": 11,
+    "question": "Suppose the one-year forward rate is £.6390. Given no arbitrage opportunities, this implies that traders expect the spot rate to be:",
+    "options": {
+      "A": "£.6390 in one year.",
+      "B": "greater than £.6390 in one year.",
+      "C": "less than £.6390 in one year.",
+      "D": "greater than or equal to £.6390 in one year.",
+      "E": "less than or equal to £.6390 in one year."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2190,
+    "chapter": 11,
+    "question": "If a foreign currency is selling at a discount relative to the dollar then the:",
+    "options": {
+      "A": "foreign currency is cheaper in the spot market than it is in the forward market.",
+      "B": "cross rate is cheaper than the direct rate.",
+      "C": "foreign currency is cheaper in the forward market than it is in the spot market.",
+      "D": "direct rate is cheaper than the indirect rate.",
+      "E": "settled rate is less than the spot rate."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2191,
+    "chapter": 11,
+    "question": "Spot trades must be settled:",
+    "options": {
+      "A": "on the trade date.",
+      "B": "within one business day.",
+      "C": "within two business days.",
+      "D": "within three business days.",
+      "E": "within one week of the trade date."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2192,
+    "chapter": 11,
+    "question": "Which one of these statements is correct assuming exchange rates are quoted as units of foreign currency per dollar?",
+    "options": {
+      "A": "When the dollar strengthens, it takes more dollars to obtain one unit of a foreign currency.",
+      "B": "If the U.S. inflation rate is lower than the inflation rate in Canada, then the U.S. dollar will",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2193,
+    "chapter": 11,
+    "question": "The idea that a specific hamburger should cost the same regardless of where purchased or the currency used to pay for the purchase is referred to as:",
+    "options": {
+      "A": "the unbiased forward rates condition.",
+      "B": "uncovered interest rate parity.",
+      "C": "the international Fisher effect.",
+      "D": "absolute purchasing power parity.",
+      "E": "interest rate parity."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2194,
+    "chapter": 11,
+    "question": "\"The change in exchange rates is determined by the difference in the inflation rates of the two countries.\" This statement expresses the concept of:",
+    "options": {
+      "A": "absolute purchasing power parity.",
+      "B": "relative purchasing power parity.",
+      "C": "the international Fisher effect.",
+      "D": "unbiased forward rates.",
+      "E": "interest rate parity."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2195,
+    "chapter": 11,
+    "question": "For absolute purchasing power parity to hold:",
+    "options": {
+      "A": "transaction costs must be observable.",
+      "B": "interest rates must be uniform on a nominal basis.",
+      "C": "inflation rates must be uniform in all markets.",
+      "D": "tariffs must be imposed on all imported goods.",
+      "E": "products must be identical in all markets."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2196,
+    "chapter": 11,
+    "question": "The symbol \"S0\" represents the:",
+    "options": {
+      "A": "spot exchange rate expressed in dollars per unit of foreign currency.",
+      "B": "forward rate expressed in foreign currency units per dollar.",
+      "C": "profit that can be realized on a triangle arbitrage.",
+      "D": "spot rate in foreign currency units per dollar.",
+      "E": "forward rate expressed in dollars per unit of foreign currency."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2197,
+    "chapter": 11,
+    "question": "Absolute purchasing power parity is most apt to exist for:",
+    "options": {
+      "A": "a 4-door Ford vehicle.",
+      "B": "a loaf of white bread.",
+      "C": "a 2-bedroom home.",
+      "D": "a new watch.",
+      "E": "an ounce of silver."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2198,
+    "chapter": 11,
+    "question": "The forward rate is most apt to equal the spot rate when:",
+    "options": {
+      "A": "the real rate of interest is declining.",
+      "B": "the inflation rates in the two countries are equal.",
+      "C": "purchasing power parity exists.",
+      "D": "the real rates of interest in the two countries are equal.",
+      "E": "inflation rates are historically high."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2199,
+    "chapter": 11,
+    "question": "Which concept states that real rates are equal across countries?",
+    "options": {
+      "A": "Uncovered interest parity",
+      "B": "Relative purchasing power parity",
+      "C": "Unbiased forward rates",
+      "D": "Absolute purchasing power parity",
+      "E": "International Fisher effect"
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2200,
+    "chapter": 11,
+    "question": "The symbol \"RFC\" represents the foreign country's:",
+    "options": {
+      "A": "forward nominal market interest rate.",
+      "B": "real risk-free interest rate.",
+      "C": "real market interest rate.",
+      "D": "forward real market interest rate.",
+      "E": "nominal risk-free interest rate."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2201,
+    "chapter": 11,
+    "question": "Covered interest arbitrage involves:",
+    "options": {
+      "A": "two spot rates.",
+      "B": "two forward rates.",
+      "C": "both a spot rate and a forward rate.",
+      "D": "a single exchange at the current exchange rate.",
+      "E": "a single exchange at a spot rate that exists in the future."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2202,
+    "chapter": 11,
+    "question": "________ holds because of the possibility of covered interest arbitrage.",
+    "options": {
+      "A": "Uncovered interest parity",
+      "B": "Interest rate parity",
+      "C": "The international Fisher effect",
+      "D": "Unbiased forward rates",
+      "E": "Purchasing power parity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2203,
+    "chapter": 11,
+    "question": "The condition stating that the interest rate differential between two countries is approximately equal to the percentage forward premium or discount is called:",
+    "options": {
+      "A": "the unbiased forward rates condition.",
+      "B": "uncovered interest rate parity.",
+      "C": "the international Fisher effect.",
+      "D": "purchasing power parity.",
+      "E": "interest rate parity."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2204,
+    "chapter": 11,
+    "question": "The condition stating that the current forward rate is an unbiased predictor of the future spot exchange rate is called:",
+    "options": {
+      "A": "the unbiased forward rates condition.",
+      "B": "uncovered interest rate parity.",
+      "C": "the international Fisher effect.",
+      "D": "purchasing power parity.",
+      "E": "interest rate parity."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2205,
+    "chapter": 11,
+    "question": "The condition stating that the expected percentage change in the exchange rate is equal to the difference in interest rates between the countries is called:",
+    "options": {
+      "A": "the unbiased forward rates condition.",
+      "B": "uncovered interest parity.",
+      "C": "the international Fisher effect.",
+      "D": "purchasing power parity.",
+      "E": "interest rate parity."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2206,
+    "chapter": 11,
+    "question": "Interest rate parity:",
+    "options": {
+      "A": "eliminates covered interest arbitrage opportunities.",
+      "B": "exists when spot rates are equal for multiple countries.",
+      "C": "means that the nominal risk-free rate of return must be the same across countries.",
+      "D": "exists when the spot rate is equal to the futures rate.",
+      "E": "eliminates exchange rate fluctuations."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2207,
+    "chapter": 11,
+    "question": "The unbiased forward rate is a:",
+    "options": {
+      "A": "condition where a future spot rate is equal to the current spot rate.",
+      "B": "guarantee of a future spot rate at one point in time.",
+      "C": "condition where the spot rate is expected to remain constant over a period of time.",
+      "D": "relationship between the future spot rate of two currencies at an equivalent point in time.",
+      "E": "predictor of the future spot rate at the equivalent point in time."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2208,
+    "chapter": 11,
+    "question": "The international Fisher effect says that ________ rates are equal across countries.",
+    "options": {
+      "A": "spot",
+      "B": "one-year future",
+      "C": "nominal",
+      "D": "inflation",
+      "E": "real"
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2209,
+    "chapter": 11,
+    "question": "The home currency approach:",
+    "options": {
+      "A": "discounts all a project's foreign cash flows using the current spot rate.",
+      "B": "employs uncovered interest parity to project future exchange rates.",
+      "C": "computes the net present value (NPV) of a project in the foreign currency and then converts",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2210,
+    "chapter": 11,
+    "question": "The home currency approach:",
+    "options": {
+      "A": "generally produces more reliable results than those found using the foreign currency",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2211,
+    "chapter": 11,
+    "question": "The foreign currency approach to capital budgeting analysis:",
+    "options": {
+      "A": "is computationally harder to use than the home currency approach.",
+      "B": "utilizes the uncovered interest parity relationship.",
+      "C": "computes the NPV in both the foreign and the domestic currency.",
+      "D": "is solely dependent upon purchasing power parity.",
+      "E": "produces superior results as compared to the home currency approach."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2212,
+    "chapter": 11,
+    "question": "Remitting funds to a parent firm from a foreign subsidiary is referred to as:",
+    "options": {
+      "A": "recommitting.",
+      "B": "reshipping.",
+      "C": "repatriating.",
+      "D": "returning.",
+      "E": "reshaping."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2213,
+    "chapter": 11,
+    "question": "All the following, except one, tend to hinder funds from foreign subsidiaries being remitted to their home country parent firm. Which one of these is the exception?",
+    "options": {
+      "A": "Foreign exchange remittance controls",
+      "B": "Repatriation taxes",
+      "C": "Active exchange rate market",
+      "D": "Blocking controls",
+      "E": "Expropriation taxes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2214,
+    "chapter": 11,
+    "question": "An international firm which imports raw materials can reduce its ________ exposure to ________ rate risk by entering into a forward contract.",
+    "options": {
+      "A": "long-term; inflation",
+      "B": "short-term; inflation",
+      "C": "short-run; exchange",
+      "D": "long-run; exchange",
+      "E": "total; interest"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2215,
+    "chapter": 11,
+    "question": "The changes in the relative economic conditions between countries are referred to as the:",
+    "options": {
+      "A": "international Fisher effect.",
+      "B": "international exchange rate effect.",
+      "C": "translation exposure to exchange rate risk.",
+      "D": "long-run exposure to exchange rate risk.",
+      "E": "the interest rate parity risk."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2216,
+    "chapter": 11,
+    "question": "Which one of these statements is correct?",
+    "options": {
+      "A": "Borrowing money in the country in which operations are located reduces long-run exchange",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2217,
+    "chapter": 11,
+    "question": "Financial Accounting Standards Board Statement No. 52 requires that most assets and liabilities be translated at the current exchange rate. Translation gains and losses are recorded:",
+    "options": {
+      "A": "in the shareholder's equity section of the balance sheet.",
+      "B": "as a normal income item on the income statement.",
+      "C": "as an extraordinary item on the income statement.",
+      "D": "as a footnote to the financial statements.",
+      "E": "only on income tax returns."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2218,
+    "chapter": 11,
+    "question": "A foreign subsidiary can remit funds to the parent firm in the all the following ways except by means of:",
+    "options": {
+      "A": "dividends.",
+      "B": "management fees for central services.",
+      "C": "royalties on the use of trade names.",
+      "D": "royalties on the use of patents.",
+      "E": "nationalization."
+    },
+    "answer": "E"
+  },
+  {
+    "id": 2219,
+    "chapter": 11,
+    "question": "All the following are political risks associated with international investing except:",
+    "options": {
+      "A": "nationalization.",
+      "B": "decreasing consumer demand.",
+      "C": "blocking of funds.",
+      "D": "tax law changes.",
+      "E": "contract abrogation."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2220,
+    "chapter": 11,
+    "question": "Monies earned by foreign subsidiaries that have not yet been taxed under U.S. law can be used to:",
+    "options": {
+      "A": "purchase U.S. government bonds.",
+      "B": "purchase U.S. stocks.",
+      "C": "pay dividends.",
+      "D": "invest in new capital overseas.",
+      "E": "invest in new U.S. plants and equipment."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2221,
+    "chapter": 11,
+    "question": "The Tax Cut and Jobs Act of 2017 allows untaxed foreign profits held as cash or as securities to be:",
+    "options": {
+      "A": "used to purchase U.S. fixed assets after a one-time tax of 8 percent.",
+      "B": "repatriated at a one-time tax rate of 15.5 percent.",
+      "C": "returned to the U.S. at the new corporate tax rate of 15 percent.",
+      "D": "repatriated at a one-time tax rate of 8 percent.",
+      "E": "returned to the U.S. as tax-free income."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2222,
+    "chapter": 11,
+    "question": "How many euros can you get for $2,500 if the USD equivalent is 1.2195?",
+    "options": {
+      "A": "€2,147.08",
+      "B": "€2,050.02",
+      "C": "€2,309.11",
+      "D": "€3,048.75",
+      "E": "€2,921.00"
+    },
+    "answer": "B",
+    "explanation": "Number of euros = $2,500(€1/$1.2195) Number of euros = €2,050.02 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2223,
+    "chapter": 11,
+    "question": "Lisa is planning a trip to Australia where a hotel will cost A$165 per night for seven nights. She expects to spend another A$2,200 for meals, tours, souvenirs, and so forth. How much will this trip cost her in U.S. dollars if the USD equivalent is .7752?",
+    "options": {
+      "A": "$2,600.80",
+      "B": "$3,599.49",
+      "C": "$2,782.02",
+      "D": "$3,969.47",
+      "E": "$4,327.92"
+    },
+    "answer": "A",
+    "explanation": "Cost of trip = [A$165(7) + 2,200]($.7752/A$1) Cost of trip = $2,600.80 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2224,
+    "chapter": 11,
+    "question": "You want to import $56,000 worth of rugs from India. How many rupees will you need to pay for this purchase if one rupee is worth $.01606?",
+    "options": {
+      "A": "Rs3,015,030",
+      "B": "Rs2,666,667",
+      "C": "Rs3,486,924",
+      "D": "Rs3,008,001",
+      "E": "Rs2,847,319"
+    },
+    "answer": "C",
+    "explanation": "Purchase cost = $56,000(Rs1/$.01606) Purchase cost = Rs3,486,924 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2225,
+    "chapter": 11,
+    "question": "Assume $1 will buy Can$1.2803 while $1.2195 will buy €1. What is the Can$/€ exchange rate?",
+    "options": {
+      "A": "Can$.9709 = €1",
+      "B": "Can$.9525 = €1",
+      "C": "Can$1.0499 = €1",
+      "D": "Can$1.3624 = €1",
+      "E": "Can$1.5613 = €1"
+    },
+    "answer": "E",
+    "explanation": "Setting the algebra up so the $ signs cancel out: Can$/€: (Can$1.2803/$1)($1.2195/€1) Can$/€: Can$1.5613 = 1€ Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2226,
+    "chapter": 11,
+    "question": "Assume that ¥106.83 equals $1. Also assume that SKr8.2941 equals $1. How many Japanese yen can you acquire in exchange for 5,000 Swedish krona?",
+    "options": {
+      "A": "¥388.19",
+      "B": "¥314.77",
+      "C": "¥41,710.99",
+      "D": "¥56,756.67",
+      "E": "¥64,401.20"
+    },
+    "answer": "E",
+    "explanation": "Number of yen = SKr5,000(¥106.83/SKr8.2941) Number of yen = ¥64,401.20 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2227,
+    "chapter": 11,
+    "question": "You just returned from some extensive traveling. You started your trip with $10,000 in your pocket. You spent 1.32 million pesos in Chile where Ps1 = $.001642. You spent Ps36,000 in Uruguay where Ps1 = $.03526. Then on the way home, you spent Ps29,000 in Mexico where $1 = Ps18.8709. How many dollars did you have left by the time you returned to the U.S.?",
+    "options": {
+      "A": "$3,889.07",
+      "B": "$4,001.84",
+      "C": "$4,110.27",
+      "D": "$5,026.44",
+      "E": "$4,299.03"
+    },
+    "answer": "D",
+    "explanation": "Funds remaining = $10,000 − Ps1,320,000($.001642/Ps1) − Ps36,000($.03526/Ps1) − Ps29,000($1/Ps18.8709) Funds remaining = $5,026.44 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2228,
+    "chapter": 11,
+    "question": "Assume the official USD equivalent of one Canadian dollar is .7813 and the USD equivalent of the U.K. pound is 1.3699. Further assume you have 100 pounds and have been offered Can$180 for them. If you use triangle arbitrage and the entire £100, you can earn a profit of:",
+    "options": {
+      "A": "£1.56.",
+      "B": "£2.66.",
+      "C": "£.87.",
+      "D": "£1.09.",
+      "E": "£2.03."
+    },
+    "answer": "B",
+    "explanation": "Profit = [£100(Can$180/£100)($.7813/Can$1)(£1/$1.3699)] − £100 Profit = £2.66 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Triangle arbitrage Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2229,
+    "chapter": 11,
+    "question": "Angie has been offered Can$1.75 for £1. How much profit can she earn on a triangle arbitrage if the official rate is $1 = Can$1.2834 and the USD equivalent of £1 is $1.3699? Assume she currently has $100 in cash.",
+    "options": {
+      "A": "$.46",
+      "B": "$.73",
+      "C": "$1.09",
+      "D": "$1.37",
+      "E": "$.57"
+    },
+    "answer": "A",
+    "explanation": "Profit = [$100(Can$1.2834/$1)(£1/Can$1.75)($1.3699/£1)] − $100 Profit = $.46 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Triangle arbitrage Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2230,
+    "chapter": 11,
+    "question": "Assume you can exchange $1 for £.7347 today. Assume that last week, £1 was worth $1.3613. If you had converted £100 into dollars last week and then exchanged your dollars back into pounds today, you would now have a:",
+    "options": {
+      "A": "profit of $.048.",
+      "B": "loss of $. 42.",
+      "C": "profit of £.101.",
+      "D": "loss of $.068.",
+      "E": "profit of £.015."
+    },
+    "answer": "E",
+    "explanation": "Profit = [£100($1.3613/£1)(£.7347/$1)] − £100 Profit = £.015 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2231,
+    "chapter": 11,
+    "question": "Assume today you can exchange $100 for either Can$128 or Ps1,892. Also assume that last year, $100 was worth Can$126 or Ps1,847. Which one of the following statements is correct given this information?",
+    "options": {
+      "A": "$100 invested in Canadian dollars last year would now be worth Ps1,824.09.",
+      "B": "$100 invested in Mexican pesos last year would now be worth $98.47.",
+      "C": "$100 invested in Mexican pesos last year would now be worth $101.63.",
+      "D": "$100 invested in Canadian dollars last year would now be worth $99.52.",
+      "E": "$100 invested in Canadian dollars last year would now be worth Ps1,862.44."
+    },
+    "answer": "E",
+    "explanation": "Current value in Ps of $100 exchanged to Can$ last year = $100(Can$126/$100)($100/Can$128)(Ps1,892/$100) Current value in Ps of $100 exchanged to Can$ last year = Ps1,862.44 Current value in dollars of $100 exchanged to Ps last year = $100(Ps1,847/$100)($100/Ps1,892) Current value in dollars of $100 exchanged to Ps last year = $97.62 Current value in dollars of $100 exchanged to Can$ last year = $100(Can$126/$100)($100/Can$128) Current value in dollars of $100 exchanged to Can$ last year = $98.44 Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Exchange rates Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2232,
+    "chapter": 11,
+    "question": "The camera you want to buy costs $399 in the U.S. If absolute purchasing power parity exists, the identical camera will cost ________ in Australia if the exchange rate is A$1 = $.7752.",
+    "options": {
+      "A": "A$309.30",
+      "B": "A$393.23",
+      "C": "A$435.09",
+      "D": "A$514.71",
+      "E": "A$506.67"
+    },
+    "answer": "D",
+    "explanation": "Cost in Australia = $399(A$1/$.7752) Cost in Australia = A$514.71 Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2233,
+    "chapter": 11,
+    "question": "A new sweater costs SF67 in Switzerland. Assume SF1 = $1.0563 and €1 = $1.2195. How much will the identical sweater cost in euros if absolute purchasing power parity exists?",
+    "options": {
+      "A": "€58.03",
+      "B": "€43.08",
+      "C": "€77.35",
+      "D": "€58.25",
+      "E": "€60.75"
+    },
+    "answer": "A",
+    "explanation": "Cost in euros = SF67($1.0563/SF1)(€1/$1.2195) Cost in euros = €58.03 Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2234,
+    "chapter": 11,
+    "question": "Assume $1 = ¥106.83 = £.7309. If a TV in London costs £430, what will that identical TV cost in Tokyo if absolute purchasing power parity exists?",
+    "options": {
+      "A": "¥32,411.02",
+      "B": "¥34,666.67",
+      "C": "¥62,849.77",
+      "D": "¥58,001.28",
+      "E": "¥82,880.09"
+    },
+    "answer": "C",
+    "explanation": "Cost in yen = £430($1/£.7309)(¥106.83/$1) Cost in yen = ¥62,849.77 Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2235,
+    "chapter": 11,
+    "question": "Assume the spot market exchange rate for $1 is currently A$1.2902. Also assume the expected inflation rate is 3.3 percent in Australia compared to the U.S. rate of 2.8 percent. What is the expected exchange rate one year from now if relative purchasing power parity exists?",
+    "options": {
+      "A": "A$1.2837",
+      "B": "A$1.2062",
+      "C": "A$1.2286",
+      "D": "A$1.2967",
+      "E": "A$1.1484"
+    },
+    "answer": "D",
+    "explanation": "E(S1) = A$1.2902[1 + (.033 − .028)]1 E(S1) = A$1.2967 Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2236,
+    "chapter": 11,
+    "question": "Assume the spot rate of $1 is £.7347. Also assume the expected inflation rate in the U.K. is 2.1 percent while the U.S. inflation rate is 3.6 percent. What is the expected exchange rate three years from now if relative purchasing power parity exists?",
+    "options": {
+      "A": "£.7237",
+      "B": "£.6306",
+      "C": "£.7683",
+      "D": "£.7021",
+      "E": "£.7667"
+    },
+    "answer": "D",
+    "explanation": "E(S3) = £.7347[1 + (.021 − .036)]3 E(S3) = £.7021 Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2237,
+    "chapter": 11,
+    "question": "Assume the current spot rate is Can$1.2803 and the one-year forward rate is Can$1.2745. Also assume the nominal risk-free rate in Canada is 4.8 percent while it is 4.2 percent in the U.S. Using covered interest arbitrage, you can earn a profit of ________ for every $1 invested over the next year.",
+    "options": {
+      "A": "$.0163",
+      "B": "$.0108",
+      "C": "−$.0040",
+      "D": "−$.0088",
+      "E": "−$.0840"
+    },
+    "answer": "B",
+    "explanation": "Arbitrage profit = [($1)(C$1.2803/$1)(1.048)($1/C$1.2745)] − $1(1.042) Arbitrage profit = $.0108 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Covered interest arbitrage Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2238,
+    "chapter": 11,
+    "question": "Assume the current spot rate is Can$1.2811 and the one-year forward rate is Can$1.2767. Also assume the nominal risk-free rate in Canada is 3.2 percent while the U.S. rate is 3.5 percent. Using covered interest arbitrage you can earn an extra profit of ________ for every $1 invested over the next year.",
+    "options": {
+      "A": "$.0018",
+      "B": "$.0015",
+      "C": "$.0011",
+      "D": "$.0006",
+      "E": "$.0002"
+    },
+    "answer": "D",
+    "explanation": "Arbitrage profit = [($1)(Can$1.2811/$1)(1.032)($1/Can$1.2767)] − $1(1.035) Arbitrage profit = $.0006 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Covered interest arbitrage Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2239,
+    "chapter": 11,
+    "question": "Assume the spot rate for the Japanese yen currently is ¥106.83 per dollar while the one-year forward rate is ¥107.20. Also assume a risk-free asset in Japan is currently earning 4.6 percent. If interest rate parity holds, approximately what rate can you earn on a one-year risk-free U.S. security?",
+    "options": {
+      "A": "4.24 percent",
+      "B": "5.08 percent",
+      "C": "4.62 percent",
+      "D": "4.78 percent",
+      "E": "4.96 percent"
+    },
+    "answer": "A",
+    "explanation": "(¥107.20/¥106.83) = [1.046/(1 + RUS)] RUS = .0424, or 4.24% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2240,
+    "chapter": 11,
+    "question": "Assume the spot rate for the British pound currently is £.7287 per dollar and the one-year forward rate is £.7304. A risk-free asset in the U.S. is currently earning 3 percent. If interest rate parity holds, approximately what rate can you earn on a one-year risk-free British security?",
+    "options": {
+      "A": "3.16 percent",
+      "B": "3.03 percent",
+      "C": "2.92 percent",
+      "D": "2.84 percent",
+      "E": "3.24 percent"
+    },
+    "answer": "E",
+    "explanation": "(£.7304/£.7287) = (1 + RFc)/1.03 RFC = .0324, or 3.24% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2241,
+    "chapter": 11,
+    "question": "Assume a risk-free asset in the U.S. is currently yielding 2.7 percent while a Canadian risk- free asset is yielding 2.8 percent and the current spot rate is Can$1.2849 = $1. What is the approximate 6-month forward rate if interest rate parity holds?",
+    "options": {
+      "A": "Can$1.2855",
+      "B": "Can$1.2838",
+      "C": "Can$1.2843",
+      "D": "Can$1.2862",
+      "E": "Can$1.2836"
+    },
+    "answer": "A",
+    "explanation": "ƒ.5 = Can$1.2849[1 + (.028 −.027)].5 ƒ.5 = Can$1.2855 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2242,
+    "chapter": 11,
+    "question": "Suppose the spot rate on the Indian rupee is Rs65.2203, the risk-free nominal rate in the U.S. is 4.6 percent, and the Indian risk-free nominal rate is 6.2 percent. Which one of the following one-year forward rates best establishes the approximate interest rate parity condition?",
+    "options": {
+      "A": "Rs64.1768",
+      "B": "Rs66.2638",
+      "C": "Rs62.8840",
+      "D": "Rs63.0733",
+      "E": "Rs67.8420"
+    },
+    "answer": "B",
+    "explanation": "ƒ1 ≅ Rs65.2203[1 + (.062 − .046)]1 ƒ1 ≅ Rs66.2638 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2243,
+    "chapter": 11,
+    "question": "Suppose the spot rate on the Canadian dollar is C$1.2797. Also assume the risk-free nominal rate in the U.S. is 3.8 percent while it is only 3.3 percent in Canada. Which one of the following three-year forward rates best establishes the approximate interest rate parity condition?",
+    "options": {
+      "A": "C$1.2733",
+      "B": "C$1.2606",
+      "C": "C$1.2861",
+      "D": "C$1.2990",
+      "E": "C$1.1918"
+    },
+    "answer": "B",
+    "explanation": "ƒ3 ≅ C$1.2797[1 + (.033 − .038)]3 ƒ3 ≅ C$1.2606 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2244,
+    "chapter": 11,
+    "question": "You are considering a project in Norway with an initial cost of NKr135,000. The project is expected to return a one-time payment of NKr200,000 at the end of Year 5. Assume the risk-free rate of return is 2.6 percent in the U.S. and 3.1 percent in Norway. Assume the inflation rate is 1.6 percent in the U.S. and 2.3 percent in Norway. Lastly, assume the current exchange rate is $1 = NKr7.9271. Approximately how much will the payment at the end of 5 Years be worth in U.S. dollars?",
+    "options": {
+      "A": "$24,609",
+      "B": "$24,108",
+      "C": "$26,472",
+      "D": "$25,870",
+      "E": "$26,006"
+    },
+    "answer": "A",
+    "explanation": "E(S5) = (NKr7.9271/$1)[1 + (.031 − .026)]5 E(S5) = NKr8.1273 Payment value = NKr200,000($1/NKr8.1273) Payment value = $24,609 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2245,
+    "chapter": 11,
+    "question": "You are expecting a payment of Can$138,000 two years from now. Assume the risk-free rate of return is 2.7 percent in Canada and 3.1 percent in the U.S. Also assume the current exchange rate is Can$1.2903 = $1. Approximately how much will the payment two years from now be worth in U.S. dollars?",
+    "options": {
+      "A": "$108,319",
+      "B": "$106,101",
+      "C": "$107,813",
+      "D": "$107,381",
+      "E": "$108,169"
+    },
+    "answer": "C",
+    "explanation": "E(S2) = Can$1.2903[1 + (.027 − .031)]2 E(S2) = Can$1.2800 Payment value = Can$138,000($1/Can$1.2800) Payment value = $107,813 Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  Interest rate parity Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2246,
+    "chapter": 11,
+    "question": "Assume the current spot rate for the Norwegian krone is $1 = NKr7.9323, the expected inflation rate in Norway is 2.1 percent and 1.2 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 3.7 percent. What nominal risk-free rate of return should you expect on a Norwegian security?",
+    "options": {
+      "A": "2.9 percent",
+      "B": "4.6 percent",
+      "C": "4.2 percent",
+      "D": "3.1 percent",
+      "E": "3.8 percent"
+    },
+    "answer": "B",
+    "explanation": ".037 − .012 = RFC − .021 RFC = .046, or 4.6% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  International Fisher effect Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2247,
+    "chapter": 11,
+    "question": "Assume the current spot rate for the Norwegian krone is $1 = NKr7.93, the expected inflation rate in Norway is 2.4 percent while it is 2.6 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 4.5 percent. What real rate of return should you expect on a risk-free Norwegian security?",
+    "options": {
+      "A": "4.3 percent",
+      "B": "4.7 percent",
+      "C": "1.9 percent",
+      "D": "2.1 percent",
+      "E": "2.4 percent"
+    },
+    "answer": "C",
+    "explanation": "Real rate = .045 − .026 Real rate = .019, or 1.9% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  International Fisher effect Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2248,
+    "chapter": 11,
+    "question": "Assume the expected inflation rate in Finland is 2 percent while it is 4 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 4.5 percent. What nominal rate of return should you expect on a risk-free Finnish security?",
+    "options": {
+      "A": "2.0 percent",
+      "B": "1.5 percent",
+      "C": "3.0 percent",
+      "D": "2.5 percent",
+      "E": "4.0 percent"
+    },
+    "answer": "D",
+    "explanation": ".045 − .04 = RFC − .02 RFC = .025, or 2.5% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  International Fisher effect Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2249,
+    "chapter": 11,
+    "question": "Assume the expected inflation rate in Switzerland is 2.2 percent while it is 1.6 percent in the U.S. Also assume a risk-free asset in the U.S. is yielding 3.7 percent. What real rate of return should you expect on a risk-free Swiss security?",
+    "options": {
+      "A": "2.0 percent",
+      "B": "2.1 percent",
+      "C": "3.0 percent",
+      "D": "3.5 percent",
+      "E": "3.1 percent"
+    },
+    "answer": "B",
+    "explanation": "Real rate = .037 − .016 Real rate = .021, or 2.1% Difficulty: 2 Medium Section:  31.4 Interest Rate Parity, Unbiased Forward Rates, and the International Fisher Effect Topic:  International Fisher effect Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2250,
+    "chapter": 11,
+    "question": "A Canadian project has an initial cost of Can$1.8 million and is expected to produce cash inflows of Can$710,000 a year for 3 years after which time it will be worthless. Assume the expected inflation rate in Canada is 4 percent while it is only 3 percent in the U.S. The applicable interest rate in Canada is 8 percent. Assume the current spot rate is C$1 = $.78. What is the net present value of this project in Canadian dollars using the foreign currency approach?",
+    "options": {
+      "A": "Can$33,974.02",
+      "B": "Can$32,790.05",
+      "C": "Can$29,738.86",
+      "D": "Can$28,721.40",
+      "E": "Can$30,751.18"
+    },
+    "answer": "C",
+    "explanation": "NPV = −Can$1.8m + Can$710,000(PVIFA8%,3) NPV = Can$29,738.86 Difficulty: 2 Medium Section:  31.5 International Capital Budgeting Topic:  International capital budgeting Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2251,
+    "chapter": 11,
+    "question": "Global Markets wants to invest in a riskless project in Sweden. The project has an initial cost of SKr2.3 million and is expected to produce cash inflows of SKr850,000 a year for 3 years. The project will be worthless after the first 3 years. Assume the expected inflation rate in Sweden is 2.6 percent while it is 3.2 percent in the U.S. Also assume a risk-free security is paying 5.9 percent in the U.S. and the current spot rate is $1 = SKr8.31. What is the net present value of this project in Swedish krona using the foreign currency approach? Assume the international Fisher effect applies.",
+    "options": {
+      "A": "SKr1,856.07",
+      "B": "SKr1,809.85",
+      "C": "SKr1,969.10",
+      "D": "SKr1,978.67",
+      "E": "SKr2,028.18"
+    },
+    "answer": "B",
+    "explanation": ".059 − .032 = RFC − .026 RFC = .053 NPV = –SKr2.3m + SKr850,000(PVIFA5.3%, 3) NPV = SKr1,809.85 Difficulty: 2 Medium Section:  31.5 International Capital Budgeting Topic:  International capital budgeting Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2252,
+    "chapter": 11,
+    "question": "A project has an initial cost of £1.2 million and expected cash inflows of £400,000, £500,000, and £600,000 for Years 1 to 3, respectively. Assume the current spot rate is £.73 and the nominal risk-free returns are 4 percent in the U.K. and 3 percent in the U.S. If uncovered interest rate parity exists, what is the net present value of this project in U.S. dollars using the home currency approach? Assume the project's U.S. discount rate is 12 percent.",
+    "options": {
+      "A": "−$56,359",
+      "B": "−$104,040",
+      "C": "−$71,067",
+      "D": "$26,422",
+      "E": "$92,009"
+    },
+    "answer": "A",
+    "explanation": "E(S1) = £.73[1 + (.04 − .03)]1 = £.7373 E(S2) = £.73[1 + (.04 − .03)]2 = £.744673 E(S3) = £.73[1 + (.04 − .03)]3 = £.752120 CF0 = −£1,200,000($1/£.73) = −$1,643,835.62 CO1 = £400,000($1/£.7373) = $542,520.01 CO2 = £500,000($1/£.744673) = $671,435.65 CO3 = £600,000($1/£.752120) = $797,745.04 NPV = −$1,643,835.62 + ($542,520.01/1.12) + ($671,435.65/1.122) + ($797,745.04/1.123) NPV = −$56,359 Difficulty: 2 Medium Section:  31.5 International Capital Budgeting Topic:  International capital budgeting Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2253,
+    "chapter": 11,
+    "question": "A project has an initial cost of £80,000 and is expected to return £10,000 the first year, £40,000 the second year, and £50,000 the third and final year. Assume the current spot rate is £.75. Also assume the nominal risk-free return is 3 percent in the U.K. and 5 percent in the U.S. The return relevant to the project is 7.8 percent in the U.K. and 8.1 percent in the U.S. Assume uncovered interest rate parity exists. What is the net present value of this project in U.S. dollars using the home currency approach?",
+    "options": {
+      "A": "$9,787",
+      "B": "$11,002",
+      "C": "$10,312",
+      "D": "$10,511",
+      "E": "$9,514"
+    },
+    "answer": "E",
+    "explanation": "E(S1) = £.75[1 + (.03 − .05)]1 = £.7350 E(S2) = £.75[1 + (.03 − .05)]2 = £.7203 E(S3) = £.75[1 + (.03 − .05)]3 = £.705894 CF0 = −£80,000($1/£.75) = −$106,666.67 CO1 = £10,000($1/£.7350) = $13,605.44 CO2 = £40,000($1/£.7203) = $55,532.42 CO3 = £50,000($1/£.705894) = $70,832.16 NPV = −$106,666.67 + ($13,605.44/1.081) + ($55,532.42/1.0812) + ($70,832.16/1.0813) NPV = $9,514 Difficulty: 2 Medium Section:  31.5 International Capital Budgeting Topic:  International capital budgeting Bloom's:  Analyze AACSB:  Analytical Thinking Accessibility:  Keyboard Navigation"
+  },
+  {
+    "id": 2254,
+    "chapter": 11,
+    "question": "Explain the difference between a spot trade and a forward trade as they relate to currencies. Answer:  A spot trade is an agreement made today to exchange currencies today at the current, or spot, exchange rate. A forward trade is an agreement today to exchange currencies on some future date at a price (forward rate) agreed upon today. Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Spot and forward rates Bloom's:  Apply AACSB:  Reflective Thinking Accessibility:  Keyboard Navigation 37 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. 87) What is triangle arbitrage? Answer:  Triangle arbitrage is the ability to earn a risk-free profit when the cross-rate between two currencies, let's say A and B, differs from the rate implied by exchanging currency A into a third currency, C, and then exchanging currency C into currency B. This occurs when the exchange markets are out-of-equilibrium or varying markets exist based upon official and non- official exchange rates. Difficulty: 2 Medium Section:  31.2 Foreign Exchange Markets and Exchange Rates Topic:  Triangle arbitrage Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 88) How well do you think relative purchasing power parity and uncovered interest parity behave? That is, do you think it's possible to forecast the expected future spot exchange rate accurately? What complications might you run into? Answer:  Each of the variables in these equations must be estimated so it is unlikely, even unrealistic, to expect them to hold with any high degree of accuracy. In addition, most countries manage the value of their currencies to some extent which adds a significant amount of noise to the exchange rate process. In addition, when it comes to purchasing power parity it is difficult to identify identical goods with equal demands based on geographic differences in products, customs, and preferences. Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 89) What is required for absolute purchasing power parity to hold? Do you think absolute PPP would hold in the case where a shoe retailer in the U.S. sits directly across the border from a shoe retailer in Canada? How about Houston, Texas, and London, England? Answer:  The requirements for absolute PPP to hold are zero trading costs, lack of trade barriers, and identical goods. Absolute PPP would likely hold to some degree for U.S. and Canadian firms sitting on the border directly across from one another, especially with the reduction of trading costs brought about by NAFTA. However, absolute PPP most likely does not hold for the Houston and London firms because of the significant transportation and search costs between these two disparate locations. Difficulty: 2 Medium Section:  31.3 Purchasing Power Parity Topic:  Purchasing power parity Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation 38 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. 90) Describe the foreign currency and home currency approaches to capital budgeting. Which is better? Which approach would you recommend a U.S. firm use? Justify your answer. Answer:  In the home currency approach, you must forecast both the foreign cash flows and the future expected exchange rates, convert the foreign currency cash flows into dollars, and discount those dollar cash flows at the cost of capital for dollar-denominated investments. In the foreign currency approach, you forecast the foreign cash flows, determine the discount rate appropriate for cash flows denominated in the foreign currency and discount those cash flows to the present. You then convert the NPV to dollars using the current exchange rate. If done properly, both approaches give identical results. However, the foreign currency approach is computationally somewhat more straightforward. Difficulty: 2 Medium Section:  31.5 International Capital Budgeting Topic:  International capital budgeting Bloom's:  Apply AACSB:  Knowledge Application Accessibility:  Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  }
+]

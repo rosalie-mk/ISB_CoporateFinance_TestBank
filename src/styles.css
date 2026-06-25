@@ -1,0 +1,30 @@
+:root{
+  --bg: #fff; --fg:#111; --card:#f7f7f8; --accent:#0366d6;
+}
+:root.dark{ --bg:#0b0f14; --fg:#e6eef6; --card:#0f1720; --accent:#58a6ff }
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial;background:var(--bg);color:var(--fg)}
+.topbar{display:flex;justify-content:space-between;align-items:center;padding:12px 16px;background:var(--card);border-bottom:1px solid rgba(0,0,0,.06)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;padding:8px 12px;background:linear-gradient(0deg,transparent,transparent)}
+.tabs button{padding:6px 8px;border:1px solid #ccc;background:transparent;border-radius:6px}
+.tabs button.active{background:var(--accent);color:white}
+.app main{padding:12px}
+.controls{display:flex;gap:8px;align-items:center;margin-bottom:8px;flex-wrap:wrap}
+.controls button{padding:6px 10px}
+.quiz .questionCard{background:var(--card);padding:12px;border-radius:8px}
+.qText{margin:8px 0 12px}
+.options{display:flex;flex-direction:column;gap:8px}
+.options button{text-align:left;padding:8px;border-radius:6px;border:1px solid #ccc;background:transparent}
+.options button.selected{outline:2px solid var(--accent)}
+.options .correct{color:green;margin-left:8px}
+.options .incorrect{color:red;margin-left:8px}
+.nav{display:flex;gap:8px;margin-top:12px}
+.qList{margin-top:12px;display:flex;flex-wrap:wrap;gap:6px}
+.qList button{padding:6px 8px}
+.progressRow{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+.footer{padding:12px;text-align:center;color:gray}
+
+@media(max-width:720px){
+  .tabs{overflow:auto}
+  .options button{font-size:14px}
+}

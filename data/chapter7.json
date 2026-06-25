@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2146,
+    "chapter": 7,
+    "question": "APR, as it relates to the liquidation of a firm, means the rules of:",
+    "options": {
+      "A": "absolute profitability.",
+      "B": "arbitration priority.",
+      "C": "absolute priority.",
+      "D": "arbitration profitability.",
+      "E": "automatic profitability."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2147,
+    "chapter": 7,
+    "question": "The difference between liquidation and reorganization is that a:",
+    "options": {
+      "A": "reorganization terminates all operations of the firm while a liquidation only terminates non-",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2149,
+    "chapter": 7,
+    "question": "How does APR rank the following claims in a bankruptcy liquidation?",
+    "options": {
+      "A": "Administrative expenses, wages, government taxes, secured creditors, unsecured creditors,",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": ""
+  },
+  {
+    "id": 2150,
+    "chapter": 7,
+    "question": "Section 363 as it relates to a bankruptcy filing:",
+    "options": {
+      "A": "works like an auction to speed up the bankruptcy process.",
+      "B": "establishes the bankruptcy judge as the assignor of all bankruptcy assets.",
+      "C": "permits creditors to force a firm into an involuntary bankruptcy.",
+      "D": "allows creditors to submit a reorganization plan.",
+      "E": "requires all employee wages and benefits be paid prior to creditors."
+    },
+    "answer": "A"
+  }
+]
