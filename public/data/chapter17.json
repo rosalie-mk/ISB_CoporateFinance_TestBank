@@ -1,0 +1,821 @@
+[
+  {
+    "id": 1392,
+    "question": "Which one of these lowers cash flows?",
+    "options": {
+      "A": "Decreased use of leverage",
+      "B": "Decreased costs",
+      "C": "Increased sales due to an improved economy",
+      "D": "The associated costs of bankruptcy",
+      "E": "A decrease in the interest rate charged on debt"
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1393,
+    "question": "The explicit costs, such as the legal expenses, associated with corporate default are classified as:",
+    "options": {
+      "A": "debt flotation costs.",
+      "B": "beta conversion costs.",
+      "C": "direct costs of financial distress.",
+      "D": "indirect bankruptcy costs.",
+      "E": "unlevered costs of capital."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1394,
+    "question": "What is the estimated direct cost of financial distress as a percentage of the market value of a firm as estimated by White, Altman, and Weiss?",
+    "options": {
+      "A": "3 percent",
+      "B": "5 percent",
+      "C": "8 percent",
+      "D": "1 percent",
+      "E": "10 percent"
+    },
+    "answer": "A",
+    "chapter": 17
+  },
+  {
+    "id": 1395,
+    "question": "Which one of the following is a direct, rather than an indirect, cost of financial distress?",
+    "options": {
+      "A": "Key employee leaving for another job due to concerns over job security given the company's financial status",
+      "B": "Loss of a key supplier due to late payments to that supplier",
+      "C": "Fees paid to financial advisors related to bankruptcy matters",
+      "D": "Loss of customers due to concerns the company will close",
+      "E": "Money spent to send a mailing to customers dispelling any and all financial distress concerns about the company"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1396,
+    "question": "Conflicts of interest between stockholders and bondholders are known as:",
+    "options": {
+      "A": "trustee costs.",
+      "B": "financial distress costs.",
+      "C": "dealer costs.",
+      "D": "agency costs.",
+      "E": "underwriting costs."
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1397,
+    "question": "One of the indirect costs of bankruptcy is the effect that a potential bankruptcy has on the firm's decisions. The general result is that:",
+    "options": {
+      "A": "the firm will rank all projects and select the project which results in the highest expected firm value.",
+      "B": "bondholders expropriate value from stockholders by selecting high-risk projects.",
+      "C": "stockholders expropriate value from bondholders by selecting high-risk projects.",
+      "D": "the firm will always select the lowest-risk project available.",
+      "E": "the firm will select only all-equity financed projects."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1398,
+    "question": "One of the indirect costs of bankruptcy is the incentive toward underinvestment. Underinvestment generally would result in:",
+    "options": {
+      "A": "the firm selecting all projects with positive NPVs.",
+      "B": "the firm turning down positive NPV projects that would clearly be accepted if the firm were all-equity financed.",
+      "C": "bondholders contributing the full amount of any new investment, but both stockholders and bondholders sharing in the benefits of those investments.",
+      "D": "shareholders making decisions based on the best interests of the bondholders.",
+      "E": "the firm accepting more projects than it would if the probability of bankruptcy was ignored."
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1399,
+    "question": "Which one of these best exemplifies \"milking the property\"?",
+    "options": {
+      "A": "A firm paying a premium to acquire a competitor",
+      "B": "A firm demanding a premium to be acquired without a proxy fight",
+      "C": "A firm with high financial distress paying additional dividends",
+      "D": "An all-equity firm repurchasing shares",
+      "E": "A firm with high financial distress using expected dividends to repay debt"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1400,
+    "question": "Shareholders sometimes pursue selfish strategies when financial distress is present. These actions generally result in:",
+    "options": {
+      "A": "no action by debtholders since these are shareholder concerns.",
+      "B": "agency costs to bondholders.",
+      "C": "investments with risks similar to those of the current firm.",
+      "D": "undertaking scale-enhancing projects.",
+      "E": "lower agency costs, as shareholders have more control over the firm's assets."
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1401,
+    "question": "Bondholders tend to offset the effects of selfish strategies implemented by shareholders by:",
+    "options": {
+      "A": "restructuring their loans to provide additional time to the firm to make repayment.",
+      "B": "subordinating their bankruptcy position to the shareholders.",
+      "C": "agreeing to reduce the outstanding principal balances on their loans.",
+      "D": "agreeing to reduce the interest rate on existing loans.",
+      "E": "increasing the interest rate on monies loaned to the firm."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1402,
+    "question": "Covenants restricting additional borrowings primarily protect the:",
+    "options": {
+      "A": "shareholders' residual interests in the firm.",
+      "B": "debtholders from the added risk of dilution of their claims.",
+      "C": "debtholders from changes in market interest rates.",
+      "D": "managers by avoiding agency costs.",
+      "E": "shareholders from agency costs."
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1403,
+    "question": "If a firm issues debt and includes protective covenants in the indenture then the firm's debt will probably be issued at ________ similar debt without the covenants.",
+    "options": {
+      "A": "a variable interest rate rather than the fixed rate paid on",
+      "B": "a lower interest rate than",
+      "C": "a significantly higher interest rate than",
+      "D": "an interest rate equal to that of",
+      "E": "a slightly higher interest rate than"
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1404,
+    "question": "Which one of these is most related to a positive covenant?",
+    "options": {
+      "A": "Limiting the amount of the firm's dividends",
+      "B": "Avoiding a merger while a debt remains unpaid",
+      "C": "Furnishing financial statements to the firm's lenders",
+      "D": "Not issuing any additional long-term debt",
+      "E": "Not selling any major assets without lender approval"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1405,
+    "question": "Suppose a potential bondholder requires an indenture agreement to include a limit on dividend distributions by the bond's issuer and also a restriction on the sale of the issuer's assets. In this case, the bondholder is most likely concerned about:",
+    "options": {
+      "A": "shareholder claims being diluted.",
+      "B": "shareholders claiming all of the residual profits of the firm.",
+      "C": "increasing interest rates.",
+      "D": "shareholders transferring firm assets to themselves.",
+      "E": "shareholders earning a higher return on their investment in the firm than the bondholders earn on their debt."
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1406,
+    "question": "Which one of these represents a difference between business entities in Japan and in the United States?",
+    "options": {
+      "A": "Lenders in Japan frequently also take ownership positions in firms to which they lend.",
+      "B": "Debt-equity ratios tend to be higher in the U.S. than they are in Japan.",
+      "C": "There tends to be greater agency issues between stockholders and bondholders in Japan as compared to the U.S.",
+      "D": "Bondholders in Japan are prohibited from also being shareholders in the same firm.",
+      "E": "The debt-equity ratios for firms in Japan and in the U.S. tend to be relatively equal."
+    },
+    "answer": "A",
+    "chapter": 17
+  },
+  {
+    "id": 1407,
+    "question": "Which one of these parties holds a marketable claim on a firm's assets?",
+    "options": {
+      "A": "Customers",
+      "B": "Employees",
+      "C": "Bondholders",
+      "D": "Internal Revenue Service",
+      "E": "State tax authorities"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1408,
+    "question": "The value of a firm is maximized when the:",
+    "options": {
+      "A": "cost of equity is maximized.",
+      "B": "tax rate is zero.",
+      "C": "levered cost of capital is maximized.",
+      "D": "weighted average cost of capital is minimized.",
+      "E": "debt-equity ratio is minimized."
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1409,
+    "question": "The optimal capital structure has been achieved when the:",
+    "options": {
+      "A": "debt-equity ratio is equal to 1.",
+      "B": "weight of equity is equal to the weight of debt.",
+      "C": "cost of equity is maximized given a pretax cost of debt.",
+      "D": "debt-equity ratio is such that the cost of debt exceeds the cost of equity.",
+      "E": "present value of the financial distress costs equals the present value of the tax shield on debt."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1410,
+    "question": "In a world with taxes and financial distress, when a firm is operating with the optimal capital structure the:",
+    "options": {
+      "A": "debt-equity ratio will be minimized.",
+      "B": "weighted average cost of capital will be maximized.",
+      "C": "firm will be all-equity financed.",
+      "D": "required return on assets will be at its maximum point.",
+      "E": "overall benefits of debt have all been realized."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1411,
+    "question": "The optimal capital structure of a firm ________ the marketable claims and ________ the nonmarketable claims against the cash flows of the firm.",
+    "options": {
+      "A": "minimizes; minimizes",
+      "B": "minimizes; maximizes",
+      "C": "maximizes; minimizes",
+      "D": "maximizes; maximizes",
+      "E": "equates; (leave blank)"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1412,
+    "question": "The MM theory with taxes implies that firms should issue maximum debt. In practice, this does not occur because:",
+    "options": {
+      "A": "debt is more risky than equity.",
+      "B": "bankruptcy is a disadvantage to debt.",
+      "C": "the weighted average cost of capital is inversely related to the debt-equity ratio.",
+      "D": "the weighted average cost of capital is directly related to the debt-equity ratio.",
+      "E": "U.S. regulations require the debt-equity ratio of publicly-traded firms to be in the range of .3 to .7."
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1413,
+    "question": "Assuming the interest on the debt is fully tax deductible, when firms issue more debt, the present value of the tax shield on debt ________ while the present value of the financial distress costs ________.",
+    "options": {
+      "A": "decreases; decreases",
+      "B": "increases; increases",
+      "C": "decreases; remains constant",
+      "D": "decreases; increases",
+      "E": "increases; remains constant"
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1414,
+    "question": "The Supply Depot is considering issuing $1 million in bonds but their financial staff has advised that if they do, the value of the firm will decrease. Given this advice, you know the staff believes the firm:",
+    "options": {
+      "A": "currently is all-equity financed and adding debt will cause a decrease in firm value.",
+      "B": "wants to issue too few bonds to obtain the most benefit from debt.",
+      "C": "will suffer from a decrease in its WACC if the bonds are issued.",
+      "D": "is at, or has exceeded, its optimal debt-equity ratio.",
+      "E": "will realize greater tax benefits by issuing equity securities."
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1415,
+    "question": "Which one of the following statements is true?",
+    "options": {
+      "A": "A firm with low anticipated profits will likely take on a high level of debt.",
+      "B": "A successful firm will probably be all-equity financed.",
+      "C": "Rational firms raise debt levels when profits are expected to decline.",
+      "D": "Rational investors are likely to infer a firm is more valuable when its debt level declines.",
+      "E": "Investors will generally view an increase in debt as a positive sign for the firm's future value."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1416,
+    "question": "A decrease in a firm's level of debt tends to imply:",
+    "options": {
+      "A": "an increase in the firm's market value.",
+      "B": "an increase in future dividend payouts.",
+      "C": "a decrease in the firm's stock price.",
+      "D": "a decrease in the firm's position within its industry.",
+      "E": "a decline in managerial efficiency."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1417,
+    "question": "Assume that for the next two weeks, the bondholders of Western Markets have the option of exchanging their bonds for common shares of the firm's stock. As a result of these exchanges, you should expect the firm's debt-equity ratio to:",
+    "options": {
+      "A": "decline and the stock's price to also decline.",
+      "B": "decline and the stock's price to remain constant.",
+      "C": "decline and the stock's price to increase.",
+      "D": "increase and the stock's price to increase.",
+      "E": "increase and the stock's price to remain constant."
+    },
+    "answer": "A",
+    "chapter": 17
+  },
+  {
+    "id": 1418,
+    "question": "The free cash flow hypothesis states that:",
+    "options": {
+      "A": "firms with greater free cash flow will pay higher dividends thereby reducing the risk of financial distress.",
+      "B": "firms with greater free cash flow should issue new equity to help minimize the wasting of resources by managers.",
+      "C": "issuing debt requires payments to creditors thereby reducing the ability of managers to waste resources.",
+      "D": "firms should reduce their debt levels as their level of free cash flow rises.",
+      "E": "firms with higher levels of free cash flow should reward their managers with bonuses."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1419,
+    "question": "Issuing debt instead of new equity in a closely held firm is most apt to cause:",
+    "options": {
+      "A": "the owner-manager to work less hard and shirk duties.",
+      "B": "the owner-manager to consume more perquisites because the cost is passed to the debtholders.",
+      "C": "both more shirking and perquisite consumption since the government provides a tax shield on debt.",
+      "D": "agency costs to fall as owner-managers do not need to worry about other shareholders.",
+      "E": "the owner-manager to reduce shirking and perquisite consumption."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1420,
+    "question": "The pecking order states that firms should:",
+    "options": {
+      "A": "use internal financing first.",
+      "B": "always issue debt so the market won't know when managers believe the stock is overvalued.",
+      "C": "issue new equity first.",
+      "D": "issue debt first.",
+      "E": "always issue equity to avoid financial distress costs."
+    },
+    "answer": "A",
+    "chapter": 17
+  },
+  {
+    "id": 1421,
+    "question": "According to the pecking-order theory, a firm's leverage ratio is determined by:",
+    "options": {
+      "A": "the value of the tax benefit of debt.",
+      "B": "equating the tax benefit of debt to the financial distress costs of debt.",
+      "C": "the firm's financing needs.",
+      "D": "the market rate of interest.",
+      "E": "the profitability of the firm."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1422,
+    "question": "Which one of the following is not implied by the pecking order theory?",
+    "options": {
+      "A": "Profitable firms tend to use less debt than unprofitable firms.",
+      "B": "Companies like having financial slack.",
+      "C": "Companies prefer to borrow up to the point where the financial distress costs offset the tax benefit of debt.",
+      "D": "There is no target debt-equity ratio for a firm.",
+      "E": "Firms tend to accumulate cash in anticipation of future projects."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1423,
+    "question": "The introduction of personal taxes may reveal a disadvantage to the use of corporate debt if the personal tax rate on:",
+    "options": {
+      "A": "the distribution of income to stockholders is less than the personal tax rate on interest income.",
+      "B": "the distribution of income to stockholders is greater than the personal tax rate on interest income.",
+      "C": "the distribution of income to stockholders is equal to the personal tax rate on interest income.",
+      "D": "interest income is zero.",
+      "E": "dividends and interest are equal."
+    },
+    "answer": "A",
+    "chapter": 17
+  },
+  {
+    "id": 1424,
+    "question": "Ignore financial distress costs. When [(1 − TC) × (1 − TS) = (1 − TB)], then firms:",
+    "options": {
+      "A": "should be all-equity financed.",
+      "B": "need to maintain a debt-equity ratio of .5.",
+      "C": "tend to be indifferent between issuing debt or issuing equity.",
+      "D": "discover that both dividends and interest payments are non-deductible business expenses.",
+      "E": "can reduce their taxes by increasing their dividend payouts."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1425,
+    "question": "Of these five U.S. industries, which one tends to have the highest level of debt as a percentage of the market value of debt plus equity?",
+    "options": {
+      "A": "Construction supplies",
+      "B": "Semiconductor",
+      "C": "Hotel/gaming",
+      "D": "Online retail",
+      "E": "Healthcare products"
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1426,
+    "question": "Studies have found that firms with large investments in tangible assets tend to have:",
+    "options": {
+      "A": "higher financial distress costs than firms with comparable investments in intangible assets.",
+      "B": "zero debt.",
+      "C": "higher target debt-equity ratios than firms that primarily invest in intangible assets.",
+      "D": "the highest financial distress costs of any firm per dollar of debt.",
+      "E": "the same capital structure as firms that specialize in intangible asset investments."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1427,
+    "question": "Which three factors are generally considered to be the most important when determining a target debt-equity ratio?",
+    "options": {
+      "A": "Taxes, asset types, and inflation rate",
+      "B": "Asset types, current operating income, and inflation rates",
+      "C": "Taxes, current operating income, and future operating income",
+      "D": "Taxes, asset types, and uncertainty of operating income",
+      "E": "Interest rates, inflation rates, and tax rates"
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1428,
+    "question": "Which one of the following is not empirically correct?",
+    "options": {
+      "A": "Some firms use no debt.",
+      "B": "The capital structure of a firm can vary significantly over time.",
+      "C": "Capital structures are fairly constant across industries.",
+      "D": "Debt levels across industries vary widely.",
+      "E": "Debt ratios in most countries are considerably less than 100 percent."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1429,
+    "question": "The optimal capital structure:",
+    "options": {
+      "A": "is identical for all firms in the same industry.",
+      "B": "will remain constant over time unless the firm makes an acquisition.",
+      "C": "of a particular firm can change if tax rates change.",
+      "D": "places more emphasis on the operations of a firm rather than the financing of a firm.",
+      "E": "is unaffected by changes in the financial markets."
+    },
+    "answer": "C",
+    "chapter": 17
+  },
+  {
+    "id": 1430,
+    "question": "Corporations in the U.S., as compared to other countries, tend to:",
+    "options": {
+      "A": "have a median leverage ratio that's equal to the average international median leverage ratio.",
+      "B": "underutilize debt.",
+      "C": "rely less on equity financing than they should.",
+      "D": "have extremely high debt-equity ratios.",
+      "E": "have relatively high leverage ratios due to the tax benefits gained."
+    },
+    "answer": "B",
+    "chapter": 17
+  },
+  {
+    "id": 1431,
+    "question": "In general, U.S. firms:",
+    "options": {
+      "A": "tend to overweigh debt in relation to equity.",
+      "B": "that are highly profitable tend to have lower target debt-equity ratios than unprofitable firms.",
+      "C": "tend to maintain similar capital structures across all industries.",
+      "D": "tend to maximize the use of every dollar of the tax benefits of debt.",
+      "E": "that are family-owned tend to have very low levels of debt."
+    },
+    "answer": "E",
+    "chapter": 17
+  },
+  {
+    "id": 1432,
+    "question": "Many firms base their actual capital structure decisions on which two factors?",
+    "options": {
+      "A": "Inflation and tax rates",
+      "B": "Interest and tax rates",
+      "C": "Need for financial slack and current interest rates",
+      "D": "Need for financial slack and industry averages",
+      "E": "Types of assets held and current interest rates"
+    },
+    "answer": "D",
+    "chapter": 17
+  },
+  {
+    "id": 1433,
+    "question": "The Wiz Co. owes $60 to its bondholders for the payment of principal and interest. The company expects to have a cash flow of $136 if the economy continues as it is but that cash flow will decrease to $54 if the economy enters a recession. Should the company ever face the real possibility of bankruptcy, it will incur legal and other fees of $30. What amount will the bondholders be paid in the case of a recession?",
+    "options": {
+      "A": "$30",
+      "B": "$60",
+      "C": "$54",
+      "D": "$24",
+      "E": "$0"
+    },
+    "answer": "D",
+    "explanation": "Bondholder payment = $54 − $30 Bondholder payment = $24",
+    "chapter": 17
+  },
+  {
+    "id": 1434,
+    "question": "TL Company has outstanding debt of $50 that is due in one year. However, given the financial distress costs, the debtholders will only receive $40 if the firm does well and $15 if it does poorly. The probability the firm will do well is 60 percent with the 40 percent probability assigned to poor conditions. What is the current value of the debt if the discount rate is 8 percent?",
+    "options": {
+      "A": "$27.78",
+      "B": "$27.50",
+      "C": "$30.00",
+      "D": "$26.67",
+      "E": "$28.40"
+    },
+    "answer": "A",
+    "explanation": "Debt value = [.6($40) + .4($15)]/1.08 Debt value = $27.78",
+    "chapter": 17
+  },
+  {
+    "id": 1435,
+    "question": "Assume CRT debtholders are promised payments in one year of $35 if the firm does well and $20 if the firm does poorly. There is a 50/50 chance of the firm doing well or poorly. If debtholders are willing to pay $25.50 today to purchase this debt, what is the promised return to those debtholders?",
+    "options": {
+      "A": "7.3 percent",
+      "B": "6.8 percent",
+      "C": "1.7 percent",
+      "D": "7.8 percent",
+      "E": "8.2 percent"
+    },
+    "answer": "D",
+    "explanation": "Expected return = [.5($35) + .5($20) − $25.50)]/$25.50 Expected return = .078, or 7.8%",
+    "chapter": 17
+  },
+  {
+    "id": 1436,
+    "question": "Adept Inc. is currently valued at $145,700 in a boom and $75,200 in a recession. The chance of either economic state occurring is 50 percent. The firm owes $85,000 to its debt holders. What is the value of the firm to the shareholders in a recession?",
+    "options": {
+      "A": "$22.50",
+      "B": "$55.00",
+      "C": "$27.50",
+      "D": "−$10.00",
+      "E": "$0"
+    },
+    "answer": "E",
+    "explanation": "Shareholder valueRecession = MAX[($75,200 − 85,000),0] Shareholder valueRecession = $0",
+    "chapter": 17
+  },
+  {
+    "id": 1437,
+    "question": "AZC Company is currently valued at $300 in a boom and $160 otherwise. The chance of a boom is 35 percent. What is the value of the firm to the shareholders if the firm owes $200 to its debtholders?",
+    "options": {
+      "A": "$0",
+      "B": "$35",
+      "C": "$27.50",
+      "D": "$209",
+      "E": "$9"
+    },
+    "answer": "B",
+    "explanation": "Shareholder value = .35MAX[($300 − 200),0] + (1 − .35)MAX[($160 − 200),0] Shareholder value = $35",
+    "chapter": 17
+  },
+  {
+    "id": 1438,
+    "question": "LDL Transport is subject to claims from four parties as follows: tax claims = $6,740; bondholder claims = $28,520; bankruptcy claims = $4,300; and shareholder claims = $33,190. What is the total value of the marketed claims?",
+    "options": {
+      "A": "$61,710",
+      "B": "$33,190",
+      "C": "$72,750",
+      "D": "$39,560",
+      "E": "$66,010"
+    },
+    "answer": "A",
+    "explanation": "Marketed claims = $28,520 + 33,190 Marketed claims = $61,710",
+    "chapter": 17
+  },
+  {
+    "id": 1439,
+    "question": "Mary owns 100 percent of a gift shop with an equity value of $150,000. If she keeps the shop open 5 days a week, EBIT is $75,000. If the shop remains open 6 days a week, EBIT increases to $92,000 annually. Mary needs an additional $50,000 which she can raise today by either selling stock or issuing debt at an interest rate of 7 percent. The principal amount would be repaid in equal annual payments at the end of the next five years. Ignore taxes. What will be the cash flow for the next year to Mary if she issues stock to another individual, remains open 6 days a week, and distributes all the residual cash flow to the shareholders?",
+    "options": {
+      "A": "$58,750",
+      "B": "$61,333",
+      "C": "$92,000",
+      "D": "$42,000",
+      "E": "$69,000"
+    },
+    "answer": "E",
+    "explanation": "Cash flow to Mary = $92,000[($150,000)/($150,000 + 50,000)] Cash flow to Mary = $69,000",
+    "chapter": 17
+  },
+  {
+    "id": 1440,
+    "question": "Mary owns 100 percent of a gift shop with an equity value of $150,000. If she keeps the shop open 5 days a week, EBIT is $75,000. If the shop remains open 6 days a week, EBIT increases to $92,000 annually. Mary needs an additional $50,000 which she can raise today by either selling stock or issuing debt at an interest rate of 7 percent. The principal amount would be repaid in equal annual payments at the end of the next five years. Ignore taxes. What will be the cash flow for the year to Mary if she issues debt, remains open 5 days a week, and distributes all the residual cash flow to the shareholders?",
+    "options": {
+      "A": "$46,125",
+      "B": "$61,500",
+      "C": "$65,000",
+      "D": "$71,500",
+      "E": "$67,880"
+    },
+    "answer": "B",
+    "explanation": "Cash flow to Mary = $75,000 − .07($50,000) − $10,000 Cash flow to Mary = $61,500",
+    "chapter": 17
+  },
+  {
+    "id": 1441,
+    "question": "Mary owns 100 percent of a gift shop with an equity value of $150,000. If she keeps the shop open 5 days a week, EBIT is $75,000. If the shop remains open 6 days a week, EBIT increases to $92,000 annually. Mary needs an additional $50,000 which she can raise today by either selling stock or issuing debt at an interest rate of 7 percent. The principal amount would be repaid in equal annual payments at the end of the next five years. Ignore taxes. What will be the cash flow for the next year to Mary if she issues stock to another individual, remains open 5 days a week, and distributes all the residual cash flow to the shareholders?",
+    "options": {
+      "A": "$92,000",
+      "B": "$61,333",
+      "C": "$69,000",
+      "D": "$42,000",
+      "E": "$56,250"
+    },
+    "answer": "E",
+    "explanation": "Cash flow to Mary = $75,000[($150,000)/($150,000 + 50,000)] Cash flow to Mary = $56,250",
+    "chapter": 17
+  },
+  {
+    "id": 1442,
+    "question": "Mary owns 100 percent of a gift shop with an equity value of $150,000. If she keeps the shop open 5 days a week, EBIT is $75,000. If the shop remains open 6 days a week, EBIT increases to $92,000 annually. Mary needs an additional $50,000 which she can raise today by either selling stock or issuing debt at an interest rate of 7 percent. The principal amount would be repaid at the end of the fifth year. Ignore taxes. What will be the cash flow for this year to Mary if she issues debt, remains open 6 days a week, and distributes all the residual cash flow to the shareholders?",
+    "options": {
+      "A": "$46,125",
+      "B": "$88,500",
+      "C": "$65,000",
+      "D": "$71,500",
+      "E": "$81,500"
+    },
+    "answer": "B",
+    "explanation": "Cash flow to Mary = $92,000 − .07($50,000) Cash flow to Mary = $88,500",
+    "chapter": 17
+  },
+  {
+    "id": 1443,
+    "question": "Allison's requires $180,000 to fund a new project next year. The firm expects to earn excess cash of $68,000 this year after all expenses, taxes, and dividends are paid. The firm can borrow up to $150,000 at 6.5 percent interest for up to ten years or, it can issue up to 25,000 new shares of stock that will have an estimated value of $35 a share at the end of this year. According to the pecking-order theory, how much will the firm raise in new equity capital to fund this project?",
+    "options": {
+      "A": "$0",
+      "B": "$30,000",
+      "C": "$112,000",
+      "D": "$90,000",
+      "E": "$180,000"
+    },
+    "answer": "A",
+    "explanation": "New equity capital = MAX[($180,000 − 68,000 − 150,000),0] New equity capital = $0",
+    "chapter": 17
+  },
+  {
+    "id": 1444,
+    "question": "Assume the corporate tax rate is 22 percent, the personal tax rate on interest income is 15 percent, and the personal tax rate on dividends is 10 percent. Also assume the firm earns $5 per share in taxable income and pays out 40 percent of its earnings. How much will a shareholder receive per share in aftertax income?",
+    "options": {
+      "A": "$1.470",
+      "B": "$1.782",
+      "C": "$1.096",
+      "D": "$1.232",
+      "E": "$1.404"
+    },
+    "answer": "E",
+    "explanation": "Aftertax income = $5(.40)(1 − .22)(1 − .10) Aftertax income = $1.404",
+    "chapter": 17
+  },
+  {
+    "id": 1445,
+    "question": "Assume BJ Companies is indifferent between issuing equity and issuing debt. Assume the corporate tax rate is 21 percent and dividends are taxed at the personal level at 20 percent. What is the personal tax on interest income?",
+    "options": {
+      "A": "20 percent",
+      "B": "42 percent",
+      "C": "40 percent",
+      "D": "14 percent",
+      "E": "37 percent"
+    },
+    "answer": "E",
+    "explanation": "(1 − TB) = (1 − TC)(1 − TS) (1 − TB) = (1 − .21)(1 − .20) TB = .37, or 37%",
+    "chapter": 17
+  },
+  {
+    "id": 1446,
+    "question": "The All-Mine Corporation is deciding whether to invest in a new one-year project. The project would have to be financed by equity, the cost is $2,000, and the return will be a guaranteed $2,500 in one year. The discount rate for both bonds and stock is 15 percent and the tax rate is zero. The predicted cash flows excluding this new project are $4,500 in a good economy, $3,000 in an average economy, and $1,000 in a poor economy. Each economic outcome is equally likely to occur and the promised debt repayment is $3,000. Should the company take the project? What is the value of the firm and its debt and equity components before and after the project addition? Answer: Values prior to the new project: Good Average Poor Firm's cash flow $ 4,500 $ 3,000 $ 1,000 Debt claim 3,000 3,000 1,000 Equity claim 1,500 0 0 Value of debt = [($3,000 + 3,000 + 1,000)/3]/1.15 Value of debt = $2,028.99 Value of equity = [($1,500 + 0 + 0)/3]/1.15 Value of equity = $434.78 Values with the new project: Good Average Poor Firm's cash flow $ 7,000 $ 5,500 $ 3,500 Debt claim 3,000 3,000 3,000 Equity claim 4,000 2,500 500 Value of debt = [($3,000 + 3,000 + 3,000)/3]/1.15 Value of debt = $2,608.70 Value of equity = [($4,000 + 2,500 + 500)/3]/1.15 Value of equity = $2,028.99 Changes in value: With project Without project Difference Debt $ 2,608.70 $ 2,028.99 $",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1447,
+    "question": "71 Equity 2,028.99",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1448,
+    "question": "78 1,594.21 NPV to shareholders = $1,594.21 − 2,000 NPV to shareholders = −$405.79 If the firm keeps shareholder value as it primary goal, which it should, then the firm should reject the project as it has a negative NPV for the shareholders. Difficulty: 2 Medium Section: 17.2 Description of Financial Distress Costs Topic: Agency costs and problems Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 25 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1449,
+    "question": "Wigdor Manufacturing is currently all-equity financed, has an EBIT of $2 million and has a corporate tax rate of 21 percent. Louis, the company's founder, is the lone shareholder. All earnings are paid out as dividends to Louis. If the firm were to convert $4 million of equity into debt at a cost of 10 percent, what would be the total cash flow from the firm to Louis if he holds all the debt? Compare this to Louis' total cash flow if the firm remains unlevered. Answer: Unlevered Levered EBIT $ 2,000,000 $ 2,000,000 Interest 0 −400,000 EBT $ 2,000,000 $ 1,600,000 Taxes (21%) −420,000 −336,000 Aftertax earnings = Dividends $ 1,580,000 $ 1,264,000 Interest income to Louis 0 400,000 Total cash flow to Louis $ 1,580,000 $ 1,664,000 Difficulty: 2 Medium Section: 17.4 Integration of Tax Effects and Financial Distress Costs Topic: Tax effects on dividends and payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1450,
+    "question": "What is the pecking order theory and what are the implications that arise from this theory? Answer: The pecking order theory states that firms should first use internal financing, which includes retained earnings. If the firm then requires external financing, it should issue the safer securities, such as debt, first. The implications of this theory are: ∙ There is no target amount of leverage. ∙ Profitable firms use less debt. ∙ Companies like financial slack. Difficulty: 2 Medium Section: 17.7 The Pecking-Order Theory Topic: Pecking-order theory Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 26 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1451,
+    "question": "Wigdor Manufacturing is currently all-equity financed, has an EBIT of $2 million and has a corporate tax rate of 21 percent. Louis, the company's founder, is the lone shareholder. All earnings are paid out as dividends to Louis. If the firm were to convert $4 million of equity into debt, the cost would be 10 percent and Louis would hold all the debt. Assume Louis pays personal taxes on interest income at a rate of 37 percent but pays taxes on dividends at a rate of 20 percent. Calculate the total cash flow to Louis after he pays personal taxes if the firm is unlevered and if it is levered. Answer: Firm: Unlevered Levered EBIT $ 2,000,000 $ 2,000,000 Interest 0 −400,000 EBT $ 2,000,000 $ 1,600,000 Taxes (21%) −420,000 −336,000 Aftertax earnings = Dividends $ 1,580,000 $ 1,264,000 Louis: Dividend income $ 1,58,000 1,264,000 Tax on dividends (20%) −316,000 −252,800 Interest income 0 400,000 Tax on interest (37%) 0 −148,000 Total aftertax cash flow to Louis $ 1,264,000 $ 1,263,200 Difficulty: 2 Medium Section: 17.8 Personal Taxes Topic: Tax effects on dividends and payouts Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1452,
+    "question": "Is there an easily quantifiable debt-equity ratio that will maximize the value of a firm? Why or why not? Answer: In a world with taxes, economic uncertainty, and financial distress costs, there are both benefits and costs to higher debt loads but there is no way to target exactly what the ideal capital structure should be. Difficulty: 2 Medium Section: 17.9 How Firms Establish Capital Structure Topic: Capital structure and firm valuation Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 27 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  },
+  {
+    "id": 1453,
+    "question": "Describe some of the sources of business risk and financial risk. Do financial decision makers have the ability to \"trade off\" one type of risk for another type of risk? Answer: Some of the observed variations in capital structures across industries reflect the differences in the nature of the industries themselves, i.e., business risk. Similarly, intuition would suggest that firms with large capital requirements and stable cash flows (e.g., electric utilities) are more likely to be willing to raise funds via large amounts of borrowing (financial risk). Alternatively, firms with lower tangible asset needs and highly uncertain cash flows (e.g., small software companies) are more likely to employ equity. Thus, firms with lower business risk may tend to accept higher levels of financial risk and vice versa. Thus, firms can and do trade off financial and business risks. Difficulty: 2 Medium Section: 17.9 How Firms Establish Capital Structure Topic: Capital structure observations Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 17
+  }
+]

@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 2281,
+    "question": "One company wishes to acquire another. Which one of the following does not require a formal vote by the shareholders of the acquired firm?",
+    "options": {
+      "A": "A merger",
+      "B": "An acquisition of stock",
+      "C": "A horizontal acquisition of assets",
+      "D": "A consolidation",
+      "E": "A vertical acquisition of assets"
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2282,
+    "question": "Firm A and Firm B join to create Firm AB. This is an example of:",
+    "options": {
+      "A": "a tender offer.",
+      "B": "an acquisition of assets.",
+      "C": "an acquisition of stock.",
+      "D": "a consolidation.",
+      "E": "a merger."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2283,
+    "question": "Suppose that Ford and General Motors were to merge. Ignoring potential antitrust problems, this merger would be classified as a(n):",
+    "options": {
+      "A": "horizontal merger.",
+      "B": "vertical merger.",
+      "C": "conglomerate merger.",
+      "D": "tax inversion merger.",
+      "E": "equity carve-out merger."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2284,
+    "question": "Suppose that General Motors makes an offer to acquire General Mills. Ignoring potential antitrust problems, this merger would be classified as a:",
+    "options": {
+      "A": "monopolistic merger.",
+      "B": "horizontal merger.",
+      "C": "vertical merger.",
+      "D": "conglomerate merger.",
+      "E": "equity carve-out merger."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2285,
+    "question": "Suppose that Arby's acquired a meat packing house. This merger would be classified as a:",
+    "options": {
+      "A": "monopolistic merger.",
+      "B": "vertical merger.",
+      "C": "conglomerate merger.",
+      "D": "horizontal merger.",
+      "E": "spin off."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2286,
+    "question": "A dissident group solicits votes in an attempt to replace existing management. This is called a:",
+    "options": {
+      "A": "tender offer.",
+      "B": "shareholder derivative action.",
+      "C": "proxy contest.",
+      "D": "management freeze-out.",
+      "E": "shareholder's revenge."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2287,
+    "question": "If the All-Star Fuel Filling Company, a chain of gasoline stations, acquires the Mid-States Refining Company, a refiner of oil products, this would be an example of a:",
+    "options": {
+      "A": "conglomerate acquisition.",
+      "B": "white knight.",
+      "C": "vertical acquisition.",
+      "D": "going-private transaction.",
+      "E": "horizontal acquisition."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2288,
+    "question": "When the officers of a firm purchase all the equity shares and the shares of the firm are delisted and no longer publicly available, this action is known as a(n):",
+    "options": {
+      "A": "consolidation.",
+      "B": "vertical acquisition.",
+      "C": "proxy contest.",
+      "D": "going-private transaction.",
+      "E": "equity carve-out."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2289,
+    "question": "A business deal in which all publicly owned stock in a firm is replaced with complete equity ownership by a private group is called a:",
+    "options": {
+      "A": "tender offer.",
+      "B": "proxy contest.",
+      "C": "going-private transaction.",
+      "D": "acquisition.",
+      "E": "consolidation."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2290,
+    "question": "The complete absorption of one company by another, wherein the acquiring firm retains its identity and the acquired firm ceases to exist as a separate entity, is called a:",
+    "options": {
+      "A": "merger.",
+      "B": "consolidation.",
+      "C": "tender offer.",
+      "D": "spinoff.",
+      "E": "divestiture."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2291,
+    "question": "A merger in which an entirely new firm is created and both the acquired and acquiring firms cease to exist is called a:",
+    "options": {
+      "A": "divestiture.",
+      "B": "consolidation.",
+      "C": "tender offer.",
+      "D": "spinoff.",
+      "E": "conglomeration."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2292,
+    "question": "A public offer by one firm to directly buy the shares of another firm is called a:",
+    "options": {
+      "A": "merger.",
+      "B": "consolidation.",
+      "C": "tender offer.",
+      "D": "spinoff.",
+      "E": "divestiture."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2293,
+    "question": "The acquisition of a firm in the same industry as the bidder is called a ________ acquisition.",
+    "options": {
+      "A": "conglomerate",
+      "B": "forward",
+      "C": "backward",
+      "D": "horizontal",
+      "E": "vertical"
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2294,
+    "question": "The acquisition of a firm involved with a different production process stage than the bidder is called a ________ acquisition.",
+    "options": {
+      "A": "conglomerate",
+      "B": "forward",
+      "C": "backward",
+      "D": "horizontal",
+      "E": "vertical"
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2295,
+    "question": "The acquisition of a firm whose business is not related to that of the bidder is called a ________ acquisition.",
+    "options": {
+      "A": "conglomerate",
+      "B": "forward",
+      "C": "backward",
+      "D": "horizontal",
+      "E": "vertical"
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2296,
+    "question": "An attempt to gain control of a firm by soliciting a sufficient number of stockholder votes to replace the current board of directors is called a:",
+    "options": {
+      "A": "tender offer.",
+      "B": "proxy contest.",
+      "C": "going-private transaction.",
+      "D": "leveraged buyout.",
+      "E": "consolidation."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2297,
+    "question": "Which one of the following statements concerning mergers and acquisitions is correct?",
+    "options": {
+      "A": "Generally, two-thirds of the shareholders in each firm must approve a merger.",
+      "B": "Acquisitions always result in at least one firm being dissolved.",
+      "C": "The net present value of an acquisition should have no bearing on whether or not the acquisition occurs.",
+      "D": "Acquisitions of assets are generally quite simple and inexpensive from a legal and accounting perspective.",
+      "E": "At least one-half of the shareholders must vote to approve an acquisition of stock."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2298,
+    "question": "In a merger the:",
+    "options": {
+      "A": "legal status of both the acquiring firm and the target firm is terminated.",
+      "B": "acquiring firm retains its name and legal status.",
+      "C": "acquiring firm acquires the assets but not the liabilities of the target firm.",
+      "D": "stockholders of the target firm have little, if any, say as to whether or not the merger occurs.",
+      "E": "target firm always continues to exist as a subsidiary of the acquiring firm."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2299,
+    "question": "When a building supply store acquires a lumber mill it is making a ________ acquisition.",
+    "options": {
+      "A": "horizontal",
+      "B": "longitudinal",
+      "C": "conglomerate",
+      "D": "vertical",
+      "E": "complementary resources"
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2300,
+    "question": "If Microsoft were to acquire an airline, the acquisition would be classified as a ________ acquisition.",
+    "options": {
+      "A": "horizontal",
+      "B": "longitudinal",
+      "C": "conglomerate",
+      "D": "vertical",
+      "E": "complementary resources"
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2301,
+    "question": "Which one of the following combinations of firms would benefit the most through the use of complementary resources?",
+    "options": {
+      "A": "A ski resort and a travel trailer sales outlet",
+      "B": "A golf resort and a ski resort",
+      "C": "A hotel and a home improvement center",
+      "D": "A swimming pool distributor and a kitchen designer",
+      "E": "A fast food restaurant and a dry cleaner"
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2302,
+    "question": "Which one of the following is most likely a good candidate for an acquisition that could benefit from the use of complementary resources?",
+    "options": {
+      "A": "A sports arena that is home only to an indoor hockey team",
+      "B": "A hotel in a busy downtown business district of a major city",
+      "C": "A day care center located near a major route into the main business district of a large city",
+      "D": "An amusement park located in a centralized Florida location",
+      "E": "A fast food restaurant located near a major transportation hub"
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2303,
+    "question": "The value of a target firm to the acquiring firm is equal to the:",
+    "options": {
+      "A": "value of the target firm as a separate entity plus the synergy derived from the acquisition.",
+      "B": "purchase cost of the target firm.",
+      "C": "value of the merged firm minus the value of the target firm as a separate entity.",
+      "D": "purchase cost plus the incremental value derived from the acquisition.",
+      "E": "incremental value derived from the acquisition."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2304,
+    "question": "The positive incremental net gain associated with the combination of two firms through a merger or acquisition is called:",
+    "options": {
+      "A": "the agency conflict.",
+      "B": "goodwill.",
+      "C": "the merger cost.",
+      "D": "the consolidation effect.",
+      "E": "synergy."
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2305,
+    "question": "All the following represent potential gains from an acquisition except:",
+    "options": {
+      "A": "the replacement of ineffective managers.",
+      "B": "lower costs per unit produced.",
+      "C": "an increase in production size such that diseconomies of scale are realized.",
+      "D": "increased asset utilization.",
+      "E": "spreading of overhead costs."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2306,
+    "question": "The shareholders of a target firm benefit the most when:",
+    "options": {
+      "A": "an acquiring firm has the better management team and replaces the target firm's managers.",
+      "B": "the management of the target firm is more efficient than the management of the acquiring firm which replaces them.",
+      "C": "the management of both the acquiring firm and the target firm are as equivalent as possible.",
+      "D": "their current management team is kept in place even though the managers of the acquiring firm are more suited to manage the target firm's situation.",
+      "E": "their management team is technologically knowledgeable yet ineffective."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2307,
+    "question": "A proposed acquisition may create synergy by doing all the following except:",
+    "options": {
+      "A": "increasing the market power of the combined firm.",
+      "B": "improving the distribution network of the acquiring firm.",
+      "C": "reducing the acquiring firm's distribution costs.",
+      "D": "reducing the utilization of the acquiring firm's assets.",
+      "E": "providing the combined firm with a strategic advantage."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2308,
+    "question": "________ can provide a potential tax gain from an acquisition.",
+    "options": {
+      "A": "A reduction in the level of debt",
+      "B": "An increase in surplus funds",
+      "C": "The combining of multi-state operations",
+      "D": "A decreased use of leverage",
+      "E": "Increased diseconomies of scale"
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2309,
+    "question": "A key reason for acquisitions is synergy. Synergy includes all the following except:",
+    "options": {
+      "A": "revenue enhancements.",
+      "B": "cost reductions.",
+      "C": "increased debt capacity.",
+      "D": "decreased cash flows.",
+      "E": "increased efficiency."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2310,
+    "question": "Assume two firms are at their maximum level of debt. How can a merger between these firms create synergy based on debt capacity?",
+    "options": {
+      "A": "By increasing firm size",
+      "B": "By lowering risk",
+      "C": "By lowering taxes",
+      "D": "By lowering the tax shield",
+      "E": "They can't."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2311,
+    "question": "Assume a well-established firm is operating at high levels of efficiency and profitability. A group of recent college grads recently opened a new firm in the same industry. The well- established firm might be interested in acquiring the new firm primarily to:",
+    "options": {
+      "A": "reduce economies of scale.",
+      "B": "use the established firm's tax losses.",
+      "C": "transfer technology knowledge.",
+      "D": "obtain the new firm's surplus funds.",
+      "E": "control the production of purchased component parts."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2312,
+    "question": "The IRS is most apt to disallow an acquisition if it:",
+    "options": {
+      "A": "moves the foreign operations of the acquired firm to the U.S.",
+      "B": "is totally financed with debt.",
+      "C": "is designed primarily to reduce federal taxes.",
+      "D": "is designed to transfer technology in a tax-free transfer.",
+      "E": "allows shareholders to avoid currently realizing their gains from a stock acquisition."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2313,
+    "question": "If an acquisition does not create value, then the:",
+    "options": {
+      "A": "earnings per share of the acquiring firm must be the same both before and after the acquisition.",
+      "B": "earnings per share can change but the stock price of the acquiring company should remain constant.",
+      "C": "price per share of the acquiring company should increase because of the growth of the firm.",
+      "D": "earnings per share will most likely increase while the price-earnings ratio remains constant.",
+      "E": "price-earnings ratio should remain constant regardless of any changes in the earnings per share."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2314,
+    "question": "For the acquiring firm, diversification:",
+    "options": {
+      "A": "will automatically produce gains.",
+      "B": "will reduce both risk and debt capacity.",
+      "C": "may or may not provide financial benefits.",
+      "D": "will provide risk reduction for all shareholders' portfolios.",
+      "E": "may result in a risk-free firm."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2315,
+    "question": "Assume a merger of two levered firms produced no synergy. In this case, the:",
+    "options": {
+      "A": "acquiring firm's shareholders would neither gain nor lose any value.",
+      "B": "bondholders would probably benefit at shareholders' expense.",
+      "C": "diversification effect would only benefit the acquired firm's shareholders.",
+      "D": "combined shareholders would benefit at the expense of all debt holders.",
+      "E": "shareholders and bondholders would fail to realize any benefits or losses."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2316,
+    "question": "Assume a merger of two unlevered firms produced no synergy. In this case:",
+    "options": {
+      "A": "the acquiring firm's shareholders would gain while the acquired firm's shareholders would lose.",
+      "B": "the shareholders of both firms would realize equal gains.",
+      "C": "the diversification effect would only benefit the acquired firm's shareholders.",
+      "D": "the acquired firm's shareholders would gain at the expense of the acquiring firm's shareholders.",
+      "E": "all shareholders would fail to realize any benefits."
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2317,
+    "question": "In a merger or acquisition, a firm should be acquired if it:",
+    "options": {
+      "A": "generates a positive net present value to the shareholders of the acquiring firm.",
+      "B": "is a firm in the same line of business in which the acquirer has expertise.",
+      "C": "is a firm in a totally different line of business which will diversify the firm.",
+      "D": "pays a large dividend which will provide a cash pass through to the acquirer.",
+      "E": "increases the firm's market share."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2318,
+    "question": "When evaluating an acquisition, you should:",
+    "options": {
+      "A": "concentrate on book values and ignore market values.",
+      "B": "focus on the total cash flows of the merged firm.",
+      "C": "include synergies.",
+      "D": "ignore any one-time acquisition fees or transaction costs.",
+      "E": "ignore any potential changes in management."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2319,
+    "question": "The Williams Act requires Schedule 13D be filed with the SEC within ________ days of obtaining a ________ percent holding in a target firm's stock.",
+    "options": {
+      "A": "5; 10",
+      "B": "10; 5",
+      "C": "15; 5",
+      "D": "5; 15",
+      "E": "15; 10"
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2320,
+    "question": "A tender offer generally offers a price that is ________ the current market price for a ________ number of shares.",
+    "options": {
+      "A": "equal to; minimum",
+      "B": "above; minimum",
+      "C": "above; maximum",
+      "D": "below; maximum",
+      "E": "equal to; maximum"
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2321,
+    "question": "Assume an acquiring firm obtained control of a target firm through a tender offer. This group is now proposing a merger that is generally referred to as a:",
+    "options": {
+      "A": "proxy fight.",
+      "B": "street sweep.",
+      "C": "waning motion.",
+      "D": "toehold.",
+      "E": "cleanup merger."
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2322,
+    "question": "A change in the corporate charter making it more difficult for the firm to be acquired by increasing the percentage of shareholders that must approve a merger offer is called a:",
+    "options": {
+      "A": "supermajority amendment.",
+      "B": "standstill agreement.",
+      "C": "greenmail provision.",
+      "D": "poison pill amendment.",
+      "E": "white knight provision."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2323,
+    "question": "Assume Uptown Markets just made a tender offer to purchase shares of its own stock. This offer was made to all its shareholders except for the largest outside shareholder. This offer is referred to as a(n):",
+    "options": {
+      "A": "limited recapitalization.",
+      "B": "white knight offer.",
+      "C": "exclusionary self-tender.",
+      "D": "asset restructuring.",
+      "E": "greenmail offer."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2324,
+    "question": "A contract wherein the bidding firm agrees to limit its holdings in the target firm is called a:",
+    "options": {
+      "A": "supermajority amendment.",
+      "B": "standstill agreement.",
+      "C": "greenmail provision.",
+      "D": "poison pill amendment.",
+      "E": "white knight provision."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2325,
+    "question": "The payments made by a firm to repurchase shares of its outstanding stock from an individual investor in an attempt to eliminate a potentially unfriendly takeover attempt are referred to as:",
+    "options": {
+      "A": "a golden parachute.",
+      "B": "standstill payments.",
+      "C": "greenmail.",
+      "D": "a poison pill.",
+      "E": "a white knight."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2326,
+    "question": "A tactic designed to make unfriendly takeover attempts financially unappealing, if not impossible, is called:",
+    "options": {
+      "A": "a golden parachute.",
+      "B": "a standstill agreement.",
+      "C": "greenmail.",
+      "D": "a poison pill.",
+      "E": "a white knight."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2327,
+    "question": "Generous compensation packages paid to a firm's top managers in the event of a takeover are referred to as:",
+    "options": {
+      "A": "golden parachutes.",
+      "B": "poison puts.",
+      "C": "white knights.",
+      "D": "shark repellents.",
+      "E": "bear hugs."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2328,
+    "question": "A friendly suitor that a target firm turns to as an alternative to a hostile bidder is called a:",
+    "options": {
+      "A": "golden suitor.",
+      "B": "poison put.",
+      "C": "white knight.",
+      "D": "shark repellent.",
+      "E": "crown jewel."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2329,
+    "question": "A classified board is:",
+    "options": {
+      "A": "a communication network that identifies firms that are willing to be acquired",
+      "B": "the inclusion a super majority provision to prevent a small number of directors from exerting total control over the board's decisions.",
+      "C": "a board where only a portion of the directors are elected in any one year.",
+      "D": "a communication network that distributes resumes for potential board candidates.",
+      "E": "a listing of criteria that a firm is seeking for a targeted purchase."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2330,
+    "question": "All the following will tend to discourage a takeover except:",
+    "options": {
+      "A": "a supermajority provision.",
+      "B": "the hoarding of cash.",
+      "C": "an exclusionary self-tender offer.",
+      "D": "a leveraged recapitalization.",
+      "E": "the divestiture of key assets."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2331,
+    "question": "In a tax-free acquisition, the shareholders of the target firm:",
+    "options": {
+      "A": "receive income that is considered to be tax-exempt.",
+      "B": "gift their shares to a tax-exempt organization and therefore have no taxable gain.",
+      "C": "are viewed as having exchanged their shares.",
+      "D": "sell their shares to a qualifying entity thereby avoiding both income and capital gains taxes.",
+      "E": "sell their shares at cost thereby avoiding the capital gains tax."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2332,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "A": "If an acquisition is made with cash, then the cost of that acquisition is dependent upon the acquisition gains.",
+      "B": "Acquisitions made by exchanging shares of stock are normally taxable transactions.",
+      "C": "Shareholders of the acquired firm must immediately realize capital gains/losses in a cash acquisition.",
+      "D": "Shareholders of the acquired firm are generally indifferent between a cash or a stock transaction.",
+      "E": "Acquisitions based on legitimate business purposes are not taxable transactions regardless of the means of financing used."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2333,
+    "question": "In a taxable transaction:",
+    "options": {
+      "A": "the acquiring firm has no immediate tax effects but gains valuable future depreciation tax benefits on the marked up assets.",
+      "B": "the shareholders of both firms realize immediate capital gains.",
+      "C": "acquiring firms generally do not write up the assets of the acquired firm.",
+      "D": "the assets of both the acquiring and acquired firms are written up to their current market values.",
+      "E": "shares of the acquiring firm are exchanged for the target firm's shares."
+    },
+    "answer": "C",
+    "chapter": 29
+  },
+  {
+    "id": 2334,
+    "question": "The purchase accounting method for mergers requires that:",
+    "options": {
+      "A": "the excess of the purchase price over the fair market value of the target firm be recorded as a one-time expense on the income statement of the acquiring firm.",
+      "B": "goodwill be amortized on a yearly basis.",
+      "C": "the equity of the acquiring firm be reduced by the excess of the purchase price over the fair market value of the target firm.",
+      "D": "the assets of the acquired firm be recorded at their fair market value on the balance sheet of the acquiring firm.",
+      "E": "the excess amount paid for the target firm be recorded as a tangible asset on the books of the acquiring firm."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2335,
+    "question": "A going-private transaction in which a large percentage of the money used to buy the outstanding stock is borrowed is called a:",
+    "options": {
+      "A": "tender offer.",
+      "B": "proxy contest.",
+      "C": "merger.",
+      "D": "leveraged buyout.",
+      "E": "consolidation."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2336,
+    "question": "The two sources of value created by an LBO are:",
+    "options": {
+      "A": "the tax benefit of debt and increased sales.",
+      "B": "lower tax and interest payments.",
+      "C": "lower interest expenses and increased efficiency.",
+      "D": "increased efficiency and the interest tax shield.",
+      "E": "lower taxes and lower dividends."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2337,
+    "question": "The sale of stock in a wholly owned subsidiary via an initial public offering is referred to as a(n):",
+    "options": {
+      "A": "split-up.",
+      "B": "carve-out.",
+      "C": "counter-tender offer.",
+      "D": "white knight gift.",
+      "E": "spin-off."
+    },
+    "answer": "B",
+    "chapter": 29
+  },
+  {
+    "id": 2338,
+    "question": "Which one of these is least associated with takeovers?",
+    "options": {
+      "A": "Leveraged buyouts",
+      "B": "Management buyouts",
+      "C": "Proxy contests",
+      "D": "Acquisition of assets",
+      "E": "Spin-offs"
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2339,
+    "question": "A firm may want to divest itself of some of its assets for all the following reasons except to:",
+    "options": {
+      "A": "raise cash.",
+      "B": "eliminate unprofitable operations.",
+      "C": "eliminate some recently acquired assets.",
+      "D": "cash in on profitable operations.",
+      "E": "eliminate some synergy."
+    },
+    "answer": "E",
+    "chapter": 29
+  },
+  {
+    "id": 2340,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "A": "A carve-out generates cash for the parent firm.",
+      "B": "A split-up frequently follows a spin-off.",
+      "C": "A carve-out is a specific type of acquisition.",
+      "D": "A spin-off involves an initial public offering.",
+      "E": "A divestiture means that the original firm ceases to exist."
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2341,
+    "question": "The distribution of shares in a subsidiary to existing parent company stockholders is called a(n):",
+    "options": {
+      "A": "lockup transaction.",
+      "B": "bear hug.",
+      "C": "equity carve-out.",
+      "D": "spin-off.",
+      "E": "split-up."
+    },
+    "answer": "D",
+    "chapter": 29
+  },
+  {
+    "id": 2342,
+    "question": "Firm V has a market value of $450 and Firm A has a market value of $375. If the two firms merged their estimated combined value is $900. What is the synergy of the merger?",
+    "options": {
+      "A": "$50",
+      "B": "$75",
+      "C": "$25",
+      "D": "$20",
+      "E": "$40"
+    },
+    "answer": "B",
+    "explanation": "Synergy = $900 − ($450 + 375) Synergy = $75",
+    "chapter": 29
+  },
+  {
+    "id": 2343,
+    "question": "Herbal Gardens has a market value of $380 while Veggies has a market value of $530. Veggies is merging with Herbal Gardens and expects the combined firm to have a market value of $950. If the current Herbal Garden shareholders obtain $400 of equity in the new firm, how much synergy was allocated to the Veggies shareholders?",
+    "options": {
+      "A": "$0",
+      "B": "$20",
+      "C": "$25",
+      "D": "$15",
+      "E": "$40"
+    },
+    "answer": "B",
+    "explanation": "Synergy = $950 − ($380 + 530) Synergy = $40 Synergy allocated to Veggies' shareholders = $40 − ($400 − 380) Synergy allocated to Veggies' shareholders = $20",
+    "chapter": 29
+  },
+  {
+    "id": 2344,
+    "question": "Firm A is planning on merging with Firm B. Firm A will pay Firm B's stockholders the current value of their stock in shares of Firm A because no synergy will be created. Firm A currently has 3,000 shares of stock outstanding at a market price of $15 a share. Firm B has 1,000 shares outstanding at a price of $10 a share. What is the value of the merged firm?",
+    "options": {
+      "A": "$25,000",
+      "B": "$45,000",
+      "C": "$55,000",
+      "D": "$60,000",
+      "E": "$50,000"
+    },
+    "answer": "C",
+    "explanation": "Value of merged firm = 3,000($15) + 1,000($10) Value of merged firm = $55,000",
+    "chapter": 29
+  },
+  {
+    "id": 2345,
+    "question": "Firm A is planning on merging with Firm B. Firm A will pay Firm B's stockholders the current value of their stock plus $120, which equals one-half of the synergy, in shares of Firm A. Firm A currently has 4,000 shares of stock outstanding at a market price of $21 a share. Firm B has 1,200 shares outstanding at a price of $10 a share. What is the value of the merged firm?",
+    "options": {
+      "A": "$88,120",
+      "B": "$96,240",
+      "C": "$96,000",
+      "D": "$84,120",
+      "E": "$92,360"
+    },
+    "answer": "B",
+    "explanation": "Value of merged firm = 4,000($21) + 1,200($10) + 2($120) Value of merged firm = $96,240",
+    "chapter": 29
+  },
+  {
+    "id": 2346,
+    "question": "Jay's has a market value of $3,600 and believes that if it acquires Benny's in a stock transaction the combination of the new firm will be worth $6,000 given the expected synergy of $200. If Jay's wants to keep 75 percent of the synergy for itself, what should be the value of the stock it issues to Benny's?",
+    "options": {
+      "A": "$2,050",
+      "B": "$2,250",
+      "C": "$2,150",
+      "D": "$2,000",
+      "E": "$2,500"
+    },
+    "answer": "B",
+    "explanation": "Value of stock issued = $6,000 − 3,600 − .75($200) Value of stock issued = $2,250",
+    "chapter": 29
+  },
+  {
+    "id": 2347,
+    "question": "Brite Industries has agreed to merge with Nu-Day in exchange for receiving shares in the combined firm equal to Brite's current market value. There are two economic scenarios with equal probabilities of occurrence that must be considered. The market value of Brite will be either $45 a share or $30 a share depending on the economic state. Similarly, the market value of Nu-Day will be either $75 or $50 a share. What value per share will the original Nu-Day shareholders receive in the combined firm assuming no synergy is created by the merger?",
+    "options": {
+      "A": "$63.50",
+      "B": "$54.25",
+      "C": "$56.00",
+      "D": "$57.75",
+      "E": "$62.50"
+    },
+    "answer": "E",
+    "explanation": "Nu-Day shareholders will receive value equal to the current value per share: Nu-Day value per share = .5($75) + .5($50) Nu-Day value per share = $62.50",
+    "chapter": 29
+  },
+  {
+    "id": 2348,
+    "question": "Goodday is merging with Bakers. Goodday has debt with a face value of $80 and Baker has debt with a face value of $40. Bakers' stockholders receive stock in the combined firm in an amount equal to the stand-alone market value of Bakers. The pre-merger values of the firms given two economic states with equal probabilities of occurrence are as follows: Pre-merger Values: Stage 1 Stage 2 Market Value Goodday: Assets $ 160 $ 40 $ 100 Debt 80 40 60 Equity 80 0 40 Barkers: Assets $ 20 $ 80 $ 50 Debt 20 40 30 Equity 0 40 20 What will be the gain or loss to the current shareholders of Goodday if the merger provides no synergy?",
+    "options": {
+      "A": "−$10",
+      "B": "$0",
+      "C": "−$5",
+      "D": "$5",
+      "E": "$10"
+    },
+    "answer": "A",
+    "explanation": "Post-merger Values Stage 1 Stage 2 Market Value Goodday-Bakers Assets $ 180 $ 120 $ 150 Debt 120 120 120 Equity 60 0 30 Goodday shareholder gain(loss) = $30 − 40 Goodday shareholder gain(loss) = −$10",
+    "chapter": 29
+  },
+  {
+    "id": 2349,
+    "question": "Tiger's is merging with Lion's. Tiger's has debt with a face value of $80 and Lion's has debt with a face value of $50. The pre-merger values of the firms given two economic states with equal probabilities of occurrence are as follows: Pre-merger Values Stage 1 Stage 2 Market Value Tiger's: Assets $ 130 $ 50 $ 90 Debt 80 50 65 Equity 50 0 25 Lion's: Assets $ 30 $ 90 $ 60 Debt 30 50 40 Equity 0 40 20 What will be the combined gain or loss to the bondholders of these two firms if the merger provides no synergy and Lion's stockholders receive stock in the combined firm in an amount equal to the stand-alone value of Lion's?",
+    "options": {
+      "A": "$0",
+      "B": "$25",
+      "C": "−$5",
+      "D": "$5",
+      "E": "$10"
+    },
+    "answer": "B",
+    "explanation": "Post-merger Values Stage 1 Stage 2 Market Value Tiger-Lion's: Assets $ 160 $ 140 $ 150 Debt 130 130 130 Equity 30 10 20 Bondholders' gain(loss) = $130 − 65 − 40 Bondholders' gain(loss) = $25",
+    "chapter": 29
+  },
+  {
+    "id": 2350,
+    "question": "Alexandra's is being acquired by David's for $75,000 cash. The acquisition is being financed internally from retained earnings. Alexandra's currently has 3,000 shares of stock outstanding at a price of $24 a share. David's has 10,000 shares outstanding with a market value of $48 a share. The acquisition will create $4,000 of synergy. What is the value of David's after the acquisition?",
+    "options": {
+      "A": "$556,000",
+      "B": "$409,000",
+      "C": "$438,000",
+      "D": "$521,000",
+      "E": "$481,000"
+    },
+    "answer": "E",
+    "explanation": "Value of David's after the acquisition = 3,000($24) + 10,000($48) + $4,000 − 75,000 Value of David's after the acquisition = $481,000",
+    "chapter": 29
+  },
+  {
+    "id": 2351,
+    "question": "The market values of Firm V and Firm A are $1,800 and $600, respectively. Assume Firm V acquires Firm A at a cost of $650 and creates $150 in synergy. What would be the NPV of this acquisition to Firm V?",
+    "options": {
+      "A": "$50",
+      "B": "$100",
+      "C": "$125",
+      "D": "$150",
+      "E": "$0"
+    },
+    "answer": "B",
+    "explanation": "NPV = $150 − ($650 − 600) NPV = $100",
+    "chapter": 29
+  },
+  {
+    "id": 2352,
+    "question": "Cassandra's has 6,100 shares outstanding at a market price per share of $24. Adrian's has 3,500 shares outstanding at a market price of $56 a share. Neither firm has any debt. Adrian's is acquiring Cassandra's for $155,000 in cash. The synergy of the acquisition is $22,500. What is the value of Cassandra's to Adrian's?",
+    "options": {
+      "A": "$155,000",
+      "B": "$132,500",
+      "C": "$168,900",
+      "D": "$158,200",
+      "E": "$146,400"
+    },
+    "answer": "C",
+    "explanation": "Value of Cassandra's to Adrian's = 6,100($24) + $22,500 Value of Cassandra's to Adrian's = $168,900",
+    "chapter": 29
+  },
+  {
+    "id": 2353,
+    "question": "Ferns and Plants are all-equity firms. Ferns has 2,500 shares outstanding at a market price of $28 a share. Plants has 2,500 shares outstanding at a price of $41 a share. Plants is acquiring Ferns for $72,000 in cash. The synergy of the acquisition is $3,500. What is the value of Ferns to Plants?",
+    "options": {
+      "A": "$66,500",
+      "B": "$70,000",
+      "C": "$36,000",
+      "D": "$73,500",
+      "E": "$79,500"
+    },
+    "answer": "D",
+    "explanation": "Value of Ferns to Plants = 2,500($28) + $3,500 Value of Ferns to Plants = $73,500",
+    "chapter": 29
+  },
+  {
+    "id": 2354,
+    "question": "ABC and XYZ are all-equity firms. ABC has 1,750 shares outstanding at a market price of $20 a share while XYZ has 2,500 shares outstanding at a price of $28 a share. ABC is acquiring XYZ for $75,000 in cash. The incremental value of the acquisition is $8,000. What is the net present value of acquiring XYZ to ABC?",
+    "options": {
+      "A": "$2,000",
+      "B": "$3,000",
+      "C": "$6,000",
+      "D": "$4,000",
+      "E": "$8,000"
+    },
+    "answer": "B",
+    "explanation": "NPV = 2,500($28) + $8,000 − 75,000 NPV = $3,000",
+    "chapter": 29
+  },
+  {
+    "id": 2355,
+    "question": "Firm A is acquiring Firm B for $40,000 in cash. Firm A has a current market value of $66,000 while Firm B's current market value is $38,000. The synergy value from the acquisition is $2,500. What is the value of Firm A after the acquisition?",
+    "options": {
+      "A": "$108,500",
+      "B": "$68,500",
+      "C": "$45,000",
+      "D": "$66,500",
+      "E": "$106,500"
+    },
+    "answer": "D",
+    "explanation": "Value of A after the acquisition = $66,000 + 38,000 + 2,500 − 40,000 Value of A after the acquisition = $66,500",
+    "chapter": 29
+  },
+  {
+    "id": 2356,
+    "question": "Firm A is acquiring Firm T for $22,500 in cash. Firm A has 2,300 shares of stock outstanding at a market value of $26 a share. Firm T has 1,200 shares of stock outstanding at a market price of $17 a share. Neither firm has any debt. The net present value of the acquisition is $1,900. What is the price per share of Firm A after the acquisition?",
+    "options": {
+      "A": "$26.00",
+      "B": "$28.25",
+      "C": "$26.83",
+      "D": "$25.17",
+      "E": "$26.50"
+    },
+    "answer": "C",
+    "explanation": "Price per share of A = [2,300($26) + $1,900]/2,300 Price per share of A = $26.83",
+    "chapter": 29
+  },
+  {
+    "id": 2357,
+    "question": "Alto and Solo are all-equity firms. Alto has 2,400 shares outstanding at a market price of $24 a share. Solo has 4,000 shares outstanding at a price of $17 a share. Solo is acquiring Alto for $63,000 in cash. The synergy value of the acquisition is $5,500. What is the net present value of acquiring Alto to Solo?",
+    "options": {
+      "A": "$100",
+      "B": "$400",
+      "C": "$1,200",
+      "D": "$2,400",
+      "E": "$5,500"
+    },
+    "answer": "A",
+    "explanation": "NPV = 2,400($24) + $5,500 − 63,000 NPV = $100",
+    "chapter": 29
+  },
+  {
+    "id": 2358,
+    "question": "Principal is acquiring Secondary Companies for $38,000 in cash. Principal has 4,500 shares of stock outstanding at a market price of $31 a share. Secondary has 1,600 shares of stock outstanding at a market price of $22 a share. Neither firm has any debt. The net present value of the acquisition is $2,400. What is the price per share of Principal after the acquisition?",
+    "options": {
+      "A": "$31.00",
+      "B": "$30.78",
+      "C": "$31.53",
+      "D": "$32.10",
+      "E": "$31.94"
+    },
+    "answer": "C",
+    "explanation": "Price per share = [4,500($31) + $2,400]/4,500 Price per share = $31.53",
+    "chapter": 29
+  },
+  {
+    "id": 2359,
+    "question": "Firm X is being acquired by Firm Y for $35,000 cash which is being provided by retained earnings. The synergy of the acquisition is $5,000. Firm X has 2,000 shares of stock outstanding at a price of $16 a share. Firm Y has 10,200 shares of stock outstanding at a price of $46 a share. What is the value of Firm Y after the acquisition?",
+    "options": {
+      "A": "$534,750",
+      "B": "$471,200",
+      "C": "$435,000",
+      "D": "$468,900",
+      "E": "$535,500"
+    },
+    "answer": "B",
+    "explanation": "Value of Firm Y after the acquisition = 2,000($16) + 10,200($46) + $5,000 − 35,000 Value of Firm Y after the acquisition = $471,200",
+    "chapter": 29
+  },
+  {
+    "id": 2360,
+    "question": "Western has a market value of $950 with 50 shares outstanding and a price per share of $19. Eastern has a market value of $3,000 with 120 shares outstanding and a price per share of $25. Eastern is acquiring Western by exchanging 40 of its shares for all 50 of Western's shares. What is the cost of the merger to Eastern's stockholders if the merger creates $200 of synergy?",
+    "options": {
+      "A": "$1,333.33",
+      "B": "$1,225.00",
+      "C": "$1,037.50",
+      "D": "$1,000.00",
+      "E": "$950.00"
+    },
+    "answer": "C",
+    "explanation": "Combined firm value = $950 + 3,000 + 200 Combined firm value = $4,150 Total new shares = 120 + 40 Total new shares = 160 Western shareholders' ownership = 40/160 Western shareholders' ownership = .25 Western shareholders' value = Cost to Eastern's shareholders = .25($4,150) Cost to Eastern's shareholders = $1,037.50",
+    "chapter": 29
+  },
+  {
+    "id": 2361,
+    "question": "Firm A has a market value of $6,000 with 150 shares outstanding and a price per share of $40. Firm B has a market value of $800 with 40 shares outstanding and a price per share of $20. Firm A is acquiring Firm B by exchanging 25 of its shares for all 40 of Firm B's shares. Assume the merger creates $500 of synergy. What will be the value of Firm B's shareholders' stake in the merged firm?",
+    "options": {
+      "A": "$800",
+      "B": "$1,021.30",
+      "C": "$1,050.00",
+      "D": "$1,042.86",
+      "E": "$1,000.00"
+    },
+    "answer": "D",
+    "explanation": "Combined firm value = $6,000 + 800 + 500 Combined firm value = $7,300 Total new shares = 150 + 25 Total new shares = 175 Firm B's shareholders' value = (25/175)($7,300) Firm B's shareholders' value = $1,042.86",
+    "chapter": 29
+  },
+  {
+    "id": 2362,
+    "question": "Firm X has a market value of $8,400 with 120 shares outstanding and a price per share of $70. Firm Y has a market value of $2,000 with 100 shares outstanding and a price per share of $20. Firm X is acquiring Firm Y by exchanging 30 of its shares for all 100 of Firm Y's shares. Assume the merger creates $400 of synergy. What will be the value of Firm A's shareholders' stake in the merged firm?",
+    "options": {
+      "A": "$8,080",
+      "B": "$9,200",
+      "C": "$8,820",
+      "D": "$8,640",
+      "E": "$9,050"
+    },
+    "answer": "D",
+    "explanation": "Combined firm value = $8,400 + 2,000 + 400 Combined firm value = $10,800 Total new shares = 120 + 30 Total new shares = 150 Firm A's shareholders' value = (120/150)($10,800) Firm A's shareholders' value = $8,640",
+    "chapter": 29
+  },
+  {
+    "id": 2363,
+    "question": "Firm A is planning on merging with Firm B. Firm A currently has 2,300 shares of stock outstanding at a market price of $20 a share. Firm B has 750 shares outstanding at a price of $15 a share. The merger will create $200 of synergy. How many of its shares should Firm A offer in exchange for all of Firm B's shares if it wants its acquisition cost to be $12,000?",
+    "options": {
+      "A": "598",
+      "B": "607",
+      "C": "600",
+      "D": "584",
+      "E": "593"
+    },
+    "answer": "B",
+    "explanation": "Post-merger value = 2,300($20) + 750($15) + $200 Post-merger value = $57,450 α$57,450 = $12,000 α = .2089 α = New shares/(New shares + Old shares) .2089 = New shares/(2,300 + New shares) New shares = 607",
+    "chapter": 29
+  },
+  {
+    "id": 2364,
+    "question": "Firm X is planning on merging with Firm Y. Firm X currently has 3,500 shares of stock outstanding at a market price of $25 a share. Firm Y has 400 shares outstanding at a price of $22 a share. The merger will create $500 of synergy. How many of its shares should Firm X offer in exchange for all Firm Y's shares if it wants its acquisition cost to be $9,000?",
+    "options": {
+      "A": "408",
+      "B": "359",
+      "C": "409",
+      "D": "360",
+      "E": "375"
+    },
+    "answer": "B",
+    "explanation": "Post-merger value = 3,500($25) + 400($22) + $500 Post-merger value = $96,800 α$96,800 = $9,000 α = .0930 α = New shares/(New shares + Old shares) .0930 = New shares/(3,500 + New shares) New shares = 359",
+    "chapter": 29
+  },
+  {
+    "id": 2365,
+    "question": "Firm K is planning on merging with Firm L. Firm K currently has 5,500 shares of stock outstanding at a market price of $28 a share. Firm L has 500 shares outstanding at a price of $16 a share. The merger will create $600 of synergy. Firm K plans to offer a sufficient number of its shares to acquire Firm L at an acquisition cost of $8,200. How many total shares will be outstanding in the merged firm?",
+    "options": {
+      "A": "5,608",
+      "B": "5,792",
+      "C": "5,749",
+      "D": "5,760",
+      "E": "5,775"
+    },
+    "answer": "B",
+    "explanation": "Post-merger value = 5,500($28) + 500($16) + $600 Post-merger value = $162,600 α$162,600 = $8,200 α = .0504 α = New shares/(New shares + Old shares) .0504 = New shares/(5,500 + New shares) New shares = 292 Post-merger total shares = 5,500 + 292 Post-merger total shares = 5,792",
+    "chapter": 29
+  },
+  {
+    "id": 2366,
+    "question": "Rudy's and Blackstone are all-equity firms. Rudy's has 1,200 shares outstanding at a market price of $36 a share. Blackstone has 2,500 shares outstanding at a price of $38 a share. Blackstone is acquiring Rudy's for $48,000 in cash. What is the merger premium per share?",
+    "options": {
+      "A": "$4.00",
+      "B": "$4.25",
+      "C": "$6.50",
+      "D": "$8.00",
+      "E": "$14.00"
+    },
+    "answer": "A",
+    "explanation": "Merger premium per share = ($48,000/1,200) − $36 Merger premium per share = $4",
+    "chapter": 29
+  },
+  {
+    "id": 2367,
+    "question": "New England Fisheries (NEF) has 18,000 shares outstanding at a market price per share of $14. Maryland Fish Markets (MFM) has 7,000 shares outstanding at a market price of $21 a share. Neither firm has any debt. MFM is acquiring NEF for $275,000 in cash. What is the merger premium per share?",
+    "options": {
+      "A": "$1.43",
+      "B": "$1.28",
+      "C": "$.81",
+      "D": "$1.04",
+      "E": "$2.07"
+    },
+    "answer": "B",
+    "explanation": "Merger premium per share = ($275,000/18,000) − $14 Merger premium per share = $1.28",
+    "chapter": 29
+  },
+  {
+    "id": 2368,
+    "question": "Turner's has $3.8 million in net working capital. The firm has fixed assets with a book value of $48.6 million and a market value of $54.2 million. Martin & Sons is buying Turner' for $61.5 million in cash. The acquisition will be recorded using the purchase accounting method. What is the amount of goodwill that Martin & Sons will record on its balance sheet as a result of this acquisition?",
+    "options": {
+      "A": "$0",
+      "B": "$3.5 million",
+      "C": "$6.6 million",
+      "D": "$7.2 million",
+      "E": "$9.1 million"
+    },
+    "answer": "B",
+    "explanation": "Goodwill = $61.5m − ($3.8m + 54.2m) Goodwill = $3.5 million",
+    "chapter": 29
+  },
+  {
+    "id": 2369,
+    "question": "Describe the three basic legal procedures that one firm can use to acquire another and briefly discuss the advantages and disadvantages of each. Answer: The three forms are merger, acquisition of stock, and acquisition of assets. A merger has the advantage that it is legally simple and therefore low cost but it has the disadvantage that it must be approved by the shareholders of both firms. Acquisition by stock requires no shareholder meetings and management of the target firm can be bypassed. However, it can be a costly form of acquisition and minority shareholders may hold out, thereby raising the cost of the purchase. An acquisition of assets requires the vote of the target firm's shareholders. Also, it can become quite costly to transfer title to all the acquired assets. Difficulty: 2 Medium Section: 29.1 The Basic Forms of Acquisitions Topic: Types of mergers and acquisitions Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 29
+  },
+  {
+    "id": 2370,
+    "question": "The empirical evidence strongly indicates that the stockholders of the target firm realize wealth gains while the stockholders in the acquiring firm gain little, if anything, from an acquisition. Although there exists no definitive answer as to why this is the case, several possible explanations have been proposed. List and explain three possible explanations for the minimal returns to the acquiring firm's stockholders. Answer: Lack of achieving the expected synergy, management goals other than the best interests of the shareholders, and coinsurance effects are three possible explanations. While firms may do their best to estimate the value of synergy, the expected cost reductions, sales increases, asset efficiencies, etc. may not be fully achieved. Managers may acquire firms to increase the size of their firms for personal gain or to obtain some other personal objective. These actions by managers may be detrimental to the shareholders. Lastly, if the firms are levered, the acquisition may lower the risk of default thereby providing gains to the debtholders at shareholders' expense. Difficulty: 2 Medium Section: 29.5 A Cost to Stockholders from Reduction in Risk Topic: Merger and acquisition analysis Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 42 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 29
+  },
+  {
+    "id": 2371,
+    "question": "Sometimes the management of a target firm fights a takeover attempt even when that attempt appears to be in the best interest of the shareholders. Why would management take this stance? Answer: Often, the management of the target firm is replaced after an acquisition. If management believes this may be the case, they may fight the takeover attempt in an effort to maintain their current positions. In other cases, management may fight the attempt if they feel that by doing so, they may increase the amount paid by the acquiring firm. Difficulty: 2 Medium Section: 29.8 Defensive Tactics Topic: Defensive tactics Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 29
+  },
+  {
+    "id": 2372,
+    "question": "Explain the purpose of a standstill agreement and the basics of how it works. Answer: A standstill agreement is designed to prevent an acquirer from obtaining additional holdings in the target firm and thereby gaining more control over that target. In essence, the target firm pays a fee to the acquirer. In turn the acquirer agrees to limit its holdings in the target firm and offers a right of first refusal to the target firm for any shares the acquirer decides to sell. Difficulty: 2 Medium Section: 29.8 Defensive Tactics Topic: Defensive tactics Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 29
+  },
+  {
+    "id": 2373,
+    "question": "Assume one firm acquires another in an all-cash transaction. Explain why the acquiring firm generally carries the acquired fixed assets on their books at the pre-acquisition book values rather than writing those assets up to their current market values, which they are allowed to do. Answer: Because this is a cash acquisition it is a taxable transaction. Should the acquiring firm opt to write up the value of the acquired assets, the amount of the write up will be immediately treated as taxable income. The increase in current taxes is generally a greater cost to the firm than the benefit realized from the increased depreciation tax shield from the write up. Difficulty: 2 Medium Section: 29.10 The Tax Forms of Acquisitions Topic: Taxes and acquisitions Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "B",
+    "chapter": 29
+  }
+]
