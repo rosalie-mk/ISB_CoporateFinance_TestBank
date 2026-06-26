@@ -42,7 +42,7 @@ export default function App() {
   }, [dark])
 
   useEffect(() => {
-    fetch('/data/allQuestions.json')
+    fetch(`${import.meta.env.BASE_URL}data/allQuestions.json`)
       .then((response) => response.json())
       .then(setAllQuestions)
       .catch((error) => {
