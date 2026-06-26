@@ -135,8 +135,11 @@ export default function Quiz({ questions, chapter }) {
 
   useEffect(() => {
     setQset(filterQuestions(questions, tab, wrongIds))
+    }, [questions, tab, wrongIds])
+
+useEffect(() => {
     setIndex(0)
-  }, [questions, tab, wrongIds])
+    }, [questions, tab])
 
   useEffect(() => {
     setIndex(0)
@@ -153,8 +156,8 @@ export default function Quiz({ questions, chapter }) {
   }, [wrongIds])
 
   useEffect(() => {
-    if (index >= qset.length) {
-      setIndex(0)
+  if (qset.length > 0 && index >= qset.length) {
+    setIndex(qset.length - 1)
     }
   }, [index, qset.length])
 
