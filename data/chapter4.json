@@ -1,0 +1,1662 @@
+[
+  {
+    "id": 287,
+    "question": "The net present value of a project is equal to the:",
+    "options": {
+      "A": "present value of the future cash flows.",
+      "B": "present value of the future cash flows minus the initial cost.",
+      "C": "future value of the future cash flows minus the initial cost.",
+      "D": "future value of the future cash flows minus the present value of the initial cost.",
+      "E": "sum of the project's anticipated cash inflows."
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 288,
+    "question": "Which one of these statements is correct concerning the time value of money?",
+    "options": {
+      "A": "Increasing the initial cost of a project increases the project's NPV.",
+      "B": "Increasing the discount rate, increases the PV of a project.",
+      "C": "Increasing the FV decreases the PV.",
+      "D": "Decreasing the PV decreases the FV.",
+      "E": "Decreasing the discount rate increases the FV."
+    },
+    "answer": "D",
+    "chapter": 4
+  },
+  {
+    "id": 289,
+    "question": "At a discount rate of 5 percent, which one of the following is the correct formula for computing the PV of $1 to be received one year from today?",
+    "options": {
+      "A": "$1/1.05",
+      "B": "$1",
+      "C": "$1 × 1.05",
+      "D": "$1 × 1.052",
+      "E": "$1/1.052"
+    },
+    "answer": "A",
+    "chapter": 4
+  },
+  {
+    "id": 290,
+    "question": "What effect will an increase in the discount rate have on the present value of a project that has an initial cash outflow followed by five years of cash inflows?",
+    "options": {
+      "A": "There will be no effect on the PV.",
+      "B": "The PV will change but the direction of the change is unknown.",
+      "C": "The PV will remain the same as the timing of the cash flows must change also.",
+      "D": "The PV will increase.",
+      "E": "The PV will decrease."
+    },
+    "answer": "E",
+    "chapter": 4
+  },
+  {
+    "id": 291,
+    "question": "You are considering two projects. Project A has projected cash flows of $6,500, $4,500, and $2,500 for the next three years, respectively. Project B has projected cash flows of $2,500, $4,500, and $6,500 for the next three years, respectively. Assuming both projects have the same initial cost, you know that:",
+    "options": {
+      "A": "there are no conditions under which the projects can have equal values.",
+      "B": "Project B has a higher net present value than Project A.",
+      "C": "Project A is more valuable than Project B given a positive discount rate.",
+      "D": "both projects offer the same rate of return.",
+      "E": "both projects have equal net present values at any discount rate."
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 292,
+    "question": "An interest rate that is compounded monthly, but is expressed as if the rate were compounded annually, is called the ________ rate.",
+    "options": {
+      "A": "stated interest",
+      "B": "compound interest",
+      "C": "effective annual",
+      "D": "periodic interest",
+      "E": "daily interest"
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 293,
+    "question": "The interest rate charged per period multiplied by the number of periods per year is called the ________ rate.",
+    "options": {
+      "A": "effective annual",
+      "B": "annual percentage",
+      "C": "periodic interest",
+      "D": "compound interest",
+      "E": "daily interest"
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 294,
+    "question": "The annual percentage rate:",
+    "options": {
+      "A": "considers interest on interest.",
+      "B": "is the actual cost of a loan with monthly payments.",
+      "C": "is higher than the effective annual rate when interest is compounded quarterly.",
+      "D": "is the interest rate charged per period divided by (1 + n), when n is the number of periods per year.",
+      "E": "equals the effective annual rate when the interest on an account is designated as simple interest."
+    },
+    "answer": "E",
+    "chapter": 4
+  },
+  {
+    "id": 295,
+    "question": "You would be making a wise decision if you chose to:",
+    "options": {
+      "A": "base decisions regarding investments on effective rates and base decisions regarding loans on annual percentage rates.",
+      "B": "assume all loans and investments are based on simple interest.",
+      "C": "accept the loan with the lower effective annual rate rather than the loan with the lower annual percentage rate.",
+      "D": "invest in an account paying 6 percent, compounded quarterly, rather than an account paying 6 percent, compounded monthly.",
+      "E": "ignore the effective rates and concentrate on the annual percentage rates for all transactions."
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 296,
+    "question": "The highest effective annual rate that can be derived from an annual percentage rate of 9 percent is computed as:",
+    "options": {
+      "A": "(1 + .09/365)(365).",
+      "B": "e.09q.",
+      "C": "1.09e.",
+      "D": "e.09 − 1.",
+      "E": "(1 + .09/365)365 − 1."
+    },
+    "answer": "D",
+    "chapter": 4
+  },
+  {
+    "id": 297,
+    "question": "Given a stated interest rate, which form of compounding will yield the highest effective rate of interest?",
+    "options": {
+      "A": "Annual compounding",
+      "B": "Monthly compounding",
+      "C": "Daily compounding",
+      "D": "Continuous compounding",
+      "E": "Semiannual compounding"
+    },
+    "answer": "D",
+    "chapter": 4
+  },
+  {
+    "id": 298,
+    "question": "A perpetuity differs from an annuity because:",
+    "options": {
+      "A": "perpetuity cash flows vary with the rate of inflation.",
+      "B": "perpetuity cash flows vary with the market rate of interest.",
+      "C": "perpetuity cash flows are variable while annuity payments are constant.",
+      "D": "perpetuity cash flows never cease.",
+      "E": "annuity cash flows occur at irregular intervals of time."
+    },
+    "answer": "D",
+    "chapter": 4
+  },
+  {
+    "id": 299,
+    "question": "You are comparing two investment options, each of which will provide $15,000 of total income. Option A pays five annual payments starting with $5,000 the first year followed by four annual payments of $2,500 each. Option B pays five annual payments of $3,000 each. Which one of the following statements is correct given these two investment options?",
+    "options": {
+      "A": "Both options are of equal value today.",
+      "B": "Given a positive rate of return, Option A is worth more today than Option B.",
+      "C": "Option B has a higher present value than Option A given a positive rate of return.",
+      "D": "Option B has a lower present value than Option A given a zero rate of return.",
+      "E": "Option A is preferable because it is an annuity due."
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 300,
+    "question": "An annuity stream of cash flow payments is a set of:",
+    "options": {
+      "A": "equal cash flows occurring at equal periods of time over a fixed length of time.",
+      "B": "equal cash flows occurring each time period forever.",
+      "C": "either equal or varying cash flows occurring at set intervals of time for a fixed period.",
+      "D": "increasing cash flows occurring at set intervals of time that go on forever.",
+      "E": "arbitrary cash flows occurring each time period for no more than 10 years."
+    },
+    "answer": "A",
+    "chapter": 4
+  },
+  {
+    "id": 301,
+    "question": "Annuities where the payments occur at the end of each time period are called ________, whereas ________ refer to annuity streams with payments occurring at the beginning of each time period.",
+    "options": {
+      "A": "ordinary annuities; early annuities",
+      "B": "late annuities; straight annuities",
+      "C": "straight annuities; late annuities",
+      "D": "annuities due; ordinary annuities",
+      "E": "ordinary annuities; annuities due"
+    },
+    "answer": "E",
+    "chapter": 4
+  },
+  {
+    "id": 302,
+    "question": "A flow of unending annual payments that increase by a set percentage each year and occur at regular intervals of time is called a(n):",
+    "options": {
+      "A": "annuity due.",
+      "B": "growing annuity.",
+      "C": "growing perpetuity.",
+      "D": "variable annuity.",
+      "E": "variable perpetuity."
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 303,
+    "question": "Ted purchased an annuity today that will pay $1,000 a month for five years. He received his first monthly payment today. Allison purchased an annuity today that will pay $1,000 a month for five years. She will receive her first payment one month from today. Which one of the following statements is correct concerning these two annuities?",
+    "options": {
+      "A": "Both annuities are of equal value today.",
+      "B": "Allison's annuity is an annuity due.",
+      "C": "Ted's annuity has a higher present value than Allison's.",
+      "D": "Allison's annuity has a higher present value than Ted's.",
+      "E": "Ted's annuity is an ordinary annuity."
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 304,
+    "question": "Assume an annuity will pay $1,000 a year for five years with the first payment occurring in Year 4, that is, four years from today. When you compute the present value of that annuity using the PV formula, the PV will be as of which point in time?",
+    "options": {
+      "A": "Today, Year 0",
+      "B": "Year 1",
+      "C": "Year 3",
+      "D": "Year 4",
+      "E": "Year 2"
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 305,
+    "question": "Martha left an inheritance to her grandson that will pay him $1,500 on the first day of every other year. When computing the PV of this inheritance, the grandson should use:",
+    "options": {
+      "A": "simple interest.",
+      "B": "a semiannually compounded discount rate.",
+      "C": "an effective annual rate.",
+      "D": "a 2-year discount rate.",
+      "E": "a semiannual discount rate."
+    },
+    "answer": "D",
+    "chapter": 4
+  },
+  {
+    "id": 306,
+    "question": "Binder and Sons borrowed $138,000 for three years from their local bank and now they are paying monthly payments that include both principal and interest. Paying off debt by making instalment payments, such as this firm is doing, is referred to as:",
+    "options": {
+      "A": "foreclosing on the debt.",
+      "B": "amortizing the debt.",
+      "C": "funding the debt.",
+      "D": "calling the debt.",
+      "E": "refunding the debt."
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 307,
+    "question": "Assume you borrow $6,600 for three years. How much will you still owe after the three years if you pay all of the payments as set forth in the loan's amortization schedule?",
+    "options": {
+      "A": "$6,500",
+      "B": "$0",
+      "C": "$2,200",
+      "D": "$3,150",
+      "E": "$2,650"
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 308,
+    "question": "Assume you borrow $12,000 for 5 years with equal annual repayments. If the interest rate on the actual loan turns out to be higher than you anticipated, then the:",
+    "options": {
+      "A": "total principal repaid will be less than anticipated.",
+      "B": "loan will still have a balance due at the end of the 5-year amortization period.",
+      "C": "first annual payment will repay more of the principal than anticipated.",
+      "D": "anticipated amortization schedule will still apply as the loan is still a 5-year loan.",
+      "E": "annual payments will be higher than you anticipated."
+    },
+    "answer": "E",
+    "chapter": 4
+  },
+  {
+    "id": 309,
+    "question": "What rate of return should be used to compute the NPV of a proposed purchase of Smiley's, an operating business?",
+    "options": {
+      "A": "A discount rate equal to Smiley's current return on equity",
+      "B": "The discount rate applicable to other investments with similar risks",
+      "C": "A discount rate equal to Smiley's net profit percentage",
+      "D": "The rate of interest charged by a bank for a loan similar in size to the cost of the purchase",
+      "E": "A discount rate that makes the NPV of the proposed purchase positive"
+    },
+    "answer": "B",
+    "chapter": 4
+  },
+  {
+    "id": 310,
+    "question": "For a proposed purchase to be acceptable, the PV of the future cash flows must:",
+    "options": {
+      "A": "be positive at the relevant discount rate.",
+      "B": "be less than the cost of the purchase.",
+      "C": "equal or exceed the cost of the purchase.",
+      "D": "equal the purchase price.",
+      "E": "be positive at all discount rates."
+    },
+    "answer": "C",
+    "chapter": 4
+  },
+  {
+    "id": 311,
+    "question": "What is the present value of $6,811 to be received in one year if the discount rate is 6.5 percent?",
+    "options": {
+      "A": "$6,395.31",
+      "B": "$6,023.58",
+      "C": "$6,643.29",
+      "D": "$6,671.13",
+      "E": "$7,253.72"
+    },
+    "answer": "A",
+    "explanation": "PV = $6,811/1.065 PV = $6,395.31",
+    "chapter": 4
+  },
+  {
+    "id": 312,
+    "question": "Stu can purchase a house today for $110,000, including the cost of some minor repairs. He expects to be able to resell it in one year for $129,000 after cleaning up the property. At a discount rate of 5.5 percent, what is the expected net present value of this purchase opportunity?",
+    "options": {
+      "A": "$13,001.61",
+      "B": "$12,487.43",
+      "C": "$12,274.88",
+      "D": "$9,208.18",
+      "E": "$11,311.02"
+    },
+    "answer": "C",
+    "explanation": "NPV = −$110,000 + $129,000/1.055 NPV = $12,274.88",
+    "chapter": 4
+  },
+  {
+    "id": 313,
+    "question": "You have been awarded an insurance settlement of $250,000 that is payable one year from today. What is the minimum amount you should accept today in exchange for this settlement if you can earn 6.7 percent on your investments?",
+    "options": {
+      "A": "$232,866.67",
+      "B": "$234,301.78",
+      "C": "$242,408.19",
+      "D": "$250,000.00",
+      "E": "$238,079.19"
+    },
+    "answer": "B",
+    "explanation": "PV = $250,000/1.067 PV = $234,301.78",
+    "chapter": 4
+  },
+  {
+    "id": 314,
+    "question": "You plan to invest $6,500 for three years at 4 percent simple interest. What will your investment be worth at the end of the three years?",
+    "options": {
+      "A": "$7,280.00",
+      "B": "$7,311.62",
+      "C": "$7,250.00",
+      "D": "$6,924.32",
+      "E": "$6,760.00"
+    },
+    "answer": "A",
+    "explanation": "ValueYear 3 = $6,500 + $6,500(.04)(3) ValueYear 3 = $7,280.00",
+    "chapter": 4
+  },
+  {
+    "id": 315,
+    "question": "Shawn has $2,500 invested at a guaranteed rate of 4.35 percent, compounded annually. What will his investment be worth after five years?",
+    "options": {
+      "A": "$2,997.04",
+      "B": "$3,288.00",
+      "C": "$3,321.32",
+      "D": "$3,093.16",
+      "E": "$2,857.59"
+    },
+    "answer": "D",
+    "explanation": "FV5 = $2,500(1.04355) FV5 = $3,093.16",
+    "chapter": 4
+  },
+  {
+    "id": 316,
+    "question": "Beatrice invests $1,000 in an account that pays 5 percent simple interest. How much more could she have earned over a period of 10 years if the interest had compounded annually?",
+    "options": {
+      "A": "$132.45",
+      "B": "$135.97",
+      "C": "$128.89",
+      "D": "$117.09",
+      "E": "$121.67"
+    },
+    "answer": "C",
+    "explanation": "FVSimple = $1,000 + $1,000(.05)(10) FVSimple = $1,500 FV = $1,000(1.0510) FV = $1,628.89 Difference = $1,628.89 − 1,500 Difference = $128.89",
+    "chapter": 4
+  },
+  {
+    "id": 317,
+    "question": "A project is expected to produce cash flows of $48,000, $39,000, and $15,000 over the next three years, respectively. After three years, the project will be worthless. What is the net present value of this project if the applicable discount rate is 15.25 percent and the initial cost is $78,500?",
+    "options": {
+      "A": "−$1,201.76",
+      "B": "$2,309.09",
+      "C": "−$3,457.96",
+      "D": "$1,808.17",
+      "E": "$3,132.48"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$78,500 + $48,000/1.1525 + $39,000/1.15252 + $15,000/1.15253 NPV = $2,309.09",
+    "chapter": 4
+  },
+  {
+    "id": 318,
+    "question": "Over the next three years, Marti plans to save $2,000, $2,500, and $3,000, respectively, starting one year from today. You want to have as much money as Marti does three years from now but you plan to make one lump sum investment today. What amount must you save today if you both earn 4.65 annually?",
+    "options": {
+      "A": "$6,811.50",
+      "B": "$6,791.42",
+      "C": "$7,128.23",
+      "D": "$6,607.23",
+      "E": "$7,500.00"
+    },
+    "answer": "A",
+    "explanation": "PV = $2,000/1.0465 + $2,500/1.04652 + $3,000/1.04653 PV = $6,811.50",
+    "chapter": 4
+  },
+  {
+    "id": 319,
+    "question": "An insurance settlement offer includes annual payments of $36,000, $42,000, and $50,000 over the next three years, respectively, with the first payment being made one year from today. What is the minimum amount you should accept today as a lump sum settlement if your discount rate is 7 percent?",
+    "options": {
+      "A": "$119,877.67",
+      "B": "$111,144.18",
+      "C": "$105,000.10",
+      "D": "$118,924.27",
+      "E": "$114,556.88"
+    },
+    "answer": "B",
+    "explanation": "PV = $36,000/1.07 + $42,000/1.072 + $50,000/1.073 PV = $111,144.18",
+    "chapter": 4
+  },
+  {
+    "id": 320,
+    "question": "You have been offered a job that pays an annual salary of $48,000, $51,000, and $55,000 over the next three years, respectively. The offer also includes a starting bonus of $2,500 payable immediately. What is this offer worth to you today at a discount rate of 6.5 percent?",
+    "options": {
+      "A": "$129,640.14",
+      "B": "$134,383.56",
+      "C": "$132,283.56",
+      "D": "$138,066.75",
+      "E": "$130,983.56"
+    },
+    "answer": "D",
+    "explanation": "PV = $2,500 + $48,000/1.065 + $51,000/1.0652 + $55,000/1.0653 PV = $138,066.75",
+    "chapter": 4
+  },
+  {
+    "id": 321,
+    "question": "You are considering a project with projected annual cash flows of $32,200, $41,800, and $22,900 for the next three years, respectively. What is the present value of these cash flows at a discount rate of 14 percent?",
+    "options": {
+      "A": "$86,487.47",
+      "B": "$75,866.20",
+      "C": "$77,103.18",
+      "D": "$81,292.25",
+      "E": "$66,549.30"
+    },
+    "answer": "B",
+    "explanation": "PV = $32,200/1.14 + $41,800/1.142 + $22,900/1.143 PV = $75,866.20",
+    "chapter": 4
+  },
+  {
+    "id": 322,
+    "question": "You expect an investment to return $11,300, $14,600, $21,900, and $38,400 annually over the next four years, respectively. What is this investment worth to you today if you desire a rate of return of 16.5 percent?",
+    "options": {
+      "A": "$64,253.91",
+      "B": "$58,700.89",
+      "C": "$63,732.41",
+      "D": "$55,153.57",
+      "E": "$59,928.16"
+    },
+    "answer": "D",
+    "explanation": "PV = $11,300/1.165 + $14,600/1.1652 + $21,900/1.1653 + $38,400/1.1654 PV = $55,153.57",
+    "chapter": 4
+  },
+  {
+    "id": 323,
+    "question": "Assume a cash flow of $82,400 in the first year and $148,600 in the second year. Also assume a present value of $303,764.34 at a discount rate of 12.75 percent. What is the cash flow in the third year if that is the only other cash flow?",
+    "options": {
+      "A": "$163,100",
+      "B": "$163,800",
+      "C": "$164,900",
+      "D": "$164,400",
+      "E": "$163,700"
+    },
+    "answer": "A",
+    "explanation": "$303,764.34 = $82,400/1.1275 + $148,600/1.12752 + C3/1.12753 C3 = $163,100",
+    "chapter": 4
+  },
+  {
+    "id": 324,
+    "question": "U Do It Centers deposited $3,200 in an account two years ago and is depositing another $5,000 today. A final deposit of $3,500 will be made one year from now. What will the account balance be three years from now if the account pays 4.85 percent interest, compounded annually?",
+    "options": {
+      "A": "$13,033.95",
+      "B": "$13,430.84",
+      "C": "$12,431.05",
+      "D": "$14,328.90",
+      "E": "$13,666.10"
+    },
+    "answer": "E",
+    "explanation": "FV3 = $3,200(1.04855) + $5,000(1.04853) + $3,500(1.04852) FV3 = $13,666.10",
+    "chapter": 4
+  },
+  {
+    "id": 325,
+    "question": "Anna has $38,654 in a savings account that pays 2.3 percent interest. Assume she withdraws $10,000 today and another $10,000 one year from today. If she waits and withdraws the remaining entire balance four years from today, what will be the amount of that withdrawal?",
+    "options": {
+      "A": "$20,916.78",
+      "B": "$20,109.08",
+      "C": "$20,676.53",
+      "D": "$19,341.02",
+      "E": "$19,608.07"
+    },
+    "answer": "C",
+    "explanation": "$38,654 = $10,000 + $10,000/1.023 + C4/1.0234 C4 = $20,676.53",
+    "chapter": 4
+  },
+  {
+    "id": 326,
+    "question": "Theo is depositing $1,300 today in an account with an expected rate of return of 8.1 percent. If he deposits an additional $3,200 two years from today, and $4,000 three years from today, what will his account balance be ten years from today?",
+    "options": {
+      "A": "$14,044.89",
+      "B": "$16,412.31",
+      "C": "$15,182.53",
+      "D": "$15,699.54",
+      "E": "$17,741.71"
+    },
+    "answer": "D",
+    "explanation": "FV = $1,300(1.08110) + $3,200(1.0818) + $4,000(1.0817) FV = $15,699.54",
+    "chapter": 4
+  },
+  {
+    "id": 327,
+    "question": "You want to save an equal amount each year for the next 38 years, at which time you will retire. What amount of annual savings are needed if you desire a retirement income of $55,000 a year for 25 years and earn 7.5 percent, compounded annually?",
+    "options": {
+      "A": "$3,333.33",
+      "B": "$2,640.85",
+      "C": "$3,146.32",
+      "D": "$2,889.04",
+      "E": "$3,406.16"
+    },
+    "answer": "C",
+    "explanation": "PV = $55,000[(1 − 1/1.07525)/.075] PV = $613,082.02 $613,082.02 = C[(1.07538 − 1)/.075] C = $3,146.32",
+    "chapter": 4
+  },
+  {
+    "id": 328,
+    "question": "Leo received $7,500 today and will receive another $5,000 two years from today. If he invests these funds immediately at 11.5 percent, what will his investments be worth five years from now?",
+    "options": {
+      "A": "$18,758.04",
+      "B": "$18,806.39",
+      "C": "$19,856.13",
+      "D": "$20,314.00",
+      "E": "$19,904.36"
+    },
+    "answer": "C",
+    "explanation": "FV = $7,500(1.1155) + $5,000(1.1153) FV = $19,856.13",
+    "chapter": 4
+  },
+  {
+    "id": 329,
+    "question": "Suzette is receiving $10,000 today, $15,000 one year from today, and $25,000 four years from today. If she invests these funds immediately and earns 9.6 percent annually, how much will she have in savings 30 years from today?",
+    "options": {
+      "A": "$586,124.93",
+      "B": "$591,414.14",
+      "C": "$646,072.91",
+      "D": "$620,008.77",
+      "E": "$641,547.39"
+    },
+    "answer": "E",
+    "explanation": "FV = $10,000(1.09630) + $15,000(1.09629) + $25,000(1.09626) FV = $641,547.39",
+    "chapter": 4
+  },
+  {
+    "id": 330,
+    "question": "You would like to have $50,000 saved at the end of Year 5. At the end of Year 2, you can deposit $7,500 for this purpose. If you earn 4.5 percent, how much must you deposit today to reach your goal assuming no other deposits are made?",
+    "options": {
+      "A": "$33,254.58",
+      "B": "$33,108.09",
+      "C": "$34,276.34",
+      "D": "$34,642.28",
+      "E": "$34,912.63"
+    },
+    "answer": "A",
+    "explanation": "$50,000 = C01.0455 + $7,500(1.0453) C0 = $33,254.58",
+    "chapter": 4
+  },
+  {
+    "id": 331,
+    "question": "The government imposed a fine on a firm that requires a payment of $100,000 today, $150,000 one year from today, and $200,000 two years from today. The government will hold the funds until the final payment is collected and then donate the entire amount to charity. How much will be donated if the government pays 3 percent interest on the held funds?",
+    "options": {
+      "A": "$475,000",
+      "B": "$460,590",
+      "C": "$447,174",
+      "D": "$451,050",
+      "E": "$474,407"
+    },
+    "answer": "B",
+    "explanation": "FV = $100,000(1.032) + $150,000(1.03) + $200,000 FV = $460,590",
+    "chapter": 4
+  },
+  {
+    "id": 332,
+    "question": "If you invest $2,500 today, an investment guarantees you will have $3,600 four years from today. What rate of interest will you earn?",
+    "options": {
+      "A": "8.72 percent",
+      "B": "9.03 percent",
+      "C": "8.68 percent",
+      "D": "9.39 percent",
+      "E": "9.54 percent"
+    },
+    "answer": "E",
+    "explanation": "$3,600 = $2,500(1 + r)4 r = .0954, or 9.54%",
+    "chapter": 4
+  },
+  {
+    "id": 333,
+    "question": "Eleven years ago, a guitar cost $1,800. Today, that same guitar costs $3,650. What has been the inflation rate on this instrument?",
+    "options": {
+      "A": "6.64 percent",
+      "B": "6.32 percent",
+      "C": "6.57 percent",
+      "D": "6.81 percent",
+      "E": "6.49 percent"
+    },
+    "answer": "A",
+    "explanation": "$3,650 = $1,800(1 + r)11 R = .0664, or 6.64%",
+    "chapter": 4
+  },
+  {
+    "id": 334,
+    "question": "Several years ago, Sara invested $4,208. Today, that investment is worth $28,406 and has earned an average annual rate of return of 7.38 percent. How long ago did Sara make her investment?",
+    "options": {
+      "A": "31.09 years",
+      "B": "26.82 years",
+      "C": "18.98 years",
+      "D": "14.97 years",
+      "E": "23.03 years"
+    },
+    "answer": "B",
+    "explanation": "$28,406 = $4,208(1.0738)T T = 26.82 years",
+    "chapter": 4
+  },
+  {
+    "id": 335,
+    "question": "Fred purchased a city lot for $39,900. That lot has appreciated at 6.5 percent annually and is now valued at $287,400. How long has Fred owned this lot?",
+    "options": {
+      "A": "26.87 years",
+      "B": "37.97 years",
+      "C": "33.09 years",
+      "D": "31.35 years",
+      "E": "29.11 years"
+    },
+    "answer": "D",
+    "explanation": "$287,400 = $39,900(1.065)T T = 31.35 years",
+    "chapter": 4
+  },
+  {
+    "id": 336,
+    "question": "Thirty-five years ago, your father invested $2,000. Today that investment is worth $98,407. What annual rate of return has been earned on this investment?",
+    "options": {
+      "A": "10.94 percent",
+      "B": "11.33 percent",
+      "C": "10.50 percent",
+      "D": "11.77 percent",
+      "E": "9.99 percent"
+    },
+    "answer": "D",
+    "explanation": "$98,407 = $2,000(1 + r)35 r = .1177, or 11.77%",
+    "chapter": 4
+  },
+  {
+    "id": 337,
+    "question": "Your credit card company charges you 1.35 percent per month. What is the annual percentage rate on your account?",
+    "options": {
+      "A": "16.45 percent",
+      "B": "16.30 percent",
+      "C": "16.39 percent",
+      "D": "16.20 percent",
+      "E": "16.56 percent"
+    },
+    "answer": "D",
+    "explanation": "APR = .0135(12) APR = .1620, or 16.20%",
+    "chapter": 4
+  },
+  {
+    "id": 338,
+    "question": "What is the annual percentage rate on a loan that charges interest of 1.65 percent per quarter?",
+    "options": {
+      "A": "6.50 percent",
+      "B": "6.45 percent",
+      "C": "6.54 percent",
+      "D": "6.60 percent",
+      "E": "6.72 percent"
+    },
+    "answer": "D",
+    "explanation": "APR = .0165(4) APR = .0660, or 6.60%",
+    "chapter": 4
+  },
+  {
+    "id": 339,
+    "question": "A credit card compounds interest monthly and has an effective annual rate of 12.67 percent. What is the annual percentage rate?",
+    "options": {
+      "A": "12.35 percent",
+      "B": "12.00 percent",
+      "C": "11.99 percent",
+      "D": "11.87 percent",
+      "E": "11.93 percent"
+    },
+    "answer": "C",
+    "explanation": "APR = (1.12671/12 − 1)(12) APR = .1199, or 11.99%",
+    "chapter": 4
+  },
+  {
+    "id": 340,
+    "question": "What is the effective annual rate if your credit card charges you 10.64 percent compounded daily? (Assume a 365-day year.)",
+    "options": {
+      "A": "10.79 percent",
+      "B": "11.22 percent",
+      "C": "11.95 percent",
+      "D": "11.48 percent",
+      "E": "12.01 percent"
+    },
+    "answer": "B",
+    "explanation": "EAR = (1 + .1064/365)365 − 1 EAR = .1122, or 11.22%",
+    "chapter": 4
+  },
+  {
+    "id": 341,
+    "question": "Taylor's Hardware offers credit at an APR of 14.9 percent and compounds interest monthly. What actual rate of interest are they charging?",
+    "options": {
+      "A": "13.97 percent",
+      "B": "14.90 percent",
+      "C": "15.48 percent",
+      "D": "15.96 percent",
+      "E": "16.10 percent"
+    },
+    "answer": "D",
+    "explanation": "EAR = (1 + .149/12)12 − 1 EAR = .1596, or 15.96%",
+    "chapter": 4
+  },
+  {
+    "id": 342,
+    "question": "The pawn shop adds 2 percent to loan balances for every two weeks a loan is outstanding. What is the effective annual rate of interest?",
+    "options": {
+      "A": "79.97 percent",
+      "B": "73.08 percent",
+      "C": "51.21 percent",
+      "D": "67.34 percent",
+      "E": "83.43 percent"
+    },
+    "answer": "D",
+    "explanation": "EAR = 1.0252/2 − 1 EAR = .6734, or 67.34%",
+    "chapter": 4
+  },
+  {
+    "id": 343,
+    "question": "You have $2,500 to deposit into a savings account. The five banks in your area offer the following rates. In which bank should you deposit your savings?",
+    "options": {
+      "A": "Bank A: 3.75%, compounded annually",
+      "B": "Bank B: 3.69%, compounded monthly",
+      "C": "Bank C: 3.70% compounded semiannually",
+      "D": "Bank D: 3.67% compounded continuously",
+      "E": "Bank E: 3.65% compounded quarterly"
+    },
+    "answer": "B",
+    "explanation": "EARBank A = 3.75% EARBank B = (1 + .0369/12)12 − 1 EARBank B = .03753, or 3.753% EARBank C = (1 + .0370/2)2 − 1 EARBank C = .03734, or 3.734% EARBank D = e.0367 − 1 EARBank D = .03738, or 3.738% EARBank E = (1 + .0365/4)4 − 1 EARBank E = .03700, or 3.700% Bank B offers the highest EAR.",
+    "chapter": 4
+  },
+  {
+    "id": 344,
+    "question": "What is the effective annual rate of 10.25 percent compounded continuously?",
+    "options": {
+      "A": "10.98 percent",
+      "B": "11.11 percent",
+      "C": "10.79 percent",
+      "D": "11.04 percent",
+      "E": "10.86 percent"
+    },
+    "answer": "C",
+    "explanation": "EAR = e.1025 − 1 EAR = .1079, or 10.79%",
+    "chapter": 4
+  },
+  {
+    "id": 345,
+    "question": "Marcos will receive an annuity payment of $2,500, payable every two years, for the next ten years. The next payment is due two years from today. What is the present value of this annuity at a discount rate of 5 percent?",
+    "options": {
+      "A": "$10,466.67",
+      "B": "$11,221.08",
+      "C": "$9,416.75",
+      "D": "$10,052.48",
+      "E": "$8,949.60"
+    },
+    "answer": "C",
+    "explanation": "2-year interest rate = 1.052 − 1 2-year interest rate = .1025, or 10.25% PV = $2,500[(1 − 1/1.102510/2)/.1025] PV = $9,416.75",
+    "chapter": 4
+  },
+  {
+    "id": 346,
+    "question": "The Smart Bank wants to be competitive based on quoted loan rates and thus must offer loans at an annual percentage rate of 7.9 percent. What is the maximum rate the bank can actually earn based on this quoted rate?",
+    "options": {
+      "A": "7.90 percent",
+      "B": "8.18 percent",
+      "C": "8.20 percent",
+      "D": "8.22 percent",
+      "E": "8.39 percent"
+    },
+    "answer": "D",
+    "explanation": "EAR = e.079 − 1 EAR = .0822, or 8.22%",
+    "chapter": 4
+  },
+  {
+    "id": 347,
+    "question": "What is the future value of investing $5,650 for 14 years at a continuously compounded rate of 8.6 percent?",
+    "options": {
+      "A": "$17,933.54",
+      "B": "$16,685.44",
+      "C": "$19,369.83",
+      "D": "$18,833.85",
+      "E": "$13,183.85"
+    },
+    "answer": "D",
+    "explanation": "FV = $5,650e.086(14) FV = $18,833.85",
+    "chapter": 4
+  },
+  {
+    "id": 348,
+    "question": "Assume you could invest $25,000 at a continuously compounded rate of 10 percent. What would your investment be worth at the end of 50 years?",
+    "options": {
+      "A": "$2,933,054",
+      "B": "$3,500,824",
+      "C": "$3,911,215",
+      "D": "$3,710,329",
+      "E": "$3,648,029"
+    },
+    "answer": "D",
+    "explanation": "FV = $25,000e.10(50) FV = $3,710,329",
+    "chapter": 4
+  },
+  {
+    "id": 349,
+    "question": "Lucas invested $4,500 at 6.2 percent, compounded continuously. What will his investment be worth after 15 years?",
+    "options": {
+      "A": "$15,557.78",
+      "B": "$9,240.03",
+      "C": "$11,405.29",
+      "D": "$12,308.84",
+      "E": "$8,685.00"
+    },
+    "answer": "C",
+    "explanation": "FV = $4,500e.062(15) FV = $11,405.29",
+    "chapter": 4
+  },
+  {
+    "id": 350,
+    "question": "A trust has been established to fund scholarships in perpetuity. The next annual distribution will be $1,200 and future payments will increase by 3 percent per year. What is the value of this trust at a discount rate of 7.4 percent?",
+    "options": {
+      "A": "$17,189.19",
+      "B": "$19,960.00",
+      "C": "$27,272.73",
+      "D": "$24,609.11",
+      "E": "$30,388.18"
+    },
+    "answer": "C",
+    "explanation": "PV = $1,200/(.074 − .03) PV = $27,272.73",
+    "chapter": 4
+  },
+  {
+    "id": 351,
+    "question": "Benson's established a trust fund that provides $125,000 in college scholarships each year. The trust fund earns 6.15 percent and distributes only its annual income. How much money did Benson's contribute to establish this fund?",
+    "options": {
+      "A": "$2,291,613",
+      "B": "$2,032,520",
+      "C": "$2,150,000",
+      "D": "$2,018,970",
+      "E": "$1,987,408"
+    },
+    "answer": "B",
+    "explanation": "PV = $125,000/.0615 PV = $2,032,520",
+    "chapter": 4
+  },
+  {
+    "id": 352,
+    "question": "A preferred stock pays an annual dividend of $6.50 a share and has an annual rate of return of 7.35 percent. What is the stock price?",
+    "options": {
+      "A": "$74.50",
+      "B": "$71.78",
+      "C": "$92.09",
+      "D": "$88.44",
+      "E": "$77.78"
+    },
+    "answer": "D",
+    "explanation": "PV = $6.50/.0735 PV = $88.44",
+    "chapter": 4
+  },
+  {
+    "id": 353,
+    "question": "You want to establish a trust fund that will provide $50,000 a year forever for your heirs. If the fund can earn a guaranteed rate of return of 4.5 percent, how much must you deposit in a solitary lump sum to establish this trust?",
+    "options": {
+      "A": "$1,333,333",
+      "B": "$2,250,000",
+      "C": "$1,250,000",
+      "D": "$1,666,667",
+      "E": "$1,111,111"
+    },
+    "answer": "E",
+    "explanation": "PV = $50,000/.045 PV = $1,111,111",
+    "chapter": 4
+  },
+  {
+    "id": 354,
+    "question": "You just paid $525,000 for a security that will pay you and your heirs $25,000 a year forever. What rate of return will you earn?",
+    "options": {
+      "A": "4.95 percent",
+      "B": "4.39 percent",
+      "C": "4.76 percent",
+      "D": "5.00 percent",
+      "E": "4.50 percent"
+    },
+    "answer": "C",
+    "explanation": "r = $25,000/$525,000 r = .0476, or 4.76%",
+    "chapter": 4
+  },
+  {
+    "id": 355,
+    "question": "Anna's grandmother established a trust and deposited $250,000 into it. The trust pays a guaranteed 4.25 percent rate of return. Anna will receive all the interest earnings on an annual basis and a charity will receive the principal amount at Anna's passing. How much income will Anna receive each year?",
+    "options": {
+      "A": "$10,000",
+      "B": "$8,500",
+      "C": "$12,400",
+      "D": "$10,625",
+      "E": "$12,750"
+    },
+    "answer": "D",
+    "explanation": "C = $250,000(.0425) C = $10,625",
+    "chapter": 4
+  },
+  {
+    "id": 356,
+    "question": "The preferred stock of ABC Co. offers a rate of return of 7.87 percent. The stock is currently priced at $63.53 per share. What is the amount of the annual dividend?",
+    "options": {
+      "A": "$5.20",
+      "B": "$5.00",
+      "C": "$4.60",
+      "D": "$5.50",
+      "E": "$6.00"
+    },
+    "answer": "B",
+    "explanation": "C = $63.53(.0787) C = $5.00",
+    "chapter": 4
+  },
+  {
+    "id": 357,
+    "question": "Olivia is willing to pay $185 a month for four years for a car payment. If the interest rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 358,
+    "question": "9 percent, compounded monthly, and she has a cash down payment of $2,500, what price car can she afford to purchase?",
+    "options": {
+      "A": "$10,961.36",
+      "B": "$10,549.07",
+      "C": "$8,533.84",
+      "D": "$8,686.82",
+      "E": "$8,342.05"
+    },
+    "answer": "B",
+    "explanation": "PV = $2,500 + $185{[1 − 1/(1 + .049/12)4(12)]/(.049/12)} PV = $10,549.07",
+    "chapter": 4
+  },
+  {
+    "id": 359,
+    "question": "Tracie will receive payments of $550 a month for ten years. What are these payments worth today at a discount rate of 6 percent, compounded monthly?",
+    "options": {
+      "A": "$49,540.40",
+      "B": "$51,523.74",
+      "C": "$53,737.08",
+      "D": "$49,757.69",
+      "E": "$48,808.17"
+    },
+    "answer": "A",
+    "explanation": "APV = $550{[1 − 1/(1 + .06/12)10(12)]/(.06/12)} APV = $49,540.40",
+    "chapter": 4
+  },
+  {
+    "id": 360,
+    "question": "Assume your employer will contribute $50 a week for twenty years to your retirement plan. At a discount rate of 5 percent, compounded weekly, what is this employee benefit worth to you today?",
+    "options": {
+      "A": "$29,144.43",
+      "B": "$35,920.55",
+      "C": "$32,861.08",
+      "D": "$26,446.34",
+      "E": "$36,519.02"
+    },
+    "answer": "C",
+    "explanation": "APV = $50{[1 − 1/(1 + .05/52)20(52)]/(.05/52)} APV = $32,861.08",
+    "chapter": 4
+  },
+  {
+    "id": 361,
+    "question": "Wilt has a consulting contract that calls for annual payments of $50,000 a year for five years with the first payment due today. What is the current value of this contract if the discount rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 362,
+    "question": "4 percent?",
+    "options": {
+      "A": "$214,142.50",
+      "B": "$201,867.47",
+      "C": "$195,618.19",
+      "D": "$197,548.43",
+      "E": "$224,267.10"
+    },
+    "answer": "A",
+    "explanation": "APVADue = $50,000[(1 − 1/1.0845)/.084](1.084) APVADue = $214,142.50",
+    "chapter": 4
+  },
+  {
+    "id": 363,
+    "question": "Uptown Industries just decided to save $3,000 a quarter for the next three years. The money will earn 2.75 percent, compounded quarterly, and the first deposit will be made today. If the company had wanted to deposit one lump sum today, rather than make quarterly deposits, how much would it have had to deposit to have the same amount saved at the end of the three years?",
+    "options": {
+      "A": "$34,441.56",
+      "B": "$34,678.35",
+      "C": "$33,428.87",
+      "D": "$33,687.23",
+      "E": "$34,998.01"
+    },
+    "answer": "B",
+    "explanation": "APVADue = $3,000{[1 − 1/(1 + .0275/4)3(4)]/(.0275/4)}(1 + .0275/4) APVADue = $34,678.35",
+    "chapter": 4
+  },
+  {
+    "id": 364,
+    "question": "Scott has been offered an employment contract for ten years at a starting salary of $65,000 with guaranteed annual raises of 5 percent. What is the current value of this offer at a discount rate of 7 percent?",
+    "options": {
+      "A": "$638,724.17",
+      "B": "$602,409.91",
+      "C": "$558,845.85",
+      "D": "$630,500.00",
+      "E": "$525,000.00"
+    },
+    "answer": "C",
+    "explanation": "APV = $65,000({1 − [(1.05/1.07)10]}/(.07 − .05)) APV = $558,845.85",
+    "chapter": 4
+  },
+  {
+    "id": 365,
+    "question": "You need some money today and the only friend you have that has any is your 'miserly' friend. He agrees to loan you the money you need, if you make payments of $20 a month for the next six months. In keeping with his reputation, he requires that the first payment be paid today. He also charges you 1.5 percent interest per month. How much total interest does he expect to earn?",
+    "options": {
+      "A": "$3.94",
+      "B": "$4.35",
+      "C": "$1.34",
+      "D": "$3.63",
+      "E": "$5.96"
+    },
+    "answer": "B",
+    "explanation": "APVADue = $20[(1 − 1/1.0156)/.015](1.015) APVADue = $115.65 Total interest = 6($20) − $115.65 Total interest = $4.35",
+    "chapter": 4
+  },
+  {
+    "id": 366,
+    "question": "Lois is purchasing an annuity that will pay $5,000 annually for 20 years, with the first annuity payment made on the date of purchase. What is the value of the annuity on the purchase date given a discount rate of 7 percent?",
+    "options": {
+      "A": "$54,282.98",
+      "B": "$52,970.07",
+      "C": "$56,677.98",
+      "D": "$56,191.91",
+      "E": "$66,916.21"
+    },
+    "answer": "C",
+    "explanation": "APVADue = $5,000[(1 − 1/1.0720)/.07](1.07) APVADue = $56,677.98",
+    "chapter": 4
+  },
+  {
+    "id": 367,
+    "question": "Denise will receive annual payments of $10,000 for the next 25 years. The discount rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 368,
+    "question": "8 percent. What is the difference in the present value of these payments if they are paid at the beginning of each year rather than at the end of each year?",
+    "options": {
+      "A": "$8,069.29",
+      "B": "$9,216.67",
+      "C": "$9,706.67",
+      "D": "$8,382.04",
+      "E": "$8,850.00"
+    },
+    "answer": "A",
+    "explanation": "APVADue = $10,000[(1 - 1/1.06825)/.068](1.068) APVADue = $126,735.21 APV = $10,000[(1 − 1/1.06825)/.068] APV = $118,665.92 Difference = $126,735.21 − 118,665.92 Difference = $8,069.29",
+    "chapter": 4
+  },
+  {
+    "id": 369,
+    "question": "You are comparing two annuities with equal present values. The applicable discount rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 370,
+    "question": "5 percent. One annuity will pay $2,000 annually, starting today, for 20 years. The second annuity will pay annually, starting one year from today, for 20 years. What is the annual payment for the second annuity?",
+    "options": {
+      "A": "$2,225",
+      "B": "$2,075",
+      "C": "$2,000",
+      "D": "$2,130",
+      "E": "$2,405"
+    },
+    "answer": "D",
+    "explanation": "APVADue = $2,000[(1 − 1/1.06520)/.065](1.065) APVADue = $23,469.42 $23,469.42 = C[(1 − 1/1.06520)/.065] C = $2,130 This can also be computed as: C = $2,000(1.065) = $2,130",
+    "chapter": 4
+  },
+  {
+    "id": 371,
+    "question": "Kay owns two annuities that will each pay $500 a month for the next 12 years. One payment is received at the beginning of each month while the other is received at the end of each month. At a discount rate of 7.25 percent, compounded monthly, what is the difference in the present values of these annuities?",
+    "options": {
+      "A": "$289.98",
+      "B": "$265.42",
+      "C": "$299.01",
+      "D": "$308.00",
+      "E": "$312.50"
+    },
+    "answer": "A",
+    "explanation": "APVADue = $500{[1 − 1/(1 + .0725/12)12(12)]/(.0725/12)}(1 + .0725/12) APVADue = $48,285.87 APV = $500{[1 − 1/(1 + .0725/12)12(12)]/(.0725/12)} APV = $47,995.89 Difference = $48,285.87 − 47,995.89 Difference = $289.98 This can also be computed as: Difference = (.0725/12)$47,995.89 Difference = $289.98",
+    "chapter": 4
+  },
+  {
+    "id": 372,
+    "question": "What is the future value of $845 a year for seven years at an interest rate of 11.3 percent?",
+    "options": {
+      "A": "$6,683.95",
+      "B": "$6,075.69",
+      "C": "$8,343.51",
+      "D": "$8,001.38",
+      "E": "$8,801.91"
+    },
+    "answer": "C",
+    "explanation": "AFV = $845[(1.1137 − 1)/.113] AFV = $8,343.51",
+    "chapter": 4
+  },
+  {
+    "id": 373,
+    "question": "What is the future value of $3,100 a year for six years at interest rate of 8.9 percent?",
+    "options": {
+      "A": "$20,255.40",
+      "B": "$26,847.26",
+      "C": "$27,134.16",
+      "D": "$23,263.57",
+      "E": "$24,414.67"
+    },
+    "answer": "D",
+    "explanation": "AFV = $3,100[(1.0896 − 1)/.089] AFV = $23,263.57",
+    "chapter": 4
+  },
+  {
+    "id": 374,
+    "question": "Janet saves $3,000 a year at an interest rate of 4.2 percent. What will her savings be worth at the end of 35 years?",
+    "options": {
+      "A": "$229,317.82",
+      "B": "$230,702.57",
+      "C": "$230,040.06",
+      "D": "$234,868.92",
+      "E": "$236,063.66"
+    },
+    "answer": "C",
+    "explanation": "AFV = $3,000[(1.04235 − 1)/.042] AFV = $230,040.06",
+    "chapter": 4
+  },
+  {
+    "id": 375,
+    "question": "You plan to save $2,400 a year and earn an average rate of interest of 5.6 percent. How much more will your savings be worth at the end of 40 years if you save at the beginning of each year rather than at the end of each year?",
+    "options": {
+      "A": "$17,822.73",
+      "B": "$18,821.10",
+      "C": "$18,911.21",
+      "D": "$19,103.04",
+      "E": "$18,115.31"
+    },
+    "answer": "B",
+    "explanation": "AFV = $2,400[(1.05640 − 1)/.056] AFV = $336,091.14 AFVADue = $2,400[(1.05640 − 1)/.056](1.056) AFVADue = $354,912.24 Difference = $354,912.24 − 336,091.14 Difference = $18,821.10 This can also be computed as: Difference = $336,091.14(.056) Difference = $18,821.10",
+    "chapter": 4
+  },
+  {
+    "id": 376,
+    "question": "You borrow $12,600 to buy a car. The terms of the loan call for monthly payments for five years at an interest rate of 4.65 percent, compounded monthly. What is the amount of each payment?",
+    "options": {
+      "A": "$253.22",
+      "B": "$243.73",
+      "C": "$230.62",
+      "D": "$235.76",
+      "E": "$233.04"
+    },
+    "answer": "D",
+    "explanation": "$12,600 = C{[1 − 1/(1 + .0465/12)5(12)]/(.0465/12)} C = $235.76",
+    "chapter": 4
+  },
+  {
+    "id": 377,
+    "question": "You borrow $199,000 to buy a house. The mortgage rate is 5.5 percent, compounded monthly. The loan period is 30 years, and payments are made monthly. If you pay for the house according to the loan agreement, how much total interest will you pay?",
+    "options": {
+      "A": "$218,086",
+      "B": "$198,161",
+      "C": "$207,764",
+      "D": "$211,086",
+      "E": "$185,059"
+    },
+    "answer": "C",
+    "explanation": "$199,000 = C{[1 − 1/(1 + .055/12)30(12)]/(.055/12)} C = $1,129.90 Total interest = 30(12)($1,129.90) − $199,000 Total interest = $207,764",
+    "chapter": 4
+  },
+  {
+    "id": 378,
+    "question": "You want to have $20,000 saved in five years. If you can earn 4.5 percent on your savings, what amount must you save each year if the amount you save each year is the same?",
+    "options": {
+      "A": "$3,775.04",
+      "B": "$3,798.34",
+      "C": "$3,801.03",
+      "D": "$3,655.83",
+      "E": "$4,038.01"
+    },
+    "answer": "D",
+    "explanation": "$20,000 = C[(1.0455 − 1)/.045] C = $3,655.83",
+    "chapter": 4
+  },
+  {
+    "id": 379,
+    "question": "On the day she retired, Kate had $101,900 in retirement savings. She expects to earn 4.5 percent, compounded monthly, and live 24 more years. How much can she withdraw from her savings each month during her retirement if she plans to die on the day she spends her last penny?",
+    "options": {
+      "A": "$592.07",
+      "B": "$609.21",
+      "C": "$539.87",
+      "D": "$604.86",
+      "E": "$579.22"
+    },
+    "answer": "E",
+    "explanation": "$101,900 = C{[1 − 1/(1 + .045/12)24(12)]/(.045/12)} C = $579.22",
+    "chapter": 4
+  },
+  {
+    "id": 380,
+    "question": "Donaldson's purchased some property for $1.2 million, paid 25 percent down in cash, and financed the balance for 12 years at 7.2 percent, compounded monthly. What is the amount of each monthly mortgage payment?",
+    "options": {
+      "A": "$8,440.01",
+      "B": "$8,978.26",
+      "C": "$9,351.66",
+      "D": "$9,399.18",
+      "E": "$9,513.67"
+    },
+    "answer": "C",
+    "explanation": "Amount financed = $1,200,000(1 − .25) = $900,000 $900,000 = C{[1 − 1/(1 + .072/12)12(12)]/(.072/12)} C = $9,351.66",
+    "chapter": 4
+  },
+  {
+    "id": 381,
+    "question": "Assume you graduate with $31,300 in student loans at an interest rate of 5.25 percent, compounded monthly. If you want to have this debt paid in full within three years, how much must you pay each month?",
+    "options": {
+      "A": "$871.30",
+      "B": "$873.65",
+      "C": "$876.79",
+      "D": "$941.61",
+      "E": "$980.40"
+    },
+    "answer": "D",
+    "explanation": "$31,300 = C{[1 − 1/(1 + .0525/12)3(12)]/(.0525/12)} C = $941.61",
+    "chapter": 4
+  },
+  {
+    "id": 382,
+    "question": "You are buying a car for $7,500, paying $900 down in cash, and financing the balance for 24 months at 6.5 percent, compounded monthly. What is the amount of each monthly loan payment?",
+    "options": {
+      "A": "$318.64",
+      "B": "$294.01",
+      "C": "$302.02",
+      "D": "$264.78",
+      "E": "$245.09"
+    },
+    "answer": "B",
+    "explanation": "Amount financed = $7,500 − 900 = $6,600 $6,600 = C{[1 − 1/(1 + .065/12)24]/(.065/12)} C = $294.01",
+    "chapter": 4
+  },
+  {
+    "id": 383,
+    "question": "Your parents plan to give you $200 a month for four years while you are in college. At a discount rate of 6 percent, compounded monthly, what are these payments worth to you when you first start college?",
+    "options": {
+      "A": "$8,797.40",
+      "B": "$8,409.56",
+      "C": "$8,198.79",
+      "D": "$8,516.06",
+      "E": "$8,279.32"
+    },
+    "answer": "D",
+    "explanation": "APV = $200{[1 − 1/(1 + .06/12)4(12)]/(.06/12)} APV = $8,516.06",
+    "chapter": 4
+  },
+  {
+    "id": 384,
+    "question": "You just won the lottery! As your prize you will receive $1,500 a month for 150 months. If you can earn 7 percent, compounded monthly, on your money, what is this prize worth to you today?",
+    "options": {
+      "A": "$137,003.69",
+      "B": "$149,676.91",
+      "C": "$137,962.77",
+      "D": "$148,104.26",
+      "E": "$150,723.76"
+    },
+    "answer": "B",
+    "explanation": "APV = $1,500{[1 − 1/(1 + .07/12)150]/(.07/12)} APV = $149,676.91",
+    "chapter": 4
+  },
+  {
+    "id": 385,
+    "question": "You want to purchase an annuity that will pay you $1,200 a quarter for 15 years and earn a return of 5.5 percent, compounded quarterly. What is the most you should pay to purchase this annuity?",
+    "options": {
+      "A": "$52,988.16",
+      "B": "$48,811.20",
+      "C": "$47,455.33",
+      "D": "$48,450.67",
+      "E": "$52,806.30"
+    },
+    "answer": "B",
+    "explanation": "APV = $1,200{[1 − 1/(1 + .055/4)15(4)]/(.055/4)} APV = $48,811.20",
+    "chapter": 4
+  },
+  {
+    "id": 386,
+    "question": "A car dealer is willing to lease you a car for $319 a month for 60 months. Payments are due on the first day of each month starting with the day you sign the lease contract. If your cost of money is 4.9 percent, compounded monthly, what is the current value of the lease?",
+    "options": {
+      "A": "$17,882.75",
+      "B": "$17,906.14",
+      "C": "$17,014.34",
+      "D": "$16,235.42",
+      "E": "$16,689.54"
+    },
+    "answer": "C",
+    "explanation": "APVADue = {$319{[1 − 1/(1 + .049/12)60]/(.049/12)}(1 + .049/12) APVADue = $17,014.34",
+    "chapter": 4
+  },
+  {
+    "id": 387,
+    "question": "Sara is the recipient of a trust that will pay her $500 on the first day of each month, starting immediately and continuing for 40 years. What is the value of this inheritance today if the applicable discount rate is 7.3 percent, compounded monthly?",
+    "options": {
+      "A": "$76,811.30",
+      "B": "$67,557.52",
+      "C": "$89,204.04",
+      "D": "$78,192.28",
+      "E": "$80,006.09"
+    },
+    "answer": "D",
+    "explanation": "APVADue = $500{[1 − 1/(1 + .073/12)40(12)]/(.073/12)}(1 + .073/12) APVADue = $78,192.28",
+    "chapter": 4
+  },
+  {
+    "id": 388,
+    "question": "Starting today, Alicia is going to contribute $100 a month to her retirement account. Her employer matches her contribution by 50 percent. If these contributions remain constant, and she earns a monthly rate of .55 percent, how much will her savings be worth 40 years from now?",
+    "options": {
+      "A": "$399,459.44",
+      "B": "$300,456.74",
+      "C": "$349,981.21",
+      "D": "$299,189.16",
+      "E": "$354,087.88"
+    },
+    "answer": "E",
+    "explanation": "AFVADue = ($100 + 50)[(1.005540(12) − 1)/.0055](1.0055) AFVADue = $354,087.88",
+    "chapter": 4
+  },
+  {
+    "id": 389,
+    "question": "An annuity costs $70,000 today, pays $3,500 a year, and earns a return of 4.5 percent. What is the length of the annuity time period?",
+    "options": {
+      "A": "54.96 years",
+      "B": "49.48 years",
+      "C": "52.31 years",
+      "D": "43.08 years",
+      "E": "48.00 years"
+    },
+    "answer": "C",
+    "explanation": "$70,000 = $3,500[(1 − 1/1.045T)/.045] 10 = 1.045T ln10 = Tln1.045 T = 52.31 years",
+    "chapter": 4
+  },
+  {
+    "id": 390,
+    "question": "You are borrowing $5,200 at 7.8 percent, compounded monthly. The monthly loan payment is $141.88. How many loan payments must you make before the loan is paid in full?",
+    "options": {
+      "A": "30",
+      "B": "36",
+      "C": "40",
+      "D": "42",
+      "E": "48"
+    },
+    "answer": "D",
+    "explanation": "$5,200 = $141.88{[1 − 1/(1 + .078/12)T]/(.078/12)} ln1.3127 = Tln1.0065 T = 42",
+    "chapter": 4
+  },
+  {
+    "id": 391,
+    "question": "You are retired, have $264,500 in your savings, withdraw $2,000 each month, and earn 4.5 percent, compounded monthly. How long will it be until you run out of money?",
+    "options": {
+      "A": "13.67 years",
+      "B": "15.25 years",
+      "C": "22.08 years",
+      "D": "13.02 years",
+      "E": "18.78 years"
+    },
+    "answer": "B",
+    "explanation": "$264,500 = $2,000{[1 − 1/(1 + .045/12)T]/(.045/12)} ln1.9839 = Tln1.00375 T = 183.02 months, or 15.25 years",
+    "chapter": 4
+  },
+  {
+    "id": 392,
+    "question": "A growing perpetuity is currently valued $6,225.81. The next annuity payment will be $386 and the discount rate is 9 percent. What is the annuity's rate of growth?",
+    "options": {
+      "A": "2.45 percent",
+      "B": "3.10 percent",
+      "C": "2.80 percent",
+      "D": "2.50 percent",
+      "E": "2.95 percent"
+    },
+    "answer": "C",
+    "explanation": "$6,225.81 = $386/(.09 − g) g = .028, or 2.80%",
+    "chapter": 4
+  },
+  {
+    "id": 393,
+    "question": "Christina will receive annuity payments of $1,200 a year for five years, with the first payment occurring at Year 4. What is the value of this annuity to her today at a discount rate of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 394,
+    "question": "25 percent?",
+    "options": {
+      "A": "$4,209.19",
+      "B": "$4,774.04",
+      "C": "$3,961.80",
+      "D": "$4,887.48",
+      "E": "$4,111.08"
+    },
+    "answer": "C",
+    "explanation": "APV3 = $1,200[(1 − 1/1.07255)/.0725] APV3 = $4,887.48 PV0 = $4,887.48/1.07253 PV0 = $3,961.80",
+    "chapter": 4
+  },
+  {
+    "id": 395,
+    "question": "Jeanette expects to live 30 years after she retires. At the end of the first year of her retirement, she wants to withdraw $35,000 from her savings. Each year thereafter, she wants to increase her annual withdrawal by 3.5 percent. If she can earn 5.5 percent on her savings, how much does she need to have in retirement savings on the day she retires?",
+    "options": {
+      "A": "$862,001.34",
+      "B": "$648,909.18",
+      "C": "$764,458.87",
+      "D": "$919,028.56",
+      "E": "$832,004.01"
+    },
+    "answer": "C",
+    "explanation": "APV = $35,000{[1 − (1.035/1.055)30]/(.055 − .035)} APV = $764,458.87",
+    "chapter": 4
+  },
+  {
+    "id": 396,
+    "question": "Nu-Tools plans to set aside an equal amount of money each year, starting today, so that it will have $25,000 saved at the end of three years. If the firm can earn 4.7 percent, how much does it have to save annually?",
+    "options": {
+      "A": "$7,596.61",
+      "B": "$7,689.16",
+      "C": "$8,004.67",
+      "D": "$8,414.14",
+      "E": "$8,333.33"
+    },
+    "answer": "A",
+    "explanation": "$25,000 = C[(1.0473 − 1)/.047](1.047) C = $7,596.61",
+    "chapter": 4
+  },
+  {
+    "id": 397,
+    "question": "Seven years ago, Carlos took out a mortgage for $185,000 at 5.6 percent, compounded monthly, for 30 years. He has made all of the monthly payments as agreed. What is his current loan balance?",
+    "options": {
+      "A": "$ 157,308.74",
+      "B": "$141,833.33",
+      "C": "$164,621.06",
+      "D": "$148,211.09",
+      "E": "$142,779.47"
+    },
+    "answer": "C",
+    "explanation": "$185,000 = C{[1 − 1/(1 + .056/12)30(12)]/(.056/12)} C = $1,062.05 PV = $1,062.05{[1 − 1/(1 + .056/12)(30 − 7)(12)]/(.056/12)} PV = $164,621.06",
+    "chapter": 4
+  },
+  {
+    "id": 398,
+    "question": "Assume mortgage rates increase to 7.5 percent and you borrow $329,000 for 30 years to purchase a house. What will your loan balance be at the end of the first 15 years of monthly payments?",
+    "options": {
+      "A": "$238,854.07",
+      "B": "$194,311.64",
+      "C": "$248,153.73",
+      "D": "$207,308.09",
+      "E": "$192,938.72"
+    },
+    "answer": "C",
+    "explanation": "$329,000 = C{[1 − 1/(1 + .075/12)30(12)]/(.075/12)} C = $2,300.42 PV = $2,300.42{[1 − 1/(1 + .075/12)(30 − 15)(12)]/(.075/12)} PV = $248,153.73",
+    "chapter": 4
+  },
+  {
+    "id": 399,
+    "question": "Angela borrowed $5,000 for five years at an APR of 6.2 percent. The loan calls for equal, annual principal payments. Interest will also be paid annually. What will be her loan payment in Year 2?",
+    "options": {
+      "A": "$1,248",
+      "B": "$1,310",
+      "C": "$1,016",
+      "D": "$1,274",
+      "E": "$1,157"
+    },
+    "answer": "A",
+    "explanation": "Year 2 loan payment = $5,000/5 + ($5,000 − 1,000)(.062) Year 2 loan payment = $1,248",
+    "chapter": 4
+  },
+  {
+    "id": 400,
+    "question": "A small craft store located in a kiosk expects to generate annual cash flows of $6,800 for the next three years. At the end of the three years, the business is expected to be sold for $15,000. What is the value of this business at a discount rate of 15 percent?",
+    "options": {
+      "A": "$30,100.07",
+      "B": "$29,408.27",
+      "C": "$25,388.67",
+      "D": "$17,409.09",
+      "E": "$19,477.67"
+    },
+    "answer": "C",
+    "explanation": "PV = [$6,800[(1 − 1/1.153)/.15] + $15,000/1.153 PV = $25,388.67",
+    "chapter": 4
+  },
+  {
+    "id": 401,
+    "question": "TH Manufacturers expects to generate cash flows of $129,600 for the next two years. At the end of the two years the business will be sold for an estimated $3.2 million. What is the value of this business at a discount rate of 14 percent?",
+    "options": {
+      "A": "$2,704,655",
+      "B": "$2,284,644",
+      "C": "$2,675,703",
+      "D": "$2,848,392",
+      "E": "$2,900,411"
+    },
+    "answer": "C",
+    "explanation": "PV = [$129,600[(1 − 1/1.142)/.14)] + $3,200,000/1.142 PV = $2,675,703",
+    "chapter": 4
+  },
+  {
+    "id": 402,
+    "question": "Jenni's Diner has expected net annual cash flows of $16,200, $18,600, $19,100, and $19,500 for the next four years, respectively. At the end of the fourth year, the diner is expected to be worth $57,900 cash. What is the present value of the diner at a discount rate of 11.6 percent?",
+    "options": {
+      "A": "$93,090.25",
+      "B": "$87,492.16",
+      "C": "$101,016.38",
+      "D": "$104,998.02",
+      "E": "$98,411.20"
+    },
+    "answer": "A",
+    "explanation": "PV = $16,200/1.116 + $18,600/1.1162 + $19,100/1.1163 + ($19,500 + 57,900)/1.1164 PV = $93,090.25",
+    "chapter": 4
+  },
+  {
+    "id": 403,
+    "question": "Explain the net present value formula and also explain what the net present value represents. NPV = −Cost + PV Answer: The net present value formula computes NPV as the present value of all cash flows that occur after the initial investment minus the initial investment, or cost. A positive NPV value indicates the amount the project or investment will earn over and above the discount rate. For example, if a project has an NPV of $200 and a discount rate of 14 percent, then the project will is expected to earn a return of 14 percent plus an additional $200. If the NPV is negative, such as −$200 at a discount rate of 14 percent, then the project earns 14 percent less $200. Difficulty: 2 Medium Section: 4.1 Valuation: The One-Period Case Topic: Net present value Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 57 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 404,
+    "question": "Marlene and Darlene are each the recipient of an annuity that pays $1,000 at the end of each year for twelve years. They both received their first payment on the same day. Explain how Marlene and Darlene could have different NPVs for their annuities. Answer: The value of an annuity depends on the payment amount, the timing of the payments (beginning or end of period), the number of annuity periods, and also the discount rate. If Marlene and Darlene assign different discount rates to their annuities, then the values of their annuities will differ. The higher the discount rate, the lower the present value. Difficulty: 2 Medium Section: 4.4 Simplifications Topic: Present value - annuity Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 405,
+    "question": "There are multiple factors that affect the value of an annuity. Explain what these four factors are and discuss how a change in each factor will impact both the present value and the future value of the annuity. Answer: The factors are the interest rate, payment amount, payment timing (beginning or end of period), and number of payments. An increase in either the payment amount or the number of payments will increase both the present value and the future value of the annuity. An annuity due (payment at beginning of period) will have a higher present value and a higher future value than a comparable ordinary annuity (payment at end of period). An increase in the interest rate will decrease the present value but increase the future value. Difficulty: 2 Medium Section: 4.4 Simplifications Topic: Annuities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 58 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 406,
+    "question": "Tobi owns a perpetuity that will pay $1,500 a year, starting one year from now. He offers to sell you all the payments remaining after the first 25 payments have been paid. What price should you offer him today for payments 26 onward if the discount rate is 8 percent? What does your offer price illustrate about the value of perpetuities? Answer: Perpetuity value: PV = $1,500/.08 PV = $18,750 Value of payments for first 25 years: PV = $1,500[(1 - 1/1.0825)/.08] PV = $16,012.16 Value of payments after the first 25 years: PV = $18,750 − 16,012.16 PV = $2,737.84 This can also be calculated as: PV = $18,750/1.0825 PV = $2,737.84 This illustrates that the value of a perpetuity is derived primarily from the payments received early in the perpetuity's life. Difficulty: 2 Medium Section: 4.4 Simplifications Topic: Perpetuities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 4
+  },
+  {
+    "id": 407,
+    "question": "What is the difference between an ordinary annuity and an annuity due? What value can be used to quickly convert both the present value and the future value of an ordinary annuity into annuity due values? Answer: An ordinary annuity has payments that occur at the end of each time period while annuity due payments occur at the beginning of each time period. If you multiply either the present value or the future value of an ordinary annuity by a factor of (1 + r), where r is the interest rate per period, you have the value of the annuity due. Difficulty: 2 Medium Section: 4.4 Simplifications Topic: Annuities Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 4
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "id": 1676,
+    "question": "In a direct lease arrangement, the owner of the asset is:",
+    "options": {
+      "A": "either the lessee or the lessor.",
+      "B": "the lessee.",
+      "C": "the lessor.",
+      "D": "either the lessee or the manufacturer.",
+      "E": "the asset's manufacturer."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1677,
+    "question": "Which one of these characteristics does not apply to a financial lease?",
+    "options": {
+      "A": "The lease is usually not fully amortized.",
+      "B": "The lessee is responsible for the maintenance of the leased assets.",
+      "C": "Generally, the lease cannot be cancelled.",
+      "D": "The lessee usually has the right to renew the lease on expiration.",
+      "E": "The lessee must pay all the lease payments."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1678,
+    "question": "If Alby's leases equipment directly from the equipment's manufacturer the lease must be a:",
+    "options": {
+      "A": "leveraged lease.",
+      "B": "sales and leaseback arrangement.",
+      "C": "capital lease.",
+      "D": "sales-type lease.",
+      "E": "bargain lease."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1679,
+    "question": "An operating lease generally:",
+    "options": {
+      "A": "has a term that exceeds the economic life of the leased asset.",
+      "B": "is fully amortized.",
+      "C": "cannot be cancelled.",
+      "D": "requires the lessee to return the leased asset to the lessor if the lease is cancelled.",
+      "E": "requires the lessee to maintain the leased asset."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1680,
+    "question": "If the lessor borrows the majority of the purchase price of a leased asset, the lease is called a:",
+    "options": {
+      "A": "leveraged lease.",
+      "B": "sale-and-leaseback arrangement.",
+      "C": "capital lease.",
+      "D": "nonrecourse lease.",
+      "E": "bargain purchase lease."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1681,
+    "question": "A financial lease has which one of the following characteristics?",
+    "options": {
+      "A": "Lessor maintains leased asset",
+      "B": "Cost of asset exceeds lease payments",
+      "C": "Cancellation clause",
+      "D": "Lessor must make all lease payments",
+      "E": "Fully amortized"
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1682,
+    "question": "A leveraged lease typically involves a nonrecourse loan which means that in the case of default the:",
+    "options": {
+      "A": "lease payments go directly to the lender.",
+      "B": "the lessee obtains a first lien on the leased assets.",
+      "C": "lessor is obligated to fulfill the terms of both the lease and the loan.",
+      "D": "lessee assumes the loan obligation in exchange for the title to the leased assets.",
+      "E": "lease is automatically cancelled."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1683,
+    "question": "The city of Plainview sold its maintenance facility in an all-cash transaction and used the proceeds to improve the city's financial position. The city then leased the building from the new owner on a non-cancellable basis. The city will be responsible for the maintenance and upkeep of the facility. These transactions illustrate:",
+    "options": {
+      "A": "an operating lease.",
+      "B": "a leveraged lease.",
+      "C": "a sale and leaseback.",
+      "D": "a fully amortized lease.",
+      "E": "both an operating lease and a sale and leaseback."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1684,
+    "question": "For accounting purposes, which one of the following conditions would automatically cause a lease to be classified as a capital lease?",
+    "options": {
+      "A": "The lessee can purchase the asset at fair market value at the end of the lease.",
+      "B": "The lease transfers ownership of the asset to the lessee by the end of the lease term.",
+      "C": "The lease term equals 60 percent or more of the asset's estimated economic life.",
+      "D": "The present value of the lease payments equals 75 percent of the asset's fair market value at lease inception.",
+      "E": "The lessor can renew the lease at the end of the lease term."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1685,
+    "question": "Reed Machinery just signed a capital lease agreement with a present value of $260,000. How would this lease first appear on Reed Machinery's balance sheet?",
+    "options": {
+      "A": "Capital leases do not appear on the balance sheet.",
+      "B": "Assets under capital lease $260,000; Obligations under capital lease $260,000",
+      "C": "Assets under capital lease $130,000; Obligations under capital lease $130,000",
+      "D": "Assets under capital lease $260,000; Retained earnings committed to leases $260,000",
+      "E": "Assets under capital lease $130,000; Retained earnings committed to leases $130,000"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1686,
+    "question": "As of 2018, FAS 13, Accounting for Leases requires:",
+    "options": {
+      "A": "all leases, of any type, be recorded on the lessee's balance sheet.",
+      "B": "capital leases be recorded in the footnotes or scheduled section of the lessee's financial statements.",
+      "C": "sale and leaseback arrangements be recorded on the lessee's balance sheet with all other leases recorded elsewhere in the financial statements.",
+      "D": "operating leases be recorded on the lessee's balance sheet as an asset and offsetting liability.",
+      "E": "all leases with bargain purchase price options to be recorded on the lessee's balance sheet."
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1687,
+    "question": "When a lease must be recorded on the balance to meet FAS 13, the asset amount is set equal to the:",
+    "options": {
+      "A": "amount of the lease payments due within the next 12 months.",
+      "B": "present value of the lease payments.",
+      "C": "amount of the lease payments due within the current fiscal year.",
+      "D": "present value of the lease payments due within the next 12 months.",
+      "E": "total sum of all the remaining lease payments."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1688,
+    "question": "FAS 13 sets forth four criteria for determining whether or not a lease must be classified as a capital lease. How many of these criteria must be met for capital lease classification?",
+    "options": {
+      "A": "All four criteria",
+      "B": "Any three of the four",
+      "C": "Any two of the four",
+      "D": "Any one of the four",
+      "E": "Any two of the four provided the lessee has ownership rights at the end of the lease"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1689,
+    "question": "As of 2019, operating leases:",
+    "options": {
+      "A": "appear as offsetting items on the lessee's balance sheet.",
+      "B": "are fully expensed at the time the lease is established.",
+      "C": "are excluded from the lessee's financial reports.",
+      "D": "are treated the same as a purchase.",
+      "E": "are disclosed in the financial statement footnotes."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1690,
+    "question": "Fresh Fish has assets valued at $1.2 million and liabilities of $.98 million. The firm wants to obtain new equipment via a capital lease. The equipment costs $200,000 and the present value of the lease payments is $175,000. With the lease, the firm's balance sheet will show assets of ________ and liabilities of ________.",
+    "options": {
+      "A": "$1,375,000; $1,375,000",
+      "B": "$1,400,000; $1,180,000",
+      "C": "$1,400,000; $1,400,000",
+      "D": "$1,375,000; $1,155,000",
+      "E": "$1,400,000; $1,155,000"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1691,
+    "question": "Sizzler's is considering either purchasing or leasing an asset that costs $28,000, has a life of 6 years, and a zero salvage value. The firm has a tax rate of 21 percent and a borrowing rate of 7 percent. The firm can lease the asset for five years with lease payments of $4,500 payable the first of each year. This lease would be classified as a(n):",
+    "options": {
+      "A": "operating lease because the asset life is less than 10 years.",
+      "B": "operating lease because there is no cost reduction.",
+      "C": "leveraged lease because it is being financed with debt.",
+      "D": "capital lease because the lease term is greater than 75 percent of the economic life.",
+      "E": "sale and leaseback arrangement because Sizzler's obtains full use of the asset."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1692,
+    "question": "Benji's is considering leasing a machine effective June 2019 for a period of four years with monthly payments of $680. The present value of the lease will be $27,325 and the tax rate will be 21 percent. If the lease is classified as an operating lease, what amount, if any, should appear in the asset section of the balance sheet on the effective date of the lease?",
+    "options": {
+      "A": "$5,738",
+      "B": "$21,587",
+      "C": "$0",
+      "D": "$27,325",
+      "E": "$32,640"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1693,
+    "question": "If a lease term is 35 years the IRS will classify the lease as a:",
+    "options": {
+      "A": "financial lease.",
+      "B": "operating lease.",
+      "C": "capital lease.",
+      "D": "conditional sale.",
+      "E": "sale and leaseback arrangement."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1694,
+    "question": "To meet IRS guidelines for leasing, the lease should:",
+    "options": {
+      "A": "limit the lessee's right to issue debt or pay dividends while the lease is operative.",
+      "B": "offer renewal options only at fair market value.",
+      "C": "pay a very low rate of return to the lessor.",
+      "D": "transfer ownership of the asset at the end of the lease at below fair market value.",
+      "E": "have a term of 30 years or more."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1695,
+    "question": "One key reason why the IRS is concerned about the structure of lease contracts is because:",
+    "options": {
+      "A": "firms that lease generally pay no taxes.",
+      "B": "leasing usually leads to bankruptcy.",
+      "C": "leases can be set up solely to avoid taxes.",
+      "D": "leasing leads to off-balance-sheet-financing.",
+      "E": "lease payments can never be deducted as a business expense."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1696,
+    "question": "A lease with which one of these characteristics would not be qualified by the IRS?",
+    "options": {
+      "A": "Term of 25 years",
+      "B": "Early balloon payments",
+      "C": "Lessee option to purchase asset at fair market value at lease expiration",
+      "D": "No lease provision limiting the lessee's right to issue additional debt",
+      "E": "Lessee granted first option to meet a competing outside renewal offer"
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1697,
+    "question": "Which one of these can be ignored when valuing a purchase versus a lease?",
+    "options": {
+      "A": "Tax shield from depreciation",
+      "B": "Investment outlay for the asset",
+      "C": "Changes in operating costs related to the acquired asset",
+      "D": "Lease payments",
+      "E": "Taxes"
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1698,
+    "question": "When computing the incremental cash flows from leasing relative to purchasing, the:",
+    "options": {
+      "A": "cost of the asset is a negative cash flow.",
+      "B": "lost depreciation tax benefit is a negative cash flow.",
+      "C": "pretax lease payment is a positive cash flow.",
+      "D": "lease payments are ignored.",
+      "E": "tax benefit of the lease payment is a negative cash flow."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1699,
+    "question": "Assume the net present value of a lease relative to a purchase is $150. This indicates that the:",
+    "options": {
+      "A": "purchase price is less than the reduction in optimal debt level if leasing.",
+      "B": "lease is preferred.",
+      "C": "optimal lease payment is $150 per period.",
+      "D": "net advantage of leasing is negative.",
+      "E": "lease provides an advantage only to the lessor."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1700,
+    "question": "In the presence of corporate taxes, riskless cash flows should be discounted at the:",
+    "options": {
+      "A": "aftertax riskless rate of interest.",
+      "B": "aftertax cost of firm debt.",
+      "C": "pretax riskless rate of interest.",
+      "D": "pretax cost of firm debt.",
+      "E": "market rate of interest."
+    },
+    "answer": "A",
+    "chapter": 21
+  },
+  {
+    "id": 1701,
+    "question": "The appropriate discount rate that a lessee should use to value a financial lease is the:",
+    "options": {
+      "A": "lessee's aftertax weighted average cost of capital.",
+      "B": "lessor's aftertax cost of borrowing.",
+      "C": "lessee's aftertax cost of secured borrowing.",
+      "D": "capitalization rate stated in the lease contract.",
+      "E": "current U.S. Treasury T-bill rate."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1702,
+    "question": "Which one of these statements is false?",
+    "options": {
+      "A": "Lenders are concerned about a firm's total liabilities including lease obligations.",
+      "B": "Debt displacement occurs with leasing.",
+      "C": "Less future debt can be raised for a growing firm when leasing occurs.",
+      "D": "Leasing allows the lessee to increase the benefits of debt capacity.",
+      "E": "Leases should be ignored when computing debt-equity or liability-equity ratios."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1703,
+    "question": "Why must some debt be eliminated when a firm enters a lease agreement?",
+    "options": {
+      "A": "FAS 13 requires an increase in equity equal to the present value of the lease agreement.",
+      "B": "Lessors require lessees to reduce their debt to demonstrate an ability to make the lease payments.",
+      "C": "FAS 13 requires a debt offset equal to the present value of the lease payments.",
+      "D": "Leases are all debt which causes an imbalance in the firm's debt-equity ratio.",
+      "E": "FAS 13 requires lease payments be offset by an equal decrease in debt payments."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1704,
+    "question": "In which one of these cases would both the lessor and the lessee be indifferent to the lease?",
+    "options": {
+      "A": "When the lessor's tax rate is lower than the lessee's tax rate.",
+      "B": "When the lessor's tax rate is equal to the lessee's tax rate.",
+      "C": "When the lessor's tax rate is higher than the lessee's tax rate.",
+      "D": "Never, because a lease cannot be beneficial to both parties.",
+      "E": "Since leases always have a zero NPV, both parties are automatically indifferent to the lease."
+    },
+    "answer": "B",
+    "chapter": 21
+  },
+  {
+    "id": 1705,
+    "question": "Assume that both the lessor and the lessee have the same interest and tax rates and there are no transaction costs. Given this, the best lease agreement results in:",
+    "options": {
+      "A": "a benefit for the lessor and a zero gain for the lessee.",
+      "B": "a benefit for the lessee and a zero gain for the lessor.",
+      "C": "an NPV of zero for both parties.",
+      "D": "a benefit for both parties.",
+      "E": "a loss for both parties."
+    },
+    "answer": "C",
+    "chapter": 21
+  },
+  {
+    "id": 1706,
+    "question": "The lease payment that the lessee sets as its bound is known as the:",
+    "options": {
+      "A": "present value of the tax shields.",
+      "B": "reservation payment, LMIN.",
+      "C": "present value of operating savings.",
+      "D": "reservation payment, LMAX.",
+      "E": "reservation payment, LOPTIMAL."
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1707,
+    "question": "Which one of the following is probably the best reason for leasing instead of buying?",
+    "options": {
+      "A": "Increased ROA",
+      "B": "Circumvented expenditure controls",
+      "C": "One hundred percent financing",
+      "D": "Tax reduction",
+      "E": "Increased uncertainty"
+    },
+    "answer": "D",
+    "chapter": 21
+  },
+  {
+    "id": 1708,
+    "question": "Which of these are offered as key considerations in the lease versus purchase decision according to the research findings of Smith and Wakeman?",
+    "options": {
+      "A": "Price discrimination opportunities and debt displacement options",
+      "B": "Cash flows and sensitivity to use and maintenance decisions.",
+      "C": "Attracting clients with low prices and debt displacement",
+      "D": "Cash flows and debt displacement",
+      "E": "Price discrimination opportunities and sensitivity to use and maintenance decisions"
+    },
+    "answer": "E",
+    "chapter": 21
+  },
+  {
+    "id": 1709,
+    "question": "Artisan's is considering leasing a new computer. The lease terms include five annual payments of $1,500 with the first payment occurring when the lease is signed. The computer would cost $7,200 to buy and would be depreciated straightline to a zero salvage value over 5 years. The actual salvage value is negligible because of technological obsolescence. The firm can borrow at a rate of 8 percent and has a tax rate of 21 percent. What is the cash flow from leasing relative to purchasing in Year 3?",
+    "options": {
+      "A": "−$1,325.50",
+      "B": "−$1,487.40",
+      "C": "−$1,295.10",
+      "D": "−$1,380.00",
+      "E": "−$975.50"
+    },
+    "answer": "B",
+    "explanation": "CF4 = −$1,500(1 − .21) − ($7,200/5)(.21) CF4 = −$1,487.40",
+    "chapter": 21
+  },
+  {
+    "id": 1710,
+    "question": "Artisan's is considering leasing a new computer. The lease terms include five annual payments of $1,650 with the first payment occurring at the lease signing. The computer would cost $8,500 to buy and would be depreciated straightline to a zero salvage value over 5 years. The firm can borrow at a rate of 7.5 percent and has a tax rate of 21 percent. What is the cash flow from leasing relative to purchasing in Year 0?",
+    "options": {
+      "A": "$6,850.00",
+      "B": "$9,160.50",
+      "C": "$7,196.50",
+      "D": "$7,689.00",
+      "E": "$8,500.00"
+    },
+    "answer": "C",
+    "explanation": "CF0 = $8,500 − $1,650(1 − .21) CF0 = $7,196.50",
+    "chapter": 21
+  },
+  {
+    "id": 1711,
+    "question": "A lease with a term of 6 years calls for annual payments of $2,100. The leased asset would cost $9,200 to buy and would be depreciated straightline to a zero salvage value over the 6 years. The actual salvage value is negligible. The firm can borrow at a rate of 8 percent. What is the NPV of the lease relative to the purchase if the lessee's tax rate is 21 percent?",
+    "options": {
+      "A": "$410.22",
+      "B": "−$444.04",
+      "C": "$444.04",
+      "D": "−$410.22",
+      "E": "$399.07"
+    },
+    "answer": "B",
+    "explanation": "NPV = $9,200 + {−$2,100(1 − .21) − [($9,200/6)(.21)]}(PVIFA8%(1 − .21),6) NPV = −$444.04",
+    "chapter": 21
+  },
+  {
+    "id": 1712,
+    "question": "Hi-Tek Industries is considering a lease with four annual payments of $4,000 each. The firm can borrow at a rate of 6.7 percent and has a tax rate of 21 percent. The leased asset would cost $15,000 to purchase, have a tax life of 4 years, and would be depreciated on a straightline basis to zero. What would be the incremental cash flow in Year 4 from leasing instead of purchasing if the purchased asset had a pretax salvage value of $500?",
+    "options": {
+      "A": "−$4,318.10",
+      "B": "−$3,605.50",
+      "C": "−$4,211.51",
+      "D": "−$4,342.50",
+      "E": "−$3,900.00"
+    },
+    "answer": "D",
+    "explanation": "CF4 = −$4,000(1 − .21) − [($15,000/4)(.21)] − $500(1 − .21) CF4 = −$4,342.50",
+    "chapter": 21
+  },
+  {
+    "id": 1713,
+    "question": "A new robotic welder can be leased for 3 years with annual payments of $225,000 with the first payment occurring at lease inception. The system would cost $850,000 to buy and would be depreciated straightline to a zero salvage value over five years. The actual salvage value is expected to be $65,000 at the end of the five years. The firm can borrow at 8 percent and has a tax rate of 21 percent. What is the Year 0 incremental cash flow from leasing instead of buying?",
+    "options": {
+      "A": "$1,027,750",
+      "B": "$695,000",
+      "C": "$672,250",
+      "D": "$748,500",
+      "E": "$684,750"
+    },
+    "answer": "C",
+    "explanation": "CF0 = $850,000 − $225,000(1 − .21) CF0 = $672,250",
+    "chapter": 21
+  },
+  {
+    "id": 1714,
+    "question": "A lease has a term of 5 years with annual payments of $6,400. The asset would cost $45,000 to buy and would be depreciated straightline to a zero salvage value over 5 years. The actual salvage value is zero. If the firm has a tax rate of 21 percent, what is the incremental cash flow in Year 5 of leasing rather than purchasing?",
+    "options": {
+      "A": "−$4,224",
+      "B": "−$3,198",
+      "C": "−$6,946",
+      "D": "−$7,250",
+      "E": "−$6,880"
+    },
+    "answer": "C",
+    "explanation": "CF5 = −$6,400(1 − .21) − ($45,000/5)(.21) CF5 = −$6,946",
+    "chapter": 21
+  },
+  {
+    "id": 1715,
+    "question": "A lease has a term of 3 years and annual payments of $25,000. The leased asset would cost $74,000 to buy and would be depreciated straightline to a zero salvage value over 3 years. The actual salvage value is negligible. The lessee can borrow at a rate of 12 percent and has a tax rate of 21 percent. What is the incremental cash flow of purchasing instead of leasing for Year 3 from the lessee's perspective?",
+    "options": {
+      "A": "−$16,250",
+      "B": "−$24,930",
+      "C": "$24,930",
+      "D": "$16,250",
+      "E": "−$19,750"
+    },
+    "answer": "C",
+    "explanation": "CF3 = $25,000(1 − .21) + ($74,000/3)(.21) CF3 = $24,930",
+    "chapter": 21
+  },
+  {
+    "id": 1716,
+    "question": "A lessor can borrow at a rate of 7 percent and has a tax rate of 21 percent. The lessee can borrow at a rate of 8 percent and has a tax rate of 21 percent. Assume an asset costs $138,000 and can be leased in exchange for two annual payments of $70,000 with the first payment due at the time of signing. What is the incremental cash flow at Time 0 for the lessee for a purchase instead of a lease?",
+    "options": {
+      "A": "−$92,500",
+      "B": "$138,000",
+      "C": "$92,500",
+      "D": "−$82,700",
+      "E": "−$138,000"
+    },
+    "answer": "D",
+    "explanation": "CF0 = −$138,000 + $70,000(1 − .21) CF0 = −$82,700",
+    "chapter": 21
+  },
+  {
+    "id": 1717,
+    "question": "The Button Company is considering the purchase of a new machine for $30,000 that has a life of 5 years and would be depreciated on a straightline basis to a zero salvage value over its life. The machine is expected to save the firm $12,500 per year in operating costs. There is no actual salvage value. Alternatively, the firm can lease the machine for $7,300 annually for 5 years, with the first payment due at the end of the first year. The firm's tax rate is 21 percent and its cost of debt is 10 percent. What is the net advantage to leasing for the lessee?",
+    "options": {
+      "A": "−$1,134.40",
+      "B": "$1,602.15",
+      "C": "$1,869.12",
+      "D": "−$1,408.16",
+      "E": "$1,577.10"
+    },
+    "answer": "C",
+    "explanation": "NAL = NPV = $30,000 − [$7,300(1 − .21) + ($30,000/5)(.21)](PVIFA.10(1 − .21),5) NAL = $1,869.12",
+    "chapter": 21
+  },
+  {
+    "id": 1718,
+    "question": "A new robotic welder can be leased for 5 years with annual payments of $300,000 with the first payment occurring at lease inception. The system would cost $1,050,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and has a tax rate of 23 percent. What discount rate should be used for valuing the lease?",
+    "options": {
+      "A": "8.00 percent",
+      "B": "6.16 percent",
+      "C": "6.32 percent",
+      "D": "9.84 percent",
+      "E": "19.72 percent"
+    },
+    "answer": "B",
+    "explanation": "Discount rate = .08(1 − .23) Discount rate = .0616, or 6.16%",
+    "chapter": 21
+  },
+  {
+    "id": 1719,
+    "question": "A machine that costs $280,000 would be depreciated using the straightline method by a leasing firm over a period of 3 years. Both the book value and the market value would be zero at the end of the 3 years. Both the lessor and the lessee have a tax rate of 21 percent. What is the NPV of the lease relative to the purchase to the lessor if the applicable pretax cost of borrowing is 7 percent and the lease payments are set at $102,100 annually for 3 years?",
+    "options": {
+      "A": "−$1,025.58",
+      "B": "−$9,658.92",
+      "C": "$411.67",
+      "D": "$882.09",
+      "E": "$0"
+    },
+    "answer": "B",
+    "explanation": "NPVLessor = −$280,000 + [($280,000/3)(.21) + $102,100(1 − .21)]PVIFA.07(1 − .21),3 NPVLessor = −$9,658.92",
+    "chapter": 21
+  },
+  {
+    "id": 1720,
+    "question": "A lease has five annual payments of $115,000. The leased asset would cost $500,000 to buy, would be depreciated straightline to a zero salvage value over 5 years, and has an actual salvage value of zero. The firm can borrow at 8 percent on a pretax basis and has a tax rate of 23 percent. What is the net advantage of leasing?",
+    "options": {
+      "A": "−$31,800.89",
+      "B": "−$29,504.10",
+      "C": "$32,149.05",
+      "D": "−$30,690.00",
+      "E": "$29,504.10"
+    },
+    "answer": "C",
+    "explanation": "NPV = $500,000 − {$115,000(1 − .23) + [($500,000/5)(.23)]}[PVIFA.08(1 − .23),5] NPV = $32,149.05",
+    "chapter": 21
+  },
+  {
+    "id": 1721,
+    "question": "All-Tek is considering leasing some new equipment for 5 years with annual payments of $27,500. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and does not expect to owe any taxes for the next several years. What is the maximum lease payment All- Tek would be willing to pay?",
+    "options": {
+      "A": "$24,840.00",
+      "B": "$23,000.00",
+      "C": "$18,842.56",
+      "D": "$28,802.49",
+      "E": "$21,780.30"
+    },
+    "answer": "D",
+    "explanation": "LMAX = $115,000/PVIFA8%,5 LMAX = $28,802.49",
+    "chapter": 21
+  },
+  {
+    "id": 1722,
+    "question": "HiTek is considering leasing some new equipment for 5 years with annual payments of $27,500. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The firm can borrow at 8 percent and has a tax rate of 21 percent. What is the maximum lease payment HiTek would be willing to pay?",
+    "options": {
+      "A": "$24,840.00",
+      "B": "$29,908.16",
+      "C": "$27,538.67",
+      "D": "$23,708.03",
+      "E": "$28,802.49"
+    },
+    "answer": "C",
+    "explanation": "LMAX = $115,000/PVIFA8%(1 − .21),5 LMAX = $27,538.67",
+    "chapter": 21
+  },
+  {
+    "id": 1723,
+    "question": "Al-Tek is considering leasing some new equipment for 5 years with annual payments. The equipment would cost $115,000 to buy and would be depreciated straightline to a zero salvage value. The actual salvage value is zero. The applicable pretax borrowing rate is 8 percent. The lessee does not expect to owe taxes for several years. The lessor's tax rate is 21 percent. What is the minimum lease payment that will be acceptable to both parties?",
+    "options": {
+      "A": "$28,603.33",
+      "B": "$28,745.16",
+      "C": "$27,750.00",
+      "D": "$22,708.67",
+      "E": "$26,709.12"
+    },
+    "answer": "B",
+    "explanation": "0 = −$115,000 + [($115,000/5)(.21) + LMin(1 − .21)]PVIFA.08(1 − .21),5 LMIN = $28,745.16",
+    "chapter": 21
+  },
+  {
+    "id": 1724,
+    "question": "Nu-Tek is considering leasing some equipment for 4 years with equal annual lease payments. The equipment would cost $74,000 to buy and would be depreciated straightline over 4 years to a zero salvage value. The actual salvage value is zero. The applicable pretax borrowing rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1725,
+    "question": "3 percent. The lessee does not expect to owe taxes for several years while the lessor's tax rate is 21 percent. What is the minimum lease payment that will be acceptable to both parties?",
+    "options": {
+      "A": "$22,333.33",
+      "B": "$21,970.82",
+      "C": "$20,416.67",
+      "D": "$22,802.49",
+      "E": "$21,511.18"
+    },
+    "answer": "B",
+    "explanation": "0 = −$74,000 + [($74,000/4)(.21) + LMin(1 − .21)]PVIFA.073(1 − .21),4 LMIN = $21,970.82",
+    "chapter": 21
+  },
+  {
+    "id": 1726,
+    "question": "Blasco's wishes to obtain new assets that will reduce their operating costs by $3,800 a year on an aftertax basis. These assets can be either purchased or leased. Explain why these cost savings are omitted from the lease versus purchase analysis. Answer: The operating cost savings will be realized by the firm regardless of the method used to obtain the assets. Thus, there is no incremental difference between the cash flows of the purchase and the cash flows of the lease in relation to operating costs. Difficulty: 2 Medium Section: 21.4 The Cash Flows of Leasing Topic: Leasing cash flows Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1727,
+    "question": "Discuss some of the pros and cons of leasing. Answer: Leasing may be viewed as a less than optimal source of financing, however, there are good reasons to lease. They include, but are not limited to, the fact that taxes may be reduced by leasing, the lease contract may reduce certain types of uncertainty, and the transaction costs of leasing can be lower than the costs of buying. Some potential shortcomings of leasing include the accounting methods used for leases, debt displacement, and restrictions placed on the lease terms. Lessees must also be concerned with the IRS's opinion of any lease agreement. Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Advantages and disadvantages of leasing Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1728,
+    "question": "Explain the characteristics of both operating and financial leases. Answer: Operating leases usually have these characteristics: ∙ Lease is not fully amortized ∙ Lessor responsible for maintenance and insurance ∙ Lessee has right to cancel prior to expiration Financial leases usually have these characteristics: ∙ Lessee responsible for maintenance and insurance ∙ Lease is fully amortized ∙ Lessee has right to renew at expiration ∙ Lease cannot be cancelled Difficulty: 1 Easy Section: 21.9 Reasons for Leasing Topic: Capital and operating leases Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 23 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  },
+  {
+    "id": 1729,
+    "question": "Explain the term \"bargain purchase price option\" and identify at least one application of that term. Answer: \"Bargain purchase price option\" is the term applied to the situation that occurs at the end of a lease when the lessee can purchase the leased asset at a price that is less than the fair market value. When the lessee is granted this option, the IRS will classify the lease as a capital lease. Difficulty: 2 Medium Section: 21.9 Reasons for Leasing Topic: Capital and operating leases Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 21
+  }
+]

@@ -1,0 +1,1313 @@
+[
+  {
+    "id": 408,
+    "question": "The difference between the present value of an investment's future cash flows and its initial cost is the:",
+    "options": {
+      "A": "net present value.",
+      "B": "internal rate of return.",
+      "C": "payback period.",
+      "D": "profitability index.",
+      "E": "discounted payback period."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 409,
+    "question": "If a project is assigned a required rate of return of zero, then:",
+    "options": {
+      "A": "the timing of the project's cash flows has no bearing on the value of the project.",
+      "B": "the project will always be accepted.",
+      "C": "the project will always be rejected.",
+      "D": "whether the project is accepted or rejected will depend on the timing of the cash flows.",
+      "E": "the project can never add value for the shareholders."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 410,
+    "question": "Which statement concerning the net present value (NPV) of an investment or a financing project is correct?",
+    "options": {
+      "A": "A financing project should be accepted if, and only if, the NPV is exactly equal to zero.",
+      "B": "An investment project should be accepted only if the NPV is equal to the initial cash flow.",
+      "C": "Any type of project should be accepted if the NPV is positive and rejected if it is negative.",
+      "D": "Any type of project with greater total cash inflows than total cash outflows, should always be accepted.",
+      "E": "An investment project that has positive cash flows for every time period after the initial investment should be accepted."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 411,
+    "question": "All else constant, the net present value of a typical investment project increases when:",
+    "options": {
+      "A": "the discount rate increases.",
+      "B": "each cash inflow is delayed by one year.",
+      "C": "the initial cost of a project increases.",
+      "D": "the required rate of return decreases.",
+      "E": "all cash inflows occur during the last year instead of periodically throughout the project's life."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 412,
+    "question": "Proposed projects should be accepted when those projects:",
+    "options": {
+      "A": "create value for the owners of the firm.",
+      "B": "have a positive rate of return.",
+      "C": "return the initial cash outlay within the life of the project.",
+      "D": "have required cash inflows that exceed the actual cash inflows.",
+      "E": "have an initial cost that exceeds the present value of the future cash flows."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 413,
+    "question": "If a project has a net present value equal to zero, then:",
+    "options": {
+      "A": "the initial cost of the project exceeds the present value of the project's subsequent cash flows.",
+      "B": "the internal rate of return exceeds the discount rate.",
+      "C": "the project produces cash inflows that exceed the minimum required inflows.",
+      "D": "any delay in receiving the projected cash inflows will cause the project's NPV to be negative.",
+      "E": "the discount rate exceeds the internal rate of return."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 414,
+    "question": "Net present value:",
+    "options": {
+      "A": "cannot be relied upon when deciding between two mutually exclusive projects.",
+      "B": "rule for project acceptance must be modified when comparing projects of varying sizes.",
+      "C": "is less commonly used in business than the profitability index method of analysis.",
+      "D": "is not as widely used in practice as payback and discounted payback.",
+      "E": "provides the means for considering the risks associated with a specific project."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 415,
+    "question": "A project has an initial cost of $26,000, a discount rate of 11.7 percent, a life of 5 years, and an NPV of $11,216. Given this, you know that the project is expected to earn a return:",
+    "options": {
+      "A": "equal to 11.7 percent of $26,000 plus an additional $11,216.",
+      "B": "of $11,216 in total.",
+      "C": "equal to 11.7 percent of $37,216 (= $26,000 + 11,216).",
+      "D": "of 11.7 percent of $11,216.",
+      "E": "of $26,000 minus $11,216."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 416,
+    "question": "When a firm commences a positive net present value project, you know:",
+    "options": {
+      "A": "the project will pay back within the required payback period.",
+      "B": "the present value of the expected cash flows is equal to the project's cost.",
+      "C": "the inherent risks within the project have been ignored.",
+      "D": "that all the projected cash flows will occur as expected.",
+      "E": "the stockholders' value in the firm is expected to increase."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 417,
+    "question": "The net present value method of capital budgeting analysis does all of the following except:",
+    "options": {
+      "A": "incorporate risk into the analysis.",
+      "B": "consider all relevant cash flow information.",
+      "C": "discount all future cash flows to their current value.",
+      "D": "consider the initial cost of the project.",
+      "E": "provide a specific anticipated rate of return."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 418,
+    "question": "The payback method of analysis:",
+    "options": {
+      "A": "discounts cash flows.",
+      "B": "ignores the initial cost.",
+      "C": "considers all project cash flows.",
+      "D": "applies an industry-standard recoupment period.",
+      "E": "has a timing bias."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 419,
+    "question": "The payback method:",
+    "options": {
+      "A": "is the most frequently used method of capital budgeting analysis.",
+      "B": "is a more sophisticated method of analysis than the profitability index.",
+      "C": "considers the time value of money.",
+      "D": "applies mainly to projects where the actual results will be known relatively soon.",
+      "E": "generally results in decisions that conflict with the decision suggested by NPV analysis."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 420,
+    "question": "If a firm is more concerned about the quick return of its initial investment than it is about the amount of value created, then the firm is most apt to evaluate a capital project using the ________ method of analysis.",
+    "options": {
+      "A": "internal rate of return",
+      "B": "net present value",
+      "C": "modified internal rate of return",
+      "D": "payback",
+      "E": "profitability index"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 421,
+    "question": "Payback is frequently used to analyze independent projects because:",
+    "options": {
+      "A": "it considers the time value of money.",
+      "B": "all relevant cash flows are included in the analysis.",
+      "C": "it is easy and quick to calculate.",
+      "D": "it is the most desirable of all the available analytical methods from a financial perspective.",
+      "E": "it produces better decisions than those made using either NPV or IRR."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 422,
+    "question": "One characteristic of the payback method of project analysis is the:",
+    "options": {
+      "A": "use of variable discount rates.",
+      "B": "standardized cutoff point for cash flow consideration.",
+      "C": "bias towards liquidity.",
+      "D": "consideration of the risk level of each project.",
+      "E": "discounting of all cash flows."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 423,
+    "question": "All else equal, the payback period for a project will decrease whenever the:",
+    "options": {
+      "A": "initial cost increases.",
+      "B": "required return for a project increases.",
+      "C": "assigned discount rate decreases.",
+      "D": "cash inflows are moved earlier in time.",
+      "E": "duration of a project is lengthened."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 424,
+    "question": "The length of time required for an investment to generate cash flows sufficient to recover the initial cost of the investment is called the:",
+    "options": {
+      "A": "cash period.",
+      "B": "net working capital period.",
+      "C": "payback period.",
+      "D": "profitability index.",
+      "E": "discounted payback period."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 425,
+    "question": "An investment is acceptable if the payback period:",
+    "options": {
+      "A": "is less than some pre-specified period of time.",
+      "B": "exceeds the life of the investment.",
+      "C": "is negative.",
+      "D": "is equal to or greater than some pre-specified period of time.",
+      "E": "is equal to, and only if it is equal to, the investment's life."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 426,
+    "question": "Which method(s) of project analysis is(are) best suited for use by a department manager who has no knowledge of time value of money but can estimate the cash flows of small projects with short lives fairly accurately?",
+    "options": {
+      "A": "Payback",
+      "B": "Discounted payback",
+      "C": "Profitability index",
+      "D": "Net present value",
+      "E": "Either payback or profitability index"
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 427,
+    "question": "The payback method:",
+    "options": {
+      "A": "determines a cutoff point so that all projects accepted by the NPV rule will be accepted by the payback period rule.",
+      "B": "determines a cutoff point equal to the point where all initial capital investments have been fully depreciated.",
+      "C": "requires an arbitrary choice of a cutoff point.",
+      "D": "varies the cutoff point with the market rate of interest.",
+      "E": "is irrelevant to the accept/reject decision."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 428,
+    "question": "Which of the following methods of project analysis are biased towards short-term projects?",
+    "options": {
+      "A": "Profitability index and internal rate of return",
+      "B": "Discounted payback and payback",
+      "C": "Net present value and payback",
+      "D": "Payback and profitability index",
+      "E": "Profitability index and discounted payback"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 429,
+    "question": "The length of time required for a project's discounted cash flows to equal the initial cost of the project is called the:",
+    "options": {
+      "A": "net present value.",
+      "B": "discounted net present value.",
+      "C": "payback period.",
+      "D": "discounted profitability index.",
+      "E": "discounted payback period."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 430,
+    "question": "The discounted payback period of a project will decrease whenever the:",
+    "options": {
+      "A": "discount rate applied to the project is increased.",
+      "B": "initial cash outlay of the project is increased.",
+      "C": "time period of the project is increased.",
+      "D": "amount of each cash inflow is increased.",
+      "E": "costs of the fixed assets utilized in the project increase."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 431,
+    "question": "The discounted payback method:",
+    "options": {
+      "A": "considers the time value of money.",
+      "B": "discounts the cutoff point.",
+      "C": "discounts the initial cost.",
+      "D": "is preferred to the NPV method.",
+      "E": "ignores project risks."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 432,
+    "question": "The discounted payback rule may cause:",
+    "options": {
+      "A": "projects with discounted payback periods in excess of the project's life to be accepted.",
+      "B": "the most liquid projects to be rejected in favor of less liquid projects.",
+      "C": "projects to be incorrectly accepted due to ignoring the time value of money.",
+      "D": "some projects with negative net present values to be accepted.",
+      "E": "some positive net present value projects to be rejected."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 433,
+    "question": "For investment projects, the internal rate of return (IRR):",
+    "options": {
+      "A": "rule indicates acceptance of an investment when the IRR is less than the discount rate.",
+      "B": "is the rate generated solely by the cash flows of the investment.",
+      "C": "is used primarily to rank projects of varying sizes.",
+      "D": "is the rate that causes the net present value of a project to equal the project's initial cost.",
+      "E": "can effectively be used to compare all types and sizes of mutually exclusive projects."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 434,
+    "question": "The internal rate of return for a project will increase if:",
+    "options": {
+      "A": "the initial cost of the project can be reduced.",
+      "B": "the total amount of the cash inflows is reduced.",
+      "C": "each cash inflow is moved such that it occurs one year later than originally projected.",
+      "D": "the required rate of return is reduced.",
+      "E": "the discount rate is increased."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 435,
+    "question": "You are considering an investment project with an internal rate of return of 8.7 percent, a net present value of $393, and a payback period of 2.44 years. Which one of the following is correct given this information?",
+    "options": {
+      "A": "The discount rate used in computing the net present value was less than 8.7 percent.",
+      "B": "The discounted payback period will be less than 2.44 years.",
+      "C": "The discount rate used to compute the net present value is equal to the internal rate of return.",
+      "D": "The required payback period must be greater than 2.44 years.",
+      "E": "This project should be rejected based on the net present value."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 436,
+    "question": "The internal rate of return is:",
+    "options": {
+      "A": "more reliable than net present value whenever you are considering mutually exclusive projects.",
+      "B": "equivalent to the discount rate that makes the net present value equal to 1.0.",
+      "C": "computed using a project's cash flows as the only source of inputs.",
+      "D": "dependent on the interest rates offered in the marketplace.",
+      "E": "a better methodology than net present value when dealing with unconventional cash flows."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 437,
+    "question": "The internal rate of return tends to be:",
+    "options": {
+      "A": "easier for managers to comprehend than the net present value.",
+      "B": "extremely accurate even when cash flow estimates are faulty.",
+      "C": "ignored by most financial managers.",
+      "D": "used primarily to differentiate between mutually exclusive projects.",
+      "E": "utilized in project analysis only when multiple net present values apply."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 438,
+    "question": "The discount rate that makes the net present value of an investment exactly equal to zero is called the:",
+    "options": {
+      "A": "external rate of return.",
+      "B": "internal rate of return.",
+      "C": "average accounting return.",
+      "D": "profitability index.",
+      "E": "equalizer."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 439,
+    "question": "Using the internal rate of return method, a conventional investment project should be accepted if the internal rate of return is:",
+    "options": {
+      "A": "equal to, and only if it is equal to, the discount rate.",
+      "B": "equal to or greater than the discount rate.",
+      "C": "less than the discount rate.",
+      "D": "negative.",
+      "E": "positive."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 440,
+    "question": "The internal rate of return for an investment project is best defined as the:",
+    "options": {
+      "A": "discount rate that causes the net present value to equal zero.",
+      "B": "difference between the market rate of interest and the discount rate.",
+      "C": "market rate of interest less the risk-free rate.",
+      "D": "minimum project acceptance rate set by management.",
+      "E": "maximum rate that can be earned for a project to be accepted."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 441,
+    "question": "Which one of the following statements is true?",
+    "options": {
+      "A": "You must know the discount rate to compute the NPV but not the IRR.",
+      "B": "You must have a discount rate to compute, NPV, IRR, PI, and discounted payback.",
+      "C": "Payback uses the same discount rate as that applied in the NPV calculation.",
+      "D": "Financing projects can only ever have one IRR.",
+      "E": "Financing projects are acceptable if the NPV is negative."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 442,
+    "question": "A financing project is acceptable if its internal rate of return is:",
+    "options": {
+      "A": "exactly equal to its net present value.",
+      "B": "exactly equal to zero.",
+      "C": "greater than the discount rate.",
+      "D": "less than the discount rate.",
+      "E": "negative."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 443,
+    "question": "The elements that cause problems with the use of the IRR in projects that are mutually exclusive are referred to as the:",
+    "options": {
+      "A": "discount rate and scale problems.",
+      "B": "timing and scale problems.",
+      "C": "discount rate and timing problems.",
+      "D": "scale and reversing flow problems.",
+      "E": "timing and reversing flow problems."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 444,
+    "question": "Assume you use all available methods to evaluate projects. If there is a conflict in the indicated accept/reject decision between two mutually exclusive projects due to the IRR-based indicator, you should:",
+    "options": {
+      "A": "accept both projects if both are acceptable according to NPV.",
+      "B": "combine both projects into one larger project.",
+      "C": "ignore the IRR and rely on the decision indicated by the NPV method.",
+      "D": "base the final decision on the payback method.",
+      "E": "reject both projects due to ambiguity in the decision-making process."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 445,
+    "question": "Project A is opening a bakery at 10 Center Street. Project B is opening a specialty coffee shop at the same address. Both projects have unconventional cash flows, that is, both projects have positive and negative cash flows that occur following the initial investment. When trying to decide which project to accept, given sufficient funding to accept either project, you should rely most heavily on the ________ method of analysis.",
+    "options": {
+      "A": "profitability index",
+      "B": "internal rate of return",
+      "C": "payback",
+      "D": "net present value",
+      "E": "discounted payback"
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 446,
+    "question": "The possibility that more than one discount rate will make the NPV of an investment equal to zero presents the problem referred to as:",
+    "options": {
+      "A": "net present value profiling.",
+      "B": "operational ambiguity.",
+      "C": "the mutually exclusive investment decision.",
+      "D": "issues of scale.",
+      "E": "multiple rates of return."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 447,
+    "question": "A situation in which accepting one investment prevents the acceptance of another investment is called the:",
+    "options": {
+      "A": "net present value profile.",
+      "B": "operational ambiguity decision.",
+      "C": "mutually exclusive investment decision.",
+      "D": "issues of scale problem.",
+      "E": "multiple rates of return decision."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 448,
+    "question": "The modified internal rate of return:",
+    "options": {
+      "A": "is used as the discount rate for all NPV calculations.",
+      "B": "applies only to profitability calculations.",
+      "C": "is used to make accept/reject decisions when no discount rate can be assigned.",
+      "D": "is computed by combining cash flows until only one change in sign remains.",
+      "E": "assumes all projects are financing projects."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 449,
+    "question": "A mutually exclusive project is a project whose:",
+    "options": {
+      "A": "acceptance or rejection has no effect on the acceptance of other projects.",
+      "B": "NPV is always negative.",
+      "C": "IRR is always negative.",
+      "D": "acceptance or rejection affects the acceptance of other projects.",
+      "E": "cash flow pattern exhibits more than one sign change."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 450,
+    "question": "A project will have more than one IRR if, and only if, the:",
+    "options": {
+      "A": "primary IRR is positive.",
+      "B": "primary IRR is negative.",
+      "C": "NPV is zero.",
+      "D": "cash flow pattern exhibits more than one sign change.",
+      "E": "cash flow pattern exhibits exactly one sign change."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 451,
+    "question": "You are trying to determine whether to accept Project A or Project B. These projects are mutually exclusive. As part of your analysis, you should compute the incremental IRR by determining the:",
+    "options": {
+      "A": "internal rate of return for the cash flows of each project.",
+      "B": "net present value of each project using the internal rate of return as the discount rate.",
+      "C": "discount rate that equates the discounted payback periods for each project.",
+      "D": "discount rate that makes the net present value of each project equal to 1.0.",
+      "E": "internal rate of return for the differences in the cash flows of the two projects."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 452,
+    "question": "Comparing the NPV profile of an investment project to that of a financing project demonstrates why the:",
+    "options": {
+      "A": "incremental IRR is computed differently for financing projects than for investment projects.",
+      "B": "IRR decision rule for investment projects is the opposite of the rule for financing projects.",
+      "C": "life span of a project affects the decision as to which project to accept.",
+      "D": "NPV rule for financing projects is the opposite of the rule for investment projects.",
+      "E": "profitability index and the net present value are related."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 453,
+    "question": "Blue Bird Café is considering a project with an initial cost of $46,800, and cash flows of $8,500, $25,000, $19,000, and −$4,500 for Years 1 to 4, respectively. How many internal rates of return do you expect this project to have?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "4",
+      "D": "3",
+      "E": "2"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 454,
+    "question": "Which one of the following is the best example of two mutually exclusive projects?",
+    "options": {
+      "A": "Planning to build a warehouse and a retail outlet side by side",
+      "B": "Buying sufficient equipment to manufacture both desks and chairs simultaneously",
+      "C": "Renting out a company warehouse or selling it outright",
+      "D": "Using the company's sales force to promote sales of both shoes and socks",
+      "E": "Buying both inventory and fixed assets using funds from the same bank loan"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 455,
+    "question": "An investment with an initial cost of $4,000 produces cash flows of $3,400, −$500, $2,800, −$100, and $6,000 for Years 1 to 5, respectively. How many IRRs does this project have?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "5",
+      "D": "6",
+      "E": "2"
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 456,
+    "question": "How should a profitability index of zero be interpreted?",
+    "options": {
+      "A": "The present value of the cash flows subsequent to the initial cash flow is equal to (−1 × Initial cash flow).",
+      "B": "The project has an internal rate of return equal to the discount rate.",
+      "C": "The project produces a net income of zero for every year of its life.",
+      "D": "The project's cash flows subsequent to the initial cash flow have a present value of zero.",
+      "E": "The project also has a net present value of zero."
+    },
+    "answer": "D",
+    "chapter": 5
+  },
+  {
+    "id": 457,
+    "question": "The profitability index:",
+    "options": {
+      "A": "rule often results in decisions that conflict with the decisions based on the net present value rule.",
+      "B": "is useful as a decision tool when investment funds are limited and all available funds are allocated.",
+      "C": "method is most commonly used when deciding between mutually exclusive projects of varying size.",
+      "D": "rule states that the project with the lower index value should be accepted.",
+      "E": "produces results which typically are difficult to comprehend."
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 458,
+    "question": "If you want to review a project from a benefit-cost perspective, you should use the ________ method of analysis.",
+    "options": {
+      "A": "net present value",
+      "B": "payback",
+      "C": "internal rate of return",
+      "D": "discounted payback",
+      "E": "profitability index"
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 459,
+    "question": "The profitability index of an investment project is the ratio of the:",
+    "options": {
+      "A": "average net income from the project to the average investment cost.",
+      "B": "internal rate of return to the current market rate of interest.",
+      "C": "net present value of the project's cash outflows divided by the net present value of its inflows.",
+      "D": "net present value of every cash flow related to the project compared to the initial cost.",
+      "E": "present value of the cash flows subsequent to the initial cost compared to the initial cost."
+    },
+    "answer": "E",
+    "chapter": 5
+  },
+  {
+    "id": 460,
+    "question": "An independent investment is acceptable if the profitability index (PI) of the investment is:",
+    "options": {
+      "A": "greater than 1.0.",
+      "B": "less than 1.0.",
+      "C": "greater than the internal rate of return.",
+      "D": "less than the internal rate of return.",
+      "E": "greater than a pre-specified rate of return."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 461,
+    "question": "No matter how many forms of investment analysis you employ:",
+    "options": {
+      "A": "the actual results from a project may vary significantly from the expected results.",
+      "B": "the internal rate of return will always produce the most reliable results.",
+      "C": "a project will never be accepted unless the payback period is met.",
+      "D": "the initial costs will generally vary considerably from the estimated costs.",
+      "E": "only the first three years of a project ever affect its final outcome."
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 462,
+    "question": "Why do managers suggest that ignoring all cash flows following the required payback period is not a major flaw of the payback method of capital budgeting analysis?",
+    "options": {
+      "A": "Payback is never used in real practice so it makes no difference how academics apply the method in their studies.",
+      "B": "All projected cash flows after the required period are highly inaccurate so including them lessens the reliability of the resulting decision.",
+      "C": "If the cash flows after the required period are significant, managers will use their discretion to override the payback rule.",
+      "D": "All cash flows after the required period are relatively worthless in today's dollars so ignoring them has no consequence.",
+      "E": "Any consideration of the cash flows after the required period rarely has any effect on the accept/reject decision."
+    },
+    "answer": "C",
+    "chapter": 5
+  },
+  {
+    "id": 463,
+    "question": "Graham and Harvey (2001) found that ________ were the two most popular capital budgeting methods.",
+    "options": {
+      "A": "IRR and payback",
+      "B": "IRR and NPV",
+      "C": "NPV and PI",
+      "D": "IRR and modified IRR",
+      "E": "discounted payback and NPV"
+    },
+    "answer": "B",
+    "chapter": 5
+  },
+  {
+    "id": 464,
+    "question": "What is the net present value of a project with an initial cost of $36,900 and cash inflows of $13,400, $21,600, and $10,000 for Years 1 to 3, respectively? The discount rate is 13 percent.",
+    "options": {
+      "A": "−$287.22",
+      "B": "−$1,195.12",
+      "C": "−$1,350.49",
+      "D": "$204.36",
+      "E": "$797.22"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$36,900 + $13,400/1.13 + $21,600/1.132 + $10,000/1.133 NPV = −$1,195.12",
+    "chapter": 5
+  },
+  {
+    "id": 465,
+    "question": "What is the net present value of a project that has an initial cash outflow of $7,670 and cash inflows of $1,280 in Year 1, $6,980 in Year 3, and $2,750 in Year 4? The discount rate is 12.5 percent.",
+    "options": {
+      "A": "$86.87",
+      "B": "$270.16",
+      "C": "$68.20",
+      "D": "$249.65",
+      "E": "$371.02"
+    },
+    "answer": "A",
+    "explanation": "NPV = −$7,670 + $1,280/1.125 + $6,980/1.1253 + $2,750/1.1254 NPV = $86.87",
+    "chapter": 5
+  },
+  {
+    "id": 466,
+    "question": "A project costing $6,200 initially should produce cash inflows of $2,860 a year for three years. After the three years, the project will be shut down and will be sold at the end of Year 4 for an estimated net cash amount of $3,300. What is the net present value of this project if the required rate of return is 11.3 percent?",
+    "options": {
+      "A": "$2,474.76",
+      "B": "$2,903.19",
+      "C": "$935.56",
+      "D": "$3,011.40",
+      "E": "$1,980.02"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$6,200 + $2,860[(1 - 1/1.1133)/.113] + $3,300/1.1134 NPV = $2,903.19",
+    "chapter": 5
+  },
+  {
+    "id": 467,
+    "question": "Wilson's Market is considering two mutually exclusive projects that will not be repeated. The required rate of return is 13.9 percent for Project A and 12.5 percent for Project B. Project A has an initial cost of $54,500, and should produce cash inflows of $16,400, $28,900, and $31,700 for Years 1 to 3, respectively. Project B has an initial cost of $69,400, and should produce cash inflows of $0, $48,300, and $42,100, for Years 1 to 3, respectively. Which project, or projects, if either, should be accepted and why?",
+    "options": {
+      "A": "Project A; because its NPV is positive while Project B's NPV is negative",
+      "B": "Project A; because it has the higher required rate of return",
+      "C": "Project B; because it has the largest total cash inflow",
+      "D": "Project B; because it has a negative NPV which indicates acceptance",
+      "E": "Neither project; because neither has an NPV equal to or greater than its initial cost"
+    },
+    "answer": "A",
+    "explanation": "NPVA = −$54,500 + $16,400/1.139 + $28,900/1.1392 + $31,700/1.1393 NPVA= $3,628.27 NPVB = −$69,400 + $48,300/1.1252 + $42,100/1.1253 NPVB = −$1,668.86",
+    "chapter": 5
+  },
+  {
+    "id": 468,
+    "question": "You are considering two independent projects that have differing requirements. Project A has a required return of 12 percent compared to Project B's required return of 13.5 percent. Project A costs $75,000 and has cash flows of $21,000, $49,000, and $12,000 for Years 1 to 3, respectively. Project B has an initial cost of $70,000 and cash flows of $15,000, $18,000, and $41,000 for Years 1 to 3, respectively. Based on the NPV, you should:",
+    "options": {
+      "A": "accept both Project A and Project B.",
+      "B": "accept Project A and reject Project B.",
+      "C": "accept Project B and reject Project A.",
+      "D": "reject both Project A and Project B.",
+      "E": "accept whichever one you want but not both."
+    },
+    "answer": "D",
+    "explanation": "NPVA = −$75,000 + $21,000/1.12 + $49,000/1.122 + $12,000/1.123 NPVA = −$8,646.14 NPVB = −$70,000 + $15,000/1.135 + $18,000/1.1352 + $41,000/1.1353 NPVB = −$14,770.25",
+    "chapter": 5
+  },
+  {
+    "id": 469,
+    "question": "A food cart costs $4,500 and is expected to return $1,750 a year for three years and then be worthless. What is the payback period for this cart?",
+    "options": {
+      "A": "2.83 years",
+      "B": "3.14 years",
+      "C": "2.78 years",
+      "D": "2.57 years",
+      "E": "1.57 years"
+    },
+    "answer": "D",
+    "explanation": "PB = $4,500/$1,750 PB = 2.57 years",
+    "chapter": 5
+  },
+  {
+    "id": 470,
+    "question": "You are considering a project with an initial cost of $4,300. What is the payback period for this project if the cash inflows are $550, $970, $2,600, and $500 a year for Years 1 to 4, respectively?",
+    "options": {
+      "A": "2.04 years",
+      "B": "2.36 years",
+      "C": "2.89 years",
+      "D": "3.04 years",
+      "E": "3.36 years"
+    },
+    "answer": "E",
+    "explanation": "PB = 3 + ($4,300 − 550 − 970 − 2,600)/$500 PB = 3.36 years",
+    "chapter": 5
+  },
+  {
+    "id": 471,
+    "question": "A project has an initial cost of $2,250. The cash inflows are $0, $500, $900, and $700 for Years 1 to 4, respectively. What is the payback period?",
+    "options": {
+      "A": "2.97 years",
+      "B": "2.84 years",
+      "C": "3.98 years",
+      "D": "3.92 years",
+      "E": "Never"
+    },
+    "answer": "E",
+    "explanation": "Total cash inflows = $500 + 900 + 700 Total cash inflows = $2,100 The project never pays back.",
+    "chapter": 5
+  },
+  {
+    "id": 472,
+    "question": "Jack is considering adding toys to his general store. He estimates the cost of toy inventory will be $4,200. The remodeling and shelving costs are estimated at $1,500. Toy sales are expected to produce net annual cash inflows of $1,200, $1,500, $1,600, and $1,750 over the next four years, respectively. Should Jack add toys to his merchandise if he requires a three-year payback period? Why or why not?",
+    "options": {
+      "A": "Yes; because the payback period is 2.94 years",
+      "B": "Yes; because the payback period is 2.02 years",
+      "C": "Yes; because the payback period is 3.80 years",
+      "D": "No; because the payback period is 2.02 years",
+      "E": "No; because the payback period is 3.80 years"
+    },
+    "answer": "E",
+    "explanation": "PB = ([$4,200 + 1,500) − $1,200 − 1,500 − 1,600]/$1,750 PB = 3.80 years",
+    "chapter": 5
+  },
+  {
+    "id": 473,
+    "question": "Consider an investment with an initial cost of $20,000 that expected to last for 5 years. The expected cash flows in Years 1 and 2 are $5,000 each, in Years 3 and 4 are $5,500 each, and the Year 5 cash flow is $1,000. Assume each annual cash flow is spread evenly over its respective year. What is the payback period?",
+    "options": {
+      "A": "3.18 years",
+      "B": "3.82 years",
+      "C": "4.00 years",
+      "D": "4.55 years",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "PB = 3 + ($20,000 − 5,000 − 5,000 − 5,500)/$5,500 PB = 3.82 years",
+    "chapter": 5
+  },
+  {
+    "id": 474,
+    "question": "A project costing $218,000 has equal annual cash inflows over its 7-year life. If the discounted payback period is seven years and the discount rate is zero percent, what is the amount of the cash flow in each of the seven years?",
+    "options": {
+      "A": "$31,142.86 per year for each of the seven years",
+      "B": "$0 for Years 1 to 6 and $218,000 in Year 7",
+      "C": "Any amount between $0 and $218,000 for any one year, provided the sum of the seven cash flows totals $218,000.",
+      "D": "$218,000 for Year 1 and $0 for Years 2 through 7.",
+      "E": "$0 for each of the seven years"
+    },
+    "answer": "A",
+    "explanation": "C = $218,000/7 C = $31,142.86",
+    "chapter": 5
+  },
+  {
+    "id": 475,
+    "question": "A project has an initial cost of $10,600 and produces cash inflows of $3,700, $4,900, and $2,500 for Years 1 to 3, respectively. What is the discounted payback period if the required rate of return is 7.5 percent?",
+    "options": {
+      "A": "2.65 years",
+      "B": "2.78 years",
+      "C": "2.94 years",
+      "D": "2.88 years",
+      "E": "Never"
+    },
+    "answer": "E",
+    "explanation": "PV = $3,700/1.075 + $4,900/1.0752 + $2,500/1.0753 PV = $9,694.39 The project will never pay back on a discounted basis.",
+    "chapter": 5
+  },
+  {
+    "id": 476,
+    "question": "An investment project has an initial cost of $260 and cash flows $75, $105, $100, and $50 for Years 1 to 4, respectively. The cost of capital is 12 percent. What is the discounted payback period?",
+    "options": {
+      "A": "3.76 years",
+      "B": "Never",
+      "C": "3.42 years",
+      "D": "3.68 years",
+      "E": "3.92 years"
+    },
+    "answer": "B",
+    "explanation": "Total discounted cash inflows = $75/1.12 + $105/1.122 + $100/1.123 + $50/1.124 Total discounted cash inflows = $253.62 The project never pays back on a discounted basis.",
+    "chapter": 5
+  },
+  {
+    "id": 477,
+    "question": "An investment project has an initial cost of $382 and cash flows $105, $130, $150, and $150 for Years 1 to 4, respectively. The cost of capital is 9 percent. What is the discounted payback period?",
+    "options": {
+      "A": "2.76 years",
+      "B": "3.57 years",
+      "C": "3.42 years",
+      "D": "3.68 years",
+      "E": "2.92 years"
+    },
+    "answer": "B",
+    "explanation": "DPB = 3 + ($382 - $105/1.09 + $130/1.092 + $150/1.093)/($150/1.094) DPB = 3.57 years",
+    "chapter": 5
+  },
+  {
+    "id": 478,
+    "question": "Homer is considering a project with cash inflows of $950 a year for Years 1 to 4, respectively. The project has a required discount rate of 11 percent and an initial cost of $2,100. What is the discounted payback period?",
+    "options": {
+      "A": "3.05 years",
+      "B": "2.68 years",
+      "C": "3.39 years",
+      "D": "2.21 years",
+      "E": "Never"
+    },
+    "answer": "B",
+    "explanation": "DPB = 2 + ($2,100 − $950/1.11 − $950/1.112)/($950/1.113) DPB = 2.68 years",
+    "chapter": 5
+  },
+  {
+    "id": 479,
+    "question": "Leslie is charged with determining which small projects should be funded. Along with this assignment, she has been granted the use of $15,000 for a maximum of two years on a discounted basis. She is considering three projects. Project A costs $7,500 and has cash flows of $4,000 a year for Years 1 to 3. Project B costs $8,000 and has cash flows of $3,000, $4,000, and $3,000 for Years 1 to 3, respectively. Project C costs $2,000 and has a cash inflow of $2,500 in Year 2. What decisions should she make regarding these projects if she assigns them a mandatory discount rate of 8.5 percent? Explain why.",
+    "options": {
+      "A": "Accept either Projects A and C or Projects B and C, but not all three as there is insufficient financing",
+      "B": "Accept Project C and reject Projects A and B because only Project C has a discounted payback that is less than two years",
+      "C": "Accept Projects A and C and reject Project B as they have the shortest discounted payback periods that fit within the $15,000 allocation",
+      "D": "Accept Projects A and C and reject Project B as A and B payback within two years",
+      "E": "Accept Projects B and C and reject Project A as this combination uses the most initial capital"
+    },
+    "answer": "B",
+    "explanation": "DPBA = 2 + ($7,500 − $4,000/1.085 − $4,000/1.0852)/($4,000/1.0853) DPBA = 2.13 years DPBB = 2 + ($8,000 − $3,000/1.085 − $4,000/1.0852)/($3,000/1.0853) DPBB = 2.78 years DPBC = 1 + $2,000/($2,500/1.0852) DPBC = 1.94 years",
+    "chapter": 5
+  },
+  {
+    "id": 480,
+    "question": "An investment with an initial cost of $15,000 produces cash flows of $5,000 annually for 5 years. At a discount rate of 10 percent, what is the discounted payback period?",
+    "options": {
+      "A": "3.00 years",
+      "B": "3.21 years",
+      "C": "3.75 years",
+      "D": "3.89 years",
+      "E": "Never"
+    },
+    "answer": "C",
+    "explanation": "DPB = 3 + ($15,000 − $5,000/1.10 − $5,000/1.102 − $5,000/1.103)/($5,000/1.104) DPB = 3.75 years",
+    "chapter": 5
+  },
+  {
+    "id": 481,
+    "question": "An investment cost $10,000 with expected cash flows of $3,000 a year for 5 years. At what discount rate will the project's IRR equal its discount rate?",
+    "options": {
+      "A": "15.24 percent",
+      "B": "27.22 percent",
+      "C": "0 percent",
+      "D": "16.67 percent",
+      "E": "21.08 percent"
+    },
+    "answer": "A",
+    "explanation": "0 = −$10,000 + $3,000{[1 − 1/(1 + IRR)5]/IRR} IRR = 15.24%",
+    "chapter": 5
+  },
+  {
+    "id": 482,
+    "question": "An investment costing $25 returns $27.50 at the end of one year with no risk. Given this, you know that the NPV:",
+    "options": {
+      "A": "is zero at any given discount rate.",
+      "B": "is negative if the required return is less than 10 percent.",
+      "C": "equals 1.0 if the required return is 10 percent.",
+      "D": "is zero if the required rate of return is 10 percent.",
+      "E": "must be positive at any given discount rate."
+    },
+    "answer": "D",
+    "explanation": "0 = −$25 + $27.50/(1 + IRR) IRR = 10% The NPV will equal zero when the discount rate equals the IRR of 10 percent.",
+    "chapter": 5
+  },
+  {
+    "id": 483,
+    "question": "Lucie is reviewing a project with an initial cost of $38,700 and cash inflows of $9,800, $16,400, and $21,700 for Years 1 to 3, respectively. Should the project be accepted if it has been assigned a required return of 9.75 percent? Why or why not?",
+    "options": {
+      "A": "Yes; because the IRR exceeds the required return by .34 percent",
+      "B": "Yes; because the IRR is less than the required return by .28 percent",
+      "C": "Yes; because the IRR exceeds the required return by .28 percent",
+      "D": "No; because the IRR exceeds the required return by .34 percent",
+      "E": "No; because the IRR is only 9.69 percent"
+    },
+    "answer": "A",
+    "explanation": "0 = −$38,700 + $9,800/(1 + IRR) + $16,400/(1 + IRR)2 + $21,700/(1 + IRR)3 IRR = 10.09% Excess return = 10.09% − 9.75 Excess return = .34%",
+    "chapter": 5
+  },
+  {
+    "id": 484,
+    "question": "Sun Lee's is considering two mutually exclusive projects that have been assigned the same discount rate of 10.5 percent. Project A has an initial cost of $54,500, and should produce cash inflows of $16,400, $28,900, and $31,700 for Years 1 to 3, respectively. Project B has an initial cost of $79,400, and should produce cash inflows of $0, $48,300, and $42,100, for Years 1 to 3, respectively. What is the incremental IRR?",
+    "options": {
+      "A": "−15.40 percent",
+      "B": "−11.23 percent",
+      "C": "4.08 percent",
+      "D": "7.83 percent",
+      "E": "13.89 percent"
+    },
+    "answer": "A",
+    "explanation": "0 = [−$79,400 − (−$54,500)] + ($0 − 16,400)/(1 + IRR) + ($48,300 − 28,900)/(1 + IRR)2 + ($42,100 − 31,700)/(1 + IRR)3 IRR = −15.40%",
+    "chapter": 5
+  },
+  {
+    "id": 485,
+    "question": "Project A costs $84,500 and has cash flows of $32,300, $36,400, and $30,000 for Years 1 to 3, respectively. Project B has an initial cost of $79,000 and has cash flows of $30,000, $36,000, and $29,000 for Years 1 to 3, respectively. What is the incremental IRR of these two mutually exclusive projects?",
+    "options": {
+      "A": "18.11 percent",
+      "B": "−13.01 percent",
+      "C": "14.91 percent",
+      "D": "16.75 percent",
+      "E": "−20.37 percent"
+    },
+    "answer": "E",
+    "explanation": "0 = [−$84,500 − (−$79,000)] + ($32,300 − 30,000)/(1 + IRR) + ($36,400 − 36,000)/(1 + IRR)2 + ($30,000 − 29,000)/(1 + IRR3) IRR = −20.37%",
+    "chapter": 5
+  },
+  {
+    "id": 486,
+    "question": "Project A has an initial cost of $75,000 and annual cash flows of $33,000 for three years. Project B costs $60,000 and has cash flows of $25,000, $30,000, and $25,000 for Years 1 to 3, respectively. Projects A and B are mutually exclusive. The incremental IRR is ________ and if the required rate is higher than the crossover rate then Project ________ should be accepted.",
+    "options": {
+      "A": "13.94 percent; A",
+      "B": "12.89 percent; B",
+      "C": "12.89 percent; A",
+      "D": "13.94 percent; B",
+      "E": "15.86 percent; A"
+    },
+    "answer": "B",
+    "explanation": "0 = [−$75,000 − (−$60,000)] + ($33,000 − 25,000)/(1 + IRR) + ($33,000 − 30,000)/(1 + IRR)2 + ($33,000 − 25,000)/(1 + IRR)3 IRR = 12.89% Using a discount rate of 15 percent: NPVA = −$75,000 + $33,000{1 − [1/(1 + .15)3]}/.15 NPVA = $346.43 NPVB = −$60,000 + $25,000/1.15 + $30,000/1.152 + $25,000/1.153 NPVB = $861.35",
+    "chapter": 5
+  },
+  {
+    "id": 487,
+    "question": "Bernstein's proposed project has an initial cost of $128,600 and cash flows of $64,500, $98,300, and −$15,500 for Years 1 to 3 respectively. If all negative cash flows are moved to Time 0 at a discount rate of 10 percent, what is the modified internal rate of return?",
+    "options": {
+      "A": "10.00 percent",
+      "B": "9.82 percent",
+      "C": "10.04 percent",
+      "D": "9.69 percent",
+      "E": "9.97 percent"
+    },
+    "answer": "B",
+    "explanation": "0 = [−$128,600 + (−$15,500/1.103)] + $64,500/(1 + IRR) + $98,300/(1 + IRR)2 IRR = 9.82%",
+    "chapter": 5
+  },
+  {
+    "id": 488,
+    "question": "You are considering two independent projects with the same discount rate of 11 percent. Project A costs $284,700 and has cash flows of $75,900, $106,400, and $159,800 for Years 1 to 3, respectively. Project B costs $115,000, and has a cash flow of $50,000 a year for Years 1 to 3. You have sufficient funds to finance any decision you make. Which project or projects, if either, should you accept and why?",
+    "options": {
+      "A": "Project A; because it is the larger-sized project with a positive IRR",
+      "B": "Project A; because it has the larger NPV",
+      "C": "Neither project; because their NPVs are less than their initial costs",
+      "D": "Project B; because its IRR exceeds the discount rate",
+      "E": "Both projects; because their NPVs are both positive"
+    },
+    "answer": "D",
+    "explanation": "NPVA = −$284,700 + $75,900/1.11 + $106,400/1.112 + $159,800/1.113 NPVA= −$13,120.61 NPVB = −$115,000 + $50,000[(1 − 1/1.113)/.11] NPVB = $7,185.74 0A = −$284,700 + $75,900/(1 + IRR) + $106,400/(1 + IRR)2 + $159,800/(1 + IRR)3 IRRA = 8.63% 0B = −$115,000 + $50,000{[1 − 1/(1 + IRR)3]/IRR} IRRB = 14.56%",
+    "chapter": 5
+  },
+  {
+    "id": 489,
+    "question": "A financing project has an initial cash inflow of $42,000 and cash flows of −$15,600, −$22,200, and −$18,000 for Years 1 to 3, respectively. The required rate of return is 13 percent. What is the internal rate of return? Should the project be accepted?",
+    "options": {
+      "A": "15.26 percent; accept",
+      "B": "15.26 percent; reject",
+      "C": "13.44 percent; reject",
+      "D": "13.44 percent; accept",
+      "E": "10.33 percent; accept"
+    },
+    "answer": "B",
+    "explanation": "0 = $42,000 − $15,600/(1 + IRR) − $22,200/(1 + IRR)2 − $18,000/(1 + IRR)3 IRR = 15.26% Since this is a financing project, an IRR greater than the required rate indicates rejection.",
+    "chapter": 5
+  },
+  {
+    "id": 490,
+    "question": "Down Under Stores is considering an investment with an initial cost of $236,000. In Year 4, the project will require an additional investment and finally, the project will be shut down in Year 7. The annual cash flows for Years 1 to 7, respectively, are projected as $64,000, $87,000, $91,000, −$48,000, $122,000, $154,000, and −$30,000. If all negative cash flows are moved to Time 0 using a discount rate of 13 percent, what is the project's modified IRR?",
+    "options": {
+      "A": "15.44 percent",
+      "B": "17.67 percent",
+      "C": "18.54 percent",
+      "D": "14.91 percent",
+      "E": "22.08 percent"
+    },
+    "answer": "C",
+    "explanation": "0 = [(−$236,000 + (−$48,000/1.134) + (−$30,000/1.137)] + $64,000/(1 + IRR) + $87,000/(1 + IRR)2 + $91,000/(1 + IRR)3 + $122,000/(1 + IRR)5 + $154,000/(1 + IRR)6 IRR = 18.54%",
+    "chapter": 5
+  },
+  {
+    "id": 491,
+    "question": "Project X has an initial cost of $20,000 and a cash inflow of $25,000 in Year 3. Project Y costs $40,700 and has cash flows of $12,000, $25,000, and $10,000 in Years 1 to 3, respectively. The discount rate is 6 percent and the projects are mutually exclusive. Based on the individual project's IRRs you should accept Project ________; based on NPV you should accept Project ________; the final decision should be to accept Project ________.",
+    "options": {
+      "A": "Y; Y; Y",
+      "B": "Y; X; X",
+      "C": "X; Y; Y",
+      "D": "X; X; X",
+      "E": "Y; X: Y"
+    },
+    "answer": "C",
+    "explanation": "0X = −$20,000 + $25,000/(1 + IRR)3 IRR = 7.72% NPVx = −$20,000 + $25,000/1.063 NPVx = $990.48 0Y = −$40,700 + $12,000/(1 + IRR) + $25,000/(1 + IRR)2 + $10,000/(1 + IRR)3 IRR = 7.70% NPVY = −$40,700 + $12,000/1.06 + $25,000/1.062 + $10,000/1.063 NPVY = $1,266.86",
+    "chapter": 5
+  },
+  {
+    "id": 492,
+    "question": "Two mutually exclusive projects have 3-year lives and a required rate of return of 10.5 percent. Project A costs $75,000 and has cash flows of $18,500, $42,900, and $28,600 for Years 1 to 3, respectively. Project B costs $72,000 and has cash flows of $22,000, $38,000, and $26,500 for Years 1 to 3, respectively. Using the IRR, which project, or projects, if either, should be accepted?",
+    "options": {
+      "A": "Accept both projects",
+      "B": "Select either project as there is no significant difference between them",
+      "C": "Accept Project A and reject Project B.",
+      "D": "Accept Project B and reject Project A.",
+      "E": "Reject both projects"
+    },
+    "answer": "E",
+    "explanation": "0 = −$75,000 + $18,500/(1 + IRR) + $42,900/(1 + IRR)2 + $28,600/(1 + IRR)3 IRR = 9.12% 0 = −$72,000 + $22,000/(1 + IRR) + $38,000/(1 + IRR)2 + $26,500/(1 + IRR)3 IRR = 9.48% Both projects should be rejected because their IRR's are less than the required rate of return. Thus, both projects also have negative NPVs. There is no reason to do incremental analysis as neither project is acceptable.",
+    "chapter": 5
+  },
+  {
+    "id": 493,
+    "question": "Flo's Flowers has a proposed project with an initial cost of $40,000 and cash flows of $8,500, $15,600, and $22,700 for Years 1 to 3, respectively. Based on the profitability index rule, should the project be accepted if the discount rate is 9.5 percent? Why or why not?",
+    "options": {
+      "A": "Yes; because the PI is 1.03",
+      "B": "Yes; because the PI is .95",
+      "C": "Yes; because the PI is negative",
+      "D": "No; because the PI is 1.03",
+      "E": "No; because the PI is .95"
+    },
+    "answer": "E",
+    "explanation": "PI = ($8,500/1.095 + $15,600/1.0952 + $22,700/1.0953)/$40,000 PI = .95",
+    "chapter": 5
+  },
+  {
+    "id": 494,
+    "question": "Anne is considering two independent projects with 2-year lives. Both projects have been assigned a discount rate of 13 percent. She has sufficient funds to finance one or both projects. Project A costs $38,500 and has cash flows of $19,400 and $28,700 for Years 1 and 2, respectively. Project B costs $41,000, and has cash flows of $25,000 and $22,000 for Years 1 and 2, respectively. Which project, or projects, if either, should you accept based on the profitability index method and what is the correct reason for that decision?",
+    "options": {
+      "A": "You should accept both projects since both of their PIs are positive.",
+      "B": "You should accept Project A since it has the higher PI and you can only select one project.",
+      "C": "You should accept both projects since both of their PIs are greater than 1.",
+      "D": "You should only accept Project A since it is the only project with a PI greater than 1.",
+      "E": "Neither project is acceptable."
+    },
+    "answer": "D",
+    "explanation": "PIA = ($19,400/1.13 + $28,700/1.132)/$38,500 PIA = 1.03 PIB = ($25,000/1.13 + $22,000/1.132)/$41,000 PIB= .96",
+    "chapter": 5
+  },
+  {
+    "id": 495,
+    "question": "Roy's Welding projects cash flows of $13,500, $20,400, and $32,900 for Years 1 to 3 for a project with an initial cost of $45,000. What is the profitability index given an assigned discount rate of 15 percent?",
+    "options": {
+      "A": ".92",
+      "B": ".97",
+      "C": "1.03",
+      "D": "1.08",
+      "E": "1.14"
+    },
+    "answer": "D",
+    "explanation": "PI = ($13,500/1.15 + $20,400/1.152 + $32,900/1.153)/$45,000 PI = 1.08",
+    "chapter": 5
+  },
+  {
+    "id": 496,
+    "question": "Ted, a project manager, wants to invest in a project with an initial cost of $58,500 and cash flows of $32,400 and $38,500 in Years 1 and 2. Rosita, his boss, requires a discount rate of 10 percent and also a return of $1.10 in today's dollars for every $1 invested. Will Ted get his project approved? Why or why not?",
+    "options": {
+      "A": "Yes; because the NPV is positive",
+      "B": "Yes; because the PI is greater than 1",
+      "C": "Yes; because both criteria are met",
+      "D": "No; because the project does not meet either requirement",
+      "E": "No; while the project returns more than 10 percent it does meet $1.10 per $1 requirement."
+    },
+    "answer": "E",
+    "explanation": "NPV = −$58,500 + $32,400/1.10 + $38,500/1.102 NPV = $2,772.73 PI = ($32,400/1.10 + $38,500/1.102)/$58,500 PI = 1.05 While the project has a positive NPV at discount rate of 10 percent, the PI indicates the project will only return $1.05 for every $1 invested at that discount rate. Thus, Ted will not get his project approved.",
+    "chapter": 5
+  },
+  {
+    "id": 497,
+    "question": "Juan is considering two independent projects. Project A costs $74,600 and has projected cash flows of $18,700, $46,300, and $12,200 for Years 1 to 3, respectively. Project B costs $70,000 and has cash flows of $10,600, $15,800, and $67,900 for Years 1 to 3, respectively. Juan assigns a discount rate of 10 percent to Project A and 12 percent to Project B. Which project or projects, if either, should he accept based on the profitability index rule?",
+    "options": {
+      "A": "Accept both projects.",
+      "B": "Accept Project A and reject Project B.",
+      "C": "Accept either A or B, but not both.",
+      "D": "Reject both projects.",
+      "E": "Accept Project B and reject Project A."
+    },
+    "answer": "E",
+    "explanation": "PIA = ($18,700/1.10 + $46,300/1.102 + $12,200/1.103)/$74,600 PIA = .86 PIB = ($10,600/1.12 + $15,800/1.122 + $67,900/1.123)/$70,000 PIB = 1.01 Accept Project B and reject Project A because only B has a PI greater than 1.",
+    "chapter": 5
+  },
+  {
+    "id": 498,
+    "question": "A proposed project costs $300 and has cash flows of $80, $200, $75, and $90 for Years 1 to 4, respectively. Because of its high risk, the project has been assigned a discount rate of 16 percent. In dollars, how much will this project return in today's dollars for every $1 invested?",
+    "options": {
+      "A": "$1.01",
+      "B": "$.99",
+      "C": "$1.05",
+      "D": "$.97",
+      "E": "$1.03"
+    },
+    "answer": "C",
+    "explanation": "PI = ($80/1.16 + $200/1.162 + $75/1.163 + $90/1.164)/$300 PI = 1.05 For every $1 invested, the project will return $1.05 in today's dollars.",
+    "chapter": 5
+  },
+  {
+    "id": 499,
+    "question": "Ginny is considering an investment costing $55,000 that has cash flows of $35,000 in Year 2, $36,000 in Year 3, and −$5,000 in Year 4. She requires a rate of return of 8 percent and has a required discounted payback period of three years. Should this project be accepted? Why?",
+    "options": {
+      "A": "Yes; The project pays back on a discounted basis within the assigned time period and also produces a positive NPV.",
+      "B": "Yes; The discounted payback requirement is met and other methods of analysis are less desirable.",
+      "C": "No; Although the project earns more than 8 percent, there is no situation where the project can pay back on a discounted basis within three years.",
+      "D": "No; The discounted payback period is too short.",
+      "E": "No; The NPV indicates rejection as does DPB when all cash flows are considered."
+    },
+    "answer": "E",
+    "explanation": "NPV = −$55,000 + $35,000/1.082 + $36,000/1.083 + (−$5,000/1.084) NPV = −$90.33 The project should be rejected based on NPV. IRR = 0 = −$55,000 + $35,000/(1 + IRR)2 + $36,000/(1 + IRR)3 + (−$5,000)/(1 + IRR)4 IRR = 7.93% The project should be rejected based on IRR. DPB = 2 + [($55,000 − $35,000/1.082)/($36,000/1.083)] DPB = 2.87 years At first glance, the project appears to be acceptable based on the discounted payback method. However, if you consider all of the cash flows, the project never pays back on a discounted basis. Total discounted cash flows = $35,000/1.082 + $36,000/1.083 + (−$5,000/1.084) Total discounted cash flows = $54,909.67",
+    "chapter": 5
+  },
+  {
+    "id": 500,
+    "question": "A proposed new venture will cost $175,000 and should produce annual cash flows of $48,500, $85,000, $40,000, and $40,000 for Years 1 to 4, respectively. The required payback period is 3 years and the discounted payback period is 3.5 years. The required rate of return is 9 percent. Which methods indicate project acceptance and which indicate project rejection?",
+    "options": {
+      "A": "Accept: NPV, IRR, PI, payback; Reject: discounted payback",
+      "B": "Accept: NPV, IRR, PI; Reject: payback, discounted payback",
+      "C": "Accept: payback, PI; Reject: NPV, IRR, discounted payback",
+      "D": "Accept: payback, discounted payback; Reject: NPV, IRR, PI",
+      "E": "Accept: NPV, IRR; Reject: PI, payback, discounted payback"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$175,000 + $48,500/1.09 + $85,000/1.092 + $40,000/1.093 + $40,000/1.094 NPV = $262.56 NPV indicates acceptance because it is a positive value. 0 = −$175,000 + $48,500/(1 + IRR) + $85,000/(1 + IRR)2 + $40,000/(1 + IRR)3 + $40,000/(1 + IRR)4 IRR = 9.07% IRR indicates acceptance because it exceeds the required rate of return. PI = [$48,500/1.09 + $85,000/1.092 + $40,000/1.093 + $40,000/1.094]/$175,000 PI = 1.002 PI indicates acceptance because its value is greater than 1.0. PB = 3 + ($175,000 − 48,500 − 85,000 − 40,000)/$40,000 PB = 3.04 years Payback indicates rejection because its value is greater than the required period of time. DPB = 3 + [$175,000 − ($48,500/1.09 + $85,000/1.092 + $40,000/1.093)]/($40,000/1.094) DPB = 3.99 years Discounted payback indicates rejection because its value is greater than the required period of time.",
+    "chapter": 5
+  },
+  {
+    "id": 501,
+    "question": "Given the goal of maximization of firm value and shareholder wealth, we have stressed the importance of net present value (NPV). And yet, some financial decision-makers continue to use less desirable measures such as the payback method. Why do you think this is the case? Answer: This is an open-ended question which allows the creative student to speculate on the reasons why other methods of analysis might be more expedient or applicable in various situations. For example, firms may rely on the IRR because it is easier to explain to board members than NPV and produces the same results as NPV as long as the projects are independent, similar in size, and the cash flows are conventional. For small projects of short duration, payback is often sufficient as it allows lower-level managers to develop management skills and also allows decisions to be made quickly while keeping the evaluation costs below the level of potential benefits that might be realized. Difficulty: 2 Medium Section: 5.2 The Payback Period Method Topic: Payback Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 502,
+    "question": "List and briefly discuss the advantages and disadvantages of the internal rate of return (IRR). Answer: The advantages of IRR are its close relationship with NPV and the ease with which it is understood and communicated. The primary disadvantages are that there may be multiple solutions and IRR may lead to a ranking conflict in evaluating mutually exclusive investments of differing sizes. Difficulty: 1 Easy Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 503,
+    "question": "The IRR rule is said to be a special case of the NPV rule. Explain why this is so and why IRR has some limitations NPV does not. Answer: At some rate, R, NPV = $0; by definition, when NPV = $0, R = IRR. Problems occur with IRR when mutually exclusive projects of varying size are encountered. Also, projects with unconventional cash flows present unique challenges due to the occurrence of multiple changes in cash flow direction which create multiple IRRs. The IRR accept/reject rule also has to be reversed for financing projects which have a positive initial cash flow. Difficulty: 2 Medium Section: 5.5 Problems with the IRR Approach Topic: Internal rate of return Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 45 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 5
+  },
+  {
+    "id": 504,
+    "question": "Explain the differences and similarities between net present value (NPV) and the profitability index (PI). Answer: The NPV and PI are closely related as both use the present value of all cash flows subsequent to the initial cash flow in their computations and both lead to the same accept/reject decision for independent projects. The main difference between the two is that the PI may be useful in determining which project(s) to accept if funds are limited; however, the PI may lead to incorrect decisions when considering mutually exclusive investments of differing sizes. Difficulty: 1 Easy Section: 5.6 The Profitability Index Topic: Profitability index Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  },
+  {
+    "id": 505,
+    "question": "Most financial experts will agree that net present value is the best capital budgeting method. However, even NPV can be unreliable when projecting project results. Explain why this is so. Answer: Given all of its benefits, NPV is still only as reliable as the accuracy of its inputs allows. If the cash flows and assigned discount rate are unrealistic, or turn out to be inaccurate, then the NPV results will likewise be inaccurate. As always, analysis output is always reliant upon the assumptions and values underlying the calculations and the absence of unforeseen future events. Difficulty: 2 Medium Section: 5.7 The Practice of Capital Budgeting Topic: Net present value Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 5
+  }
+]

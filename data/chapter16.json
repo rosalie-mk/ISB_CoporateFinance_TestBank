@@ -1,0 +1,1015 @@
+[
+  {
+    "id": 1317,
+    "question": "The firm's capital structure refers to the:",
+    "options": {
+      "A": "mix of current and fixed assets a firm holds.",
+      "B": "amount of capital invested in the firm.",
+      "C": "amount of dividends a firm pays.",
+      "D": "mix of debt and equity used to finance the firm's assets.",
+      "E": "amount of cash versus receivables the firm holds."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1318,
+    "question": "A general rule for managers to follow is to set the firm's capital structure such that the firm's:",
+    "options": {
+      "A": "size is maximized.",
+      "B": "value is maximized.",
+      "C": "bondholders are secured.",
+      "D": "suppliers of raw materials are satisfied.",
+      "E": "dividend payout is maximized."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1319,
+    "question": "A manager should attempt to maximize the value of the firm by changing the capital structure if and only if the value of the firm increases:",
+    "options": {
+      "A": "as a result of the change.",
+      "B": "to the sole benefit of the managers.",
+      "C": "to the sole benefit of the debtholders.",
+      "D": "while also decreasing shareholder value.",
+      "E": "while holding stockholder value constant."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1320,
+    "question": "A firm should always select the capital structure which:",
+    "options": {
+      "A": "produces the highest cost of capital.",
+      "B": "maximizes the value of the firm.",
+      "C": "minimizes taxes.",
+      "D": "maximizes current dividends.",
+      "E": "has no debt."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1321,
+    "question": "Bryan invested in Bryco stock when the firm was financed solely with equity. The firm now has a debt-equity ratio of .3. To maintain the same level of leverage he originally had, Bryan needs to:",
+    "options": {
+      "A": "borrow some money and purchase additional shares of Bryco stock.",
+      "B": "maintain his current position in Bryco stock.",
+      "C": "sell some shares of Bryco stock and hold the proceeds in cash.",
+      "D": "sell some shares of Bryco stock and loan out the proceeds.",
+      "E": "sell half of his Bryco stock and invest the proceeds in risk-free securities."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1322,
+    "question": "In the absence of taxes, the capital structure chosen by a firm doesn't really matter because of:",
+    "options": {
+      "A": "taxes.",
+      "B": "the interest tax shield.",
+      "C": "the relationship between dividends and earnings per share.",
+      "D": "the effects of leverage on the cost of equity.",
+      "E": "homemade leverage."
+    },
+    "answer": "E",
+    "chapter": 16
+  },
+  {
+    "id": 1323,
+    "question": "MM Proposition I with no tax supports the argument that:",
+    "options": {
+      "A": "business risk determines the return on assets.",
+      "B": "the cost of equity rises as leverage rises.",
+      "C": "it is completely irrelevant how a firm arranges its finances.",
+      "D": "a firm should borrow money to the point where the tax benefit from debt is equal to the cost of the increased probability of financial distress.",
+      "E": "financial risk is determined by the debt-equity ratio."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1324,
+    "question": "The proposition that the value of a levered firm is equal to the value of an unlevered firm is known as:",
+    "options": {
+      "A": "MM Proposition I with no tax.",
+      "B": "MM Proposition II with no tax.",
+      "C": "MM Proposition I with tax.",
+      "D": "MM Proposition II with tax.",
+      "E": "both MM I with and without tax."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1325,
+    "question": "The concept of homemade leverage is most associated with:",
+    "options": {
+      "A": "MM Proposition I with no tax.",
+      "B": "MM Proposition II with no tax.",
+      "C": "MM Proposition I with tax.",
+      "D": "MM Proposition II with tax.",
+      "E": "no MM Proposition."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1326,
+    "question": "A levered firm is a company that has:",
+    "options": {
+      "A": "accounts payable as its only liability.",
+      "B": "some debt in its capital structure.",
+      "C": "an all-equity capital structure.",
+      "D": "a tax loss carry forward.",
+      "E": "taxable income."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1327,
+    "question": "The effects of financial leverage depend on the operating earnings of the company. Based on this relationship, assume you graph the EPS and EBI for a firm, while ignoring taxes. Which one of these statements correctly states a relationship illustrated by the graph?",
+    "options": {
+      "A": "Financial leverage decreases the slope of the EPS line.",
+      "B": "Below the break-even point unlevered structures have a lower EPS for every dollar of EBI than levered structures do.",
+      "C": "Above the break-even point the increase in EPS for unlevered structures is greater than that of levered structures for every dollar increase in EBI.",
+      "D": "Leverage only provides value above the break-even point.",
+      "E": "Above the break-even point, the unlevered structure is preferred."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1328,
+    "question": "MM Proposition I without taxes proposes that:",
+    "options": {
+      "A": "the value of an unlevered firm exceeds that of a levered firm.",
+      "B": "there is one ideal capital structure for each firm.",
+      "C": "leverage does not affect the value of the firm.",
+      "D": "shareholder wealth is directly affected by the capital structure selected.",
+      "E": "the value of a levered firm exceeds that of an unlevered firm."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1329,
+    "question": "A key underlying assumption of MM Proposition I without taxes is that:",
+    "options": {
+      "A": "financial leverage increases risk.",
+      "B": "individuals can borrow at lower rates than corporations.",
+      "C": "individuals and corporations borrow at the same rate.",
+      "D": "managers always act to maximize the value of the firm.",
+      "E": "corporations are all-equity financed."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1330,
+    "question": "In an EPS-EBI graphical relationship, the slope of the debt ray is steeper than the equity ray. The debt ray has a lower intercept because:",
+    "options": {
+      "A": "more shares are outstanding for the same level of EBI.",
+      "B": "the break-even point is higher with debt.",
+      "C": "a fixed interest charge must be paid even at low earnings.",
+      "D": "the amount of interest per share has only a positive effect on the intercept.",
+      "E": "the break-even point is lower with debt."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1331,
+    "question": "When comparing levered versus unlevered capital structures, leverage works to increase EPS for high levels of EBIT because interest payments on the debt:",
+    "options": {
+      "A": "vary with EBIT levels.",
+      "B": "stay fixed, leaving less income to be distributed over fewer shares.",
+      "C": "stay fixed, leaving more income to be distributed over fewer shares.",
+      "D": "stay fixed, leaving less income to be distributed over more shares.",
+      "E": "stay fixed, leaving more income to be distributed over more shares."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1332,
+    "question": "The increase in risk to shareholders when financial leverage is introduced is best evidenced by:",
+    "options": {
+      "A": "higher EPS as EBIT increases.",
+      "B": "a higher variability of EPS with debt than with all-equity financing.",
+      "C": "increased use of homemade leverage.",
+      "D": "the increase in taxes.",
+      "E": "decreasing earnings as EBIT increases."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1333,
+    "question": "The use of personal borrowing to change the overall amount of financial leverage to which an individual is exposed is called:",
+    "options": {
+      "A": "homemade leverage.",
+      "B": "dividend recapture.",
+      "C": "the weighted average cost of capital.",
+      "D": "private debt placement.",
+      "E": "personal offset."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1334,
+    "question": "The proposition that the value of the firm is independent of its capital structure is called:",
+    "options": {
+      "A": "the capital asset pricing model.",
+      "B": "MM Proposition I (no taxes).",
+      "C": "MM Proposition II (no taxes).",
+      "D": "the law of one price.",
+      "E": "the efficient markets hypothesis."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1335,
+    "question": "The unlevered cost of capital is:",
+    "options": {
+      "A": "the cost of capital for a firm with no equity in its capital structure.",
+      "B": "the cost of capital for a firm with no debt in its capital structure.",
+      "C": "the interest tax shield times pretax net income.",
+      "D": "the cost of preferred stock for an all-equity firm.",
+      "E": "equal to the profit margin for a firm with some debt in its capital structure."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1336,
+    "question": "According to MM Proposition II with no taxes, the:",
+    "options": {
+      "A": "return on assets is determined by financial risk.",
+      "B": "required return on equity is a linear function of the firm's debt-equity ratio.",
+      "C": "cost of equity in inversely related to the firm's debt-equity ratio.",
+      "D": "cost of debt must equal the cost of equity.",
+      "E": "required return on assets exceeds the weighted average cost of capital."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1337,
+    "question": "MM Proposition II with no taxes supports the argument that a firm's:",
+    "options": {
+      "A": "unlevered equity is risk-free.",
+      "B": "cost of equity is inversely related to the firm's debt-equity level.",
+      "C": "cost of equity is unaffected by the firm's unlevered cost of capital.",
+      "D": "WACC will exceed the unlevered firm's cost of equity.",
+      "E": "WACC remains constant even if the firm changes its capital structure."
+    },
+    "answer": "E",
+    "chapter": 16
+  },
+  {
+    "id": 1338,
+    "question": "The tax savings of the firm derived from the deductibility of interest expense is called the:",
+    "options": {
+      "A": "tax shield from debt.",
+      "B": "depreciable basis.",
+      "C": "financing umbrella.",
+      "D": "current yield.",
+      "E": "tax-loss carryback."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1339,
+    "question": "The reason that MM Proposition I without taxes does not hold in the presence of corporate taxation is because:",
+    "options": {
+      "A": "levered firms pay less taxes compared with identical unlevered firms.",
+      "B": "bondholders require higher rates of return than stockholders do.",
+      "C": "earnings per share are no longer relevant with taxes.",
+      "D": "dividends become a tax shield.",
+      "E": "debt is more expensive than equity."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1340,
+    "question": "MM Proposition I with taxes supports the theory that:",
+    "options": {
+      "A": "there is a positive linear relationship between the amount of debt in a levered firm and the firm's value.",
+      "B": "the value of a firm is inversely related to the amount of leverage used by the firm.",
+      "C": "the value of an unlevered firm is equal to the value of a levered firm plus the value of the interest tax shield.",
+      "D": "a firm's cost of capital is the same regardless of the mix of debt and equity used by the firm.",
+      "E": "a firm's weighted average cost of capital increases as the debt-equity ratio of the firm rises."
+    },
+    "answer": "A",
+    "chapter": 16
+  },
+  {
+    "id": 1341,
+    "question": "MM Proposition I with taxes states that:",
+    "options": {
+      "A": "capital structure does not affect firm value.",
+      "B": "increasing the debt-equity ratio increases firm value.",
+      "C": "firm value is maximized when the firm is all-equity financed.",
+      "D": "the cost of equity rises as the debt-equity ratio increases.",
+      "E": "the unlevered cost of equity is equal to RWacc."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1342,
+    "question": "MM Proposition I with taxes is based on the concept that the:",
+    "options": {
+      "A": "optimal capital structure is the one that is totally financed with equity.",
+      "B": "capital structure of the firm does not matter because investors can use homemade leverage.",
+      "C": "firm is better off with debt based on the weighted average cost of capital.",
+      "D": "presence of taxes causes debt to be valuable to a firm.",
+      "E": "cost of equity increases as the debt-equity ratio of a firm increases."
+    },
+    "answer": "D",
+    "chapter": 16
+  },
+  {
+    "id": 1343,
+    "question": "MM Proposition II with taxes:",
+    "options": {
+      "A": "explains how a firm's WACC increases with the use of financial leverage.",
+      "B": "reveals how utilizing the tax shield on debt causes an increase in the value of a firm.",
+      "C": "supports the argument that business risk is determined by the capital structure employed by a firm.",
+      "D": "supports the argument that the cost of equity decreases as the debt-equity ratio increases.",
+      "E": "reaches the final conclusion that the capital structure decision is irrelevant to the value of a firm."
+    },
+    "answer": "B",
+    "chapter": 16
+  },
+  {
+    "id": 1344,
+    "question": "MM Proposition II is the proposition that:",
+    "options": {
+      "A": "supports the argument that the capital structure of a firm is irrelevant to the value of the firm.",
+      "B": "the cost of levered equity depends solely on the return on debt, the debt-equity ratio, and the tax rate.",
+      "C": "a firm's cost of equity capital is a positive linear function of the firm's capital structure.",
+      "D": "the cost of equity is equivalent to the required return on the total assets of a levered firm.",
+      "E": "the cost of debt is inversely related to a firm's debt-equity ratio."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1345,
+    "question": "The tax shield on debt has no value for a firm when:",
+    "options": {
+      "A": "the firm's debt-equity ratio is exactly equal to 1.",
+      "B": "the firm's debt-equity ratio is exactly .5.",
+      "C": "the firm is unlevered.",
+      "D": "shareholders fully utilize homemade leverage.",
+      "E": "RS is less than R0."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1346,
+    "question": "The tax shield on debt is one reason why:",
+    "options": {
+      "A": "the required rate of return on assets rises when debt is added to the capital structure.",
+      "B": "the value of an unlevered firm is equal to the value of a levered firm.",
+      "C": "the net cost of debt to a firm is generally less than the cost of equity.",
+      "D": "the cost of debt is equal to the cost of equity for a levered firm.",
+      "E": "firms prefer equity financing over debt financing."
+    },
+    "answer": "C",
+    "chapter": 16
+  },
+  {
+    "id": 1347,
+    "question": "CT Stores has debt with a book value of $325,000 and a market value of $319,000. The firm's equity has a book value of $526,000 and a market value of $684,000. The tax rate is 21 percent and the cost of capital is 11.2 percent. What is the market value of this firm based on MM Proposition I without taxes?",
+    "options": {
+      "A": "$923,250",
+      "B": "$1,003,000",
+      "C": "$984,300",
+      "D": "$851,000",
+      "E": "$769,750"
+    },
+    "answer": "B",
+    "explanation": "V ≡ $319,000 + 684,000 V ≡ $1,003,000",
+    "chapter": 16
+  },
+  {
+    "id": 1348,
+    "question": "Thompson & Thomson is an all-equity firm that has 280,000 shares of stock outstanding. The company is in the process of borrowing $2.4 million at 5.5 percent interest to repurchase 75,000 shares of the outstanding stock. What is the value of this firm if you ignore taxes?",
+    "options": {
+      "A": "$8,960,000",
+      "B": "$9,240,000",
+      "C": "$10,710,000",
+      "D": "$12,500,000",
+      "E": "$11,360,000"
+    },
+    "answer": "A",
+    "explanation": "Firm value = ($2,400,000/75,000)(280,000) Firm value = $8,960,000",
+    "chapter": 16
+  },
+  {
+    "id": 1349,
+    "question": "Uptown Interior Designs is an all-equity firm that has 40,000 shares of stock outstanding. The company has decided to borrow $74,000 to buy out the 2,100 shares of a deceased stockholder. What is the total value of this firm if you ignore taxes?",
+    "options": {
+      "A": "$2,008,157",
+      "B": "$1,388,056",
+      "C": "$1,409,524",
+      "D": "$3,885,000",
+      "E": "$2,630,620"
+    },
+    "answer": "C",
+    "explanation": "Firm value = ($74,000/2,100)(40,000) Firm value = $1,409,524",
+    "chapter": 16
+  },
+  {
+    "id": 1350,
+    "question": "You own 25 percent of Unique Vacations, Inc. You have decided to retire and want to sell your shares in this closely held, all-equity firm. The other shareholders have agreed to have the firm borrow $1.5 million to purchase your 1,000 shares of stock. What is the total value of this firm if you ignore taxes?",
+    "options": {
+      "A": "$4.8 million",
+      "B": "$5.1 million",
+      "C": "$5.4 million",
+      "D": "$5.7 million",
+      "E": "$6.0 million"
+    },
+    "answer": "E",
+    "explanation": "Firm value = $1.5 million/.25 Firm value = $6.0 million",
+    "chapter": 16
+  },
+  {
+    "id": 1351,
+    "question": "Assume an unlevered firm has total assets of $6,000, earnings before interest and taxes of $600, and 500 shares of stock outstanding. Further assume the firm decides to change 40 percent of its capital structure to debt with an interest rate of 8 percent. Ignore taxes. What will be the amount of the change in the earnings per share as a result of this change in the capital structure?",
+    "options": {
+      "A": "$.16",
+      "B": "$.09",
+      "C": "No change",
+      "D": "−$.09",
+      "E": "−$.16"
+    },
+    "answer": "A",
+    "explanation": "EPSUnlevered = $600/500 EPSUnlevered = $1.20 EPSLevered = [$600 − .08(.4)($6,000)]/[500(1 − .4)] EPSLevered = $1.36 ΔEPS = $1.36 − 1.20 ΔEPS = $.16",
+    "chapter": 16
+  },
+  {
+    "id": 1352,
+    "question": "Assume an initial scenario where a levered firm has total assets of $8,000, earnings before interest and taxes of $600, 400 shares of stock outstanding, a debt-equity ratio of .25, and a cost of debt of 7 percent. Now assume a second scenario where the firm changes to an all-equity structure by issuing new shares to pay off debt while a shareholder holding 10 percent of the stock borrows funds at 7 percent and uses homemade leverage to offset the firm's change in capital structure. Ignore taxes. What are the net earnings for this shareholder under the initial scenario? Under the second scenario?",
+    "options": {
+      "A": "$90.00; $90.00",
+      "B": "$90.00; $112.50",
+      "C": "$48.80; $38.80",
+      "D": "$48.80; $48.80",
+      "E": "$45.00; $48.80"
+    },
+    "answer": "D",
+    "explanation": "For the firm: EPSLevered = [$600 − .07(.25/1.25)($8,000)]/400 EPSLevered = $1.22 Price per share = 1/1.25($8,000)/400 Price per share = $16 New shares issued = .25/1.25($8,000)/$16 New shares issued = 100 EPSUnlevered = $600/(400 + 100) EPSUnlevered = $1.20 For the shareholder: Net earningsInitial scenario = $1.22(.1)(400) Net earningsInitial scenario = $48.80 For the second scenario: Initial shareholder equity = .1(400)($16) Initial shareholder equity = $640 Shareholder debt = .25($640) Shareholder debt = $160 Net earningsSecond scenario = [.1(400) + $160/$16)]($1.20) − .07($160) Net earningsSecond scenario = $48.80",
+    "chapter": 16
+  },
+  {
+    "id": 1353,
+    "question": "A firm has a debt-equity ratio of .64, a pretax cost of debt of 8.5 percent, and a required return on assets of 12.6 percent. What is the cost of equity if you ignore taxes?",
+    "options": {
+      "A": "8.06 percent",
+      "B": "8.55 percent",
+      "C": "11.12 percent",
+      "D": "15.22 percent",
+      "E": "16.38 percent"
+    },
+    "answer": "D",
+    "explanation": "RS = .126 + .64(.126 − .085) RS = .1522, or 15.22%",
+    "chapter": 16
+  },
+  {
+    "id": 1354,
+    "question": "Bigelow has a levered cost of equity of 14.29 percent and a pretax cost of debt of 7.23 percent. The required return on the assets is 11 percent. What is the firm's debt-equity ratio based on MM Proposition II with no taxes?",
+    "options": {
+      "A": ".67",
+      "B": ".87",
+      "C": ".72",
+      "D": ".75",
+      "E": ".81"
+    },
+    "answer": "B",
+    "explanation": "RS = .1429 = .11 + B/S(.11 − .0723) B/S = .87",
+    "chapter": 16
+  },
+  {
+    "id": 1355,
+    "question": "The Backwoods Lumber Co. has a debt-equity ratio of .68. The firm's required return on assets is 11.7 percent and its levered cost of equity is 15.54 percent. What is the pretax cost of debt based on MM Proposition II with no taxes?",
+    "options": {
+      "A": "6.76 percent",
+      "B": "6.39 percent",
+      "C": "7.25 percent",
+      "D": "6.05 percent",
+      "E": "7.50 percent"
+    },
+    "answer": "D",
+    "explanation": "RS = .1554 = .117 + .68(.117 − RB) RB = .0605, or 6.05%",
+    "chapter": 16
+  },
+  {
+    "id": 1356,
+    "question": "A firm has zero debt in its capital structure and has an overall cost of capital of 10 percent. The firm is considering a new capital structure with 60 percent debt at an interest rate of 8 percent. Assuming there are no taxes or other imperfections, what would be the cost of equity with the new capital structure?",
+    "options": {
+      "A": "9 percent",
+      "B": "10 percent",
+      "C": "13 percent",
+      "D": "14 percent",
+      "E": "11 percent"
+    },
+    "answer": "C",
+    "explanation": "Rs = .10 + .60/.40(.10 − .08) Rs = .13, or 13%",
+    "chapter": 16
+  },
+  {
+    "id": 1357,
+    "question": "A firm has a debt-equity ratio of .48. Its cost of debt is 7 percent and its WACC is 10.8 percent. What is its cost of equity if there are no taxes or other imperfections?",
+    "options": {
+      "A": "10.97 percent",
+      "B": "13.05 percent",
+      "C": "12.62 percent",
+      "D": "11.46 percent",
+      "E": "13.67 percent"
+    },
+    "answer": "C",
+    "explanation": ".108 = (.48/1.48)(.07) + (1/1.48)RS RS = .1262, or 12.62%",
+    "chapter": 16
+  },
+  {
+    "id": 1358,
+    "question": "A firm has a debt-equity ratio of 1, a cost of equity of 16 percent, and a cost of debt of 8 percent. If there are no taxes or other imperfections, what is its unlevered cost of equity?",
+    "options": {
+      "A": "8 percent",
+      "B": "10 percent",
+      "C": "12 percent",
+      "D": "14 percent",
+      "E": "16 percent"
+    },
+    "answer": "C",
+    "explanation": ".16 = r0 + 1(r0 − .08) r0 = .12, or 12%",
+    "chapter": 16
+  },
+  {
+    "id": 1359,
+    "question": "A firm has a debt-equity ratio of .55 with a cost of debt of 6.7 percent. If it had no debt, its cost of equity would be 14.5 percent. What is its levered cost of equity assuming there are no taxes or other imperfections?",
+    "options": {
+      "A": "18.96 percent",
+      "B": "15.82 percent",
+      "C": "17.94 percent",
+      "D": "18.79 percent",
+      "E": "13.67 percent"
+    },
+    "answer": "D",
+    "explanation": "Rs = .145 + .55(.145 − .067) Rs = .1879, or 18.79%",
+    "chapter": 16
+  },
+  {
+    "id": 1360,
+    "question": "If a firm is unlevered and has a cost of equity capital of 13.7 percent, what would be the cost of equity if its debt-equity ratio was revised to .4? The expected cost of debt is 7.4 percent and there are no taxes.",
+    "options": {
+      "A": "15.54 percent",
+      "B": "15.67 percent",
+      "C": "16.09 percent",
+      "D": "16.22 percent",
+      "E": "16.36 percent"
+    },
+    "answer": "D",
+    "explanation": "Rs = .137 + .4(.137 − .074) Rs = .1622, or 16.22%",
+    "chapter": 16
+  },
+  {
+    "id": 1361,
+    "question": "Reena Industries has $138,000 of debt outstanding that is selling at par and has a coupon rate of 7 percent. If the tax rate is 21 percent, what is the present value of the tax shield on debt?",
+    "options": {
+      "A": "$28,412",
+      "B": "$31,010",
+      "C": "$28,980",
+      "D": "$3,284",
+      "E": "$2,029"
+    },
+    "answer": "C",
+    "explanation": "PVTax shield = .21($138,000) PVTax shield = $28,980",
+    "chapter": 16
+  },
+  {
+    "id": 1362,
+    "question": "A firm has debt of $7,000, equity of $12,000, a cost of debt of 7 percent, a cost of equity of 14 percent, and a tax rate of 21 percent. What is the firm's weighted average cost of capital?",
+    "options": {
+      "A": "8.45 percent",
+      "B": "9.90 percent",
+      "C": "10.88 percent",
+      "D": "12.50 percent",
+      "E": "11.27 percent"
+    },
+    "answer": "C",
+    "explanation": "RWACC = [$12,000/($7,000 + 12,000)(.14)] + [$7,000/($7,000 + 12,000)](.07)(1 − .21) RWACC = .1088, or 10.88%",
+    "chapter": 16
+  },
+  {
+    "id": 1363,
+    "question": "The Winter Wear Company has expected earnings before interest and taxes of $3,800, an unlevered cost of capital of 15.4 percent and a tax rate of 22 percent. The company also has $2,600 of debt with a coupon rate of 5.7 percent. The debt is selling at par value. What is the value of this firm?",
+    "options": {
+      "A": "$15,585",
+      "B": "$19,819",
+      "C": "$12,115",
+      "D": "$12,055",
+      "E": "$17,700"
+    },
+    "answer": "B",
+    "explanation": "VL = [$3,800(1 − .22)]/.154 + .22($2,600) VL = $19,819",
+    "chapter": 16
+  },
+  {
+    "id": 1364,
+    "question": "The Dance Studio is currently an all-equity firm that has 22,000 shares of stock outstanding with a market price of $27 a share. The current cost of equity is 12 percent and the tax rate is 23 percent. The firm is considering adding $225,000 of debt with a coupon rate of 6.25 percent to its capital structure. The debt will sell at par. What will be the levered value of the equity?",
+    "options": {
+      "A": "$325,500",
+      "B": "$420,750",
+      "C": "$521,250",
+      "D": "$472,750",
+      "E": "$594,000"
+    },
+    "answer": "B",
+    "explanation": "VL = 22,000($27) + .23($225,000) VL = $645,750 VE = $645,750 − 225,000 VE = $420,750",
+    "chapter": 16
+  },
+  {
+    "id": 1365,
+    "question": "The Montana Hills Co. has expected earnings before interest and taxes of $17,100, an unlevered cost of capital of 12.4 percent, and debt with both a book and face value of $25,000. The debt has an annual 6.2 percent coupon. If the tax rate is 21 percent, what is the value of the firm?",
+    "options": {
+      "A": "$91,016",
+      "B": "$137,903",
+      "C": "$114,194",
+      "D": "$106,667",
+      "E": "$146,403"
+    },
+    "answer": "C",
+    "explanation": "VL = [$17,100(1 − .21)]/.124 + .21($25,000) VL = $114,194",
+    "chapter": 16
+  },
+  {
+    "id": 1366,
+    "question": "Joe's Leisure Time Sports is an unlevered firm with an aftertax net income of $78,400. The unlevered cost of capital is 11.4 percent and the tax rate is 23 percent. What is the value of this firm?",
+    "options": {
+      "A": "$447,017",
+      "B": "$581,818",
+      "C": "$687,719",
+      "D": "$613,309",
+      "E": "$537,900"
+    },
+    "answer": "C",
+    "explanation": "VU = $78,400/.114 VU = $687,719",
+    "chapter": 16
+  },
+  {
+    "id": 1367,
+    "question": "An unlevered firm has a cost of capital of 13.6 percent and earnings before interest and taxes of $138,000. A levered firm with the same operations and assets has both a book value and a face value of debt of $520,000 with an annual coupon of 7 percent. The applicable tax rate is 21 percent. What is the value of the levered firm?",
+    "options": {
+      "A": "$996,421",
+      "B": "$907,679",
+      "C": "$1,184,929",
+      "D": "$910,818",
+      "E": "$1,191,506"
+    },
+    "answer": "D",
+    "explanation": "VL = [$138,000(1 − .21)/.136] + .21($520,000) VL = $910,818",
+    "chapter": 16
+  },
+  {
+    "id": 1368,
+    "question": "The Spartan Co. has an unlevered cost of capital of 11.6 percent, a cost of debt of 7.9 percent, and a tax rate of 23 percent. What is the target debt-equity ratio if the targeted levered cost of equity is 12.6 percent?",
+    "options": {
+      "A": ".44",
+      "B": ".39",
+      "C": ".35",
+      "D": ".56",
+      "E": ".53"
+    },
+    "answer": "C",
+    "explanation": ".126 = .116 + B/S(.116 − .079)(1 − .23) B/S = .35",
+    "chapter": 16
+  },
+  {
+    "id": 1369,
+    "question": "Salmon Inc. has debt with both a face and a market value of $227,000. This debt has a coupon rate of 7 percent and pays interest annually. The expected earnings before interest and taxes is $87,200, the tax rate is 21 percent, and the unlevered cost of capital is 12 percent. What is the firm's cost of equity?",
+    "options": {
+      "A": "13.25 percent",
+      "B": "13.89 percent",
+      "C": "13.92 percent",
+      "D": "14.27 percent",
+      "E": "14.14 percent"
+    },
+    "answer": "D",
+    "explanation": "VL = [$87,200(1 − .21)/.12] + .21($227,000) VL = $621,736.67 VS = $621,736.67 − 227,000 VS = $394,736.67 Rs = .12 + ($227,000/$394,736.67)(1 − .21)(.12 − .07) Rs = .1427, or 14.27%",
+    "chapter": 16
+  },
+  {
+    "id": 1370,
+    "question": "Anderson's Furniture Outlet has an unlevered cost of capital of 10.3 percent, a tax rate of 21 percent, and expected earnings before interest and taxes of $1,900. The company has $4,000 in bonds outstanding that have an annual coupon of 7 percent. If the bonds are selling at par, what is the cost of equity?",
+    "options": {
+      "A": "11.33 percent",
+      "B": "9.34 percent",
+      "C": "10.72 percent",
+      "D": "9.99 percent",
+      "E": "11.21 percent"
+    },
+    "answer": "E",
+    "explanation": "VL = [$1,900(1 − .21)/.103] + .21($4,000) VL = $15,412.82 VS = $15,412.82 − 4,000 VS = 11,412.82 RS = .103 + [($4,000/$11,412.82)(1 − .21)(.103 − .07)] RS = .1121, or 11.21%",
+    "chapter": 16
+  },
+  {
+    "id": 1371,
+    "question": "Aspen's Distributors has a levered cost of equity of 13.84 percent and an unlevered cost of capital of 12.5 percent. The company has $5,000 in debt that is selling at par. The levered value of the firm is $14,600 and the tax rate is 25 percent. What is the pretax cost of debt?",
+    "options": {
+      "A": "7.92 percent",
+      "B": "9.07 percent",
+      "C": "8.16 percent",
+      "D": "8.84 percent",
+      "E": "9.00 percent"
+    },
+    "answer": "B",
+    "explanation": "VE = $14,600 − 5,000 VE = $9,600 .1384 = .125 + ($5,000/$9,600)(1 − .25)(.125 − RB) RB = .0907, or 9.07%",
+    "chapter": 16
+  },
+  {
+    "id": 1372,
+    "question": "Rosita's has a cost of equity of 13.76 percent and a pretax cost of debt of 8.5 percent. The debt-equity ratio is .60 and the tax rate is 21 percent. What is Rosita's unlevered cost of capital?",
+    "options": {
+      "A": "11.83 percent",
+      "B": "12.07 percent",
+      "C": "13.97 percent",
+      "D": "14.08 percent",
+      "E": "14.60 percent"
+    },
+    "answer": "B",
+    "explanation": ".1376 = RU + .60(1 − .21)(RU − .085) RU = .1207, or 12.07%",
+    "chapter": 16
+  },
+  {
+    "id": 1373,
+    "question": "An all-equity firm has a cost of capital of 12.8 percent and a tax rate of 23 percent. At the firm's target debt-equity ratio, the pretax cost of debt is 7.35 percent and the cost of equity is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1374,
+    "question": "07 percent. What is the target debt-equity ratio?",
+    "options": {
+      "A": ".67",
+      "B": ".49",
+      "C": ".51",
+      "D": ".61",
+      "E": ".54"
+    },
+    "answer": "E",
+    "explanation": ".1507 = .128 + B/S(1 − .23)(.128 − .0735) B/S = .54",
+    "chapter": 16
+  },
+  {
+    "id": 1375,
+    "question": "Wild Flowers Express has a debt-equity ratio of .60. The pretax cost of debt is 9 percent while the unlevered cost of capital is 14 percent. What is the cost of equity if the tax rate is 23 percent?",
+    "options": {
+      "A": "7.52 percent",
+      "B": "8.78 percent",
+      "C": "16.31 percent",
+      "D": "16.83 percent",
+      "E": "17.30 percent"
+    },
+    "answer": "C",
+    "explanation": "RS = .14 + .60(1 − .23)(.14 − .09) RS = .1631, or 16.31%",
+    "chapter": 16
+  },
+  {
+    "id": 1376,
+    "question": "Your firm has a bond issue with a face value of $250,000 outstanding. These bonds have a coupon rate of 7 percent, pay interest semiannually, and have a current market price equal to 103 percent of face value. What is the amount of the annual tax shield on debt given a tax rate of 21 percent?",
+    "options": {
+      "A": "$3,675",
+      "B": "$6,309",
+      "C": "$4,500",
+      "D": "$47,500",
+      "E": "$52,500"
+    },
+    "answer": "A",
+    "explanation": "Annual tax shield on debt = $250,000(.07)(.21) Annual tax shield on debt = $3,675",
+    "chapter": 16
+  },
+  {
+    "id": 1377,
+    "question": "Jasmine's Boutique has 2,000 bonds outstanding with a face value of $1,000 each, a market value of $1,060 each, and a coupon rate of 9 percent. The interest is paid semiannually. What is the amount of the annual tax shield on debt if the tax rate is 23 percent?",
+    "options": {
+      "A": "$44,872",
+      "B": "$460,000",
+      "C": "$43,884",
+      "D": "$41,400",
+      "E": "$487,600"
+    },
+    "answer": "D",
+    "explanation": "Annual interest tax shield = 2,000($1,000)(.09)(.23) Annual interest tax shield = $41,400",
+    "chapter": 16
+  },
+  {
+    "id": 1378,
+    "question": "Juanita's Steak House has $12,000 of debt outstanding that is selling at 101.2 percent of par and has a coupon rate of 8 percent and a current yield of 7.91 percent. The tax rate is 21 percent. What is the present value of the tax shield on debt?",
+    "options": {
+      "A": "$3,188",
+      "B": "$3,887",
+      "C": "$2,520",
+      "D": "$2,500",
+      "E": "$2,550"
+    },
+    "answer": "C",
+    "explanation": "PVTax shield = .21($12,000) PVTax shield = $2,520",
+    "chapter": 16
+  },
+  {
+    "id": 1379,
+    "question": "A firm has debt of $5,000, equity of $16,000, a cost of debt of 8 percent, a cost of equity of 12 percent, and a tax rate of 21 percent. What is the firm's weighted average cost of capital?",
+    "options": {
+      "A": "10.20 percent",
+      "B": "9.94 percent",
+      "C": "10.90 percent",
+      "D": "10.65 percent",
+      "E": "11.05 percent"
+    },
+    "answer": "D",
+    "explanation": "RWACC = [$16,000/($5,000 + 16,000)](.12) + [$5,000/($5,000 + 16,000)](.08)(1 − .21) RWACC = .1065, or 10.65%",
+    "chapter": 16
+  },
+  {
+    "id": 1380,
+    "question": "A firm has zero debt and an overall cost of capital of 13.8 percent. The firm is considering a new capital structure with 40 percent debt. The interest rate on the debt would be 7.2 percent and the corporate tax rate is 21 percent. What would be the cost of equity with the new capital structure?",
+    "options": {
+      "A": "16.90 percent",
+      "B": "16.11 percent",
+      "C": "17.28 percent",
+      "D": "17.34 percent",
+      "E": "17.59 percent"
+    },
+    "answer": "C",
+    "explanation": "Rs = .138 + (.4/.6)(1 − .21)(.138 − .072) Rs = .1728, or 17.28%",
+    "chapter": 16
+  },
+  {
+    "id": 1381,
+    "question": "A firm has a debt-equity ratio of .64, a cost of equity of 13.04 percent, and a cost of debt of 8 percent. Assume the corporate tax rate is 25 percent. What would be the cost of equity if the firm were all-equity financed?",
+    "options": {
+      "A": "11.30 percent",
+      "B": "11.41 percent",
+      "C": "13.33 percent",
+      "D": "12.42 percent",
+      "E": "12.25 percent"
+    },
+    "answer": "B",
+    "explanation": ".1304 = R0 + .64(1 − .25)(R0 − .08) R0 = .1141, or 11.41%",
+    "chapter": 16
+  },
+  {
+    "id": 1382,
+    "question": "A firm has an equity multiplier of 1.57, an unlevered cost of equity of 14 percent, a levered cost of equity of 15.6 percent, and a tax rate of 21 percent. What is the cost of debt?",
+    "options": {
+      "A": "11.25 percent",
+      "B": "10.50 percent",
+      "C": "10.45 percent",
+      "D": "11.00 percent",
+      "E": "10.33 percent"
+    },
+    "answer": "C",
+    "explanation": "B/S = 1.57 − 1 B/S = .57 .156 = .14 + .57(1 −.21)(.14 − RB) RB = .1045, or 10.45%",
+    "chapter": 16
+  },
+  {
+    "id": 1383,
+    "question": "Lyme Home has 5,000 bonds outstanding with a face value of $1,000 each and a coupon rate of 7.65 percent. Interest is paid semiannually. What is the amount of the annual tax shield on debt if the tax rate is 23 percent?",
+    "options": {
+      "A": "$157,650",
+      "B": "$160,125",
+      "C": "$1,062,500",
+      "D": "$1,150,000",
+      "E": "$87,975"
+    },
+    "answer": "E",
+    "explanation": "Annual interest tax shield = 5,000($1,000)(.0765)(.23) Annual interest tax shield = $87,975",
+    "chapter": 16
+  },
+  {
+    "id": 1384,
+    "question": "Alexandria's Dance Studio is currently an all-equity firm with earnings before interest and taxes of $338,000 and a cost of equity of 14.2 percent. Assume the tax rate is 22 percent. The firm is considering adding $400,000 of debt with a coupon rate of 7 percent to its capital structure. The debt will be sold at par value. What is the levered value of the equity?",
+    "options": {
+      "A": "$1,987,408",
+      "B": "$1,544,620",
+      "C": "$2,038,519",
+      "D": "$986,420",
+      "E": "$1,944,620"
+    },
+    "answer": "B",
+    "explanation": "VL = {[$338,000(1 − .22)]/.142} + .22($400,000) VL = $1,944,620 VE = $1,944,620 − 400,000 VE = $1,544,620",
+    "chapter": 16
+  },
+  {
+    "id": 1385,
+    "question": "Boutelle Homes has an all-equity value of $648,200, a cost of equity of 11.7 percent, and a tax rate of 35 percent. Assume the firm's capital structure changes to 30 percent debt followed by a lowering of the tax rate to 21 percent. What will be the change in the levered value of the firm due to the reduction in the tax rate?",
+    "options": {
+      "A": "$16,020",
+      "B": "$17,520",
+      "C": "$29,169",
+      "D": "−$27,224",
+      "E": "−$17,520"
+    },
+    "answer": "D",
+    "explanation": "ΔV = .21(.3)($648,200) − .35(.3)($648,200) ΔV = −$27,224",
+    "chapter": 16
+  },
+  {
+    "id": 1386,
+    "question": "Explain homemade leverage and why it matters. Answer: Homemade leverage is the ability of investors to alter their own financial leverage to achieve a desired capital structure no matter what a firm's capital structure might be. If investors can, at their discretion, use homemade leverage to create additional leverage or to undo any existing leverage of the firm then the actual capital structure decision of the firm itself becomes irrelevant. Difficulty: 1 Easy Section: 16.3 Financial Leverage and Firm Value: An Example Topic: M and M Proposition I without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1387,
+    "question": "Explain why the weighted average cost of capital is invariant to the firm's debt-equity ratio in the absence of corporate taxes. Answer: In a world without taxes, the cost of equity increases as the debt-equity ratio increases. This increase in equity cost is just sufficient to offset the increased risk, allowing WACC to remain constant. This is MM Proposition II with no corporate taxes. Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 34 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1388,
+    "question": "Discuss MM Propositions I and II in a world without taxes. List the basic assumptions, results, and intuition of the model. Answer: MM I and II without taxes: Assumptions: ∙ No taxes ∙ No transaction costs ∙ Individuals and corporations borrow at same rate Results: ∙ Proposition I: VL = VU ∙ Proposition II: RS = R0 + B/S(R0 − RB) Intuition: ∙ Proposition I: Through homemade leverage individuals can either duplicate or undo the effects of corporate leverage. ∙ Proposition II: The cost of equity rises with leverage because the risk to equity rises with leverage. Difficulty: 1 Easy Section: 16.4 Modigliani and Miller: Proposition II (No Taxes) Topic: M and M Proposition II without taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1389,
+    "question": "In each of the theories of capital structure, the cost of equity rises as the amount of debt increases. So why don't financial managers use as little debt as possible to keep the cost of equity down? After all, isn't the goal of the firm to maximize share value and doesn't a lower discount rate applied to the firm's cash flows increase the present value of those cash flows? Answer: This question requires students to differentiate between the cost of equity and the WACC. The firm trades off higher equity costs for a lower WACC via both the lower pretax cost of debt and the tax shield on debt. Thus, even though the cost of equity rises, the overall cost of capital (which is used as the discount rate when computing the PV of the firm's cash flows) declines and thus the value of the firm rises. Difficulty: 2 Medium Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 35 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1390,
+    "question": "Based on MM Propositions, with and without taxes, how much time should a financial manager spend analyzing the capital structure of his firm? Answer: Under either MM scenario, the financial manager should invest no time in analyzing the firm's capital structure. With no taxes, capital structure is irrelevant. With taxes, MM says a firm will maximize its value by using 100 percent debt. In both cases, the manager has nothing to decide. Difficulty: 3 Hard Section: 16.5 Taxes Topic: M and M Proposition I with taxes Bloom's: Evaluate AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  },
+  {
+    "id": 1391,
+    "question": "Discuss MM Propositions I and II in a world with taxes. List the basic assumptions, results, and intuition of the model. Answer: MM Proposition I and II with taxes: Assumptions: ∙ Corporations are taxed at the rate tC, on earnings after interest. ∙ No transaction costs ∙ Individuals and corporations borrow at same rate. Results: ∙ Proposition I: VL = VU + tCB ∙ Proposition II: RS = R0 + B/S(1 − tC)(R0 − RB) Intuition: ∙ Proposition I: Because corporations can deduct interest payments but not dividend payments, corporate leverage lowers tax payments, thereby increasing firm value. ∙ Proposition II: The cost of equity rises with leverage because the risk to equity rises with leverage. Difficulty: 1 Easy Section: 16.5 Taxes Topic: M and M Proposition II with taxes Bloom's: Understand AACSB: Reflective Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 16
+  }
+]
