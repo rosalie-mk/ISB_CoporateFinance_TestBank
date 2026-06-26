@@ -1,0 +1,1508 @@
+[
+  {
+    "id": 961,
+    "question": "Which one of these is a measure of the interrelationship between two securities?",
+    "options": {
+      "A": "Covariance",
+      "B": "Duration",
+      "C": "Standard deviation",
+      "D": "Alpha",
+      "E": "Variance"
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 962,
+    "question": "You are considering purchasing Stock S. This stock has an expected return of 12 percent if the economy booms, 8 percent if the economy is normal, and 3 percent if the economy goes into a recessionary period. The overall expected rate of return on this stock will:",
+    "options": {
+      "A": "be equal to one-half of 8 percent if there is a 50 percent chance of an economic boom.",
+      "B": "vary inversely with the growth of the economy.",
+      "C": "increase as the probability of a recession increases.",
+      "D": "be independent of the probability of each economic state occurring.",
+      "E": "increase as the probability of a boom economy increases."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 963,
+    "question": "Which one of the following statements is correct concerning the expected rate of return on an individual stock given various states of the economy?",
+    "options": {
+      "A": "The expected return is a geometric average where the probabilities of the economic states are used as the exponential powers.",
+      "B": "The expected return is an arithmetic average of the individual returns for each state of the economy.",
+      "C": "The expected return is a weighted average where the probabilities of the economic states are used as the weights.",
+      "D": "The expected return is equal to the summation of the values computed by dividing the expected return for each economic state by the probability of the state.",
+      "E": "As long as the total probabilities of the economic states equal 100 percent, then the expected return on the stock is a geometric average of the expected returns for each economic state."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 964,
+    "question": "The expected return on a stock that is computed using economic probabilities is:",
+    "options": {
+      "A": "guaranteed to equal the actual average return on the stock for the next five years.",
+      "B": "guaranteed to be the minimal rate of return on the stock over the next two years.",
+      "C": "guaranteed to equal the actual return for the immediate twelve month period.",
+      "D": "a mathematical expectation and not an actual anticipated outcome.",
+      "E": "the actual return you will receive."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 965,
+    "question": "The correlation between Stocks A and B is computed as the:",
+    "options": {
+      "A": "covariance between A and B divided by the standard deviation of A times the standard deviation of B.",
+      "B": "standard deviation of A divided by the standard deviation of B.",
+      "C": "standard deviation of AB divided by the covariance between A and B.",
+      "D": "variance of A plus the variance of B divided by the covariance of AB.",
+      "E": "square root of the covariance of AB."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 966,
+    "question": "You have plotted the monthly returns for two securities for the past five years on the same graph. The pattern of the movements of each of the two securities generally rose and fell to the same degree in step with each other. This indicates the securities have:",
+    "options": {
+      "A": "no correlation with each other.",
+      "B": "a weak negative correlation.",
+      "C": "a strong negative correlation.",
+      "D": "a strong positive correlation.",
+      "E": "a weak positive correlation."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 967,
+    "question": "If the covariance of Stock A with Stock B is .20, then what is the covariance of Stock B with Stock A?",
+    "options": {
+      "A": ".20",
+      "B": ".80",
+      "C": "−.20",
+      "D": "4",
+      "E": "−1.20"
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 968,
+    "question": "You have a portfolio comprised of two risky securities. This combination produces no diversification benefit. The lack of diversification benefits indicates the returns on the two securities:",
+    "options": {
+      "A": "are too low for their level of risk.",
+      "B": "move perfectly opposite of one another.",
+      "C": "are too large to offset.",
+      "D": "move perfectly in sync with one another.",
+      "E": "are completely unrelated to one another."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 969,
+    "question": "The range of possible correlations between two securities is defined as:",
+    "options": {
+      "A": "0 to +1.",
+      "B": "0 to −1.",
+      "C": "≧ 0.",
+      "D": "≦ 1.",
+      "E": "+1 to −1."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 970,
+    "question": "If the correlation between two stocks is −1, the returns on the stocks:",
+    "options": {
+      "A": "generally move in the same direction.",
+      "B": "move perfectly opposite to one another.",
+      "C": "are unrelated to one another.",
+      "D": "have standard deviations of equal size but opposite signs.",
+      "E": "totally offset each other producing a rate of return of zero."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 971,
+    "question": "Which of these are squared values?",
+    "options": {
+      "A": "Variance, correlation, and covariance",
+      "B": "Variance and beta",
+      "C": "Covariance and variance",
+      "D": "Correlation, beta, variance",
+      "E": "Covariance and correlation"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 972,
+    "question": "Correlation is expressed as the symbol:",
+    "options": {
+      "A": "α.",
+      "B": "ρ.",
+      "C": "β.",
+      "D": "c.",
+      "E": "є."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 973,
+    "question": "Which one of these conditions must exist if the standard deviation of a portfolio comprised of two securities is to be less than the weighted average of the standard deviations of the individual securities held within that portfolio?",
+    "options": {
+      "A": "β < 1",
+      "B": "Rm > 1",
+      "C": "ρ < 1",
+      "D": "β = 0",
+      "E": "ρ > 1"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 974,
+    "question": "When computing the expected return on a portfolio of stocks the portfolio weights are based on the:",
+    "options": {
+      "A": "number of shares owned in each stock.",
+      "B": "price per share of each stock.",
+      "C": "market value of the total shares held in each stock.",
+      "D": "original amount invested in each stock.",
+      "E": "cost per share of each stock held."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 975,
+    "question": "The expected return on a portfolio is best described as ________ average of the expected returns on the individual securities held in the portfolio.",
+    "options": {
+      "A": "an arithmetic",
+      "B": "a weighted",
+      "C": "a compounded",
+      "D": "a geometric",
+      "E": "a minimum"
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 976,
+    "question": "The expected return on a portfolio:",
+    "options": {
+      "A": "can be greater than the expected return on the best performing security in the portfolio.",
+      "B": "can be less than the expected return on the worst performing security in the portfolio.",
+      "C": "is independent of the performance of the overall economy.",
+      "D": "is limited by the returns on the individual securities within the portfolio.",
+      "E": "is an arithmetic average of the returns of the individual securities when the weights of those securities are unequal."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 977,
+    "question": "If a stock portfolio is well diversified, then the portfolio variance:",
+    "options": {
+      "A": "will equal the variance of the most volatile stock in the portfolio.",
+      "B": "may be less than the variance of the least risky stock in the portfolio.",
+      "C": "must be equal to or greater than the variance of the least risky stock in the portfolio.",
+      "D": "will be a weighted average of the variances of the individual securities in the portfolio.",
+      "E": "will be an arithmetic average of the variances of the individual securities in the portfolio."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 978,
+    "question": "Which one of the following statements is correct concerning the standard deviation of a portfolio?",
+    "options": {
+      "A": "The greater the diversification of a portfolio, the greater the standard deviation of that portfolio.",
+      "B": "The standard deviation of a portfolio can often be lowered by changing the weights of the securities in the portfolio.",
+      "C": "Standard deviation is used to determine the amount of risk premium that should apply to a portfolio.",
+      "D": "The standard deviation of a portfolio is equal to the geometric average standard deviation of the individual securities held within that portfolio.",
+      "E": "The standard deviation of a portfolio is equal to a weighted average of the standard deviations of the individual securities held within the portfolio."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 979,
+    "question": "The standard deviation of a portfolio will tend to increase when:",
+    "options": {
+      "A": "a risky asset in the portfolio is replaced with U.S. Treasury bills.",
+      "B": "one of two stocks related to the airline industry is replaced with a third stock that is unrelated to the airline industry.",
+      "C": "the portfolio concentration in a single cyclical industry increases.",
+      "D": "the weights of the various diverse securities become more evenly distributed.",
+      "E": "short-term bonds are replaced with Treasury Bills."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 980,
+    "question": "A dominant portfolio within an opportunity set that has the lowest possible level of risk is referred to as the:",
+    "options": {
+      "A": "efficient frontier.",
+      "B": "minimum variance portfolio.",
+      "C": "upper tail of the efficient set.",
+      "D": "tangency portfolio.",
+      "E": "optimal covariance portfolio."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 981,
+    "question": "You are comparing five separate portfolios comprised of two stocks each that have varying characteristics. Which characteristic is most indicative of a diversified portfolio?",
+    "options": {
+      "A": "The standard deviation of the portfolio equals the weighted average standard deviation of the two securities.",
+      "B": "The correlation between the two securities is equal to zero.",
+      "C": "The covariance of the two securities is equal to one.",
+      "D": "There is a highly positive covariance between the two securities.",
+      "E": "The correlation between the two securities is negative."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 982,
+    "question": "An efficient set of portfolios is comprised of:",
+    "options": {
+      "A": "a complete opportunity set.",
+      "B": "the portion of the opportunity set located below the minimum variance portfolio.",
+      "C": "only the minimum variance portfolio.",
+      "D": "the dominant portion of the opportunity set.",
+      "E": "only the maximum return portfolio."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 983,
+    "question": "Assume you are looking at an opportunity set representing many securities. Where would the minimum variance portfolio be located in relation to this set?",
+    "options": {
+      "A": "At the lowest point of the set",
+      "B": "In the exact center of the set",
+      "C": "At the far-right point of the set",
+      "D": "At the far-left point of the set",
+      "E": "At the highest point of the set"
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 984,
+    "question": "The variance of a portfolio comprised of many securities is primarily dependent upon the:",
+    "options": {
+      "A": "variances of the securities held within the portfolio.",
+      "B": "beta of the portfolio.",
+      "C": "portfolio's correlation with the market.",
+      "D": "covariance between the overall portfolio and the market.",
+      "E": "covariances between the individual securities."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 985,
+    "question": "Risk that affects a large number of assets, each to a greater or lesser degree, is called ________ risk.",
+    "options": {
+      "A": "idiosyncratic",
+      "B": "diversifiable",
+      "C": "systematic",
+      "D": "asset-specific",
+      "E": "total"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 986,
+    "question": "As we add more diverse securities to a portfolio, the ________ risks of the portfolio will decrease.",
+    "options": {
+      "A": "total and systematic",
+      "B": "systematic and unsystematic",
+      "C": "total and unsystematic",
+      "D": "unsystematic",
+      "E": "systematic"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 987,
+    "question": "The measure of beta associates most closely with:",
+    "options": {
+      "A": "idiosyncratic risk.",
+      "B": "the risk-free return.",
+      "C": "systematic risk.",
+      "D": "unexpected risk.",
+      "E": "unsystematic risk."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 988,
+    "question": "Which one of the following is the best example of systematic risk?",
+    "options": {
+      "A": "The price of lumber declines sharply",
+      "B": "The airline pilots of a firm go on strike",
+      "C": "The Federal Reserve increases interest rates",
+      "D": "A hurricane hits a tourist destination",
+      "E": "People become diet conscious and avoid fast food restaurants"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 989,
+    "question": "Unsystematic risk:",
+    "options": {
+      "A": "can be effectively eliminated through portfolio diversification.",
+      "B": "is compensated for by the risk premium.",
+      "C": "is measured by beta.",
+      "D": "cannot be avoided if you wish to participate in the financial markets.",
+      "E": "is related to the overall economy."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 990,
+    "question": "Standard deviation measures ________ risk while beta measures ________ risk.",
+    "options": {
+      "A": "total; systematic",
+      "B": "nondiversifiable; diversifiable",
+      "C": "unsystematic; total",
+      "D": "unsystematic; systematic",
+      "E": "total; unsystematic"
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 991,
+    "question": "One example of a nondiversifiable risk is the sudden:",
+    "options": {
+      "A": "resignation of a well-respected president of a firm.",
+      "B": "passing of a well-respected Federal Reserve Bank chairman.",
+      "C": "resignation of a key employee of a major manufacturer.",
+      "D": "replacement of a firm's workforce with robots.",
+      "E": "closing of a business due to a lack of sales."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 992,
+    "question": "Which one of the following is an example of unsystematic risk?",
+    "options": {
+      "A": "The inflation rate increases unexpectedly",
+      "B": "The federal government lowers income taxes",
+      "C": "An oil tanker runs aground and spills its cargo",
+      "D": "Interest rates decline by .5 percent",
+      "E": "The GDP rises by .5 percent more than anticipated"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 993,
+    "question": "The primary purpose of portfolio diversification is to:",
+    "options": {
+      "A": "increase returns and risks.",
+      "B": "eliminate all risks.",
+      "C": "eliminate asset-specific risk.",
+      "D": "eliminate systematic risk.",
+      "E": "lower both returns and risks."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 994,
+    "question": "Which one of the following would indicate a portfolio is being effectively diversified?",
+    "options": {
+      "A": "An increase in the portfolio beta",
+      "B": "A decrease in the portfolio beta",
+      "C": "An increase in the portfolio rate of return",
+      "D": "An increase in the portfolio standard deviation",
+      "E": "A decrease in the portfolio standard deviation"
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 995,
+    "question": "Risk that affects at most a small number of assets is called ________ risk.",
+    "options": {
+      "A": "portfolio",
+      "B": "nondiversifiable",
+      "C": "market",
+      "D": "unsystematic",
+      "E": "total"
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 996,
+    "question": "The principle of diversification tells us that:",
+    "options": {
+      "A": "concentrating an investment in two or three large stocks will eliminate all your risk.",
+      "B": "concentrating an investment in three companies all within the same industry will greatly reduce your overall risk.",
+      "C": "spreading an investment across five diverse companies will not lower your overall risk.",
+      "D": "spreading an investment across many diverse assets will eliminate all the risk.",
+      "E": "spreading an investment across many diverse assets will eliminate idiosyncratic risk."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 997,
+    "question": "The separation principle states that an investor will:",
+    "options": {
+      "A": "choose between any efficient portfolio and a riskless asset to generate the desired expected return.",
+      "B": "choose a portfolio from the efficient set based on individual risk tolerance.",
+      "C": "never choose to invest in a riskless asset due to the low expected rate of return.",
+      "D": "combine a riskless asset with the tangency portfolio based on their risk tolerance level.",
+      "E": "combine a riskless asset with the minimum variance portfolio based on their risk tolerance level."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 998,
+    "question": "The combination of the efficient set of portfolios with a riskless lending and borrowing rate results in the:",
+    "options": {
+      "A": "capital market line which shows that all investors will only invest in the riskless asset.",
+      "B": "capital market line which shows that all investors will invest in a combination of the riskless asset and the tangency portfolio.",
+      "C": "security market line which shows that all investors will invest in the minimum variance portfolio.",
+      "D": "security market line which shows that all investors will invest only in the riskless asset.",
+      "E": "characteristic line which shows that all investors will invest in the same combination of securities."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 999,
+    "question": "The capital market line:",
+    "options": {
+      "A": "and the characteristic line are two terms describing the same function.",
+      "B": "intersects the feasible set at its midpoint.",
+      "C": "has a vertical intercept at the risk-free rate of return.",
+      "D": "has a horizontal intercept at the market beta.",
+      "E": "lies tangent to the opportunity set at its minimum point."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 1000,
+    "question": "Which one of these best describes steps of the separation principle?",
+    "options": {
+      "A": "Determine the beta that best fits an investor's risk tolerance level and then determine which assets can be combined to create a portfolio that matches that beta",
+      "B": "Determine the tangency point between the risk-free rate and the efficient set of risky assets and determine how to combine the tangency point portfolio with risk-free assets to match the investor's risk tolerance level",
+      "C": "Determine the appropriate beta for an individual investor and then determine the most efficient set of risky assets that falls below that beta level",
+      "D": "From a pool of assets determine which pairs of assets have the lowest covariances and then determine how to combine these pairs into a portfolio that matches the investor's preferred beta",
+      "E": "Determine an investor's risk tolerance level and then determine which portfolio rate of return best fits that level of risk tolerance"
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 1001,
+    "question": "The amount of systematic risk present in a particular risky asset, relative to the systematic risk present in an average risky asset, is called the particular asset's:",
+    "options": {
+      "A": "beta coefficient.",
+      "B": "reward-to-risk ratio.",
+      "C": "total risk.",
+      "D": "diversifiable risk.",
+      "E": "Treynor index."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1002,
+    "question": "The characteristic line graphically depicts the relationship between the:",
+    "options": {
+      "A": "beta of a security and the return on the security.",
+      "B": "arithmetic average beta of the securities in a portfolio and the weighted average beta of those securities.",
+      "C": "return on a security and the return on the market.",
+      "D": "beta of a security and the return on the market.",
+      "E": "beta of a security and the corresponding beta of the market."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 1003,
+    "question": "The beta of a security is calculated by dividing the:",
+    "options": {
+      "A": "covariance of the security return with the market return by the variance of the market.",
+      "B": "correlation of the security return with the market return by the variance of the market.",
+      "C": "variance of the market by the covariance of the security return with the market return.",
+      "D": "variance of the market return by the correlation of the security return with the market return.",
+      "E": "covariance of the security return with the market return by the correlation of the security and market returns."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1004,
+    "question": "The systematic risk of the market is measured by a:",
+    "options": {
+      "A": "beta of 1.0.",
+      "B": "beta of zero.",
+      "C": "standard deviation of 1.0.",
+      "D": "standard deviation of zero.",
+      "E": "variance of 1.0."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1005,
+    "question": "A stock with a beta of zero would be expected to have a rate of return equal to:",
+    "options": {
+      "A": "the risk-free rate.",
+      "B": "the market rate of return.",
+      "C": "the prime rate.",
+      "D": "the market risk premium.",
+      "E": "zero."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1006,
+    "question": "The excess return earned by an asset that has a beta of 1.0 over that earned by a risk-free asset is referred to as the:",
+    "options": {
+      "A": "market rate of return.",
+      "B": "market risk premium.",
+      "C": "systematic return.",
+      "D": "total return.",
+      "E": "real rate of return."
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 1007,
+    "question": "The intercept point of the security market line is the rate of return which corresponds to:",
+    "options": {
+      "A": "the risk-free rate of return.",
+      "B": "the market rate of return.",
+      "C": "a value of zero.",
+      "D": "a value of 1.0.",
+      "E": "the beta of the market."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1008,
+    "question": "A stock with an actual return that lies above the security market line has:",
+    "options": {
+      "A": "more systematic risk than the overall market.",
+      "B": "more risk than warranted based on the realized rate of return.",
+      "C": "yielded a higher return than expected for the level of risk assumed.",
+      "D": "less systematic risk than the overall market.",
+      "E": "yielded a return equivalent to the level of risk assumed."
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 1009,
+    "question": "The market risk premium is computed by:",
+    "options": {
+      "A": "adding the risk-free rate of return to the inflation rate.",
+      "B": "adding the risk-free rate of return to the market rate of return.",
+      "C": "subtracting the risk-free rate of return from the inflation rate.",
+      "D": "subtracting the risk-free rate of return from the market rate of return.",
+      "E": "multiplying the risk-free rate of return by the market beta."
+    },
+    "answer": "D",
+    "chapter": 11
+  },
+  {
+    "id": 1010,
+    "question": "The risk premium for an individual security is computed by:",
+    "options": {
+      "A": "multiplying the security's beta by the market risk premium.",
+      "B": "multiplying the security's beta by the risk-free rate of return.",
+      "C": "adding the risk-free rate to the security's expected return.",
+      "D": "dividing the market risk premium by the quantity (1 + β).",
+      "E": "dividing the market risk premium by the beta of the security."
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1011,
+    "question": "A security that is fairly priced will have a return that plots ________ the security market line.",
+    "options": {
+      "A": "below",
+      "B": "on or below",
+      "C": "on",
+      "D": "on or above",
+      "E": "above"
+    },
+    "answer": "C",
+    "chapter": 11
+  },
+  {
+    "id": 1012,
+    "question": "The slope of the security market line is the:",
+    "options": {
+      "A": "reward-to-risk ratio.",
+      "B": "portfolio weight.",
+      "C": "beta coefficient.",
+      "D": "risk-free interest rate.",
+      "E": "market risk premium."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 1013,
+    "question": "According to the CAPM, the expected return on a security is:",
+    "options": {
+      "A": "negatively and non-linearly related to the security's beta.",
+      "B": "negatively and linearly related to the security's beta.",
+      "C": "positively and linearly related to the security's variance.",
+      "D": "positively and non-linearly related to the security's beta.",
+      "E": "positively and linearly related to the security's beta."
+    },
+    "answer": "E",
+    "chapter": 11
+  },
+  {
+    "id": 1014,
+    "question": "You recently purchased a stock that is expected to earn 12.6 percent in a booming economy,",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1015,
+    "question": "9 percent in a normal economy, and lose 5.2 percent in a recessionary economy. Each economic state is equally likely to occur. What is your expected rate of return on this stock?",
+    "options": {
+      "A": "6.47 percent",
+      "B": "8.90 percent",
+      "C": "5.43 percent",
+      "D": "7.65 percent",
+      "E": "7.01 percent"
+    },
+    "answer": "C",
+    "explanation": "E(R) = [.126 + .089 + (−.052)]/3 E(R) = .0543, or 5.43%",
+    "chapter": 11
+  },
+  {
+    "id": 1016,
+    "question": "Terry owns a stock that is expected to earn 8.7 percent in a booming economy, 9.2 percent in a normal economy, and 12.6 percent in a recessionary economy. Each economic state is equally likely to occur. What is his expected rate of return on this stock?",
+    "options": {
+      "A": "10.38 percent",
+      "B": "11.90 percent",
+      "C": "10.17 percent",
+      "D": "9.98 percent",
+      "E": "11.01 percent"
+    },
+    "answer": "C",
+    "explanation": "E(R) = (.087 + .092 + .126)/3 E(R) = .1017, or 10.17%",
+    "chapter": 11
+  },
+  {
+    "id": 1017,
+    "question": "BPJ stock is expected to earn 14.8 percent in a recession, 6.3 percent in a normal economy, and lose 4.7 percent in a booming economy. The probability of a boom is 20 percent while the probability of a normal economy is 55 percent. What is the expected rate of return on this stock?",
+    "options": {
+      "A": "6.23 percent",
+      "B": "6.72 percent",
+      "C": "6.81 percent",
+      "D": "7.60 percent",
+      "E": "8.11 percent"
+    },
+    "answer": "A",
+    "explanation": "E(R) = .20(−.047) + .55(.063) + (1 − .20 − .55)(.148) E(R) = .0623, or 6.23%",
+    "chapter": 11
+  },
+  {
+    "id": 1018,
+    "question": "Stock A is expected to return 12 percent in a normal economy and lose 7 percent in a recession. Stock B is expected to return 8 percent in a normal economy and 2 percent in a recession. The probability of the economy being normal is 80 percent and the probability of a recession is 20 percent. What is the covariance of these two securities?",
+    "options": {
+      "A": ".004203",
+      "B": ".004115",
+      "C": ".003280",
+      "D": ".003876",
+      "E": ".003915"
+    },
+    "answer": "D",
+    "explanation": "E(RA) = .80(.12) + .20(−.07) E(RA) = .082, or 8.2% E(RB) = .80(.08) + .20(.02) E(RB) = .068, or 6.8% Product of DeviationsNormal = (.12 − .082)(.08 − .068) Product of DeviationsNormal = .000456 Product of DeviationsRecession = (−.07 − .082)(.02 − .068) Product of DeviationsRecession = .007296 σA,B = (.000456 + .007296)/2 σA,B = .003876",
+    "chapter": 11
+  },
+  {
+    "id": 1019,
+    "question": "Stock A is expected to return 14 percent in a normal economy and lose 21 percent in a recession. Stock B is expected to return 11 percent in a normal economy and 5 percent in a recession. The probability of the economy being normal is 75 percent and being recessionary is 25 percent. What is the covariance of these two securities?",
+    "options": {
+      "A": ".007006",
+      "B": ".006563",
+      "C": ".005180",
+      "D": ".007309",
+      "E": ".006274"
+    },
+    "answer": "B",
+    "explanation": "E(RA) = .75(.14) + .25(−.21) E(RA) = .0525, or 5.25% E(RB) = .75(.11) + .25(.05) E(RB) = .0950, or 9.50% Product of DeviationsNormal = (.14 − .0525)(.11 − .095) Product of DeviationsNormal = .001313 Product of DeviationsRecession = (−.21 − .0525)(.05 − .095) Product of DeviationsRecession = .011813 σA,B = (.001313 + .011813)/2 σA,B = .006563",
+    "chapter": 11
+  },
+  {
+    "id": 1020,
+    "question": "Stock A has a variance of .1428 while Stock B's variance is .0910. The covariance of the returns for these two stocks is −.0206. What is the correlation coefficient?",
+    "options": {
+      "A": "−.1505",
+      "B": "−.1146",
+      "C": "−.1480",
+      "D": "−.1643",
+      "E": "−.1807"
+    },
+    "answer": "E",
+    "explanation": "ρA,B = −.0206/[.1428.5(.0910.5)] ρA,B = −.1807",
+    "chapter": 11
+  },
+  {
+    "id": 1021,
+    "question": "You are comparing Stock A to Stock B. Stock A will return 9 percent in a boom and 4 percent in a recession. Stock B will return 15 percent in a boom and lose 6 percent in a recession. The probability of a boom is 60 percent while the chance of a recession is 40 percent. Given this information, which one of these two stocks should you prefer and why?",
+    "options": {
+      "A": "Stock A; because it has a higher expected return and appears to be more risky than Stock B",
+      "B": "Stock A; because it has a higher expected return and appears to be less risky than Stock B",
+      "C": "Stock A; because it has a slightly lower expected return but appears to be significantly less risky than Stock B",
+      "D": "Stock B; because it has a higher expected return and appears to be just slightly more risky than Stock A",
+      "E": "Stock B; because it has a higher expected return and appears to be less risky than Stock A"
+    },
+    "answer": "B",
+    "explanation": "E(RA) = .60(.09) + .40(.04) E(RA) = .07, or 7% E(RB) = .60(.15) + .40(−.06) E(RB) = .066, or 6.6% You should select stock A because it has a higher expected return and also appears to be less risky given its narrower range of outcomes.",
+    "chapter": 11
+  },
+  {
+    "id": 1022,
+    "question": "RTF stock is expected to return 10.6 percent if the economy booms and only 4.2 percent if the economy goes into a recessionary period. The probability of a boom is 55 percent while the probability of a recession is 45 percent. What is the standard deviation of the returns on RTF stock?",
+    "options": {
+      "A": "4.03 percent",
+      "B": "2.97 percent",
+      "C": "3.18 percent",
+      "D": "3.69 percent",
+      "E": "5.27 percent"
+    },
+    "answer": "C",
+    "explanation": "E(R) = .55(.106) + .45(.042) E(R) = .0772 σ = [.55(.106 − .0772)2 + .45(.042 − .0772)2].5 σ = .0318, or 3.18%",
+    "chapter": 11
+  },
+  {
+    "id": 1023,
+    "question": "The rate of return on the common stock of Flowers by Flo is expected to be 14 percent in a boom economy, 8 percent in a normal economy, and only 2 percent in a recessionary economy. The probabilities of these economic states are 20 percent for a boom, 70 percent for a normal economy, and 10 percent for a recession. What is the variance of the returns?",
+    "options": {
+      "A": ".001044",
+      "B": ".001280",
+      "C": ".001863",
+      "D": ".002001",
+      "E": ".002471"
+    },
+    "answer": "A",
+    "explanation": "E(R) = .20(.14) + .70(.08) + .10(.02) E(R) = .086, or 8.6% σ2 = .20(.14 − .086)2 + .70(.08 − .086)2 + .10(.02 − .086)2 σ2 = .001044",
+    "chapter": 11
+  },
+  {
+    "id": 1024,
+    "question": "Kali's Ski Resort stock is quite cyclical. In a boom economy, the stock is expected to return 30 percent in comparison to 12 percent in a normal economy and a negative 20 percent in a recessionary period. The probability of a recession is 15 percent while it is 30 percent for a booming economy. The remainder of the time, the economy will be at normal levels. What is the standard deviation of the returns?",
+    "options": {
+      "A": "10.05 percent",
+      "B": "12.60 percent",
+      "C": "15.83 percent",
+      "D": "17.46 percent",
+      "E": "25.04 percent"
+    },
+    "answer": "C",
+    "explanation": "E(R) = .30(.30) + (1 − .15 − .30)(.12) + .15(−.20) E(R) = .126 σ = [.30(.30 − .126)2 + .55(.12 − .126)2 + .15(−.20 − .126)2].5 σ = .1583, or 15.83%",
+    "chapter": 11
+  },
+  {
+    "id": 1025,
+    "question": "The probability of the economy booming is 10 percent, while it is 60 percent for being normal, and 30 percent for being recessionary. A stock is expected to return 16 percent in a boom, 11 percent in a normal economy, and lose 8 percent in a recession. What is the standard deviation of the returns?",
+    "options": {
+      "A": "5.80 percent",
+      "B": "7.34 percent",
+      "C": "8.38 percent",
+      "D": "9.15 percent",
+      "E": "9.87 percent"
+    },
+    "answer": "D",
+    "explanation": "E(R) = .10(.16) + .60(.11) + .30(−.08) E(R) = .058 σ = [.10(.16 − .058)2 + .60(.11 − .058)2 + .30(−.08 − .058)2].5 σ = .0915, or 9.15%",
+    "chapter": 11
+  },
+  {
+    "id": 1026,
+    "question": "The variance of Stock A is .0036, the variance of the market is .0059, and the covariance between the two is .0026. What is the correlation coefficient?",
+    "options": {
+      "A": ".8776",
+      "B": ".1224",
+      "C": ".5010",
+      "D": ".5642",
+      "E": ".4918"
+    },
+    "answer": "D",
+    "explanation": "ρA.M =.0026/[.0036.5(.0059.5)] ρA.M = .5642",
+    "chapter": 11
+  },
+  {
+    "id": 1027,
+    "question": "Stock A has an expected return of 17.8 percent, and Stock B has an expected return of 9.6 percent. However, the risk of Stock A as measured by its variance is 3 times that of Stock B. If the two stocks are combined equally in a portfolio, what would be the portfolio's expected return?",
+    "options": {
+      "A": "13.37 percent",
+      "B": "13.70 percent",
+      "C": "15.75 percent",
+      "D": "12.41 percent",
+      "E": "14.55 percent"
+    },
+    "answer": "B",
+    "explanation": "E(Rp) = .5(.178) + .5(.096) E(Rp) = .1370, or 13.70%",
+    "chapter": 11
+  },
+  {
+    "id": 1028,
+    "question": "A portfolio is entirely invested into BBB stock, which is expected to return 16.4 percent, and ZI bonds, which are expected to return 8.6 percent. Stock BBB comprises 48 percent of the portfolio. What is the expected return on the portfolio?",
+    "options": {
+      "A": "13.64 percent",
+      "B": "14.36 percent",
+      "C": "12.34 percent",
+      "D": "14.22 percent",
+      "E": "11.69 percent"
+    },
+    "answer": "C",
+    "explanation": "E(Rp) = .48(.164) + (1 − .48)(.086) E(Rp) = .1234, or 12.34%",
+    "chapter": 11
+  },
+  {
+    "id": 1029,
+    "question": "A portfolio has 45 percent of its funds invested in Security One and 55 percent invested in Security Two. Security One has a standard deviation of 6 percent. Security Two has a standard deviation of 12 percent. The securities have a coefficient of correlation of .62. What is the portfolio variance?",
+    "options": {
+      "A": ".006946",
+      "B": ".007295",
+      "C": ".007157",
+      "D": ".008104",
+      "E": ".007506"
+    },
+    "answer": "B",
+    "explanation": "σ2 = .452(.06)2 + 2(.45)(.55)(.62)(.06)(.12) + .552(.12)2 σ2 = .007295",
+    "chapter": 11
+  },
+  {
+    "id": 1030,
+    "question": "A portfolio has 38 percent of its funds invested in Security C and 62 percent invested in Security D. Security C has an expected return of 8.47 percent and a standard deviation of 7.12 percent. Security D has an expected return of 13.45 percent and a standard deviation of 16.22 percent. The securities have a coefficient of correlation of .89. What are the portfolio rate of return and variance values?",
+    "options": {
+      "A": "11.09 percent ; .124031",
+      "B": "11.56 percent ; .127620",
+      "C": "11.56 percent ; .015688",
+      "D": "10.87 percent ; .014308",
+      "E": "10.87 percent; .127620"
+    },
+    "answer": "C",
+    "explanation": "E(Rp) = .38(.0847) + .62(.1345) E(Rp) = .1156, or 11.56% σ2P = (.38)2(.0712)2+ 2(.38)(.62)(.89)(.0712)(.1622) + (.62)2(.1622)2 σ2P = .015688",
+    "chapter": 11
+  },
+  {
+    "id": 1031,
+    "question": "A portfolio consists of Stocks A and B and has an expected return of 11.6 percent. Stock A has an expected return of 17.8 percent while Stock B is expected to return 8.4 percent. What is the portfolio weight of Stock A?",
+    "options": {
+      "A": "29.87 percent",
+      "B": "61.98 percent",
+      "C": "32.58 percent",
+      "D": "34.04 percent",
+      "E": "67.42 percent"
+    },
+    "answer": "D",
+    "explanation": "E(Rp) = .116 = .178A + .084(1 − A) A = .3404, or 34.04%",
+    "chapter": 11
+  },
+  {
+    "id": 1032,
+    "question": "A portfolio is comprised of 100 shares of Stock A valued at $22 a share, 600 shares of Stock B valued at $17 each, 400 shares of Stock C valued at $46 each, and 200 shares of Stock D valued at $38 each. What is the portfolio weight of Stock C?",
+    "options": {
+      "A": "46.87 percent",
+      "B": "48.09 percent",
+      "C": "42.33 percent",
+      "D": "45.27 percent",
+      "E": "47.92 percent"
+    },
+    "answer": "E",
+    "explanation": "WC = 400($46)/[100($22) + 600($17) + 400($46) + 200($38)] WC = .4792, or 47.92%",
+    "chapter": 11
+  },
+  {
+    "id": 1033,
+    "question": "The probability the economy will boom is 20 percent, while it is 70 percent for a normal economy, and 10 percent for a recession. Stock A will return 18 percent in a boom, 11 percent in a normal economy, and lose 10 percent in a recession. Stock B will return 9 percent in boom, 7 percent in a normal economy, and 4 percent in a recession. Stock C will return 6 percent in a boom, 9 percent in a normal economy, and 13 percent in a recession. What is the expected return on a portfolio which is invested 20 percent in Stock A, 50 percent in Stock B, and 30 percent in Stock C?",
+    "options": {
+      "A": "7.40 percent",
+      "B": "8.25 percent",
+      "C": "8.33 percent",
+      "D": "9.45 percent",
+      "E": "9.50 percent"
+    },
+    "answer": "B",
+    "explanation": "E(RBoom) = .20(.18) + .50(.09) + .30(.06) E(RBoom) = .099, or 9.9% E(RNormal) = .20(.11) + .50(.07) + .30(.09) E(RNormal) = .084, or 8.4% E(RRecession)= .20(−.10) + .50(.04) + .30(.13) E(RRecession) = .039, or 3.9% E(RP) = .20(.099) + .70(.084) + .10(.039) E(RP) = .0825, or 8.25%",
+    "chapter": 11
+  },
+  {
+    "id": 1034,
+    "question": "A portfolio consists of three stocks. There are 540 shares of Stock A valued at $24.20 share, 310 shares of Stock B valued at $48.10 a share, and 200 shares of Stock C priced at $26.50 a share. Stocks A, B, and C are expected to return 8.3 percent, 16.4 percent, and 11.7 percent, respectively. What is the expected return on this portfolio?",
+    "options": {
+      "A": "12.50 percent",
+      "B": "11.67 percent",
+      "C": "12.78 percent",
+      "D": "12.47 percent",
+      "E": "11.87 percent"
+    },
+    "answer": "D",
+    "explanation": "Portfolio value = 540($24.20) + 310($48.10) + 200($26.50) Portfolio value = $33,279 E(RP) = [540($24.20)/$33,279](.083) + [310($48.10)/$33,279](.164) + [200($26.50)/$33,279](.117) E(RP) = .1247, or 12.47%",
+    "chapter": 11
+  },
+  {
+    "id": 1035,
+    "question": "Stock K is expected to return 12.4 percent while the return on Stock L is expected to be 8.6 percent. You have $10,000 to invest in these two stocks. How much should you invest in Stock L if you desire a combined return from the two stocks of 11 percent?",
+    "options": {
+      "A": "$3,511",
+      "B": "$4,209",
+      "C": "$3,684",
+      "D": "$2,907",
+      "E": "$3,415"
+    },
+    "answer": "C",
+    "explanation": "E(RP) = .11 = (1 − x)(.124) + .086x x = .3684 InvestmentL = .3684($10,000) InvestmentL = $3,684",
+    "chapter": 11
+  },
+  {
+    "id": 1036,
+    "question": "Stock S is expected to return 12 percent in a boom and 6 percent in a normal economy. Stock T is expected to return 20 percent in a boom and 4 percent in a normal economy. There is a probability of 40 percent that the economy will boom; otherwise, it will be normal. What is the portfolio variance if 30 percent of the portfolio is invested in Stock S and 70 percent is invested in Stock T?",
+    "options": {
+      "A": ".002220",
+      "B": ".004056",
+      "C": ".006224",
+      "D": ".008080",
+      "E": ".098000"
+    },
+    "answer": "B",
+    "explanation": "E(RBoom) = .30(.12) + .70(.20) E(RBoom) = .176 E(RNormal) = .30(.06) + .70(.04) E(RNormal) = .046 E(RP) = .40(.176) + .60(.046) E(RP) = .098 σ2P = .40(.176 − .098)2 + .60(.046 − .098)2 σ2P = .004056",
+    "chapter": 11
+  },
+  {
+    "id": 1037,
+    "question": "The probability the economy will boom is 15 percent; otherwise, it will be normal. Stock G should return 15 percent in a boom and 8 percent in a normal economy. Stock H should return 9 percent in a boom and 6 percent otherwise. What is the variance of a portfolio consisting of $3,500 in Stock G and $6,500 in Stock H?",
+    "options": {
+      "A": ".000209",
+      "B": ".000247",
+      "C": ".002098",
+      "D": ".037026",
+      "E": ".073600"
+    },
+    "answer": "B",
+    "explanation": "E(RBoom) = [$3,500/($3,500 + 6,500)](.15) + [$6,500/($3,500 + 6,500)](.09) E(RBoom) = .111 E(RNormal) = [$3,500/($3,500 + 6,500)](.08) + [$6,500/($3,500 + 6,500)](.06) E(RNormal) = .067 E(RP) = .15(.111) + .85(.067) E(RP) = .0736 σ2P = .15(.111 − .0736)2 + .85(.067 − .0736)2 σ2P = .000247",
+    "chapter": 11
+  },
+  {
+    "id": 1038,
+    "question": "There is a probability of 25 percent that the economy will boom; otherwise, it will be normal. Stock Q is expected to return 18 percent in a boom and 9 percent otherwise. Stock R is expected to return 9 percent in a boom and 5 percent otherwise. What is the standard deviation of a portfolio that is invested 40 percent in Stock Q and 60 percent in Stock R?",
+    "options": {
+      "A": ".7 percent",
+      "B": "1.4 percent",
+      "C": "2.6 percent",
+      "D": "6.8 percent",
+      "E": "8.1 percent"
+    },
+    "answer": "C",
+    "explanation": "E(RBoom) = .40(.18) + .60(.09) E(RBoom) = .126 E(RNormal) = .40(.09) + .60(.05) E(RNormal) = .066 E(RP) = .25(.126) + .75(.066) E(RP) = .081 σP = [.25(.126 − .081)2 + .75(.066 − .081)2].5 σP = .026, or 2.6%",
+    "chapter": 11
+  },
+  {
+    "id": 1039,
+    "question": "Stock S is expected to return 12 percent in a boom, 9 percent in a normal economy, and 2 percent in a recession. Stock T is expected to return 4 percent in a boom, 6 percent in a normal economy, and 9 percent in a recession. The probability of a boom is 10 percent while the probability of a recession is 25 percent. What is the standard deviation of a portfolio which is comprised of $4,500 of Stock S and $3,000 of Stock T?",
+    "options": {
+      "A": "1.4 percent",
+      "B": "1.9 percent",
+      "C": "2.6 percent",
+      "D": "5.7 percent",
+      "E": "7.2 percent"
+    },
+    "answer": "A",
+    "explanation": "E(RBoom) = [$4,500/($4,500 + 3,000)](.12) + [$3,000/($4,500 + 3,000)](.04) E(RBoom) = .088 E(RNormal) = [$4,500/($4,500 + 3,000)](.09) + [$3,000/($4,500 + 3,000)](.06) E(RNormal) = .078 E(RRecession) = [$4,500/($4,500 + 3,000)](.02) + [$3,000/($4,500 + 3,000)](.09) E(RRecession) = .048 E(RP) = .10(.088) + .65(.078) + .25(.048) E(RP) = .0715 σP = [.10(.088 − .0715)2 + .65(.078 − .0715)2 + .25(.048 − .0715)2].5 σP = .014, or 1.4%",
+    "chapter": 11
+  },
+  {
+    "id": 1040,
+    "question": "The probability the economy will boom is 10 percent while the probability of a recession is 20 percent. Stock A is expected to return 15 percent in a boom, 9 percent in a normal economy, and lose 14 percent in a recession. Stock B should return 10 percent in a boom, 6 percent in a normal economy, and 2 percent in a recession. Stock C is expected to return 5 percent in a boom, 7 percent in a normal economy, and 8 percent in a recession. What is the standard deviation of a portfolio invested 20 percent in Stock A, 30 percent in Stock B, and 50 percent in Stock C?",
+    "options": {
+      "A": ".6 percent",
+      "B": ".9 percent",
+      "C": "1.8 percent",
+      "D": "2.2 percent",
+      "E": "4.9 percent"
+    },
+    "answer": "D",
+    "explanation": "E(RBoom) = .20(.15) + .30(.10) + .50(.05) E(RBoom) = .085 E(RNormal) = .20(.09) + .30(.06) + .50(.07) E(RNormal) = .071 E(RRecession) = .20(−.14) + .30(.02) + .50(.08) E(RRecession) = .018 E(RP) = .10(.085) + .70(.071) + .20(.018) E(RP) = .0618 σP = [.10(.085 − .0618)2 + .70(.071 − .0618)2 + .20(.018 − .0618)2].5 σP = .022, or 2.2%",
+    "chapter": 11
+  },
+  {
+    "id": 1041,
+    "question": "Angelo has decided to invest $24,500 in a portfolio with an expected return of 9.8 percent and invest $10,000 in a risk-free asset that he expects to return 3.6 percent. What rate of return is he expecting on this portfolio?",
+    "options": {
+      "A": "6.92 percent",
+      "B": "8.00 percent",
+      "C": "7.84 percent",
+      "D": "8.59 percent",
+      "E": "9.01 percent"
+    },
+    "answer": "B",
+    "explanation": "E(RP) = [$24,500/($24,500 + 10,000)](.098) + [$10,000/($24,500 + 10,000)](.036) E(RP) = .0800, or 8.00%",
+    "chapter": 11
+  },
+  {
+    "id": 1042,
+    "question": "Stu has decided to invest $6,800 in a risky asset that has an expected return of 11.3 percent and a standard deviation of 21.2 percent. He will also invest $3,200 in a risk-free asset with an expected return of 4.2 percent. The market risk premium is 7.1 percent. What is the standard deviation of his portfolio?",
+    "options": {
+      "A": "3.30 percent",
+      "B": "11.94 percent",
+      "C": "6.87 percent",
+      "D": "9.25 percent",
+      "E": "14.42 percent"
+    },
+    "answer": "E",
+    "explanation": "σP = [$6,800/($6,800 + 3,200)](.212) σP = .1442, or 14.42%",
+    "chapter": 11
+  },
+  {
+    "id": 1043,
+    "question": "You would like to combine a risky stock with a beta of 1.87 with U.S. Treasury bills in such a way that the risk level of the portfolio is equivalent to the risk level of the overall market. What percentage of the portfolio should be invested in the risky stock?",
+    "options": {
+      "A": "54.15 percent",
+      "B": "53.48 percent",
+      "C": "55.09 percent",
+      "D": "52.91 percent",
+      "E": "54.67 percent"
+    },
+    "answer": "B",
+    "explanation": "βP = 1 = 1.87w + (1 − w)(0) w = .5348, or 53.48%",
+    "chapter": 11
+  },
+  {
+    "id": 1044,
+    "question": "Stock A has an expected return of 12 percent and a variance of .0203. The market has an expected return of 11 percent and a variance of .0093. What is the beta of Stock A if the covariance of Stock A with the market is .0137?",
+    "options": {
+      "A": ".68",
+      "B": ".76",
+      "C": "1.55",
+      "D": "1.47",
+      "E": "1.32"
+    },
+    "answer": "D",
+    "explanation": "β = .0137/.0093 β = 1.47",
+    "chapter": 11
+  },
+  {
+    "id": 1045,
+    "question": "Stock A has a beta of 1.2, Stock B's beta is 1.46, and Stock C's beta is .72. If you invest $2,000 in Stock A, $3,000 in Stock B, and $5,000 in Stock C, what will be the beta of your portfolio?",
+    "options": {
+      "A": "1.008",
+      "B": "1.014",
+      "C": "1.038",
+      "D": "1.067",
+      "E": "1.127"
+    },
+    "answer": "C",
+    "explanation": "ValueP = $2,000 + 3,000 + 5,000 ValueP = $10,000 βP = ($2,000/$10,000)(1.20) + ($3,000/$10,000)(1.46) + ($5,000/$10,000)(.72) βP = 1.038",
+    "chapter": 11
+  },
+  {
+    "id": 1046,
+    "question": "Your portfolio is comprised of 30 percent of Stock X, 50 percent of Stock Y, and 20 percent of Stock Z. Stock X has a beta of .64, Stock Y has a beta of 1.48, and Stock Z has a beta of 1.04. What is the portfolio beta?",
+    "options": {
+      "A": "1.01",
+      "B": "1.05",
+      "C": "1.09",
+      "D": "1.14",
+      "E": "1.18"
+    },
+    "answer": "D",
+    "explanation": "βP = .30(.64) + .50(1.48) + .20(1.04) βP = 1.14",
+    "chapter": 11
+  },
+  {
+    "id": 1047,
+    "question": "Your portfolio has a beta of 1.18 and consists of 15 percent U.S. Treasury bills, 30 percent Stock A, and 55 percent Stock B. Stock A has a risk level equivalent to that of the overall market. What is the beta of Stock B?",
+    "options": {
+      "A": ".55",
+      "B": "1.10",
+      "C": "1.24",
+      "D": "1.40",
+      "E": "1.60"
+    },
+    "answer": "E",
+    "explanation": "βP = 1.18 = .15(0) + .30(1.0) + .55(βB) βB = 1.6",
+    "chapter": 11
+  },
+  {
+    "id": 1048,
+    "question": "You would like to combine a highly risky stock with a beta of 2.6 with U.S. Treasury bills in such a way that the risk level of the portfolio is equivalent to the risk level of the overall market. What percentage of the portfolio should be invested in Treasury bills?",
+    "options": {
+      "A": "57.91 percent",
+      "B": "61.54 percent",
+      "C": "50.00 percent",
+      "D": "38.46 percent",
+      "E": "42.09 percent"
+    },
+    "answer": "B",
+    "explanation": "βP = 1.0 = 2.6w + (1 − w)(0) w = .3846, or 38.46% T-bill investment = 1 − .3846 T-bill investment = .6154, or 61.54%",
+    "chapter": 11
+  },
+  {
+    "id": 1049,
+    "question": "The market has an expected rate of return of 9.8 percent. The long-term government bond is expected to yield 4.5 percent and the U.S. Treasury bill is expected to yield 3.4 percent. The inflation rate is 3.1 percent. What is the market risk premium?",
+    "options": {
+      "A": "2.2 percent",
+      "B": "3.3 percent",
+      "C": "5.3 percent",
+      "D": "6.4 percent",
+      "E": "6.7 percent"
+    },
+    "answer": "D",
+    "explanation": "Market risk premium = 9.8% − 3.4% Market risk premium = 6.4%",
+    "chapter": 11
+  },
+  {
+    "id": 1050,
+    "question": "The risk-free rate of return is 3.68 percent and the market risk premium is 7.84 percent. What is the expected rate of return on a stock with a beta of 1.32?",
+    "options": {
+      "A": "9.17 percent",
+      "B": "9.24 percent",
+      "C": "13.12 percent",
+      "D": "14.03 percent",
+      "E": "14.36 percent"
+    },
+    "answer": "D",
+    "explanation": "E(R) = .0368 + 1.32(.0784) E(R) = .1403, or 14.03%",
+    "chapter": 11
+  },
+  {
+    "id": 1051,
+    "question": "The common stock of CTI has an expected return of 14.48 percent. The return on the market is 11.6 percent and the risk-free rate of return is 3.42 percent. What is the beta of this stock?",
+    "options": {
+      "A": ".95",
+      "B": "1.49",
+      "C": "1.31",
+      "D": "1.42",
+      "E": "1.35"
+    },
+    "answer": "E",
+    "explanation": "E(R) = .1448 = .0342 + β(.116 − .0342) β = 1.35",
+    "chapter": 11
+  },
+  {
+    "id": 1052,
+    "question": "The stock of Big Joe's has a beta of 1.38 and an expected return of 16.26 percent. The risk- free rate of return is 3.42 percent. What is the expected return on the market?",
+    "options": {
+      "A": "7.60 percent",
+      "B": "8.04 percent",
+      "C": "9.30 percent",
+      "D": "12.72 percent",
+      "E": "12.16 percent"
+    },
+    "answer": "D",
+    "explanation": "E(R) = .1626 = .0342 + 1.38(Rm − .0342) Rm = .1272, or 12.72%",
+    "chapter": 11
+  },
+  {
+    "id": 1053,
+    "question": "The expected return on HiLo stock is 14.08 percent while the expected return on the market is 11.5 percent. The beta of HiLo is 1.26. What is the risk-free rate of return?",
+    "options": {
+      "A": ".41 percent",
+      "B": "2.01 percent",
+      "C": ".69 percent",
+      "D": "1.58 percent",
+      "E": "1.62 percent"
+    },
+    "answer": "D",
+    "explanation": "E(R) = .1408 = Rf + 1.26(.115 − Rf) Rf = .0158, or 1.58%",
+    "chapter": 11
+  },
+  {
+    "id": 1054,
+    "question": "The stock of Martin Industries has a beta of 1.43. The risk-free rate of return is 3.6 percent and the market risk premium is 9 percent. What is the expected rate of return?",
+    "options": {
+      "A": "11.32 percent",
+      "B": "14.17 percent",
+      "C": "16.47 percent",
+      "D": "17.48 percent",
+      "E": "18.03 percent"
+    },
+    "answer": "C",
+    "explanation": "E(R) = .036 + 1.43(.09) E(R) = .1647, or 16.47%",
+    "chapter": 11
+  },
+  {
+    "id": 1055,
+    "question": "Stock A has a beta of .68 and an expected return of 8.1 percent. Stock B has a beta of 1.42 and an expected return of 13.9 percent. Stock C has beta of 1.23 and an expected return of 12.4 percent. Stock D has a beta of 1.31 and an expected return of 12.6 percent. Stock E has a beta of .94 and an expected return of 9.8 percent. Which one of these stocks is the most accurately priced if the risk-free rate of return is 2.5 percent and the market risk premium is 8 percent?",
+    "options": {
+      "A": "Stock A",
+      "B": "Stock B",
+      "C": "Stock C",
+      "D": "Stock D",
+      "E": "Stock E"
+    },
+    "answer": "B",
+    "explanation": "E(RA) = .025 + .68(.08) = .079, or 7.9% E(RB) = .025 + 1.42(.08) = .139, or 13.9%; Stock B is most accurately priced. E(RC) = .025 + 1.23(.08) = .123, or 12.3% E(RD) = .025 + 1.31(.08) = .130, or 13.0% E(RE) = .025 + .94(.08) = .100, or 10.0%",
+    "chapter": 11
+  },
+  {
+    "id": 1056,
+    "question": "Stock A has a beta of .69 and an expected return of 9.27 percent. Stock B has a beta of 1.13 and an expected return of 11.88 percent. Stock C has a beta of 1.48 and an expected return of",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1057,
+    "question": "31 percent. Stock D has a beta of .71 and an expected return of 8.79 percent. Lastly, Stock E has a beta of 1.45 and an expected return of 14.04 percent. Which one of these stocks is most accurately priced if the risk-free rate of return is 3.6 percent and the market rate of return is 10.8 percent?",
+    "options": {
+      "A": "Stock A",
+      "B": "Stock B",
+      "C": "Stock C",
+      "D": "Stock D",
+      "E": "Stock E"
+    },
+    "answer": "E",
+    "explanation": "E(RA) = .036 + .69(.108 −.036) = .0857, or 8.57% E(RB) = .036 + 1.13(.108 − .036) = .1174, or 11.74% E(RC) = .036 + 1.48(.108 − .036) = .1426, or 14.26% E(RD) = .036 + .71(.108 − .036) = .0871, or 8.71% E(RE) = .036 + 1.45(.108 − .036) = .1404, or 14.04%; Stock E is most accurately priced.",
+    "chapter": 11
+  },
+  {
+    "id": 1058,
+    "question": "A portfolio contains two securities and has a beta of 1.08. The first security comprises 54 percent of the portfolio and has a beta of 1.27. What is the beta of the second security?",
+    "options": {
+      "A": ".79",
+      "B": ".86",
+      "C": ".62",
+      "D": ".82",
+      "E": ".93"
+    },
+    "answer": "B",
+    "explanation": "βp = 1.08 = .54(1.27) + (1 − .54)βB βB = .86",
+    "chapter": 11
+  },
+  {
+    "id": 1059,
+    "question": "You have a $1,250 portfolio which is invested in Stocks A and B plus a risk-free asset. $350 is invested in Stock A which has a beta of 1.36 and Stock B has a beta of .84. How much needs to be invested in Stock B if you want a portfolio beta of .95?",
+    "options": {
+      "A": "$803",
+      "B": "$951",
+      "C": "$782",
+      "D": "$847",
+      "E": "$791"
+    },
+    "answer": "D",
+    "explanation": "βP = .95 = ($350/$1,250)(1.36) + (x/$1,250)(.84) + [($1,250 − 350 − x)/$1,250](0) x = $847",
+    "chapter": 11
+  },
+  {
+    "id": 1060,
+    "question": "Stock M has a beta of 1.2. The market risk premium is 7.8 percent and the risk-free rate is",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1061,
+    "question": "6 percent. Assume you compile a portfolio equally invested in Stock M, Stock N, and a risk- free security; the portfolio has a beta equal to the overall market. What is the expected return on the portfolio?",
+    "options": {
+      "A": "11.2 percent",
+      "B": "10.8 percent",
+      "C": "10.4 percent",
+      "D": "11.4 percent",
+      "E": "11.7 percent"
+    },
+    "answer": "D",
+    "explanation": "E(RP) = .036 + 1(.078) E(RP) = .114, or 11.4%",
+    "chapter": 11
+  },
+  {
+    "id": 1062,
+    "question": "Zoom stock has a beta of 1.46. The risk-free rate of return is 3.07 percent and the market rate of return is 11.81 percent. What is the amount of the risk premium on Zoom stock?",
+    "options": {
+      "A": "8.09 percent",
+      "B": "12.76 percent",
+      "C": "9.59 percent",
+      "D": "10.25 percent",
+      "E": "17.24 percent"
+    },
+    "answer": "B",
+    "explanation": "Risk premium = 1.46(.1181 − .0307) Risk premium = .1276, or 12.76%",
+    "chapter": 11
+  },
+  {
+    "id": 1063,
+    "question": "You want to design a portfolio that has a beta of zero. Stock A has a beta of 1.69 and Stock B's beta is also greater than 1. You are willing to include both stocks as well as a risk-free security in your portfolio. If your portfolio will have a combined value of $5,000, how much should you invest in Stock B?",
+    "options": {
+      "A": "$2,630",
+      "B": "$0",
+      "C": "$2,959",
+      "D": "$3,008",
+      "E": "$1,487"
+    },
+    "answer": "B",
+    "explanation": "Your entire portfolio should be invested in risk-free securities to obtain a portfolio beta of zero.",
+    "chapter": 11
+  },
+  {
+    "id": 1064,
+    "question": "You desire a portfolio beta of 1.1. Currently, your portfolio consists of $100 invested in Stock A with a beta of 1.4 and $300 in Stock B with a beta of .6. You have another $400 to invest and want to divide it between Stock C with a beta of 1.6 and a risk-free asset. How much should you invest in the risk-free asset to obtain your desired beta?",
+    "options": {
+      "A": "$50",
+      "B": "$100",
+      "C": "",
+      "D": "$350",
+      "E": "$300"
+    },
+    "answer": "A",
+    "explanation": "βP = 1.1 = ($100/$800)(1.4) + ($300/$800)(.6) + (C/$800)(1.6) + [($400 − C)/$800](0) C = $350 Investment in risk-free asset = $400 − 350 Investment in risk-free asset = $50",
+    "chapter": 11
+  },
+  {
+    "id": 1065,
+    "question": "Zelo stock has a beta of 1.23. The risk-free rate of return is 2.86 percent and the market rate of return is 11.47 percent. What is the amount of the risk premium on Zelo stock?",
+    "options": {
+      "A": "9.47 percent",
+      "B": "12.60 percent",
+      "C": "11.54 percent",
+      "D": "10.59 percent",
+      "E": "12.30 percent"
+    },
+    "answer": "D",
+    "explanation": "Risk premium = 1.23(.1147 − .0286) Risk premium = .1059, or 10.59%",
+    "chapter": 11
+  },
+  {
+    "id": 1066,
+    "question": "You want to compile a portfolio valued at $1,000 which will be invested in Stocks A and B plus a risk-free asset. Stock A has a beta of 1.2 and Stock B has a beta of .7. If you invest $300 in Stock A and want a portfolio beta of .9, how much should you invest in Stock B?",
+    "options": {
+      "A": "$700.00",
+      "B": "$268.40",
+      "C": "$300.00",
+      "D": "$771.43",
+      "E": "$608.15"
+    },
+    "answer": "D",
+    "explanation": "βP = .9 = ($300/$1,000)(1.2) + (B/$1,000)(.7) + [($1,000 − 300 − B)/$1,000](0) B = $771.43",
+    "chapter": 11
+  },
+  {
+    "id": 1067,
+    "question": "Draw a graph that represents an opportunity set for a two-asset combination. Indicate four points on the graph as follows: (1) the minimum variance portfolio. (2) point (A) which represents the best return to risk combination, (3) point (B) which provides the same return but with more risk than point (A) and, (4) point (C) which has the same risk but a lower return than point (A). Lastly, indicate the efficient frontier. Answer: The efficient frontier extends from the minimum variance portfolio (indicated by \"___\") upward to the end of the curve. A is on the efficient frontier with the best return to risk combination. Portfolios on the frontier dominate all other portfolios. A dominates both B and C. B has a higher standard deviation for the same return while C has a lower return for the same standard deviation. Difficulty: 2 Medium Section: 11.5 The Efficient Set for Many Securities Topic: Standard deviation and variance Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 53 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1068,
+    "question": "Why are some risks diversifiable and some nondiversifiable? Give an example of each. Answer: A reasonable answer would, at a minimum, explain that some risks (diversifiable) affect only a specific security or a limited number of securities, and when put into a portfolio, losses related to these securities will tend to be offset by price gains amongst other securities, and vice versa. Nondiversifiable risk, however, is unavoidable because such risks affect all or almost all securities in the market and can't be eliminated by forming portfolios. In the second part of the question, the students get a chance to use a minor amount of imagination. A strong answer would note the dependence of diversification effects on the degree of correlation between the assets used to form portfolios. Difficulty: 2 Medium Section: 11.6 Diversification Topic: Diversification concepts and measures Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 11
+  },
+  {
+    "id": 1069,
+    "question": "We routinely assume that investors are risk-averse return-seekers; i.e., they like returns and dislike risk. If so, why do we contend that only systematic risk and not total risk is important? Answer: This question, of course, gets to the point of the chapter: that rational investors will diversify away as much risk as possible. From the discussion in the text, most students will also have picked up that it is quite easy to eliminate diversifiable risk in practice, either by holding portfolios with multiple diverse securities, or by holding shares in a diversified mutual fund. There will be no return for bearing diversifiable risk, thus, total risk is not particularly important to a diversified investor. Difficulty: 2 Medium Section: 11.6 Diversification Topic: Diversification concepts and measures Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1070,
+    "question": "Explain in words what beta is and why it is an important tool of security valuation. Answer: Beta is a measure of systematic risk, which is the only risk an investor can expect to earn compensation for bearing. Beta specifically measures the amount of systematic risk an asset has relative to an average asset. The amount of systematic risk inherent in a particular security determines the amount of risk premium that is applicable to that security. Difficulty: 2 Medium Section: 11.9 Relationship between Risk and Expected Return (CAPM) Topic: Beta Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 54 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "B",
+    "chapter": 11
+  },
+  {
+    "id": 1071,
+    "question": "According to the CAPM, the expected return on a risky asset depends on three components. Describe each component, and explain its role in determining expected return. Answer: The CAPM suggests that the expected return is a function of (1) the risk-free rate of return, which is the pure time value of money, (2) the market risk premium, which is the reward for bearing systematic risk, and (3) beta, which is the amount of systematic risk present in a particular asset. Better answers will point out that both the pure time value of money and the reward for bearing systematic risk are exogenously determined and can change on a daily basis, while the amount of systematic risk for a particular asset is determined by the firm's decision- makers. Difficulty: 2 Medium Section: 11.9 Relationship between Risk and Expected Return (CAPM) Topic: Capital asset pricing model Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  },
+  {
+    "id": 1072,
+    "question": "Draw the SML and plot Asset C such that it has less risk than the market but plots above the SML, and Asset D such that it has more risk than the market and plots below the SML. (Be sure to indicate where the market portfolio is on your graph.) Explain how assets like C or D can plot as they do and explain why such pricing cannot persist in a market that is in equilibrium. Answer: The student should correctly draw a SML with points C and D correctly identified. In this case, Asset C is underpriced and Asset D is overpriced. This condition cannot persist in equilibrium because investors will buy C with its high expected return given its level of risk and sell D with its low expected return given its risk level. This buying and selling activity will force the prices back to a level that eventually causes both C and D to plot on the SML. Difficulty: 2 Medium Section: 11.9 Relationship between Risk and Expected Return (CAPM) Topic: Security market line Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 11
+  }
+]

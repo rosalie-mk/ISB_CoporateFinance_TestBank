@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 607,
+    "question": "An analysis of what happens to the estimate of net present value when only one input variable is changed is called ________ analysis.",
+    "options": {
+      "A": "forecasting",
+      "B": "scenario",
+      "C": "sensitivity",
+      "D": "simulation",
+      "E": "break-even"
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 608,
+    "question": "An analysis of the relationship between the sales volume and accounting profitability is called ________ analysis.",
+    "options": {
+      "A": "forecasting",
+      "B": "scenario",
+      "C": "sensitivity",
+      "D": "simulation",
+      "E": "break-even"
+    },
+    "answer": "E",
+    "chapter": 7
+  },
+  {
+    "id": 609,
+    "question": "Variable costs:",
+    "options": {
+      "A": "change in direct relationship to the quantity of output produced.",
+      "B": "are constant in the short-run regardless of the quantity of output produced.",
+      "C": "are equal to the change in the fixed assets required to change the level of output.",
+      "D": "are subtracted from fixed costs to compute the contribution margin.",
+      "E": "are added to fixed costs on a per-unit basis to compute the contribution margin."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 610,
+    "question": "Fixed costs:",
+    "options": {
+      "A": "change as the quantity of output produced changes.",
+      "B": "are constant over the short-run regardless of the quantity of output produced.",
+      "C": "reflect the change in a variable when one more unit of output is produced.",
+      "D": "are subtracted from sales to compute the contribution margin.",
+      "E": "can be ignored in scenario analysis since they are constant over the life of a project."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 611,
+    "question": "The sales level that results in a project's net income exactly equaling zero is called the ________ break-even.",
+    "options": {
+      "A": "operational",
+      "B": "leveraged",
+      "C": "accounting",
+      "D": "cash",
+      "E": "financial"
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 612,
+    "question": "The sales level that results in a project's net present value exactly equaling zero is called the ________ break-even.",
+    "options": {
+      "A": "operational",
+      "B": "leveraged",
+      "C": "accounting",
+      "D": "cash",
+      "E": "financial"
+    },
+    "answer": "E",
+    "chapter": 7
+  },
+  {
+    "id": 613,
+    "question": "Conducting scenario analysis helps managers see the:",
+    "options": {
+      "A": "impact of an individual variable on the outcome of a project.",
+      "B": "expected range of outcomes from a proposed project.",
+      "C": "maximum range of outcomes that can occur over the course of a proposed project.",
+      "D": "various decision points of a specific project.",
+      "E": "consequences of changing a firm's market share for a specific product."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 614,
+    "question": "Sensitivity analysis is primarily designed to determine the:",
+    "options": {
+      "A": "range of possible outcomes given the expected ranges for every variable.",
+      "B": "degree to which the net present value reacts to changes in a single variable.",
+      "C": "net present value given the best and the worst possible expected situations.",
+      "D": "degree to which a project relies on financial leverage.",
+      "E": "best mix of fixed and variable costs for each project."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 615,
+    "question": "As the degree of sensitivity of a project to a single variable rises, the:",
+    "options": {
+      "A": "lower the forecasting risk of the project.",
+      "B": "smaller the range of possible outcomes given a pre-defined range of values for the input.",
+      "C": "more attention management should place on accurately forecasting that variable.",
+      "D": "lower the maximum potential value of the project.",
+      "E": "lower the maximum potential loss of the project."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 616,
+    "question": "Sensitivity analysis is conducted by:",
+    "options": {
+      "A": "holding all variables at their base level and changing the required rate of return.",
+      "B": "changing the value of two variables to determine their interdependency.",
+      "C": "changing the value of a single variable and computing the resulting change in the project's NPV.",
+      "D": "assigning either the best or the worst possible value to every variable and comparing the results to the base case.",
+      "E": "reviewing a project after implementation to determine how the actual results are comparing to the predicted results."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 617,
+    "question": "To ascertain whether the inaccuracy of the variable cost estimate for a project will have much effect on the final outcome of the project, you should probably conduct ________ analysis.",
+    "options": {
+      "A": "leverage",
+      "B": "scenario",
+      "C": "break-even",
+      "D": "sensitivity",
+      "E": "cash flow"
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 618,
+    "question": "Which one of the following is most likely a variable cost?",
+    "options": {
+      "A": "Office rent",
+      "B": "Property taxes",
+      "C": "Property insurance",
+      "D": "Machinist wages",
+      "E": "Management salaries"
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 619,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "A": "At the accounting break-even level, the pretax profit is equal to the aftertax profit.",
+      "B": "The contribution margin is equal to sales minus fixed costs.",
+      "C": "Taxes are considered when computing the accounting break-even point but not the financial break-even point.",
+      "D": "The larger the contribution margin, the higher the financial break-even point.",
+      "E": "The accounting break-even point is higher than the financial break-even point for the same project."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 620,
+    "question": "All else constant, as the variable cost per unit for a project increases, the:",
+    "options": {
+      "A": "contribution margin decreases.",
+      "B": "sensitivity to fixed costs decreases.",
+      "C": "project's net present value increases.",
+      "D": "accounting break-even point decreases.",
+      "E": "net profit increases."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 621,
+    "question": "The accounting profit break-even point is unaffected by a firm's:",
+    "options": {
+      "A": "contribution margin.",
+      "B": "depreciation method.",
+      "C": "tax rate.",
+      "D": "fixed costs.",
+      "E": "variable cost per unit."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 622,
+    "question": "All else equal, the contribution margin must increase as:",
+    "options": {
+      "A": "both the sales price and variable cost per unit increase.",
+      "B": "the fixed cost per unit declines.",
+      "C": "the variable cost per unit declines.",
+      "D": "sales price per unit declines.",
+      "E": "the sales price minus the fixed cost per unit increases."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 623,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "A": "An increase in the initial fixed assets required by a project will increase the accounting profit break-even point.",
+      "B": "If a firm needs to lower a project's break-even points, it should lower the project's revenue estimate.",
+      "C": "The NPV is zero at the accounting break-even point.",
+      "D": "An increase in the tax rate will increase the accounting break-even point.",
+      "E": "Depreciating project assets more rapidly will decrease the accounting break-even point."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 624,
+    "question": "Theoretically, the NPV is the most appropriate method to determine the acceptability of a project. A false sense of security can overcome the decision-maker when the procedure is applied properly but the positive NPV results are accepted blindly. Sensitivity and scenario analysis aid in the process by:",
+    "options": {
+      "A": "providing assurance that the most appropriate discount rate is being applied.",
+      "B": "ensuring all estimated values are accurate.",
+      "C": "ensuring the NPV value was calculated correctly.",
+      "D": "providing information on a number of potential outcomes.",
+      "E": "guaranteeing the NPV will be achieved."
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 625,
+    "question": "Sensitivity analysis:",
+    "options": {
+      "A": "provides the tradeoff between fixed and variable costs.",
+      "B": "provides an estimate of the most profitable situation that is reasonably expected.",
+      "C": "can be conducted on any input value used in the computation of a project's NPV.",
+      "D": "cannot evaluate a change in NPV related to a project's initial investment.",
+      "E": "should never be conducted if the base-case scenario results in a negative NPV."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 626,
+    "question": "Sensitivity analysis:",
+    "options": {
+      "A": "is more difficult to conduct than simulation analysis.",
+      "B": "provides its user with the rate of return that corresponds to the project's IRR.",
+      "C": "is affected primarily by the interrelationships between project variables.",
+      "D": "indicates which variable(s) need to be most closely monitored.",
+      "E": "provides limited information and therefore is rarely used in practice."
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 627,
+    "question": "Fixed production costs are:",
+    "options": {
+      "A": "directly related to labor costs.",
+      "B": "measured as costs per unit of time.",
+      "C": "ignored in project analysis.",
+      "D": "dependent on the amount of goods or services produced.",
+      "E": "irrelevant when conducting sensitivity analysis."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 628,
+    "question": "The contribution margin:",
+    "options": {
+      "A": "is dependent upon achieving a minimal level of output.",
+      "B": "increases as the level of output decreases.",
+      "C": "decreases as the level of output decreases.",
+      "D": "has a major effect on the present value break-even point.",
+      "E": "changes indirectly to a firm's tax rate changes."
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 629,
+    "question": "In the present value break-even, the EAC is used to:",
+    "options": {
+      "A": "determine the salvage value of the initial fixed asset investment.",
+      "B": "allocate depreciation over the life of the project.",
+      "C": "allocate the initial investment at its opportunity cost over the life of the project.",
+      "D": "determine the contribution margin to fixed costs ratio.",
+      "E": "allocate the opportunity and erosion costs over the life of the project."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 630,
+    "question": "The financial break-even point is superior to the accounting break-even point because the financial break-even method:",
+    "options": {
+      "A": "is more complicated to calculate.",
+      "B": "covers the economic opportunity costs of the investment.",
+      "C": "is equivalent to sensitivity analysis.",
+      "D": "covers the fixed costs of production, which the accounting break-even does not.",
+      "E": "provides an economic profit over and above the required rate of return."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 631,
+    "question": "All else constant, the accounting break-even level of sales will decrease when the:",
+    "options": {
+      "A": "fixed costs increase.",
+      "B": "depreciation expense decreases.",
+      "C": "contribution margin decreases.",
+      "D": "variable costs per unit increase.",
+      "E": "selling price per unit decreases."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 632,
+    "question": "The point where a project produces a rate of return equal to the required return is known as the:",
+    "options": {
+      "A": "point of zero profit.",
+      "B": "internal break-even point.",
+      "C": "accounting break-even point.",
+      "D": "financial break-even point.",
+      "E": "income break-even point."
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 633,
+    "question": "Which one of the following statements is correct when a project is operating at its accounting profit break-even point?",
+    "options": {
+      "A": "The project is just recovering the cost of the initial investment.",
+      "B": "The aftertax profit is equal to the initial investment.",
+      "C": "The project just pays back on a discounted basis.",
+      "D": "The project's IRR is equal to zero.",
+      "E": "The contribution margin is equal to zero."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 634,
+    "question": "Break-even analysis:",
+    "options": {
+      "A": "based on accounting profits is preferable to the financial (or present value) break-even method.",
+      "B": "identifies the optimal maximum level of output for any given level of fixed assets.",
+      "C": "ignores both taxes and interest when computing the financial break-even point.",
+      "D": "provides a means of determining the minimal number of units that need to be sold to prevent a financial loss.",
+      "E": "identifies the optimal sales price for any new product."
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 635,
+    "question": "The approach that further attempts to model real world uncertainty by analyzing projects the way one might analyze gambling strategies is called:",
+    "options": {
+      "A": "the gambler's approach.",
+      "B": "the blackjack approach.",
+      "C": "Monte Carlo simulation.",
+      "D": "scenario analysis.",
+      "E": "sensitivity analysis."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 636,
+    "question": "If you want the most detailed information possible about the potential outcome of a critical project you should conduct:",
+    "options": {
+      "A": "operating analysis.",
+      "B": "simulation analysis.",
+      "C": "financial analysis.",
+      "D": "decision tree analysis.",
+      "E": "sensitivity analysis."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 637,
+    "question": "Simulation analysis is based on assigning a ________ and analyzing the results.",
+    "options": {
+      "A": "narrow range of values to a single variable",
+      "B": "narrow range of values to multiple variables simultaneously",
+      "C": "wide range of values to a single variable",
+      "D": "wide range of values to multiple variables simultaneously",
+      "E": "single value to each of the variables"
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 638,
+    "question": "An analysis of what happens to the estimate of a project's net present value when you examine a vast number of different likely economic situations is called ________ analysis.",
+    "options": {
+      "A": "forecasting",
+      "B": "scenario",
+      "C": "sensitivity",
+      "D": "simulation",
+      "E": "break-even"
+    },
+    "answer": "D",
+    "chapter": 7
+  },
+  {
+    "id": 639,
+    "question": "The type of analysis that is most dependent upon the use of a computer is ________ analysis.",
+    "options": {
+      "A": "scenario",
+      "B": "financial break-even",
+      "C": "sensitivity",
+      "D": "accounting break-even",
+      "E": "simulation"
+    },
+    "answer": "E",
+    "chapter": 7
+  },
+  {
+    "id": 640,
+    "question": "Monte Carlo simulation is:",
+    "options": {
+      "A": "the method of analysis most widely used by executives.",
+      "B": "a very simple formula.",
+      "C": "more complex than sensitivity or scenario analysis.",
+      "D": "the oldest capital budgeting technique.",
+      "E": "most commonly applied to small, short-term projects."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 641,
+    "question": "Management has decided to accept a new project but has yet to decide when the project should commence. Which type of analysis would be most helpful at this time?",
+    "options": {
+      "A": "Expansion analysis",
+      "B": "Timing option analysis",
+      "C": "Scenario analysis",
+      "D": "Sensitivity analysis",
+      "E": "Simulation analysis"
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 642,
+    "question": "The investment timing decision relates to:",
+    "options": {
+      "A": "how long the cash flows last once a project is implemented.",
+      "B": "the preferred starting date of a new project.",
+      "C": "how frequently the cash flows of a project occur.",
+      "D": "how many times a project can be expanded.",
+      "E": "how long a project should operate before an abandonment decision can be implemented."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 643,
+    "question": "The option to wait:",
+    "options": {
+      "A": "increases in value as the project's sensitivity to new technology increases.",
+      "B": "is independent of the project's discount rate.",
+      "C": "is valueless when a project is profitable given immediate implementation.",
+      "D": "decreases the net present value of a project.",
+      "E": "may have value even if a new project currently has a negative net present value."
+    },
+    "answer": "E",
+    "chapter": 7
+  },
+  {
+    "id": 644,
+    "question": "Last month, you introduced a new product to the market. Consumer demand has been overwhelming and it appears that strong demand will exist over the long-term. Given this situation, management should consider the option to:",
+    "options": {
+      "A": "suspend.",
+      "B": "expand.",
+      "C": "abandon.",
+      "D": "contract.",
+      "E": "withdraw."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 645,
+    "question": "Including the option to expand in your project analysis will tend to:",
+    "options": {
+      "A": "extend the duration of a project but not affect the project's net present value.",
+      "B": "increase the cash flows of a project but decrease the project's net present value.",
+      "C": "increase the net present value of a project.",
+      "D": "decrease the net present value of a project.",
+      "E": "have no effect on either a project's cash flows or its net present value."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 646,
+    "question": "The potential decision to abandon a project has option value because:",
+    "options": {
+      "A": "abandonment can occur at one specific point in the future.",
+      "B": "a project may be worth more dead than alive.",
+      "C": "management is locked into a negative outcome.",
+      "D": "future demand may exceed expectations.",
+      "E": "the project may be worth more if its commencement is delayed."
+    },
+    "answer": "B",
+    "chapter": 7
+  },
+  {
+    "id": 647,
+    "question": "In order to make a decision utilizing a decision tree, you must:",
+    "options": {
+      "A": "start at the most distant point in time and work backwards to Time 0.",
+      "B": "begin at Time 0 and work towards the most distant point in time.",
+      "C": "start at the top of the tree and work vertically downward to the very bottom.",
+      "D": "start at the middle of the tree and work both upwards and downwards simultaneously.",
+      "E": "concentrate only on the limbs with the highest probability of occurrence levels."
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 648,
+    "question": "Utilizing a decision tree, the NPV used to make the decision to commence the testing for a project is dependent on:",
+    "options": {
+      "A": "only the cash flows related to the actual test.",
+      "B": "the path with the highest probability of occurrence.",
+      "C": "all the project's cash flows and probabilities over the project's entire life.",
+      "D": "only the cash flows and probabilities of the most successful path.",
+      "E": "the cash flows and probabilities for the first year of the project's life."
+    },
+    "answer": "C",
+    "chapter": 7
+  },
+  {
+    "id": 649,
+    "question": "In a decision tree, caution should be used in the analysis because:",
+    "options": {
+      "A": "later stage decisions are probably riskier than earlier stages.",
+      "B": "negative NPVs should never occur.",
+      "C": "all real options must be included in the basic tree.",
+      "D": "failure and its probability should be ignored because they are irrelevant.",
+      "E": "early stage decisions are probably riskier than later stages."
+    },
+    "answer": "E",
+    "chapter": 7
+  },
+  {
+    "id": 650,
+    "question": "Adept Co. is analyzing a proposed project with annual sales of 5,200 units, ± 6 percent; variable costs per unit of $11, ± 3 percent; fixed costs of $17,500 per year, ± 3 percent; and a sales price of $22 per unit, ± 2 percent. The annual depreciation expense is $4,200. What is the annual sales revenue under the optimistic case scenario?",
+    "options": {
+      "A": "$105,385",
+      "B": "$116,688",
+      "C": "$127,474",
+      "D": "$123,689",
+      "E": "$109,408"
+    },
+    "answer": "D",
+    "explanation": "Sales revenueOptimistic = 5,200(1.06)($22)(1.02) Sales revenueOptimistic = $123,689",
+    "chapter": 7
+  },
+  {
+    "id": 651,
+    "question": "A proposed project has estimated sales of 3,300 units per year, ± 4 percent; a sales price of $23 a unit, ± 1 percent; variable costs per unit of $12.60, ± 2 percent; annual fixed costs of $16,200; and annual depreciation of $3,100. What is the contribution margin under the expected scenario?",
+    "options": {
+      "A": "$5.49",
+      "B": "$4.55",
+      "C": "$18.09",
+      "D": "$10.40",
+      "E": "$9.46"
+    },
+    "answer": "D",
+    "explanation": "Contribution marginExpected = $23 − 12.60 Contribution marginExpected = $10.40",
+    "chapter": 7
+  },
+  {
+    "id": 652,
+    "question": "Angie's expects annual sales of 2,400 units, ± 3 percent, of a new product at a price of $59 a unit, ± 2 percent. The expected variable cost per unit is $27.20, ± 2 percent, annual fixed costs are $32,500, and depreciation is $4,400 per year. What is the total annual expense per unit under the pessimistic scenario? Ignore taxes.",
+    "options": {
+      "A": "$44.55",
+      "B": "$41.70",
+      "C": "$43.59",
+      "D": "$40.02",
+      "E": "$42.51"
+    },
+    "answer": "C",
+    "explanation": "Total expense per unitPessimistic = $27.20(1.02) + $32,500/[2,400(.97)] + $4,400/[2,400(.97)] Total expense per unitPessimistic = $43.59",
+    "chapter": 7
+  },
+  {
+    "id": 653,
+    "question": "ABC Co. has compiled these estimates for a new 1-year project: Sales of 1,650 units, ± 5 percent; sales price of $17 a unit, ± 1 percent; variable costs per unit of $7.49, ± 3 percent; fixed costs of $3,800, ± 1 percent; and depreciation of $2,200. The company bases its sensitivity analysis on the expected case scenario. If the company conducts a sensitivity analysis at a sales price of $16.25, what will be the earnings before interest and taxes?",
+    "options": {
+      "A": "$8,265",
+      "B": "$8,454",
+      "C": "$8,530",
+      "D": "$8,709",
+      "E": "$8,510"
+    },
+    "answer": "B",
+    "explanation": "EBIT = [($16.25 − 7.49)(1,650)] − $3,800 − 2,200 EBIT = $8,454",
+    "chapter": 7
+  },
+  {
+    "id": 654,
+    "question": "A project has estimated sales of 2,600 units at $15.40 per unit; variable costs per unit of $6.79, ± 3 percent; annual fixed costs of $17,500, ± 3 percent; and depreciation of $2,850 per year. The company bases its sensitivity analysis on the expected scenario. If a sensitivity analysis is conducted using a variable cost of $7, what will be the total annual variable costs?",
+    "options": {
+      "A": "$18,746",
+      "B": "$18,200",
+      "C": "$16,625",
+      "D": "$17,654",
+      "E": "$21,185"
+    },
+    "answer": "B",
+    "explanation": "Total variable cost = $7(2,600) Total variable cost = $18,200",
+    "chapter": 7
+  },
+  {
+    "id": 655,
+    "question": "A new project has estimated annual sales of 12,000 units, ± 3 percent; variable costs per unit of $11.24, ± 2 percent; annual fixed costs of $38,290, ± 2 percent; and a sales price of $19.65 per unit, ± 4 percent. The annual depreciation is $21,400 and the tax rate is 21 percent. What are the annual earnings before interest and taxes under the optimistic scenario?",
+    "options": {
+      "A": "$52,694.40",
+      "B": "$64,854.40",
+      "C": "$57,516.89",
+      "D": "$54,048.91",
+      "E": "$61,940.08"
+    },
+    "answer": "C",
+    "explanation": "EBITOptimistic = 12,000(1.03)[($19.65)(1.04) − ($11.24)(.98)] − ($38,290)(.98) − $21,400 EBITOptimistic = $57,516.89",
+    "chapter": 7
+  },
+  {
+    "id": 656,
+    "question": "The variable cost per unit for a proposed project is $8.48 and the annual fixed costs are $27,400. These costs can vary by ± 5 percent. Annual depreciation is $13,290 and the tax rate is 21 percent. The sale price is $13.29 a unit, ± 2 percent. If the firm bases its sensitivity analysis on the expected outcome, what will be the operating cash flow for a sensitivity analysis of 9,200 units?",
+    "options": {
+      "A": "$14,066.02",
+      "B": "$16,103.98",
+      "C": "$22,078.40",
+      "D": "$11,554.50",
+      "E": "$18,385.60"
+    },
+    "answer": "B",
+    "explanation": "Net income = {[9,200($13.29 − 8.48)] − $27,400 − 13,290}(1 − .21) Net income = $2,813.98 OCF = $2,813.98 + 13,290 OCF = $16,103.98",
+    "chapter": 7
+  },
+  {
+    "id": 657,
+    "question": "The projections for a new one-year project show sales of 8,500 units, ± 5 percent; variable costs per unit of $28.62, ± 3 percent; and fixed costs of $164,000, ± 3 percent. Depreciation is $62,000 and the tax rate is 23 percent. The sale price is $55 a unit, ± 2 percent. The company bases its sensitivity analysis on the expected scenario. What is the operating cash flow for a sensitivity analysis using total fixed costs of $170,000?",
+    "options": {
+      "A": "$62,406.67",
+      "B": "$58,219.90",
+      "C": "$61,311.07",
+      "D": "$56,017.10",
+      "E": "$52,048.80"
+    },
+    "answer": "D",
+    "explanation": "Net income = {[8,500($55 − 28.62)] − $170,000 – 62,000}(1 − .23) Net income = −$5,982.90 OCF = −$5,982.90 + 62,000 OCF = $56,017.10",
+    "chapter": 7
+  },
+  {
+    "id": 658,
+    "question": "A project has a projected sales price of $99 a unit, variable costs per unit of $58, annual fixed costs of $238,000, and annual depreciation of $139,000. The tax rate is 22 percent. What is the contribution margin for an analysis using sales units of 12,800?",
+    "options": {
+      "A": "$27.06",
+      "B": "$38.97",
+      "C": "$22.41",
+      "D": "$41.00",
+      "E": "$42.64"
+    },
+    "answer": "D",
+    "explanation": "Contribution margin = $99 − 58 Contribution margin = $41",
+    "chapter": 7
+  },
+  {
+    "id": 659,
+    "question": "The Meldrum Co. expects to sell 3,000 units, ± 15 percent, of a new product. The variable cost per unit is $8, ± 5 percent, and the annual fixed costs are $12,500, ± 5 percent. The annual depreciation expense is $4,000 and the sale price is $18 a unit, ± 2 percent. The project requires $24,000 of fixed assets which will be worthless when the project ends in six years. Also required is $6,500 of net working capital for the life of the project. The tax rate is 21 percent and the required rate of return is 12 percent. What is the net present value of the pessimistic scenario?",
+    "options": {
+      "A": "$12,979.40",
+      "B": "$14,008.16",
+      "C": "$13,810.29",
+      "D": "$10,146.18",
+      "E": "$8,308.15"
+    },
+    "answer": "D",
+    "explanation": "Net incomePessimistic = ({3,000(.85)[$18(.98) − $8(1.05)]} − $12,500(1.05) − $4,000)(1 − .21) Net incomePessimistic = $5,085.23 OCF = $5,085.23 + 4,000 OCF = $9,085.23 NPV = −$24,000 − 6,500 + $9,085.23{[1 − (1/1.126)]/.12} + $6,500/1.126 NPV = $10,146.18",
+    "chapter": 7
+  },
+  {
+    "id": 660,
+    "question": "A new 5-year project has expected sales of 3,400 units, ± 8 percent; variable costs per unit of $22, ± 2%; annual fixed costs of $47,500, ± 2 percent; annual depreciation of $33,000; and a sale price of $45 a unit, ± 3 percent. The project initially requires $165,000 of fixed assets and $42,000 of net working capital. At the end of the project, the net working capital will be recouped and the fixed assets will produce an aftertax cash inflow of $35,000. The tax rate is 21 percent and the discount rate is 14 percent. What is the net present value of the optimistic scenario?",
+    "options": {
+      "A": "−$28,026.15",
+      "B": "−$28,799.24",
+      "C": "−$22,584.66",
+      "D": "$21,202.98",
+      "E": "$18,566.01"
+    },
+    "answer": "C",
+    "explanation": "Net incomeOptimistic = ({3,400(1.08)[$45(1.03) − $22(.98)]} − $47,500(.98) − $33,000)(1 − .21) Net incomeOptimistic = $9,068.32 OCFOptimsitic = $9,068.32 + 33,000 OCFOptimistic = $42,068.32 NPVOptimistic = −$165,000 − 42,000 + $42,068.32{[1 − (1/1.145)]/.14} + ($42,000 + 35,000)/1.145 NPVOptimistic = −$22,584.66",
+    "chapter": 7
+  },
+  {
+    "id": 661,
+    "question": "The Meldrum Co. expects to sell 3,000 units, ± 15 percent, of a new product. The variable cost per unit is $8, ± 5 percent; annual fixed costs are $12,500, ± 5 percent; annual depreciation is $4,000; and the sale price is $18 a unit, ± 2 percent. What is the amount of the fixed cost per unit under the pessimistic scenario?",
+    "options": {
+      "A": "$4.17",
+      "B": "$4.66",
+      "C": "$5.15",
+      "D": "$5.35",
+      "E": "$6.02"
+    },
+    "answer": "C",
+    "explanation": "Fixed cost per unitPessimistic = [$12,500(1.05)]/[3,000(.85)] Fixed cost per unitPessimistic = $5.15",
+    "chapter": 7
+  },
+  {
+    "id": 662,
+    "question": "A project has these estimated values: sales quantity of 4,600 units ± 2 percent; variable cost per unit of $17, ± 3 percent; annual fixed costs of $46,900, ± 1 percent; annual depreciation of $17,300; and a sales price of $39 a unit, ± 10 percent. The company bases its sensitivity analysis on the expected scenario. What will be the operating cash flow for a sensitivity analysis based on a sales price of $35 a unit and a tax rate of 21 percent?",
+    "options": {
+      "A": "$27,319",
+      "B": "$32,400",
+      "C": "$31,994",
+      "D": "$26,700",
+      "E": "$23,508"
+    },
+    "answer": "C",
+    "explanation": "Net income = {[4,600($35 − 17)] − $46,900 − 17,300}(1 − .21) Net income = $14,694 OCF = $14,694 + 17,300 OCF = $31,994",
+    "chapter": 7
+  },
+  {
+    "id": 663,
+    "question": "CC's is analyzing a project with anticipated annual sales of 3,620 units, ± 5 percent; a sales price of $24, ± 2 percent; variable costs per unit of $14.60, ± 4 percent; and annual fixed costs of $12,900, ± 1 percent. What will be the annual total variable costs given a sensitivity analysis using a variable cost of $16 a unit?",
+    "options": {
+      "A": "$53,470",
+      "B": "$54,900",
+      "C": "$55,500",
+      "D": "$57,920",
+      "E": "$61,050"
+    },
+    "answer": "D",
+    "explanation": "Total variable cost = $16(3,620) Total variable cost = $57,920",
+    "chapter": 7
+  },
+  {
+    "id": 664,
+    "question": "A firm is reviewing a project with a labor cost of $18.90 per unit, raw materials cost of $21.63 a unit, and fixed costs of $8,000 a month. Sales are projected at 7,200 units total for the 3-year life of the project. What are the total variable costs per year?",
+    "options": {
+      "A": "$106,300",
+      "B": "$99,300",
+      "C": "$97,272",
+      "D": "$103,300",
+      "E": "$109,300"
+    },
+    "answer": "C",
+    "explanation": "Total annual variable costs = [($18.90 + 21.63)(7,200)]/3 Total annual variable costs = $97,272",
+    "chapter": 7
+  },
+  {
+    "id": 665,
+    "question": "A project with a life of one year has earnings before interest and taxes of $5,750, fixed costs of $50,000, a selling price of $13 a unit, and a sales quantity of 11,500 units. Depreciation is $7,500. What is the variable cost per unit?",
+    "options": {
+      "A": "$6.75",
+      "B": "$7.00",
+      "C": "$7.25",
+      "D": "$7.50",
+      "E": "$7.75"
+    },
+    "answer": "D",
+    "explanation": "$5,750 = [11,500($13.00 − VC)] − $50,000 − 7,500 VC = $7.50",
+    "chapter": 7
+  },
+  {
+    "id": 666,
+    "question": "At a production level of 5,600 units, a project has total costs of $89,000 and a variable cost per unit of $11.20. What is the amount of the total fixed costs?",
+    "options": {
+      "A": "$24,126",
+      "B": "$26,280",
+      "C": "$27,090",
+      "D": "$27,820",
+      "E": "$28,626"
+    },
+    "answer": "B",
+    "explanation": "Total fixed costs = $89,000 − 5,600($11.20) Total fixed costs = $26,280",
+    "chapter": 7
+  },
+  {
+    "id": 667,
+    "question": "A project has a contribution margin of $2.16 per unit. If the sales price per unit is $11 and the fixed costs are $24,700, what is the amount of total costs at a production level of 6,000 units? Ignore depreciation.",
+    "options": {
+      "A": "$65,165",
+      "B": "$81,080",
+      "C": "$57,460",
+      "D": "$68,221",
+      "E": "$77,740"
+    },
+    "answer": "E",
+    "explanation": "Variable cost per unit = $11 − 2.16 Variable cost per unit = $8.84 Total costs6,000 units = 6,000($8.84) + $24,700 Total costs6,000 units = $77,740",
+    "chapter": 7
+  },
+  {
+    "id": 668,
+    "question": "Wilson's Meats has fixed costs of $.60 for every pound of meat it sells given a sales level of 32,500 pounds. It charges $3.89 per pound while the variable cost per pound is $2.99. If depreciation is $16,400, what is the accounting profit break-even point?",
+    "options": {
+      "A": "31,948 pounds",
+      "B": "32,467 pounds",
+      "C": "39,889 pounds",
+      "D": "42,650 pounds",
+      "E": "37,338 pounds"
+    },
+    "answer": "C",
+    "explanation": "Accounting break-even point = [$.60(32,500) + $16,400]/($3.89 − 2.99) Accounting break-even point = 39,889 pounds",
+    "chapter": 7
+  },
+  {
+    "id": 669,
+    "question": "Southern Markets is considering a project with total sales of $17,500, total variable costs of $9,800, total fixed costs of $3,500, and estimated production of 400 units. The depreciation expense is $2,400 annually. What is the contribution margin per unit?",
+    "options": {
+      "A": "$4.50",
+      "B": "$10.50",
+      "C": "$14.14",
+      "D": "$19.09",
+      "E": "$19.25"
+    },
+    "answer": "E",
+    "explanation": "Contribution margin per unit = ($17,500 − 9,800)/400 Contribution margin per unit = $19.25",
+    "chapter": 7
+  },
+  {
+    "id": 670,
+    "question": "Assume a project with a life of one year has projected depreciation of $720, fixed costs of $6,000, and total sales of $11,760 at a sales quantity of 300 units. The variable cost per unit is $17.40. What is the accounting break-even level of production?",
+    "options": {
+      "A": "309 units",
+      "B": "301 units",
+      "C": "292 units",
+      "D": "298 units",
+      "E": "312 units"
+    },
+    "answer": "A",
+    "explanation": "Accounting break-even point = ($6,000 + 720)/[($11,760/300) − $17.40] Accounting break-even point = 308.26 → 309 Units (since you cannot sell .26 of a unit)",
+    "chapter": 7
+  },
+  {
+    "id": 671,
+    "question": "The accounting break-even production quantity for a project with a life of one year is 35,173 units. The fixed costs are $318,290 and the contribution margin is $13.27. What is the projected depreciation expense?",
+    "options": {
+      "A": "$142,734",
+      "B": "$148,456",
+      "C": "$110,025",
+      "D": "$113,053",
+      "E": "$122,082"
+    },
+    "answer": "B",
+    "explanation": "Depreciation = 35,173($13.27) − $318,290 Depreciation = $148,456",
+    "chapter": 7
+  },
+  {
+    "id": 672,
+    "question": "The accounting break-even production quantity for a project is 5,799 units. The fixed costs are $92,640, the depreciation is $36,210, and the sales price per unit is $48.29. What is the variable cost per unit?",
+    "options": {
+      "A": "$31.18",
+      "B": "$27.04",
+      "C": "$26.07",
+      "D": "$32.81",
+      "E": "$33.04"
+    },
+    "answer": "C",
+    "explanation": "5,799 = ($92,640 + 36,210)/($48.29 − VC) Variable cost per unit = $26.07",
+    "chapter": 7
+  },
+  {
+    "id": 673,
+    "question": "A project with a life of one year has an accounting break-even point of 2,962 units. The fixed costs are $46,308 and the depreciation expense is $22,147. The projected variable cost per unit is $23.10. What is the projected sales price?",
+    "options": {
+      "A": "$48.07",
+      "B": "$42.96",
+      "C": "$41.20",
+      "D": "$46.21",
+      "E": "$45.40"
+    },
+    "answer": "D",
+    "explanation": "2,962 = ($46,308 + 22,147)/(Sales price − $23.10) Sales price = $46.21",
+    "chapter": 7
+  },
+  {
+    "id": 674,
+    "question": "A proposed 12-month project has fixed costs of $3,600, depreciation expense of $1,500, and a sales quantity of 1,300 units. What is the contribution margin if the projected level of sales is the accounting break-even point?",
+    "options": {
+      "A": "$3.92",
+      "B": "$4.14",
+      "C": "$4.50",
+      "D": "$4.80",
+      "E": "$5.00"
+    },
+    "answer": "A",
+    "explanation": "Contribution margin = ($3,600 + 1,500)/1,300 Contribution margin = $3.92",
+    "chapter": 7
+  },
+  {
+    "id": 675,
+    "question": "A proposed 1-year project has a contribution margin of $5, fixed costs of $12,000, variable costs per unit of $12, depreciation of $30,000, an EAC of $41,185 and a tax rate of 21 percent. What is the present value break-even point in units?",
+    "options": {
+      "A": "12,458",
+      "B": "9,489",
+      "C": "11,232",
+      "D": "10,603",
+      "E": "9,617"
+    },
+    "answer": "C",
+    "explanation": "PV break-even point = [$41,185 + $12,000(1 − .21) − $30,000(.21)]/[$5(1 − .21)] PV break-even point = 11,232 units",
+    "chapter": 7
+  },
+  {
+    "id": 676,
+    "question": "The Mini-Max Company has a prospective 5-year project with an initial cost of $318,900, annual fixed costs of $45,200, variable costs per unit of $16.78, and a sales price of $29.95. The discount rate is 13 percent and the tax rate is 24 percent. The firm uses straight-line depreciation over a project's life for all fixed assets. What is the accounting break-even point in units per year?",
+    "options": {
+      "A": "7,850",
+      "B": "8,275",
+      "C": "10,315",
+      "D": "11,304",
+      "E": "11,429"
+    },
+    "answer": "B",
+    "explanation": "Accounting break-even point = [$45,200 + ($318,900/5)]/($29.95 − 16.78) Accounting break-even point = 8,275 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 677,
+    "question": "The Highlight Company is reviewing a proposed 7-year project with an initial cost of $687,400. The annual fixed costs are $92,800, the variable cost per unit is $49.79, and the sales price per unit is $89. The tax rate is 21 percent and the discount rate is 12 percent. All assets are depreciated straight-line over the life of the project. What is the accounting break-even point in units per year?",
+    "options": {
+      "A": "6,518",
+      "B": "3,069",
+      "C": "5,475",
+      "D": "6,103",
+      "E": "4,872"
+    },
+    "answer": "E",
+    "explanation": "Accounting break-even point = [$92,800 + ($687,400/7)]/($89 − 49.79) Accounting break-even point = 4,872 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 678,
+    "question": "A project requires an initial fixed asset investment of $148,000, has annual fixed costs of $39,800, a contribution margin of $14.62, a tax rate of 21 percent, a discount rate of 15 percent, and straight-line depreciation over the project's 3-year life. The assets will be worthless at the end of the project. What is the present value break-even point in units per year?",
+    "options": {
+      "A": "6,086",
+      "B": "7,613",
+      "C": "7,504",
+      "D": "7,438",
+      "E": "7,911"
+    },
+    "answer": "D",
+    "explanation": "EAC = $148,000/[(1 − 1/1.153)/.15] EAC = $64,820.59 Depreciation = $148,000/3 Depreciation = $49,333.33 PV break-even point = [$64,820.59 + $39,800(1 − .21) −$49,333.33(.21)]/[$14.62(1 − .21)] PV break-even point = 7,438 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 679,
+    "question": "The Quorum Company has a prospective 6-year project that requires initial fixed assets costing $962,000, annual fixed costs of $403,400, variable costs per unit of $123.60, a sales price per unit of $249, a discount rate of 14 percent, and a tax rate of 21 percent. What is the present value break-even point in units per year?",
+    "options": {
+      "A": "6,081",
+      "B": "4,995",
+      "C": "5,375",
+      "D": "6,144",
+      "E": "5,852"
+    },
+    "answer": "C",
+    "explanation": "EAC = $962,000/{[1 − [1/1.146)]/.14} EAC = $247,385.51 Depreciation = $962,000/6 Depreciation = $160,333.33 PV break-even point = [$247,385.51 + $403,400(1 − .21) − $160,333.33(.21)]/[($249 −",
+    "chapter": 7
+  },
+  {
+    "id": 680,
+    "question": "60)(1 − .21)] PV break-even point = 5,375 units per year Difficulty: 2 Medium Section: 7.1 Sensitivity Analysis, Scenario Analysis, and Break-even Analysis Topic: Break-even analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 33 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 7
+  },
+  {
+    "id": 681,
+    "question": "Northern Woods is considering two methods of production for a new product. The first method will require fixed assets costing $450,000 that will be depreciated straight-line to zero over the product's 3-year life. Annual fixed costs are $316,000 and variable costs per unit are $8.64. The second method will require fixed assets costing $790,000, annual fixed costs of $211,000, and variable costs per unit of $6.57. The firm expects to sell 46,000 units per year at $20 a unit. The discount rate is 16 percent and the tax rate is 21 percent. Should the product be produced and if so, which method of production should be implemented and why?",
+    "options": {
+      "A": "Yes; Method A; because A has the lower initial cost",
+      "B": "Yes; Method A; because it will break-even on a financial basis with fewer annual sales",
+      "C": "Yes; Method B; because it has lower annual costs",
+      "D": "Yes; Method B; because B has a financial break-even quantity that is less than the expected sales units",
+      "E": "No; Neither method of production will financially break-even within the expected life of the project."
+    },
+    "answer": "D",
+    "explanation": "Method A: EAC = $450,000/[(1 − 1/1.163)/.16] EAC = $200,366.04 Depreciation = $450,000/3 Depreciation = $150,000 PV break-even point = [$200,366.04 + $316,000(1 − .21) − $150,000(.21)]/[($20 − 8.64)(1 − .21)] PV break-even point = 46,633.32 units per year Method B: EAC = $790,000/[(1 − 1/1.163)/.16] EAC = $351,753.72 Depreciation = $790,000/3 Depreciation = $263,333.33 PV break-even point = [$351,753.72 + $211,000(1 − .21) − $263,333.33(.21)]/[($20 − 6.57)(1 − .21)] PV break-even point = 43,652.86 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 682,
+    "question": "An investment has an initial cash outflow of $210,000 for fixed assets that will be depreciated straight-line to zero over the 4-year life of the project. The sales price is $19.95 a unit, annual fixed costs are $237,000, the variable costs per unit are $8.87, and the tax rate is 23 percent. At what annual sales quantity will the investment break even on an accounting basis?",
+    "options": {
+      "A": "32,088 units",
+      "B": "29,889 units",
+      "C": "24,092 units",
+      "D": "30,135 units",
+      "E": "26,129 units"
+    },
+    "answer": "E",
+    "explanation": "Accounting break-even = [$237,000 + ($210,000/4)]/($19.95 − 8.87) Accounting break-even = 26,129 units",
+    "chapter": 7
+  },
+  {
+    "id": 683,
+    "question": "An investment has an initial cash outflow of $210,000 for fixed assets that will be depreciated straight-line to zero over 4 years, which is the life of the project. The sales price is set at $19.95 a unit, the annual fixed costs are $237,000, and the variable cost per unit is $8.87. The tax rate is 22 percent and the discount rate is 11 percent. At what sales quantity per year will the investment break even on a financial basis?",
+    "options": {
+      "A": "29,787 units",
+      "B": "29,143 units",
+      "C": "27,886 units",
+      "D": "28,096 units",
+      "E": "30,308 units"
+    },
+    "answer": "C",
+    "explanation": "EAC = $210,000/[(1 − 1/1.114)/.11] EAC = $67,688.53 Depreciation = $210,000/4 Depreciation = $52,500 PV break-even point = [$67,688.53 + $237,000(1 − .22) − $52,500(.22)]/[($19.95 − 8.87)(1 − .22)] PV break-even point = 27,886 units",
+    "chapter": 7
+  },
+  {
+    "id": 684,
+    "question": "Thompson's has determined that a new project has expected fixed costs of $132,378, a contribution margin of $36.20, and a tax rate of 21 percent. The investment has an initial cost of $548,000 that will be depreciated straight-line to zero over the 5-year life of the project. What is the expected present value break-even point in units per year if the discount rate is 15 percent?",
+    "options": {
+      "A": "8,569",
+      "B": "9,046",
+      "C": "9,331",
+      "D": "9,849",
+      "E": "9,615"
+    },
+    "answer": "A",
+    "explanation": "EAC = $548,000/[(1 − 1/1.155)/.15] EAC = $163,476.92 Depreciation = $548,000/5 Depreciation = $109,600 PV break-even point = [$163,476.92 + $132,378(1 − .21) − $109,600(.21)]/[$36.20(1 − .21)] PV break-even point = 8,569 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 685,
+    "question": "Kurt's Interiors is considering a project with a sales price of $11, variable cost per unit of $8.50, and annual fixed costs of $134,500. The tax rate is 23 percent and the discount rate is 14 percent. The project requires $224,000 of fixed assets that will be worthless at the end of the 4- year project. What is the present value break-even point in units per year if the firm uses straight line depreciation?",
+    "options": {
+      "A": "88,808",
+      "B": "92,480",
+      "C": "93,057",
+      "D": "93,750",
+      "E": "87,046"
+    },
+    "answer": "E",
+    "explanation": "EAC = $224,000/{[1 − [1/1.144)]/.14} EAC = $76,877.87 Depreciation = $224,000/4 Depreciation = $56,000 PV break-even point = [$76,877.87 + $134,500(1 − .23) − $56,000(.23)]/[($11 − 8.50)(1 − .23)] PV break-even point = 87,046 units per year",
+    "chapter": 7
+  },
+  {
+    "id": 686,
+    "question": "A project has a contribution margin of $15, projected fixed costs of $120,000, variable costs per unit of $12, annual depreciation of $61,000, and a projected present value break-even point of 13,601.20 units. The tax rate is 21 percent, the discount rate is 12 percent, and the project life is 3 years. What is the equivalent annual cost?",
+    "options": {
+      "A": "$81,110",
+      "B": "$76,192",
+      "C": "$84,207",
+      "D": "$72,549",
+      "E": "$76,667"
+    },
+    "answer": "B",
+    "explanation": "Initial investment = $61,000(3) Initial investment = $183,000 EAC = $183,000/[(1 − 1/1.123)/.12] EAC = $76,192",
+    "chapter": 7
+  },
+  {
+    "id": 687,
+    "question": "The Can-Do Co. is analyzing a project with anticipated sales of 12,000 units, ± 4 percent; variable costs per unit of $7, ± 6 percent; and annual fixed costs of $36,000, ± 6 percent. Annual depreciation is $29,600 and the tax rate is 21 percent. The sale price is $14.99 a unit, ± 1 percent. What is the operating cash flow under the optimistic scenario?",
+    "options": {
+      "A": "$63,876",
+      "B": "$54,309",
+      "C": "$56,208",
+      "D": "$59,311",
+      "E": "$64,499"
+    },
+    "answer": "A",
+    "explanation": "Net incomeOptimistic = ({12,000(1.04)[$14.99(1.01) − $7(.94)]} − $36,000(.94) − $29,600)(1 − .21) Net incomeOptimistic = $34,276 OCFOptimistic = $34,276 + 29,600 OCFOptimistic = $63,876",
+    "chapter": 7
+  },
+  {
+    "id": 688,
+    "question": "A project has been assigned a discount rate of 12 percent. If the project starts immediately, it will have an initial cost of $480 and cash inflows of $350 a year for three years. If the start is delayed one year, the initial cost will rise to $520 and the cash flows will increase to $385 a year for three years. What is the value of the option to wait?",
+    "options": {
+      "A": "$.70",
+      "B": "$1.08",
+      "C": "$1.67",
+      "D": "$2.20",
+      "E": "$.20"
+    },
+    "answer": "A",
+    "explanation": "NPV0 = −$480 + $350[(1 − 1/1.123)/.12] NPV0 = $360.64 NPV0 = {−$520 + $385[(1 − 1/1.123)/.12]}/1.12 NPV0 = $361.34 Value of option to wait = $361.34 − 360.64 Value of option to wait = $.70",
+    "chapter": 7
+  },
+  {
+    "id": 689,
+    "question": "Marguerite is reviewing a project with projected sales of 1,400 units a year, a cash flow of $39 a unit and project life of 3 years. The initial cost of the project is $94,000 and the discount rate is 14 percent. She has the option to abandon the project after one year at which time she feels she could sell the project for $63,000. At what quantity of annual sales should she be willing to abandon the project after the first year?",
+    "options": {
+      "A": "899 units",
+      "B": "981 units",
+      "C": "967 units",
+      "D": "1,199 units",
+      "E": "1,006 units"
+    },
+    "answer": "B",
+    "explanation": "$63,000 = $39Q[(1 − 1/1.142)/.14] Q = 981 units",
+    "chapter": 7
+  },
+  {
+    "id": 690,
+    "question": "Wilson's Antiques is considering a project with an initial cost today of $10,000. The project has a life of 2 years with cash inflows of $6,500 a year. Should the firm decide to wait one year to commence this project, the initial cost will increase by 5 percent, and the cash inflows will increase to $7,500 a year. What is the value of the option to wait at a discount rate of 10 percent?",
+    "options": {
+      "A": "$1,006.76",
+      "B": "$1,235.54",
+      "C": "$1,509.28",
+      "D": "$1,606.76",
+      "E": "$1,735.54"
+    },
+    "answer": "A",
+    "explanation": "NPV0 = −$10,000 + $6,500[(1 − 1/1.102)/.10] NPV0 = $1,280.99 NPV0 = {−$10,000(1.05) + $7,500[(1 − 1/1.102)/.10]}/1.10 NPV0 = $2,287.75 Value of option to wait = $2,287.75 − 1,280.99 Value of option to wait = $1,006.76",
+    "chapter": 7
+  },
+  {
+    "id": 691,
+    "question": "Brewster's is considering a project with a life of 5 years, an initial cost of $120,000, and a discount rate of 12 percent. The firm expects to sell 2,100 units a year at a cash flow per unit of $20. The firm will have the option to abandon this project after three years at which time it could sell the project for $50,000. At what level of sales should the firm be willing to abandon this project at the end of the third year?",
+    "options": {
+      "A": "420 units",
+      "B": "1,041 units",
+      "C": "1,479 units",
+      "D": "1,618 units",
+      "E": "2,500 units"
+    },
+    "answer": "C",
+    "explanation": "$50,000 = $20Q[(1 − 1/1.122)/.12] Q = 1,479 units",
+    "chapter": 7
+  },
+  {
+    "id": 692,
+    "question": "Brewster's is considering a project with a life of 5 years and an initial cost of $120,000. The discount rate for the project is 12 percent. The firm expects to sell 2,100 units a year at a net cash flow per unit of $20. The firm will have the option to abandon this project after three years at which time it could sell the project for $50,000. The firm is interested in knowing how the project will perform if the sales forecasts for Years 4 and 5 of the project are revised such that there is a 50 percent chance the sales will be either 1,400 or 2,500 units a year. What is the net present value of this project given these revised sales forecasts?",
+    "options": {
+      "A": "$23,617",
+      "B": "$23,719",
+      "C": "$25,002",
+      "D": "$26,877",
+      "E": "$28,745"
+    },
+    "answer": "E",
+    "explanation": "Level to abandon: $50,000 = $20Q[(1 − 1/1.122)/.12] Q = 1,479 units At 1,400 units, the firm will abandon the project at the end of Year 3 and receive $50,000. At 2,500 units, the firm will continue the project for the entire 5 years. NPV3 continue = 2,500($20)[(1 − 1/1.122)/.12] NPV3 continue = $84,502.55 NPV0 = −$120,000 + 2,100($20)[(1 − 1/1.123)/.12] + [($50,000 + 84,502.55)/2]/1.123 NPV0 = $28,745",
+    "chapter": 7
+  },
+  {
+    "id": 693,
+    "question": "Stage 2 of a decision tree shows that if a project is successful, the payoff will be $53,000 with a 2/3 chance of occurrence. There is also the 1/3 chance of a −$24,000 payoff. The cost of getting to Stage 2 (1 year out) is $24,000. The cost of capital is 15 percent. What is the NPV of the project at Stage 1?",
+    "options": {
+      "A": "−$349.16",
+      "B": "−$231.88",
+      "C": "$108.17",
+      "D": "$133.33",
+      "E": "$147.59"
+    },
+    "answer": "B",
+    "explanation": "NPV = −$24,000 + {[2/3($53,000) + 1/3(−$24,000)]/1.15} NPV = −$231.88",
+    "chapter": 7
+  },
+  {
+    "id": 694,
+    "question": "The Quick-Start Company has the following pattern of potential cash flows for a new project. If the company has a discount rate of 16 percent, what is the Time 1 net present value?",
+    "options": {
+      "A": "$50,807,953",
+      "B": "$48,326,218",
+      "C": "$52,009,107",
+      "D": "$47,362,515",
+      "E": "$45,887,056"
+    },
+    "answer": "A",
+    "explanation": "NPV1 = .60[−$100,000,000 + $66,000,000[(1 − 1/1.164)/.16] NPV1 = $50,807,953",
+    "chapter": 7
+  },
+  {
+    "id": 695,
+    "question": "The Quick-Start Company has the following pattern of potential cash flows for a new project. If the company has a discount rate of 17 percent, should it test the product? Why or why not?",
+    "options": {
+      "A": "Yes; NPV = −$48,632,106",
+      "B": "Yes; NPV = $21,565,903",
+      "C": "No; NPV = −$2,308,410",
+      "D": "No; NPV = $36,515,028",
+      "E": "Yes; NPV = $3,462,911"
+    },
+    "answer": "B",
+    "explanation": "NPV1 = .60{−$100,000,000 + $66,000,000 [1 − (1/1.174)]/.17} NPV1 = $48,632,106.41 NPV0 = −$20,000,000 + $48,632,106.41/1.17 NPV0 = $21,565,903",
+    "chapter": 7
+  },
+  {
+    "id": 696,
+    "question": "What is the benefit of scenario analysis if it does not produce a definitive accept or reject decision for a proposed project? Answer: All projects involve risks. Scenario analysis provides management with a look at potential outcomes given various assumptions and helps measure the potential for project failure. This information provides a basis upon which management can apply their wisdom and knowledge to make the final accept or reject decision. Difficulty: 2 Medium Section: 7.1 Sensitivity Analysis, Scenario Analysis, and Break-even Analysis Topic: Scenario analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 44 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "A",
+    "chapter": 7
+  },
+  {
+    "id": 697,
+    "question": "Consider the following statement by a project analyst: \"I analyzed my project using scenarios for the optimistic, expected, and pessimistic cases. I computed break evens and conducted sensitivity and simulation analysis. I computed NPV, IRR, the profitability index, and payback. In the end, I have over a hundred different estimates and am more confused than ever. I would have been better off just sticking with my first estimate and going by my gut instinct.\" Critique this statement. Answer: The goal of evaluating an NPV estimate or other decision criteria is to determine the reasonableness of it. If done properly, the added analysis will heighten either the degree of comfort or the degree of discomfort about a project. Ultimately, this type of analysis reveals both the weaknesses and the strengths of a project. Furthermore, it helps isolate potential trouble areas and sharpens the focus on which variables are most crucial for accurate forecasting. The very nature of the process still leaves a great deal of uncertainty even after all of the analysis is complete. However, in the end, the analyst should be better informed and more comfortable in making a decision, not less so. Difficulty: 3 Hard Section: 7.1 Sensitivity Analysis, Scenario Analysis, and Break-even Analysis Topic: Project analysis and evaluation AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 7
+  },
+  {
+    "id": 698,
+    "question": "Explain the primary benefit of sensitivity analysis and explain why that benefit cannot be realized by conducting scenario analysis. Answer: The primary benefit of sensitivity analysis is the quantification of the effects that result from the change of a single project input variable. This analysis allows project managers to determine which variable, or variables, are most critical to the success of a project and thus identifies those variables that must be most closely monitored, both prior to a project's acceptance and also during the project's life. Scenario analysis allows multiple variables to change simultaneously and thus no single variable can be identified as the source of the resulting changes. Difficulty: 2 Medium Section: 7.1 Sensitivity Analysis, Scenario Analysis, and Break-even Analysis Topic: Sensitivity analysis Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation 45 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 7
+  },
+  {
+    "id": 699,
+    "question": "The market value of an investment project should be viewed as the sum of the standard NPV and the value of the managerial options. Identify three common project options available to management, when each might be employed, and how each of those options would influence a project's value. Answer: There are three commonly used real options in capital budgeting. They are: ∙ Expansion: used when market demand for a product exceeds the original estimates; will increase project value. ∙ Timing: used when the current implementation of a project is expected to produce lower returns that those that can be realized by delaying the project's implementation until a time when more favorable conditions exist; will increase project value. ∙ Abandonment: used when the continuation of a project is expected to yield less than the required return with no acceptable options available at the present time; will increase project value. Difficulty: 2 Medium Section: 7.3 Real Options Topic: Real options Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 7
+  },
+  {
+    "id": 700,
+    "question": "Discuss some potential shortcomings of the standard decision tree analysis. Answer: First, if there is differential risk at various stages of the tree then different discount rates should be applied to each stage. Second, the firm has more options than just accept or reject which are generally not reflected in the standard tree. These options include the options to delay, expand, contract, and abandon. Difficulty: 2 Medium Section: 7.4 Decision Trees Topic: Decision trees Bloom's: Analyze AACSB: Analytical Thinking Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 7
+  },
+  {
+    "id": 701,
+    "question": "Other than quantifying the potential NPV of a project, what other benefits do decision trees offer to managers? Answer: Decision trees require managers to break projects down into sections based on key decision points. This process helps managers understand projects better and helps determine when project results should be reviewed and management decisions made. This provides a better management control process than an all-or-nothing, one-time initial accept or reject decision. Difficulty: 3 Hard Section: 7.4 Decision Trees Topic: Decision trees AACSB: Analytical Thinking Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "D",
+    "chapter": 7
+  }
+]

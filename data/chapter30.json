@@ -1,0 +1,543 @@
+[
+  {
+    "id": 2374,
+    "question": "A firm is most likely experiencing financial distress when:",
+    "options": {
+      "A": "some of its cash customers begin to charge their purchases.",
+      "B": "the market value of the firm's stock declines by 10 percent in line with the market.",
+      "C": "the firm's operating cash flow is repeatedly insufficient to pay current obligations.",
+      "D": "its cash distributions are eliminated and replaced with stock repurchases.",
+      "E": "its accounts payable turnover rate increases."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2375,
+    "question": "Insolvency can be defined as:",
+    "options": {
+      "A": "not having cash.",
+      "B": "having less cash than the firm needs for one year.",
+      "C": "an inability to pay one's debts.",
+      "D": "an inability to increase one's debts.",
+      "E": "the present value of payments being less than assets."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2376,
+    "question": "Stock-based insolvency is a(n):",
+    "options": {
+      "A": "income statement measurement.",
+      "B": "balance sheet measurement.",
+      "C": "a book value measurement only.",
+      "D": "both an income statement measurement and a book value measurement.",
+      "E": "both a balance sheet and a book value measurement."
+    },
+    "answer": "B",
+    "chapter": 30
+  },
+  {
+    "id": 2377,
+    "question": "Flow-based insolvency is defined as:",
+    "options": {
+      "A": "a balance sheet measurement.",
+      "B": "a negative equity position.",
+      "C": "a negative cash flow in any one period.",
+      "D": "a negative net profit for the year.",
+      "E": "an insufficient operating cash flow to meet current obligations."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2378,
+    "question": "Periods of financial distress are most associated with:",
+    "options": {
+      "A": "continued increases in earnings.",
+      "B": "steady growth.",
+      "C": "dividend reductions.",
+      "D": "increasing growth rates.",
+      "E": "decreasing production costs."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2379,
+    "question": "A firm has several options available to it in times of financial distress. The firm may:",
+    "options": {
+      "A": "reduce capital and R & D spending.",
+      "B": "raise new funds by selling securities or major assets.",
+      "C": "file for bankruptcy.",
+      "D": "negotiate with lenders.",
+      "E": "take any or all of the other actions."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2380,
+    "question": "Most firms in financial distress do not fail or cease to exist. In fact, many firms can actually benefit from financial distress by:",
+    "options": {
+      "A": "re-evaluating their core operations and restructuring their assets.",
+      "B": "selectively ceasing payment on some of their outstanding debts.",
+      "C": "filing for Chapter 7 bankruptcy.",
+      "D": "liquidating.",
+      "E": "increasing their debt load."
+    },
+    "answer": "A",
+    "chapter": 30
+  },
+  {
+    "id": 2381,
+    "question": "Two primary methods of a financial restructuring are:",
+    "options": {
+      "A": "a private workout and a Chapter 7 bankruptcy.",
+      "B": "a Chapter 7 and a Chapter 11 bankruptcy.",
+      "C": "replacing debt with equity and a private workout.",
+      "D": "a private workout and a Chapter 11 bankruptcy.",
+      "E": "a stock repurchase and a Chapter 11 bankruptcy."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2382,
+    "question": "Firms are least apt to deal with financial distress by:",
+    "options": {
+      "A": "selling major assets.",
+      "B": "merging with another firm.",
+      "C": "issuing new securities.",
+      "D": "exchanging debt for equity.",
+      "E": "acquiring a competitor."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2383,
+    "question": "Financial distress is least apt to lead to:",
+    "options": {
+      "A": "asset restructuring.",
+      "B": "financial restructuring.",
+      "C": "liquidation.",
+      "D": "increasing dividends.",
+      "E": "issuing new shares."
+    },
+    "answer": "D",
+    "chapter": 30
+  },
+  {
+    "id": 2384,
+    "question": "A Chapter 7 bankruptcy involves all the following except:",
+    "options": {
+      "A": "filing a petition in federal court.",
+      "B": "issuing new equity securities to current shareholders.",
+      "C": "the appointing of a bankruptcy trustee.",
+      "D": "administration costs.",
+      "E": "distribution of liquidation proceeds."
+    },
+    "answer": "B",
+    "chapter": 30
+  },
+  {
+    "id": 2385,
+    "question": "APR, as it relates to the liquidation of a firm, means the rules of:",
+    "options": {
+      "A": "absolute profitability.",
+      "B": "arbitration priority.",
+      "C": "absolute priority.",
+      "D": "arbitration profitability.",
+      "E": "automatic profitability."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2386,
+    "question": "The difference between liquidation and reorganization is that a:",
+    "options": {
+      "A": "reorganization terminates all operations of the firm while a liquidation only terminates non- profitable operations.",
+      "B": "liquidation terminates all operations immediately while a reorganization terminates operations over two, or more, years.",
+      "C": "liquidation terminates all operations and a reorganization maintains the option of the firm as a going concern.",
+      "D": "liquidation deals with net working capital while a reorganization deals with long-term liabilities.",
+      "E": "a liquidation must occur outside of bankruptcy while a reorganization involves the bankruptcy process."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2387,
+    "question": "The major difference between Chapter 7 and Chapter 11 is that:",
+    "options": {
+      "A": "liquidation occurs in Chapter 11 but reorganization is the objective under Chapter 7.",
+      "B": "there is no priority of claims under Chapter 11.",
+      "C": "liquidation automatically occurs in Chapter 7 but may or may not occur under Chapter 11.",
+      "D": "no administrative or legal costs are incurred under Chapter 7.",
+      "E": "Chapter 11 is voluntary and Chapter 7 is involuntary."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2388,
+    "question": "A firm in financial distress that reorganizes through the bankruptcy process:",
+    "options": {
+      "A": "will continue to operate as a going concern throughout the entire process.",
+      "B": "must only have the reorganization plan approved by its primary creditor.",
+      "C": "cannot issue new securities to either creditors or shareholders.",
+      "D": "must file a reorganization plan within 90 days of filing the bankruptcy petition.",
+      "E": "must abide by the Section 363 provisions of Chapter 11."
+    },
+    "answer": "A",
+    "chapter": 30
+  },
+  {
+    "id": 2389,
+    "question": "A corporation is adjudged bankrupt under Chapter 7. Based on APR, shareholders receive payment, if funds are remaining, after the:",
+    "options": {
+      "A": "bankruptcy administrator but before the creditors.",
+      "B": "secured creditors but before the unsecured creditors.",
+      "C": "unsecured creditors but before the IRS.",
+      "D": "after the employees but before the IRS.",
+      "E": "after all other parties have been paid."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2390,
+    "question": "How does APR rank the following claims in a bankruptcy liquidation?",
+    "options": {
+      "A": "Administrative expenses, wages, government taxes, secured creditors, unsecured creditors, and stockholders",
+      "B": "Administrative expenses, wages, government taxes, stockholders, secured creditors, and unsecured creditors",
+      "C": "Wages, administrative expenses, secured creditors, unsecured creditors, government taxes, and stockholders",
+      "D": "Wages, administrative expenses, secured creditors, unsecured creditors, stockholders, and government taxes",
+      "E": "Government taxes, administrative expenses, wages, secured creditors, unsecured creditors, and stockholders"
+    },
+    "answer": "A",
+    "chapter": 30
+  },
+  {
+    "id": 2391,
+    "question": "Section 363 as it relates to a bankruptcy filing:",
+    "options": {
+      "A": "works like an auction to speed up the bankruptcy process.",
+      "B": "establishes the bankruptcy judge as the assignor of all bankruptcy assets.",
+      "C": "permits creditors to force a firm into an involuntary bankruptcy.",
+      "D": "allows creditors to submit a reorganization plan.",
+      "E": "requires all employee wages and benefits be paid prior to creditors."
+    },
+    "answer": "A",
+    "chapter": 30
+  },
+  {
+    "id": 2392,
+    "question": "Chapter 11 of the Federal Bankruptcy Reform Act of 1978:",
+    "options": {
+      "A": "was replaced by Section 363 in 2009.",
+      "B": "was expanded to allow liquidations in 2010 as a result of the financial crisis of 2008.",
+      "C": "underwent a major revision in 2011.",
+      "D": "was amended in 2005 by the Bankruptcy Abuse Prevention and Consumer Protection Act.",
+      "E": "has never been revised or amended."
+    },
+    "answer": "D",
+    "chapter": 30
+  },
+  {
+    "id": 2393,
+    "question": "Which one of these statements correctly identifies a condition which must be met for creditors to force a firm into involuntary bankruptcy?",
+    "options": {
+      "A": "The creditors that represent 30 percent or more of the firm's debt must agree on a plan prior to filing the involuntary petition.",
+      "B": "The firm must be at least 120 days delinquent in its debt payments.",
+      "C": "At least one-third of a firm's known creditors must participate in the filing.",
+      "D": "If there are more than a dozen creditors, then at least three with claims totaling $13,475 or more must participate in the filing.",
+      "E": "Any individual creditor that is owed $5,000 or more can file an involuntary petition regardless of the number of total creditors."
+    },
+    "answer": "D",
+    "chapter": 30
+  },
+  {
+    "id": 2394,
+    "question": "In a Chapter 11 bankruptcy, a class of creditors is considered to have accepted the bankruptcy plan when:",
+    "options": {
+      "A": "two-thirds of the class in dollar amount agree.",
+      "B": "at least 51 percent of the class in number agree.",
+      "C": "at least 90 percent of the members of the class agree.",
+      "D": "at least 51 percent of the class in dollar amount and two-thirds of the class in number agree.",
+      "E": "one-half of the class in number and two-thirds of the class in dollar amount agree."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2395,
+    "question": "Private workouts generally:",
+    "options": {
+      "A": "represent 75 percent of all financial restructurings.",
+      "B": "lead to lower stock price increases than formal bankruptcy reorganizations.",
+      "C": "exchange current financial securities for new securities.",
+      "D": "are more costly than formal bankruptcies.",
+      "E": "increase management salaries and provide employment guarantees."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2396,
+    "question": "Some of the key reasons why a firm would choose a formal bankruptcy over a private workout include all the following except the:",
+    "options": {
+      "A": "issuance of debtor-in-possession debt.",
+      "B": "tax treatment of tax loss carryforwards.",
+      "C": "tax treatment of debt forgiveness.",
+      "D": "ability to issue new debt that is senior to all prior debts.",
+      "E": "higher priority given to the existing stockholders."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2397,
+    "question": "Which one of the following is most apt to protect an individual creditor's interests in a formal bankruptcy proceeding?",
+    "options": {
+      "A": "The bankrupt firm's financial structure may be complicated with several groups and types of creditors.",
+      "B": "The indirect costs of bankruptcy may result in lost revenues and poor maintenance.",
+      "C": "The bankruptcy administrative costs may be high due to the length and complexity of the process.",
+      "D": "The absolute priority rule can be violated.",
+      "E": "The creditor may hold liens on specific assets."
+    },
+    "answer": "E",
+    "chapter": 30
+  },
+  {
+    "id": 2398,
+    "question": "Prepackaged bankruptcies:",
+    "options": {
+      "A": "generally benefit only the bankrupt firm.",
+      "B": "require creditor approval within 7 days of filing.",
+      "C": "are a combination of a private workout and legal bankruptcy.",
+      "D": "were replaced by Section 363 provisions.",
+      "E": "must result in a full liquidation."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2399,
+    "question": "In a prepackaged bankruptcy the firm:",
+    "options": {
+      "A": "reaches an agreement with its creditors prior to filing the bankruptcy petition.",
+      "B": "exchanges all debt securities with equity securities.",
+      "C": "pays all its secured creditors and exchanges the unsecured debt securities with equity.",
+      "D": "must agree with the bankruptcy plan submitted to it by its creditors.",
+      "E": "prearranges an auction that will liquidate the firm within one month of the legal filing."
+    },
+    "answer": "A",
+    "chapter": 30
+  },
+  {
+    "id": 2400,
+    "question": "Credit scoring models are used by lenders to determine:",
+    "options": {
+      "A": "the best discount to offer each customer.",
+      "B": "the appropriate price to charge each customer.",
+      "C": "the optimal debt-equity ratio for the firm.",
+      "D": "a borrower's credit risk.",
+      "E": "the percentage of their loan that will be repaid in a bankruptcy."
+    },
+    "answer": "D",
+    "chapter": 30
+  },
+  {
+    "id": 2401,
+    "question": "Altman initially developed the Z-score model for publicly traded manufacturing firms. Using financial statement data and multiple discriminant analysis, he found that:",
+    "options": {
+      "A": "in actual use, a Z-score greater than 2.99 implies bankruptcy within one year.",
+      "B": "in actual use, a Z-score greater than 1.81 implied a 90 percent chance of bankruptcy within one year.",
+      "C": "in actual use, a Z-score of less than 1.81 would predict bankruptcy within one year.",
+      "D": "in actual use, a Z-score less than 2.99 meant non-bankruptcy within one year.",
+      "E": "the lower the score the lower the chance of pending bankruptcy."
+    },
+    "answer": "C",
+    "chapter": 30
+  },
+  {
+    "id": 2402,
+    "question": "The key intuition of a Z-score model like Altman's is that:",
+    "options": {
+      "A": "only publicly traded firms can be evaluated.",
+      "B": "one will be just as well off by guessing on default rates.",
+      "C": "all corporations will default at least once.",
+      "D": "financial profiles of bankrupt and non-bankrupt firms are very different one year prior to bankruptcy.",
+      "E": "privately traded firms disclose better financial information to lenders."
+    },
+    "answer": "D",
+    "chapter": 30
+  },
+  {
+    "id": 2403,
+    "question": "Altman's revised model for private firms and non-manufacturers predicts bankruptcy when the computed value is:",
+    "options": {
+      "A": "negative.",
+      "B": "less than 1.23.",
+      "C": "greater than 1.0 and less than 1.23.",
+      "D": "greater than 2.50.",
+      "E": "greater than 2.90."
+    },
+    "answer": "B",
+    "chapter": 30
+  },
+  {
+    "id": 2404,
+    "question": "AJ's Markets is being liquidated. The mortgage holder is owed $830,000, the other secured creditors are owed $128,000, and the unsecured creditors are owed $329,000. Administrative costs of liquidation, wage and benefit payments, and consumer claims amount to $330,000. The firm owes no taxes. The building, which is mortgaged, just netted $794,000 after sale costs. The remaining assets have yielded $467,000 in net proceeds. How much will the unsecured creditors receive per each dollar they are owed?",
+    "options": {
+      "A": "$.027",
+      "B": "$.025",
+      "C": "$.333",
+      "D": "$1.00",
+      "E": "$.533"
+    },
+    "answer": "B",
+    "explanation": "Unsecured mortgage = $830,000 − 794,000 Unsecured mortgage = $36,000 Funds available after expenses, wages, and consumer claims = $467,000 − 330,000 Funds available after expenses, wags, and consumer claims = $137,000 Funds available after secured claims = $137,000 − 128,000 Funds available after secured claims = $9,000 Total unsecured claims = $36,000 + 329,000 Total unsecured claims = $365,000 Percent unsecured claims paid = $9,000/$365,000 Percent unsecured claims paid = .025, or 2.5% For each $1 claim, the unsecured creditors will receive $.025.",
+    "chapter": 30
+  },
+  {
+    "id": 2405,
+    "question": "Uptown Cleaners is being liquidated. The building has been sold for a net of $670,000 but the mortgage due is $738,000. The remaining assets were sold with net proceeds of $154,000. Administrative costs, wages and benefits, and consumer claims equal $136,000. The firm also owes $58,000 in taxes. The secured claims total $46,000 and the unsecured claims are $138,000. What percentage of their total claims will the secured creditors be paid?",
+    "options": {
+      "A": "11.2 percent",
+      "B": "8.8 percent",
+      "C": "0 percent",
+      "D": "41.2 percent",
+      "E": "39.1 percent"
+    },
+    "answer": "C",
+    "explanation": "Funds available after expenses, wages, claims, and taxes = MAX[$154,000 − 136,000 − 58,000,0] Funds available after expenses, wages, claims, and taxes = $0 There are no funds available for either the secured or unsecured creditors.",
+    "chapter": 30
+  },
+  {
+    "id": 2406,
+    "question": "Welders Supply is reorganizing and has presented a proposal based on a going-concern value of $2 million after reorganization costs and delinquent wages, benefits, and taxes. The proposed financial structure is $750,000 in new mortgage debt, $250,000 in subordinated debt and $1,000,000 in new equity. Secured creditors currently have a mortgage lien for $1.5 million on the factory and the unsecured creditors' claims total $1.2 million. How much of the new debt and equity securities should the secured creditors receive?",
+    "options": {
+      "A": "$1.1 million",
+      "B": "$1.0 million",
+      "C": "$1.3 million",
+      "D": "$1.5 million",
+      "E": "$.75 million"
+    },
+    "answer": "D",
+    "explanation": "Secured creditors receive first priority so they should receive $1.5 million of the new $2 million of securities.",
+    "chapter": 30
+  },
+  {
+    "id": 2407,
+    "question": "The Beacon has proposed a reorganization plan based on a going-concern value of $1.3 million after court costs and delinquent wages and taxes. The proposed financial structure is $400,000 in new mortgage debt, $200,000 in subordinated debt, and $700,000 in new equity. Secured creditors currently have a mortgage lien for $600,000 and the unsecured creditors are owed $950,000. What should the unsecured creditors receive if the reorganization plan is approved?",
+    "options": {
+      "A": "$700,000 in equity securities",
+      "B": "$200,000 in subordinated debt and $700,000 in equity securities",
+      "C": "$950,000 in new equity securities",
+      "D": "61.3 percent of the new mortgage debt, 61.3 percent of the subordinated debt, and 61.3 percent of new equity",
+      "E": "82.6 percent of the subordinated debt and 82.6 percent of new equity"
+    },
+    "answer": "A",
+    "explanation": "The secured creditors should receive all the debt securities and the unsecured creditors should receive the $700,000 in equity securities.",
+    "chapter": 30
+  },
+  {
+    "id": 2408,
+    "question": "Southern Goods has an estimated going-concern value of $2 million. As a result of negotiations the firm's bankruptcy reorganization plan consists of $600,000 in new mortgage debt, $250,000 in subordinated debt, and $1,150,000 in new equity. Currently the firm has a mortgage of $823,000, other secured debt of $89,000, and unsecured debt of $1.34 million. According to the APR, what will the stockholders receive if they currently have 2 million shares with a par value of $1 each?",
+    "options": {
+      "A": "$0",
+      "B": "$315,714 in new equity",
+      "C": "$583,333 in a combination of new debt and equity securities",
+      "D": "$1,150,000 in new equity",
+      "E": "$940,000 in new equity"
+    },
+    "answer": "A",
+    "explanation": "Stockholder claims have the least priority in a bankruptcy. Since the debts exceed the firm's value, there is nothing left for the current shareholders.",
+    "chapter": 30
+  },
+  {
+    "id": 2409,
+    "question": "Pat's Boats is being liquidated. The administrative costs of liquidation, taxes, and wage payments are expected to be $450,000. Secured creditors have a mortgage lien for $1.4 million on the real estate which was just liquidated and netted proceeds of $1.2 million. The other secured creditors have submitted claims totaling $274,000 and the unsecured submitted claims are $323,000. The remaining assets are expected to net $475,000. What payout should the unsecured creditors expect per each $1 claim?",
+    "options": {
+      "A": "$.13",
+      "B": "$0",
+      "C": "$.08",
+      "D": "$.06",
+      "E": "$.02"
+    },
+    "answer": "B",
+    "explanation": "Unsecured mortgage = $1,400,000 − 1,200,000 Unsecured mortgage = $200,000 Total unsecured claims = $200,000 + 323,000 Total unsecured claims = $523,000 Net proceeds available to unsecured creditors = MAX[$475,000 − 450,000 − 274,000,0] Net proceeds available to unsecured creditors = $0",
+    "chapter": 30
+  },
+  {
+    "id": 2410,
+    "question": "Sunshine Products is being liquidated. The real estate has been sold and there is a remaining mortgage balance of $126,000 after applying the sale proceeds. The other assets were just auctioned off and netted $418,000 after liquidation costs, wages, and taxes. The remaining secured creditors submitted claims totaling $362,000 and the unsecured creditor claims are $211,000. The secured creditors will receive ________ per $1 claim and the unsecured creditors will receive ________ per $1 claim.",
+    "options": {
+      "A": "$1; $.1309",
+      "B": "$.98; $0",
+      "C": "$1; $.1662",
+      "D": "$1; $.2654",
+      "E": "$1; $.0678"
+    },
+    "answer": "C",
+    "explanation": "Secured creditors will be paid in full so they will receive $1 for each $1 in claims. Total unsecured claims = $126,000 + 211,000 Total unsecured claims = $337,000 Proceeds available to unsecured creditors = $418,000 − 362,000 Proceeds available to unsecured creditors = $56,000 Unsecured creditors percentage = $56,000/$337,000 Unsecured creditors percentage = .1662, or $.1662 per $1 claim",
+    "chapter": 30
+  },
+  {
+    "id": 2411,
+    "question": "The Steel Pony Company, a maker of all-terrain recreational vehicles, is having financial difficulties due to high interest payments. The estimated \"going concern\" value of the firm is $3.2 million. The senior debt claim is on all fixed assets. The balance sheet of the firm has current assets of $1.1 million, fixed assets of $2.9 million, senior debt of $2.2 million, subordinated debt of $1.8 million, with the remainder allocated to stockholders' equity. Assume the firm files for formal bankruptcy and sells the firm for the estimated \"going concern\" value and nets 92 percent of that amount after administrative costs, wages, and taxes are paid. What amount will be distributed to the subordinated debtholders?",
+    "options": {
+      "A": "$709,000",
+      "B": "$721,000",
+      "C": "$744,000",
+      "D": "$811,000",
+      "E": "$687,000"
+    },
+    "answer": "C",
+    "explanation": "Net proceeds = .92($3,200,000) Net proceeds = $2,944,000 Proceeds available to subordinated debt holders = $2,944,000 − 2,200,000 Proceeds available to subordinated debt holders = $744,000",
+    "chapter": 30
+  },
+  {
+    "id": 2412,
+    "question": "There are a number of ways firms can deal with financial distress. Identify at least 5 of these. Answer: Firms can deal with financial distress by: ∙ Selling major assets. ∙ Merging with another firm. ∙ Reducing capital spending on R&D ∙ Issuing new securities ∙ Negotiating with banks and creditors ∙ Exchanging debt for equity ∙ Filing for bankruptcy. Difficulty: 2 Medium Section: 30.2 What Happens in Financial Distress? Topic: Financial distress and default risk Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 19 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 30
+  },
+  {
+    "id": 2413,
+    "question": "Financial distress may benefit firms if it prompts them to \"restructure their assets\". Explain what this means and how it can be beneficial. Answer: \"Restructure their assets\" refers to analyzing a firm's operations and identifying the core business functions that produce profits and fit well together. The non-core functions and operations can be eliminated allowing the firm to concentrate both its assets and its energy into its profitable endeavors. Difficulty: 2 Medium Section: 30.2 What Happens in Financial Distress? Topic: Financial distress and default risk Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "",
+    "chapter": 30
+  },
+  {
+    "id": 2414,
+    "question": "Why would a firm's creditors voluntarily agree to a prepackaged reorganization that offers those creditors less than they are owed? Answer: Creditors will agree with a prepack when it appears to be in their best interests. If they realize they will most likely not be paid in full anyway, they may be willing to agree so they can at least receive payment sooner. They may also realize that the prepack may help reduce reorganization costs, which should increase their payout. Difficulty: 2 Medium Section: 30.5 Prepackaged Bankruptcy Topic: Bankruptcy Bloom's: Apply AACSB: Knowledge Application Accessibility: Keyboard Navigation 1 Copyright © 2019 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education. Corporate Finance, 12e (Ross)",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "answer": "C",
+    "chapter": 30
+  }
+]
