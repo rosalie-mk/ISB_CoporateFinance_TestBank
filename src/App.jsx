@@ -1,51 +1,102 @@
-import React, { useEffect, useState, useMemo } from 'react'
+import React, { useEffect, useMemo, useState } from 'react'
 import Quiz from './components/Quiz'
 
-const CH_COUNT = 32 // 1..31 plus All
+const STORAGE_KEYS = {
+  chapter: 'chapter',
+  dark: 'dark',
+}
+const LAST_CHAPTER = 32
+const CHAPTERS = Array.from({ length: 31 }, (_, index) => index + 1)
 
-export default function App(){
+function getLocalStorageValue(key, fallback) {
+  try {
+    const stored = localStorage.getItem(key)
+    return stored === null ? fallback : stored
+  } catch {
+    return fallback
+  }
+}
+
+function getLocalStorageNumber(key, fallback) {
+  const value = getLocalStorageValue(key, null)
+  const number = Number(value)
+  return Number.isFinite(number) && number >= 1 ? number : fallback
+}
+
+function setLocalStorageValue(key, value) {
+  try {
+    localStorage.setItem(key, value)
+  } catch {
+    // Ignore write failures in private browsing or restricted storage.
+  }
+}
+
+export default function App() {
   const [allQuestions, setAllQuestions] = useState([])
-  const [chapter, setChapter] = useState(() => parseInt(localStorage.getItem('chapter')||'1'))
-  const [dark, setDark] = useState(() => localStorage.getItem('dark') === '1')
+  const [chapter, setChapter] = useState(() => getLocalStorageNumber(STORAGE_KEYS.chapter, 1))
+  const [dark, setDark] = useState(() => getLocalStorageValue(STORAGE_KEYS.dark, '0') === '1')
 
-  useEffect(()=>{ if(dark) document.documentElement.classList.add('dark'); else document.documentElement.classList.remove('dark'); localStorage.setItem('dark', dark? '1':'0') },[dark])
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', dark)
+    setLocalStorageValue(STORAGE_KEYS.dark, dark ? '1' : '0')
+  }, [dark])
 
-  useEffect(()=>{
-    fetch('/data/allQuestions.json').then(r=>r.json()).then(setAllQuestions)
-  },[])
+  useEffect(() => {
+    fetch('/data/allQuestions.json')
+      .then((response) => response.json())
+      .then(setAllQuestions)
+      .catch((error) => {
+        console.error('Unable to load questions:', error)
+      })
+  }, [])
 
-  useEffect(()=>{ localStorage.setItem('chapter', String(chapter)) },[chapter])
+  useEffect(() => {
+    setLocalStorageValue(STORAGE_KEYS.chapter, String(chapter))
+  }, [chapter])
 
-  const chapters = useMemo(()=>{
-    const arr = []
-    for(let i=1;i<=31;i++) arr.push(i)
-    return arr
-  },[])
-
-  const filtered = useMemo(()=>{
-    if(!allQuestions.length) return []
-    if(chapter===32) return allQuestions
-    return allQuestions.filter(q=>q.chapter===chapter)
-  },[allQuestions, chapter])
+  const filteredQuestions = useMemo(() => {
+    if (!allQuestions.length) return []
+    if (chapter === LAST_CHAPTER) return allQuestions
+    return allQuestions.filter((question) => question.chapter === chapter)
+  }, [allQuestions, chapter])
 
   return (
     <div className="app">
       <header className="topbar">
-        <h1>Corporate Finance — Study</h1>
         <div>
-          <button onClick={()=>setDark(d=>!d)}>{dark? 'Light':'Dark'}</button>
+          <p className="eyebrow">Corporate Finance</p>
+          <h1>Corporate Finance — Study</h1>
         </div>
+        <button type="button" className="themeToggle" onClick={() => setDark((current) => !current)}>
+          {dark ? 'Switch to Light' : 'Switch to Dark'}
+        </button>
       </header>
 
-      <nav className="tabs">
-        {chapters.map(ch=> (
-          <button key={ch} className={chapter===ch? 'active':''} onClick={()=>setChapter(ch)}>Chapter {ch}</button>
+      <nav className="tabs" aria-label="Chapter navigation">
+        {CHAPTERS.map((chapterNumber) => (
+          <button
+            key={chapterNumber}
+            type="button"
+            className={chapter === chapterNumber ? 'active' : ''}
+            aria-pressed={chapter === chapterNumber}
+            onClick={() => setChapter(chapterNumber)}
+          >
+            Chapter {chapterNumber}
+          </button>
         ))}
-        <button className={chapter===32? 'active':''} onClick={()=>setChapter(32)}>All Chapters</button>
+
+        <button
+          type="button"
+          className={chapter === LAST_CHAPTER ? 'active' : ''}
+          aria-pressed={chapter === LAST_CHAPTER}
+          onClick={() => setChapter(LAST_CHAPTER)}
+        >
+          All Chapters
+        </button>
       </nav>
 
-      <main>
-        <Quiz questions={filtered} chapter={chapter} />
+      <main className="mainContent">
+        <Quiz questions={filteredQuestions} chapter={chapter} />
       </main>
 
       <footer className="footer">Generated from full_text.txt — questions: {allQuestions.length}</footer>
